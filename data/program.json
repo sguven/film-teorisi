@@ -1,0 +1,389 @@
+[
+ {
+  "faz": "I",
+  "ad": "Temeller",
+  "baslangic": 1,
+  "bitis": 5,
+  "aciklama": "Teoriden önce dil: bir planı, bir kesmeyi, bir sesi adlandıramadan teoriyi tartışamazsın. Bu faz analiz kelime dağıarcığını kurar.",
+  "haftalar": [
+   {
+    "hafta": 1,
+    "hafta_bitis": null,
+    "baslik": "Biçim nedir?",
+    "film": "Citizen Kane (Welles, 1941)"
+   },
+   {
+    "hafta": 2,
+    "hafta_bitis": null,
+    "baslik": "Anlatı",
+    "film": "Rashomon (Kurosawa, 1950); isteğe bağlı Memento (Nolan, 2000)"
+   },
+   {
+    "hafta": 3,
+    "hafta_bitis": null,
+    "baslik": "Mizansen ve sinematografi",
+    "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958) açılış plan-sekansı"
+   },
+   {
+    "hafta": 4,
+    "hafta_bitis": null,
+    "baslik": "Kurgu ve ses",
+    "film": "À bout de souffle (Godard, 1960) + The Conversation (Coppola, 1974)"
+   },
+   {
+    "hafta": 5,
+    "hafta_bitis": null,
+    "baslik": "Film teorisi nedir? Haritayı çıkar",
+    "film": "Sherlock Jr. (Keaton, 1924)"
+   }
+  ]
+ },
+ {
+  "faz": "II",
+  "ad": "Klasik teori",
+  "baslangic": 6,
+  "bitis": 12,
+  "aciklama": "Klasik teorinin ana kavgası: sinemayı sanat yapan şey gerçekliği dönüştürmesi mi (biçimciler, montaj), yoksa onu kaydetmesi mi (gerçekçiler)? Bu fazın sonunda iki tarafı da savunabilmelisin.",
+  "haftalar": [
+   {
+    "hafta": 6,
+    "hafta_bitis": null,
+    "baslik": "Sinema bir sanat mı? Münsterberg ve Arnheim",
+    "film": "Sunrise (Murnau, 1927); Das Cabinet des Dr. Caligari (Wiene, 1920)"
+   },
+   {
+    "hafta": 7,
+    "hafta_bitis": null,
+    "baslik": "Yüz, fotojeni ve atraksiyon sineması",
+    "film": "Lumière kısa filmleri (1895–97); Le Voyage dans la Lune (Méliès, 1902); La Passion de Jeanne d'Arc (Dreyer, 1928)"
+   },
+   {
+    "hafta": 8,
+    "hafta_bitis": null,
+    "baslik": "Sovyet montaj I: Kuleshov, Pudovkin, Vertov",
+    "film": "Chelovek s kino-apparatom / Man with a Movie Camera (Vertov, 1929); Mat (Pudovkin, 1926)"
+   },
+   {
+    "hafta": 9,
+    "hafta_bitis": null,
+    "baslik": "Sovyet montaj II: Eisenstein",
+    "film": "Bronenosets Potyomkin (1925) Odessa merdivenleri; Oktyabr (1928) “tanrılar” sekansı; modern örnek: The Godfather (1972) vaftiz sekansı"
+   },
+   {
+    "hafta": 10,
+    "hafta_bitis": null,
+    "baslik": "Bazin I: ontoloji ve derin odak",
+    "film": "La Règle du jeu (Renoir, 1939); The Best Years of Our Lives (Wyler, 1946)"
+   },
+   {
+    "hafta": 11,
+    "hafta_bitis": null,
+    "baslik": "Bazin II ve İtalyan Yeni Gerçekçiliği",
+    "film": "Ladri di biciclette (De Sica, 1948); Roma città aperta (Rossellini, 1945); Umberto D. (De Sica, 1952); bağlantı için Uzak (Ceylan, 2002) ve Close-Up (Kiarostami, 1990)"
+   },
+   {
+    "hafta": 12,
+    "hafta_bitis": null,
+    "baslik": "Kracauer",
+    "film": "M (Lang, 1931); Nanook of the North (Flaherty, 1922)"
+   }
+  ]
+ },
+ {
+  "faz": "III",
+  "ad": "Auteur, tür, yıldız",
+  "baslangic": 13,
+  "bitis": 18,
+  "aciklama": "Bir filmin anlamı nereden gelir: yönetmenden mi, türden mi, yıldızdan mı, stüdyo sisteminden mi? Bu faz üç cevabı da sınar.",
+  "haftalar": [
+   {
+    "hafta": 13,
+    "hafta_bitis": null,
+    "baslik": "Auteur I: Fransa ve Cahiers du cinéma",
+    "film": "Les Quatre Cents Coups (Truffaut, 1959); Rear Window (Hitchcock, 1954); Journal d'un curé de campagne (Bresson, 1951)"
+   },
+   {
+    "hafta": 14,
+    "hafta_bitis": null,
+    "baslik": "Auteur II: Amerika ve yapısalcı auteur",
+    "film": "The Searchers (Ford, 1956); Rio Bravo (Hawks, 1959); Bringing Up Baby (Hawks, 1938)"
+   },
+   {
+    "hafta": 15,
+    "hafta_bitis": null,
+    "baslik": "Yazarın ölümü ve auteur bir marka olarak",
+    "film": "The Grand Budapest Hotel (Anderson, 2014); bu ay boyunca sevdiğin bir yönetmenden 3 film"
+   },
+   {
+    "hafta": 16,
+    "hafta_bitis": null,
+    "baslik": "Tür I: gangster ve western",
+    "film": "Scarface (Hawks, 1932); Stagecoach (Ford, 1939); Unforgiven (Eastwood, 1992)"
+   },
+   {
+    "hafta": 17,
+    "hafta_bitis": null,
+    "baslik": "Tür II: kuram, kara film, melodram",
+    "film": "Double Indemnity (Wilder, 1944); All That Heaven Allows (Sirk, 1955); isteğe bağlı Chinatown (Polanski, 1974), Get Out (Peele, 2017)"
+   },
+   {
+    "hafta": 18,
+    "hafta_bitis": null,
+    "baslik": "Klasik Hollywood ve yıldızlar",
+    "film": "Casablanca (Curtiz, 1942); Gentlemen Prefer Blondes (Hawks, 1953)"
+   }
+  ]
+ },
+ {
+  "faz": "IV",
+  "ad": "Göstergebilim, ideoloji, psikanaliz, feminizm",
+  "baslangic": 19,
+  "bitis": 29,
+  "aciklama": "1960–80'lerin “büyük teori” dönemi: film bir dil gibi çözülebilir mi, seyirciyi nasıl konumlandırır, kimin bakışını dağıtır? Programın en zor ve en önemli fazı; metinler yoğun, acele etme.",
+  "haftalar": [
+   {
+    "hafta": 19,
+    "hafta_bitis": null,
+    "baslik": "Göstergebilim I: Saussure ve Barthes",
+    "film": "Julius Caesar (Mankiewicz, 1953); Ivan Grozny (Eisenstein, 1944)"
+   },
+   {
+    "hafta": 20,
+    "hafta_bitis": null,
+    "baslik": "Göstergebilim II: Metz ve Wollen",
+    "film": "Adieu Philippine (Rozier, 1962), Metz bu filmi dizimlere ayırır; Psycho (Hitchcock, 1960)"
+   },
+   {
+    "hafta": 21,
+    "hafta_bitis": null,
+    "baslik": "Yapısalcı anlatı ve metinsel analiz",
+    "film": "The Birds (Hitchcock, 1963); Star Wars (Lucas, 1977)"
+   },
+   {
+    "hafta": 22,
+    "hafta_bitis": null,
+    "baslik": "Frankfurt Okulu ve Benjamin",
+    "film": "Modern Times (Chaplin, 1936); Triumph des Willens (Riefenstahl, 1935), propaganda çözümlemesi olarak"
+   },
+   {
+    "hafta": 23,
+    "hafta_bitis": null,
+    "baslik": "Althusser ve Cahiers'nin ideoloji eleştirisi",
+    "film": "Young Mr. Lincoln (Ford, 1939)"
+   },
+   {
+    "hafta": 24,
+    "hafta_bitis": null,
+    "baslik": "Brecht, Godard ve karşı-sinema",
+    "film": "Week-end (Godard, 1967); Tout va bien (Godard & Gorin, 1972); 2 ou 3 choses que je sais d'elle (Godard, 1967)"
+   },
+   {
+    "hafta": 25,
+    "hafta_bitis": null,
+    "baslik": "Üçüncü Sinema",
+    "film": "La hora de los hornos (1968), ilk bölüm; Deus e o Diabo na Terra do Sol (Rocha, 1964); Memorias del subdesarrollo (Gutiérrez Alea, 1968); La battaglia di Algeri (Pontecorvo, 1966); bağlantı için Umut (Güney, 1970)"
+   },
+   {
+    "hafta": 26,
+    "hafta_bitis": null,
+    "baslik": "Psikanalizin temelleri",
+    "film": "Vertigo (Hitchcock, 1958); Persona (Bergman, 1966)"
+   },
+   {
+    "hafta": 27,
+    "hafta_bitis": null,
+    "baslik": "Aygıt teorisi ve dikiş (suture)",
+    "film": "Peeping Tom (Powell, 1960); The Pervert's Guide to Cinema (Fiennes & Žižek, 2006)"
+   },
+   {
+    "hafta": 28,
+    "hafta_bitis": null,
+    "baslik": "Feminist film teorisi I",
+    "film": "Vertigo (tekrar); Morocco (von Sternberg, 1930); Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (Akerman, 1975)"
+   },
+   {
+    "hafta": 29,
+    "hafta_bitis": null,
+    "baslik": "Feminist film teorisi II",
+    "film": "Halloween (Carpenter, 1978); Stella Dallas (Vidor, 1937); Cléo de 5 à 7 (Varda, 1962); Portrait de la jeune fille en feu (Sciamma, 2019)"
+   }
+  ]
+ },
+ {
+  "faz": "V",
+  "ad": "Bilişsel kuram, Deleuze, fenomenoloji",
+  "baslangic": 30,
+  "bitis": 36,
+  "aciklama": "1980'lerden sonra üç farklı yönde büyük teoriden kopuş: seyirciyi zihin olarak (bilişsel), sinemayı düşünce biçimi olarak (Deleuze), filmi beden deneyimi olarak (fenomenoloji) ele almak.",
+  "haftalar": [
+   {
+    "hafta": 30,
+    "hafta_bitis": null,
+    "baslik": "Post-Teori ve neoformalizm",
+    "film": "Banshun / Late Spring (Ozu, 1949); Pickpocket (Bresson, 1959); Playtime (Tati, 1967)"
+   },
+   {
+    "hafta": 31,
+    "hafta_bitis": null,
+    "baslik": "Bilişsel kuram: seyirci ve karakter",
+    "film": "Memento (tekrar); Lola rennt (Tykwer, 1998); The Talented Mr. Ripley (Minghella, 1999)"
+   },
+   {
+    "hafta": 32,
+    "hafta_bitis": null,
+    "baslik": "Deleuze I: hareket-imge",
+    "film": "Shichinin no samurai / Yedi Samuray (Kurosawa, 1954); La Passion de Jeanne d'Arc (tekrar)"
+   },
+   {
+    "hafta": 33,
+    "hafta_bitis": null,
+    "baslik": "Deleuze II: kriz ve zaman-imge",
+    "film": "Germania anno zero (Rossellini, 1948); L'avventura (Antonioni, 1960); L'Année dernière à Marienbad (Resnais, 1961)"
+   },
+   {
+    "hafta": 34,
+    "hafta_bitis": null,
+    "baslik": "Deleuze III: geçmişin tabakaları ve düşünce",
+    "film": "Zerkalo / Ayna (Tarkovsky, 1975); Bir Zamanlar Anadolu'da (Ceylan, 2011); Citizen Kane (tekrar)"
+   },
+   {
+    "hafta": 35,
+    "hafta_bitis": null,
+    "baslik": "Fenomenoloji",
+    "film": "The Piano (Campion, 1993), Sobchack'ın makalesi bu filmle açılır; Beau Travail (Denis, 1999)"
+   },
+   {
+    "hafta": 36,
+    "hafta_bitis": null,
+    "baslik": "Duygulanım ve dokunsal görme",
+    "film": "In the Mood for Love (Wong Kar-wai, 2000); Uncle Boonmee Who Can Recall His Past Lives (Weerasethakul, 2010); Leviathan (Castaing-Taylor & Paravel, 2012)"
+   }
+  ]
+ },
+ {
+  "faz": "VI",
+  "ad": "Seyirci, kimlik ve belgesel",
+  "baslangic": 37,
+  "bitis": 43,
+  "aciklama": "Teorinin “evrensel seyirci”si yerine gerçek seyirciler: farklı kişiler aynı filmi nasıl okur, kimler perdede yoktur, belgesel gerçeği nasıl kurar?",
+  "haftalar": [
+   {
+    "hafta": 37,
+    "hafta_bitis": null,
+    "baslik": "Kültürel çalışmalar ve alımlama",
+    "film": "The Rocky Horror Picture Show (Sharman, 1975); The Wizard of Oz (Fleming, 1939)"
+   },
+   {
+    "hafta": 38,
+    "hafta_bitis": null,
+    "baslik": "Seyirci, modernite ve hayran kültürü",
+    "film": "Intolerance (Griffith, 1916); Star Wars (tekrar, hayran kültürü gözüyle)"
+   },
+   {
+    "hafta": 39,
+    "hafta_bitis": null,
+    "baslik": "Irk, temsil ve muhalif bakış",
+    "film": "The Birth of a Nation (Griffith, 1915), eleştirel olarak; Killer of Sheep (Burnett, 1978); Do the Right Thing (Lee, 1989); Daughters of the Dust (Dash, 1991)"
+   },
+   {
+    "hafta": 40,
+    "hafta_bitis": null,
+    "baslik": "Postkolonyal kuram ve aksanlı sinema",
+    "film": "La Noire de… (Sembène, 1966); Touki Bouki (Mambéty, 1973); Gegen die Wand / Duvara Karşı (Akın, 2004); Lawrence of Arabia (Lean, 1962), oryantalizm okuması için"
+   },
+   {
+    "hafta": 41,
+    "hafta_bitis": null,
+    "baslik": "Queer kuram",
+    "film": "Rope (Hitchcock, 1948); Paris Is Burning (Livingston, 1990); Happy Together (Wong Kar-wai, 1997); Lola + Bilidikid (Ataman, 1999); Carol (Haynes, 2015)"
+   },
+   {
+    "hafta": 42,
+    "hafta_bitis": null,
+    "baslik": "Belgesel I: kipler",
+    "film": "Nuit et brouillard (Resnais, 1956); Chronique d'un été (Rouch & Morin, 1961); Primary (Drew, 1960); Salesman (Maysles kardeşler, 1969)"
+   },
+   {
+    "hafta": 43,
+    "hafta_bitis": null,
+    "baslik": "Belgesel II: hakikat, bellek, canlandırma",
+    "film": "The Thin Blue Line (Morris, 1988); Sans Soleil (Marker, 1983); Reassemblage (Trinh, 1982); The Act of Killing (Oppenheimer, 2012); Stories We Tell (Polley, 2012); isteğe bağlı Shoah (Lanzmann, 1985) bir bölümü"
+   }
+  ]
+ },
+ {
+  "faz": "VII",
+  "ad": "Postmodernizm ve dijital sinema",
+  "baslangic": 44,
+  "bitis": 46,
+  "aciklama": "Filmler artık çoğunlukla filme çekilmiyor ve salonda izlenmiyor. Bu faz, kitabın başındaki Bazin sorusuna geri döner: imgenin gerçeklikle bağı kopunca sinema nedir?",
+  "haftalar": [
+   {
+    "hafta": 44,
+    "hafta_bitis": null,
+    "baslik": "Postmodernizm",
+    "film": "Body Heat (Kasdan, 1981); Blue Velvet (Lynch, 1986); Blade Runner (Scott, 1982); Pulp Fiction (Tarantino, 1994); The Truman Show (Weir, 1998)"
+   },
+   {
+    "hafta": 45,
+    "hafta_bitis": null,
+    "baslik": "Dijital I: indeksin krizi",
+    "film": "Jurassic Park (Spielberg, 1993); The Matrix (Wachowski kardeşler, 1999); Russkiy kovcheg / Rus Gemisi (Sokurov, 2002); Gravity (Cuarón, 2013)"
+   },
+   {
+    "hafta": 46,
+    "hafta_bitis": null,
+    "baslik": "Sinemadan sonra sinema",
+    "film": "Demonlover (Assayas, 2002); Boarding Gate (Assayas, 2007); Tangerine (Baker, 2015, iPhone ile çekildi); Searching (Chaganty, 2018); Her (Jonze, 2013)"
+   }
+  ]
+ },
+ {
+  "faz": "VIII",
+  "ad": "Türkiye sineması ve kuram",
+  "baslangic": 47,
+  "bitis": 48,
+  "aciklama": "Öğrendiğin kuramları en iyi bildiğin sinemaya uygula. Türkiye'nin kendi kuram tartışmaları (ulusal sinema kavgası) da bu iki haftanın konusu.",
+  "haftalar": [
+   {
+    "hafta": 47,
+    "hafta_bitis": null,
+    "baslik": "Ulusal sinema tartışması ve Yeşilçam",
+    "film": "Susuz Yaz (Erksan, 1963); Gurbet Kuşları (Refiğ, 1964); Vesikalı Yarim (Akad, 1968); Umut (Güney, 1970); Selvi Boylum Al Yazmalım (Yılmaz, 1977)"
+   },
+   {
+    "hafta": 48,
+    "hafta_bitis": null,
+    "baslik": "Yeni Türkiye sineması",
+    "film": "Yol (Gören & Güney, 1982); Eşkıya (Turgul, 1996); Kasaba (Ceylan, 1997); Masumiyet (Demirkubuz, 1997); Kış Uykusu (Ceylan, 2014); Mustang (Ergüven, 2015); Ahlat Ağacı (Ceylan, 2018)"
+   }
+  ]
+ },
+ {
+  "faz": "IX",
+  "ad": "Sentez ve final",
+  "baslangic": 49,
+  "bitis": 52,
+  "aciklama": "Son dört hafta yeni okuma yok denecek kadar az; amaç öğrendiklerini tek bir görüşte birleştirmek ve savunabilmek.",
+  "haftalar": [
+   {
+    "hafta": 49,
+    "hafta_bitis": null,
+    "baslik": "Haritayı yeniden çiz",
+    "film": "2001: A Space Odyssey (Kubrick, 1968); atraksiyon, montaj, gerçekçilik ve bedensel deneyim tek filmde"
+   },
+   {
+    "hafta": 50,
+    "hafta_bitis": 51,
+    "baslik": "Bitirme projesi",
+    "film": null
+   },
+   {
+    "hafta": 52,
+    "hafta_bitis": null,
+    "baslik": "Final",
+    "film": null
+   }
+  ]
+ }
+]
