@@ -1,0 +1,46 @@
+{
+  "hafta": 1,
+  "gun": 1,
+  "tarih": "2026-10-04",
+  "tur": "ders",
+  "baslik": "Sinema aynı anda üç şeydir: sanat, teknoloji, endüstri",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 1'in ilk yarısı",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Bir film ne yalnızca bir sanatçının hayal gücünden, ne yalnızca bir makineden, ne de yalnızca bir şirketin hesabından çıkar; perdede gördüğümüz her biçim kararı bu üçünün kesiştiği yerde alınır.",
+  "bolumler": [
+    {
+      "baslik": "Programa hoş geldin",
+      "html": "<p>Bu program 52 haftada film teorisinin ana tartışmalarını sırayla ele alıyor. Ama teoriye geçmeden önce bir dil gerekiyor: Bir planı, bir kesmeyi, bir sesi adlandıramadan “sinema gerçekliği mi gösterir, yoksa onu dönüştürür mü?” gibi soruları tartışamayız. İlk beş hafta bu dili kurar. Her gün 10–15 dakikalık bir ders, cumartesi haftanın filmi, pazar bir test ve kısa bir analiz görevi var. Kendi hızında ilerleyebilirsin; bir gün kaçarsa ertesi gün kaldığın yerden devam et.</p>"
+    },
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Bordwell ve Thompson kitaba basit ama önemli bir gözlemle başlar: Sinema hakkında konuşurken genellikle üç ayrı dil kullanırız ve bunları birbirine karıştırırız. Biri sanat dilidir (yönetmenin üslubu, filmin anlamı), biri teknoloji dilidir (kamera, ışık, efekt), biri de iş dilidir (bütçe, gişe, yıldız). Yazarların iddiası, bu üçünün ayrı ayrı değil, <b>birlikte</b> düşünülmesi gerektiğidir. Bir filmin biçimi, yaratıcı (<i>creative</i>) kararların teknolojik (<i>technological</i>) olanaklar ve ticari (<i>commercial</i>) koşullar içinde alınmasıyla ortaya çıkar.</p><p>Bu iddia iki yaygın görüşe karşı çıkar. Birincisi, sinemayı yalnızca dâhilerin eseri sayan romantik bakış: Sanki yönetmen her şeyi kafasında tasarlamış, makineler ve para sadece bunu kâğıttan perdeye taşımış gibi. İkincisi, ticari sinemayı yalnızca bir fabrika ürünü sayan küçümseyici bakış: Sanki büyük stüdyo filmlerinde sanat olamazmış gibi. Bordwell ve Thompson ikisine de “hayır” der: Kısıtlamalar yaratıcılığı engellemez, çoğu zaman onu biçimlendirir.</p><h3>Sinemanın makinesi: görünür hareket</h3><p>Teknoloji tarafının en temel gerçeği şaşırtıcıdır: Perdede gerçekte hiçbir şey hareket etmez. Film bir dizi durağan kareden (<i>frame</i>) oluşur; standart sinemada saniyede 24 kare gösterilir. Projektör her kareyi kısa bir an perdede tutar, sonra bir sonrakine geçer. Gözümüz ve beynimiz bu ardışık durağan görüntüleri kesintisiz bir hareket olarak algılar. Buna <b>görünür hareket</b> (<i>apparent motion</i>) denir.</p><p>Uzun süre bu olay “görüntünün gözde kalması” (<i>persistence of vision</i>) diye açıklandı; yazarlar bu açıklamanın yetersiz olduğunu, hareket algısının görme sistemimizin ardışık uyarıları birleştirme biçiminden kaynaklandığını vurgular. Bir de titreşim sorunu var: Kareler arasındaki karanlık anları fark etmemek için projektör her kareyi birden fazla kez yansıtır; ışık belli bir hızın üstünde yanıp söndüğünde artık titreşim olarak algılanmaz. Buna <b>kritik titreşim birleşmesi</b> (<i>critical flicker fusion</i>) denir. Dijital projeksiyon farklı bir düzenekle çalışır ama ilke aynıdır: Sinema algımızla işbirliği yapan bir yanılsamadır.</p><p>Bu neden önemli? Çünkü programın ilerleyen haftalarında “sinema gerçekliğin kaydıdır” diyen kuramcılarla “sinema gerçekliği dönüştürür” diyenler arasındaki kavgayı izleyeceğiz. Daha ilk günden görüyoruz ki en “gerçekçi” görünen film bile, aslında beynimizi kandıran bir düzeneğe dayanıyor.</p><h3>Bir film nasıl yapılır: dört aşama</h3><p>İş ve yaratıcılık tarafında yazarlar bir filmin yapımını dört aşamaya ayırır:</p><ul><li><b>Senaryo ve finansman</b> (<i>scriptwriting and funding</i>): Bir fikir senaryoya dönüşür ve bir yapımcı (<i>producer</i>) parayı bulur. Bütçe daha bu aşamada filmin nasıl görüneceğini sınırlamaya başlar.</li><li><b>Hazırlık</b> (<i>preproduction</i>): Oyuncular seçilir, mekânlar bulunur, dekorlar ve kostümler tasarlanır, çekim planı çıkarılır. Çoğu görsel karar burada alınır.</li><li><b>Çekim</b> (<i>production</i>): Yönetmen, görüntü yönetmeni (<i>cinematographer</i>), oyuncular ve teknik ekip sahneleri kaydeder.</li><li><b>Birleştirme</b> (<i>postproduction</i>): Kurgu, ses, müzik ve efektler eklenir; çekilen malzeme bir filme dönüşür.</li></ul><p>Her aşamada farklı insanlar biçim hakkında karar verir. Bu yüzden “filmin sahibi kim?” sorusu sanıldığı kadar basit değildir; yarın bu soruya üretim biçimleri üzerinden döneceğiz.</p>"
+    },
+    {
+      "baslik": "Örnek: Citizen Kane'in tavanları",
+      "html": "<p>Haftanın filmi <i>Citizen Kane</i>'de (Orson Welles, 1941) dikkatli bakınca bir şey fark edersin: Birçok iç mekân sahnesinde odanın tavanı görünür. O dönemin Hollywood stüdyolarında bu alışılmış değildi; setler genellikle tavansız kurulurdu, çünkü ışıklar ve mikrofonlar yukarıda dururdu.</p><p>Bu tek ayrıntı bugünkü üçlüyü bir arada gösterir. <b>Yaratıcı karar:</b> Kamerayı aşağıdan bakan açılara yerleştirip karakterleri mekânın içinde ezilmiş ya da devleşmiş göstermek. <b>Teknolojik çözüm:</b> Tavanların ışığı ve sesi engellememesi için kumaş gibi hafif malzemelerden yapılması, görüntü yönetmeni Gregg Toland'ın ışık ve lens tercihleri. <b>Endüstriyel koşul:</b> Bütün bunlar büyük bir stüdyonun, RKO'nun atölyeleri ve bütçesi sayesinde mümkündü. Bu kararların çoğu da çekimden önce, hazırlık aşamasında, dekor tasarlanırken alındı. Filmi izlerken tavanlara bak; sonra kendine sor: Bu üslubu Welles'e mi, Toland'a mı, stüdyoya mı yazmalıyız?</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Görünür hareket fikri Hafta 6'da Münsterberg ve Arnheim'la, Hafta 10'da Bazin'in “fotoğrafik gerçeklik” iddiasıyla yeniden karşına çıkacak; “filmin sahibi kim?” sorusu ise Hafta 13–15'te auteur tartışmasının merkezinde olacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Sinemayı yalnızca “sanat” ya da yalnızca “ticaret” olarak görmek neden eksik kalır? Kendi cümlelerinle, bildiğin bir filmden örnekle açıkla.",
+    "Görünür hareket nedir ve sinemanın “gerçeği olduğu gibi kaydetme” iddiası için neden önemlidir?",
+    "Bir filmin dört yapım aşamasını sırayla say. Sence bir filmin görünüşünü en çok hangi aşama belirler? Neden?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyde (dizi, reklam, YouTube videosu) tek bir görsel ayrıntı seç: bir ışık, bir dekor, bir kamera açısı. Bu ayrıntı sence bir sanat kararı mı, teknik bir zorunluluk mu, yoksa bütçeyle mi ilgili? Belki üçü birden? Tek cümleyle not al.",
+  "terimler": [
+    {"tr": "Görünür hareket", "en": "apparent motion", "tanim": "Hızla art arda gösterilen durağan karelerin algıda sürekli hareket olarak görülmesi."},
+    {"tr": "Kare", "en": "frame", "tanim": "Filmi oluşturan tek bir durağan görüntü; standart sinemada saniyede 24 kare gösterilir."},
+    {"tr": "Kritik titreşim birleşmesi", "en": "critical flicker fusion", "tanim": "Yanıp sönen ışığın belli bir hızın üstünde kesintisiz algılanması."},
+    {"tr": "Hazırlık", "en": "preproduction", "tanim": "Çekimden önce oyuncu seçimi, dekor, kostüm ve çekim planının hazırlandığı aşama."},
+    {"tr": "Çekim", "en": "production", "tanim": "Sahnelerin kamera ve sesle kaydedildiği aşama."},
+    {"tr": "Birleştirme", "en": "postproduction", "tanim": "Kurgu, ses, müzik ve efektlerle çekilen malzemenin filme dönüştürüldüğü aşama."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles", "not": "Hafta 1'in filmi. Biçimsel sistemin bütün ilkeleri, yazarlık tartışması ve dağıtım hikâyesiyle programın açılış filmi."}
+  ],
+  "yarin": "Kim yapar, kim gösterir? Üretim biçimleri, yazarlık sorusu, dağıtım ve gösterimin filmin biçimine nasıl geri etki ettiği."
+}
