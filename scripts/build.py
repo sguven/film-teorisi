@@ -278,7 +278,7 @@ def index_page(lessons, program, terms, films):
     have_dates = {L["_date"] for L in this_week}
     for i in range(7):
         d = week_start + dt.timedelta(days=i)
-        if d > t and d not in have_dates:
+        if d >= t and d not in have_dates:
             what = {5: "Film günü", 6: "Sınav günü"}.get(i, "Okuma günü")
             upcoming.append(((GUNLER[i], tarih_tr(d)), what))
     title = f"Bu hafta: {wi['baslik']}" if wi else "Bu hafta"
