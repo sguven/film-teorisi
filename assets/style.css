@@ -199,3 +199,92 @@ table.terms td.src { font-family: var(--sans); font-size: 0.8rem; white-space: n
   .site-head, .site-foot, .pager, .quiz-score { display: none; }
   body { background: #fff; color: #000; }
 }
+
+/* ---------- Kurs düzeni ---------- */
+.display { font-size: clamp(2.1rem, 6vw, 3.1rem); line-height: 1.12; margin-bottom: 1rem; }
+.welcome { padding: 0.5rem 0 2.2rem; border-bottom: 1px solid var(--rule); }
+.intro { font-size: 1.15rem; color: var(--ink-soft); margin-bottom: 1.6rem; }
+.cta { display: flex; gap: 0.7rem; flex-wrap: wrap; align-items: center; }
+.cta-note { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); margin: 0.8rem 0 0; }
+.btn-big { font-size: 1rem; padding: 0.8rem 1.4rem; }
+.btn-ghost { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
+
+.how h2 { margin-top: 2.2rem; }
+.steps { list-style: none; counter-reset: s; padding: 0; display: grid; gap: 0.9rem; }
+.steps li { counter-increment: s; position: relative; padding: 0.9rem 1rem 0.9rem 3.1rem; background: var(--card); border: 1px solid var(--rule); border-radius: 10px; font-size: 1.02rem; margin: 0; }
+.steps li::before { content: counter(s); position: absolute; left: 1rem; top: 0.85rem; width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--accent); color: var(--paper); font-family: var(--sans); font-size: 0.8rem; font-weight: 600; display: grid; place-items: center; }
+.steps b { font-weight: 600; }
+
+.week-list { list-style: none; padding: 0; margin: 0.5rem 0 1rem; }
+.week-list li { margin: 0; border-bottom: 1px solid var(--rule); }
+.week-list a { display: grid; grid-template-columns: 5rem 1fr auto; gap: 0.8rem; align-items: baseline; padding: 0.8rem 0; color: var(--ink); text-decoration: none; }
+.week-list a:hover .wt { color: var(--accent); }
+.week-list .wn { font-family: var(--sans); font-size: 0.8rem; color: var(--accent); font-weight: 600; }
+.week-list .wt { font-weight: 600; }
+.week-count { font-family: var(--sans); font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+.week-count.complete { color: var(--ok); font-weight: 600; }
+.more { font-family: var(--sans); font-size: 0.9rem; }
+
+.latest { margin: 2.4rem 0 0; padding: 1.2rem 1.3rem; background: var(--card); border: 1px solid var(--rule); border-radius: 10px; }
+.latest h3 { margin: 0 0 0.5rem; }
+.latest h3 a { color: var(--ink); text-decoration: none; }
+.latest h3 a:hover { color: var(--accent); }
+
+/* Ders sayfası */
+.crumb { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); margin: 0 0 0.7rem; display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap; }
+.crumb a { color: var(--accent); text-decoration: none; font-weight: 600; }
+.crumb a:hover { text-decoration: underline; }
+.type { font-family: var(--sans); font-size: 0.66rem; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; padding: 0.12rem 0.45rem; border-radius: 4px; background: var(--accent-soft); color: var(--accent); }
+.type-film { background: #e5e9f2; color: #33456b; }
+.type-sinav { background: var(--ok-soft); color: var(--ok); }
+.type-tekrar { background: var(--rule); color: var(--ink-soft); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .type-film { background: #222b3d; color: #a9bbe0; } }
+.seq { display: flex; justify-content: space-between; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); margin-top: 0.4rem; }
+.seq [data-read-badge] { color: var(--ok); font-weight: 600; }
+.progress.thin { height: 3px; margin: 0.35rem 0 1.2rem; }
+.muted-small { font-family: var(--sans); font-size: 0.8rem; color: var(--muted); font-weight: 400; }
+.finish { margin: 3rem 0 0; padding: 1.6rem 1.3rem; text-align: center; background: var(--card); border: 1px solid var(--rule); border-radius: 12px; }
+.finish-text { font-family: var(--display); font-size: 1.2rem; margin-bottom: 1rem; }
+.finish-next { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); margin: 0.9rem 0 0; }
+.pager { grid-template-columns: 1fr auto 1fr; }
+.pager .mid { text-align: center; }
+
+/* Dersler sayfası */
+.progress-row { display: flex; align-items: center; gap: 1rem; margin: 1rem 0 1.2rem; }
+.progress-row .progress { flex: 1; margin: 0; height: 6px; }
+.progress-label { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 0; }
+.chip { font-family: var(--sans); font-size: 0.8rem; text-decoration: none; padding: 0.3rem 0.7rem; border: 1px solid var(--rule); border-radius: 999px; color: var(--ink-soft); }
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+.week { scroll-margin-top: 1rem; }
+.week-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+.week-head h2 { margin: 0.2rem 0 0.3rem; }
+.list.lessons li { grid-template-columns: 1.4rem 6.2rem 1fr; }
+.list .when { display: flex; flex-direction: column; align-items: flex-start; gap: 0.25rem; }
+.check { width: 1.15rem; height: 1.15rem; border: 1.5px solid var(--rule); border-radius: 50%; margin-top: 0.3rem; display: grid; place-items: center; font-size: 0.7rem; color: var(--paper); }
+li.read .check { background: var(--ok); border-color: var(--ok); }
+li.read .check::after { content: "✓"; }
+li.read a.title { color: var(--ink-soft); }
+.reset-row { margin-top: 2.5rem; }
+.linklike { background: none; border: 0; padding: 0; font-family: var(--sans); font-size: 0.8rem; color: var(--muted); text-decoration: underline; cursor: pointer; }
+
+@media (max-width: 560px) {
+  .list.lessons li { grid-template-columns: 1.4rem 1fr; }
+  .list.lessons li > div:last-child { grid-column: 2; }
+  .list .when { flex-direction: row; align-items: center; gap: 0.5rem; }
+  .week-list a { grid-template-columns: 4.2rem 1fr; }
+  .week-list .week-count { grid-column: 2; }
+  .pager { grid-template-columns: 1fr 1fr; }
+  .pager .mid { display: none; }
+  .steps li { padding-left: 2.9rem; }
+}
+
+[hidden] { display: none !important; }
+@media (max-width: 560px) {
+  table.terms thead { display: none; }
+  table.terms, table.terms tbody, table.terms tr, table.terms td { display: block; width: 100%; }
+  table.terms tr { padding: 0.75rem 0; border-bottom: 1px solid var(--rule); }
+  table.terms td { border: 0; padding: 0 0 0.15rem; min-width: 0 !important; }
+  table.terms td.en { margin-bottom: 0.25rem; }
+  table.terms td.src { font-size: 0.75rem; padding-top: 0.2rem; }
+}

@@ -16,7 +16,7 @@ Dersler her gün zamanlanmış bir görevle (Claude) hazırlanır, `content/` kl
 | `pdf/` | Derslerin PDF sürümleri |
 | `scripts/build.py` | Siteyi üretir (yalnızca Python standart kütüphanesi) |
 | `assets/` | Stil ve küçük JS (test, sözlük arama) |
-| `index.html`, `program.html`, `arsiv.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/` | Üretilen sayfalar; elle düzenleme, `build.py` üzerine yazar |
+| `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/`, `assets/manifest.js` | Üretilen sayfalar; elle düzenleme, `build.py` üzerine yazar (`arsiv.html` → `dersler.html` yönlendirmesi) |
 
 ## Ders dosyası biçimi
 
@@ -50,6 +50,21 @@ Dosya adı: `content/<tarih>-hafta-<XX>-gun-<Y>.json` (tekrar günü için `...-
 - `quiz[].dogru`: doğru seçeneğin sırası, **0'dan başlar**.
 - `html`, `sorular`, `gozlem`, `tek_cumle`, `yarin` alanlarında basit HTML (`<p> <b> <i> <ul> <ol> <li> <h3>`) kullanılabilir.
 - Tanımlanmamış alanlar atlanır. Terimler ve filmler sözlük ve film sayfalarında otomatik toplanır.
+
+## Yayımlama (çakışmasız)
+
+```bash
+git add -A && git commit -m "Hafta X · Gün Y: konu"
+git fetch origin main && git -c merge.ours.driver=true rebase origin/main
+python3 scripts/build.py && git add -A && (git diff --cached --quiet || git commit -m "Siteyi yeniden üret")
+git push origin main
+```
+
+`.gitattributes` üretilen dosyalardaki çakışmaları otomatik geçer; `build.py` onları içerikten yeniden üretir.
+
+## Ziyaretçi ilerlemesi
+
+Okunan dersler ve "kaldığın yer" ziyaretçinin tarayıcısında (`localStorage`) tutulur; sunucuya hiçbir şey gitmez.
 
 ## Yerelde üretmek
 

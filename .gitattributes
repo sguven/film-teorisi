@@ -1,0 +1,11 @@
+# Üretilen dosyalar: rebase/merge çakışmasında olduğu gibi bırak, ardından scripts/build.py yeniden üretir.
+# Kullanım: git -c merge.ours.driver=true rebase origin/main && python3 scripts/build.py
+index.html merge=ours
+dersler.html merge=ours
+arsiv.html merge=ours
+program.html merge=ours
+sozluk.html merge=ours
+filmler.html merge=ours
+feed.xml merge=ours
+ders/*.html merge=ours
+assets/manifest.js merge=ours
