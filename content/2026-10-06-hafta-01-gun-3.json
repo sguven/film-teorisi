@@ -1,0 +1,42 @@
+{
+  "hafta": 1,
+  "gun": 3,
+  "tarih": "2026-10-06",
+  "tur": "ders",
+  "baslik": "Film biçimi: biçim bir sistemdir",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 2 (ilk yarı: biçim kavramı, beklenti, anlam)",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Bir film, öğeleri birbirine bağlı bir bütündür; bu bütünü zihnimiz beklentiler kurarak, tahminde bulunarak ve anlam çıkararak etkin biçimde işler. Dolayısıyla “biçim” filmin ambalajı değil, filmle kurduğumuz ilişkinin ta kendisidir.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<h3>Biçim bir sistemdir</h3><p>Dün sinemanın yaratıcılık, teknoloji ve endüstrinin kesiştiği yerde durduğunu konuştuk. Bugün soruyu daraltıyoruz: Perdede gördüğümüz şeyi bir sanat eseri yapan ne? Bordwell ve Thompson'ın cevabı: <b>biçim</b> (<i>form</i>). Kastettikleri bir kalıp ya da dış kabuk değil; biçim, bir filmin bütün parçaları arasındaki <b>ilişkiler sistemi</b>dir (<i>system</i>). Bir sistemde öğeler birbirine bağlıdır; birini değiştirirsen diğerlerinin anlamı da değişir. Bir müzik parçasında tek bir notanın değeri önündeki ve arkasındaki notalara göre belirlenir; filmde de bir planın, bir rengin, bir repliğin değeri bütün içindeki yerinden gelir.</p><p>Yazarlar filmde iki büyük alt sistem ayırır: <b>anlatısal</b> ya da başka türden düzenleyici ilkeler (hikâye, argüman vb.) ve <b>üslupsal</b> (<i>stylistic</i>) sistem, yani kamera hareketi, ışık, kurgu, ses gibi tekniklerin tekrar eden kullanımı. İkisi birlikte filmin genel biçimini oluşturur.</p><h3>“Biçim” ile “içerik” ayrımı neden yanıltıcı?</h3><p>Gündelik dilde “filmin konusu güzel ama anlatımı zayıf” gibi cümleler kurarız. Bu, içeriği bir sürahideki su, biçimi de sürahi gibi düşünmek demektir. Bordwell ve Thompson tam olarak buna karşı çıkar. Bir filmde “konu” ya da “tema” diye ayırdığımız şey, biçimin dışında bekleyen hazır bir malzeme değildir; sistemin içinde bir işlev kazanarak ortaya çıkar. Aynı yaşam öyküsü kronolojik bir biyografi olarak anlatıldığında başka, beş farklı tanığın parçalı hatıraları olarak anlatıldığında bambaşka bir şey olur. Biçimi değiştirdiğinde “aynı içerik” diye bir şey kalmaz.</p><h3>Biçimsel beklentiler</h3><p>İzleyici pasif bir alıcı değildir. Film başlar başlamaz <b>beklentiler</b> (<i>expectations</i>) kurarız: Ne olacak, bu kişi kim, bu sahne neden burada? Biçim bu beklentilerle oynar: hemen karşılayabilir; geciktirip <b>gerilim</b> (<i>suspense</i>) yaratabilir; beklenmedik bir şey sunup <b>sürpriz</b> (<i>surprise</i>) üretebilir; ya da geriye dönüp “bu neydi?” diye sordurarak <b>merak</b> (<i>curiosity</i>) uyandırabilir. Beklentiyi bozmak da biçimsel bir hamledir: Sürpriz ancak önce bir beklenti kurulmuşsa çalışır.</p><h3>Uzlaşımlar ve deneyim</h3><p>Beklentilerimiz önceki film deneyimlerimizden ve hayattan getirdiğimiz bilgiye dayanır. Sinemanın yerleşik kalıplarına <b>uzlaşım</b> (<i>convention</i>) denir: müzikalde karakterlerin birden şarkıya başlaması, westernde düellonun finale saklanması gibi. Bazı filmler uzlaşımları izler, bazıları kırar ve bize yeni beklentiler kurmayı öğretir. Deneysel bir film ilk izlemede “anlamsız” gelebilir; çoğu zaman sebep, filmin kendi kurallarını bize henüz öğretmemiş olmasıdır.</p><h3>Biçim ve duygu</h3><p>Yazarlar iki tür duyguyu ayırır: filmde <b>temsil edilen</b> duygular (karakterin kederi) ve izleyici olarak <b>hissettiğimiz</b> duygular (merak, gerilim, hayret). Ekrandaki karakter mutluyken biz, onun bilmediği tehlikeyi bildiğimiz için endişe duyabiliriz. Aynı olay farklı sırayla ya da farklı bir bakış açısıyla verildiğinde başka bir duygu uyandırır.</p><h3>Biçim ve anlam: dört düzey</h3><ul><li><b>Göndergesel anlam</b> (<i>referential meaning</i>): Filmin dış dünyaya yaptığı göndermeler; bir şehir, bir dönem, tarihsel bir olay.</li><li><b>Açık anlam</b> (<i>explicit meaning</i>): Filmin açıkça ifade ettiği fikir; çoğu zaman bir repliğe ya da finale yüklenir.</li><li><b>Örtük anlam</b> (<i>implicit meaning</i>): Filmin doğrudan söylemediği, yorumla (<i>interpretation</i>) çıkardığımız tema ya da soru.</li><li><b>Semptomatik anlam</b> (<i>symptomatic meaning</i>): Filmin, farkında olmadan, üretildiği toplumun değerlerini ve ideolojisini ele vermesi.</li></ul><p>Ana nokta: Anlam biçimin parçalarından biridir, filmin tamamı değildir; bir filmi “mesajına” indirgemek onu fakirleştirir. Yazarlar ayrıca <b>değerlendirmeyi</b> (<i>evaluation</i>) analizden ayırır: Değerlendirme ölçütleri (gerçekçilik, tutarlılık, özgünlük, karmaşıklık) açıkça belirtilmelidir; “beğendim” bir ölçüt değildir.</p>"
+    },
+    {
+      "baslik": "Örnek: Citizen Kane'in açılışı",
+      "html": "<p>Spoiler yok. Film, bir adamın ölüm anında söylediği tek bir kelimeyle başlar: “Rosebud”. Ardından bir haber filmi (<i>newsreel</i>) Charles Foster Kane'in hayatını resmi, kamusal hâliyle özetler. Sonra bir oda dolusu gazeteci bu özetin yetersiz olduğuna karar verir ve muhabir Thompson'ı bu kelimenin anlamını bulmakla görevlendirir.</p><p>Film ilk dakikalarda güçlü bir <b>beklenti</b> kurdu: “Rosebud ne demek?” Bu soru bütün filmi bir araştırma, bir yapboz gibi örgütleyecek. Hayatın kronolojik anlatımını zaten haber filminde aldık; demek ki ilgimiz “ne oldu?” sorusundan “bu adam kimdi?” sorusuna kaydırılıyor. Kane'in hayatı tanıklıklar aracılığıyla anlatıldığı için “bir insanı gerçekten tanıyabilir miyiz?” sorusuna dönüşüyor: Bu, filmin <b>örtük anlamı</b> için güçlü bir aday; bir basın patronunun Amerika'sı ise <b>göndergesel</b> düzey. İzlerken açık anlamın nerede ve kimin ağzından geldiğini not et.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü “etkin izleyici” fikri yarın göreceğimiz beş biçimsel ilkenin zeminidir; programın ilerleyen haftalarında Rus biçimcileri ve Eisenstein'ın montaj kuramıyla, daha sonra da izleyicinin anlamı nasıl kurduğunu soran bilişselci (<i>cognitivist</i>) yaklaşımla yeniden karşılaşacak.</p>"
+    }
+  ],
+  "sorular": [
+    "“Bu filmin hikâyesi güzel ama anlatılışı kötü” cümlesindeki varsayımı Bordwell ve Thompson'ın sistem kavramıyla eleştir. Bu cümlede hangi doğru sezgi yine de saklı olabilir?",
+    "Gerilim (<i>suspense</i>) ile sürpriz (<i>surprise</i>) arasındaki fark nedir? Her ikisinin de beklentiye nasıl dayandığını bir örnekle açıkla.",
+    "Açık anlam ile örtük anlam arasındaki farkı sevdiğin bir film üzerinden göster. Aynı filmin semptomatik bir okuması neye benzerdi?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyin (dizi bölümü, reklam, YouTube videosu) ilk 30 saniyesine dikkat et. Sana hangi soruyu sordurdu ya da hangi beklentiyi kurdu? O beklenti sonra karşılandı mı, geciktirildi mi, bozuldu mu? Tek cümleyle not al.",
+  "terimler": [
+    {"tr": "Biçim", "en": "form", "tanim": "Bir filmin tüm öğeleri arasındaki, izleyicinin algıladığı ilişkiler sistemi."},
+    {"tr": "Biçimsel beklenti", "en": "formal expectation", "tanim": "İzleyicinin filmin ilerleyişine dair kurduğu, biçimin karşılayıp geciktirip bozabildiği tahmin."},
+    {"tr": "Uzlaşım", "en": "convention", "tanim": "Bir türde ya da sanat geleneğinde yerleşmiş, izleyicinin doğal kabul ettiği kalıp."},
+    {"tr": "Göndergesel anlam", "en": "referential meaning", "tanim": "Filmin dış dünyaya (yer, dönem, olay) yaptığı göndermelerden doğan anlam."},
+    {"tr": "Örtük anlam", "en": "implicit meaning", "tanim": "Filmin açıkça söylemediği, izleyicinin yorumla çıkardığı tema ya da soru."},
+    {"tr": "Semptomatik anlam", "en": "symptomatic meaning", "tanim": "Filmin, üretildiği toplumun değerlerini ve ideolojisini istemeden ele veren anlam katmanı."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles"}
+  ],
+  "yarin": "Biçimsel sistemin beş ilkesini (işlev, benzerlik ve tekrar, farklılık ve varyasyon, gelişim, birlik ve birliksizlik) tek tek ele alıp <i>Citizen Kane</i> üzerinde nasıl çalıştıklarına bakacağız."
+}

@@ -1,0 +1,41 @@
+{
+  "hafta": 1,
+  "gun": 5,
+  "tarih": "2026-10-08",
+  "tur": "ders",
+  "baslik": "Gelişim, birlik ve haftanın toparlanması",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 2 (son kısım)",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Bir film, parçaların rastgele dizilişi değil, başından sonuna doğru gelişen ve izleyiciden bir bütün olarak kavranmayı bekleyen bir sistemdir; bu bütünlüğü görmek için önce filmi bölümlerine ayırmayı öğrenmeliyiz.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Bu hafta Bordwell ve Thompson'ın temel bir iddiasıyla çalıştık: Film biçimi (<i>film form</i>), filmin içindeki tüm unsurların birbirine bağlandığı genel sistemdir. Çarşamba ve perşembe biçimsel sistemin ilk ilkelerini gördük: işlev, benzerlik ve tekrar, farklılık ve varyasyon. Bugün son iki ilkeyi ve bölümün asıl çağrısını ele alıyoruz.</p><h3>Gelişim (<i>development</i>)</h3><p>Tekrar ve varyasyon tek başına yetmez; bir filmde unsurlar zaman içinde bir yöne doğru ilerler. Bu örüntü bir yolculuk, bir arayış, bir dönüşüm, bir zaman çizgisi ya da bir fikrin adım adım açılması olabilir. Bir sahneyi tek başına değil, filmin gelişim çizgisinde nerede durduğuna bakarak anlarız.</p><p>Bu ilkenin en pratik sonucu <b>bölümleme</b> (<i>segmentation</i>) alışkanlığıdır: filmi büyük ve küçük parçalara ayırıp bir döküm çıkarmak (açılış jeneriği, numaralı bölümler, kapanış). Kâğıt üzerinde sıkıcı görünür; ama filmin nerede hızlanıp nerede yavaşladığını, hangi motiflerin hangi bölümlerde geri döndüğünü ancak böyle görürüz. Bu teknik ilerleyen haftalarda anlatı analizinde temel aletimiz olacak.</p><p>Gelişimi ölçmenin en iyi yolu başlangıçla sonu karşılaştırmaktır. Bazı filmler kapalı bir sonla (<i>closure</i>) biter: Sorular cevaplanır, çatışma çözülür. Bazıları açık uçlu bırakılır ve izleyiciyi düşünmeye zorlar. İkisi de bilinçli biçimsel tercihlerdir; açık uçlu son “eksik” değildir.</p><h3>Birlik ve birliksizlik (<i>unity and disunity</i>)</h3><p>Tüm bu ilişkiler bir araya geldiğinde biçimsel bir birlik ortaya çıkar. Ama yazarlar birliği mutlak bir değer olarak sunmaz: Hiçbir film kusursuz bir bütün değildir. Bazı yönetmenler birliksizliği bilerek kullanır: izleyiciyi rahatsız etmek, beklentisini kırmak ya da alışılmış anlatı kalıplarını sorgulatmak için. Soru “Bu film bir bütün mü?” değil, “Bu film birliği ya da birliksizliği nasıl ve ne amaçla kuruyor?” olmalıdır.</p><h3>Bölümün asıl iddiası</h3><p>Bütün bu ilkeler, biçim ve içeriği ayrı kutulara koyan alışkanlığa karşı çıkar. Yaygın düşünceye göre içerik filmin anlattığı şeydir, biçim ise onu taşıyan bir kap. Bordwell ve Thompson'a göre bu ayrım yanıltıcıdır: Konu, tema ya da fikir de sistemin unsurlarından biridir ve anlamını diğer unsurlarla kurduğu ilişkiden alır. Aynı hikâye başka bir sırayla, başka bir tekrar düzeniyle, başka bir sonla anlatıldığında başka bir deneyim olur. Bu iddia eleştiriyi “film ne anlatıyor?” sorusundan “film bize bunu nasıl yaşatıyor?” sorusuna kaydırır. İzleyici de bu süreçte pasif değil, ipuçlarını birleştiren etkin bir katılımcıdır; biçim onda beklenti (<i>expectation</i>), duygu ve anlam üretir.</p>"
+    },
+    {
+      "baslik": "Örnek: Citizen Kane'de kahvaltı masası",
+      "html": "<p>Kane'in ilk evliliğini birkaç dakikaya sığdıran kahvaltı masası montajı aynı mekânı, aynı iki kişiyi ve aynı durumu defalarca tekrar eder: tekrar ilkesi. Ama her dönüşte bir şey değişir: Konuşmaların tonu sertleşir, sevgi dolu sözler yerini iğnelemelere bırakır, sonunda iki taraf da susar ve her biri kendi gazetesini okur. Masanın iki ucu arasındaki mesafe giderek açılıyormuş gibi hissedilir: varyasyon. Varyasyonlar belli bir yöne, bir ilişkinin soğumasına doğru ilerlediği için sahne gelişim ilkesinin küçük ama kusursuz bir modelidir. Hiçbir karakter “evliliğimiz bitti” demez; bunu bize biçim söyler. Cumartesi filmi izlerken bu sahneyi bekle ve kendi gözünle kontrol et.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugün öğrendiğin bölümleme ve başlangıç–son karşılaştırması, Hafta 2'den itibaren anlatı biçimini (olay örgüsü, neden-sonuç, zaman) incelerken doğrudan kullanacağın temel analiz aracıdır.</p>"
+    }
+  ],
+  "sorular": [
+    "Tekrar ve varyasyon zaten varsa, “gelişim” ilkesi bunlara ne ekler? Kahvaltı sahnesi üzerinden açıkla.",
+    "Kapalı son ile açık uçlu son arasındaki fark nedir? Açık uçlu bir son neden bir “kusur” sayılmamalı?",
+    "Bir filmin bilerek birliksizlik kullanması ne işe yarayabilir? İzlediğin bir filmden örnek ver."
+  ],
+  "gozlem": "Bu akşam izlediğin bir dizi bölümünün ya da YouTube videosunun ilk ve son 30 saniyesine bak. Başta ve sonda tekrar eden bir unsur (mekân, cümle, müzik, görüntü) var mı? Varsa sona geldiğinde nasıl değişmiş? Tek cümleyle not et: “Başta …, sonda ….”",
+  "terimler": [
+    {"tr": "Gelişim", "en": "development", "tanim": "Biçimsel unsurların filmin başından sonuna doğru belirli bir yönde ilerlemesi."},
+    {"tr": "Kapanış (kapalı son)", "en": "closure", "tanim": "Filmin sonunda soruların cevaplanması ve çatışmaların çözülmesi."},
+    {"tr": "Birlik", "en": "unity", "tanim": "Filmdeki tüm unsurların işlevli ve birbirine bağlı biçimde bir bütün oluşturması."},
+    {"tr": "Birliksizlik", "en": "disunity", "tanim": "Bağlanmayan ya da bilerek bütünlüğü kıran unsurların varlığı."},
+    {"tr": "Beklenti", "en": "expectation", "tanim": "İzleyicinin biçimsel ipuçlarına dayanarak bundan sonra ne olacağına dair kurduğu tahmin."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles"}
+  ],
+  "yarin": "Hafta 1'in tekrar günü: Sinemanın üç yüzünden biçimsel sistemin ilkelerine kadar haftanın bütün fikirlerini birbirine bağlayıp hafta sonu filmine hazırlanacağız."
+}

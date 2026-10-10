@@ -1,0 +1,42 @@
+{
+  "hafta": 1,
+  "gun": 4,
+  "tarih": "2026-10-07",
+  "tur": "ders",
+  "baslik": "Biçimsel sistemin beş ilkesi",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 2: Principles of Film Form",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Bir filmin parçalarını bir arada tutan şey rastlantı değildir: Her öğe bir iş görür, tekrarlanır, değişir, bir yöne doğru ilerler ve sonunda bütüne bağlanır ya da bağlanmaz. Biçimi okumak bu beş hareketi görmeyi öğrenmektir.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün biçimin bir “ambalaj” değil, bir sistem olduğunu konuştuk: İzleyici beklentiler kurar, tahmin yürütür, anlam çıkarır. Bugünkü soru şu: Bu sistemi ayakta tutan ilkeler neler? Bordwell ve Thompson beş ilke sayar. Bunlar bir “iyi film reçetesi” değil, bir filmin nasıl örgütlendiğini fark etmemize yarayan bakış araçlarıdır. Yazarların burada karşı çıktığı şey, filmi yalnızca “ne anlatıyor?” sorusuyla okuyan, biçimi süs sayan izlenimci eleştiridir. Onlara göre anlam öğelerin ilişkilerinden doğar.</p><h3>1. İşlev (<i>function</i>)</h3><p>Her öğenin bütün içinde bir görevi vardır. Analizin ilk sorusu “Bu öğe neden burada, ne işe yarıyor?” olmalıdır. Bir nesne bir olayı hazırlayabilir, bir karakteri tanıtabilir, bir duygu kurabilir ya da ileride bir anlama zemin döşeyebilir. Bir öğenin varlığını haklı çıkaran gerekçeye <b>motivasyon</b> (<i>motivation</i>) denir. “Bu öğe gerçekçi mi?” sorusu, “Bu öğe bu filmde ne işe yarıyor?” sorusundan sonra gelir: Bir müzikalde karakterlerin birden şarkıya başlaması gerçekçi değildir ama türün kurallarıyla tamamen gerekçelidir.</p><h3>2. Benzerlik ve tekrar (<i>similarity and repetition</i>)</h3><p>Beklenti kurabilmemiz için bir şeylerin geri gelmesi gerekir. Film içinde anlamlı biçimde tekrar eden her öğeye <b>motif</b> (<i>motif</i>) denir: bir nesne, bir renk, bir replik, bir müzik cümlesi, bir kamera hareketi. Tekrarın daha karmaşık bir biçimi <b>paralelliktir</b> (<i>parallelism</i>): iki farklı öğeyi birbirine benzer kılarak izleyiciyi karşılaştırmaya davet etmek.</p><h3>3. Farklılık ve varyasyon (<i>difference and variation</i>)</h3><p>Salt tekrar sıkıcıdır. Biçimin canlılığı, tekrarın her seferinde biraz farklı gelmesinden doğar. Bu yüzden tekrar ve varyasyon birbirinin karşıtı değil, ortağıdır: Aynı motif geri döndüğünde onu ilk hâliyle karşılaştırır, aradaki farkı anlamın taşıyıcısı olarak okuruz. Karakterler ve mekânlar arasındaki karşıtlıklar da bu ilkenin parçasıdır.</p><h3>4. Gelişme (<i>development</i>)</h3><p>Tekrar ve varyasyon bir yöne doğru ilerler. Gelişme, öğelerin başlangıçtan sona nasıl bir örüntü çizdiğidir. Bunu görmenin pratik yolu filmi parçalara ayırmaktır: <b>bölümleme</b> (<i>segmentation</i>). Yaygın gelişme örüntüleri: bir yolculuk (A noktasından B'ye), bir soruşturma (bilgisizlikten bilgiye), zaman içinde bir değişim. Bazı filmler başı ve sonu birbirine bağlayarak ABA gibi çerçeveli bir yapı kurar.</p><h3>5. Birlik ve birliksizlik (<i>unity and disunity</i>)</h3><p>Öğelerin hepsi bütüne bağlandığında film birlikli görünür; açık uçlar kaldığında birliksizlikten söz ederiz. İki uyarı: Birlik bir değer ölçüsü değildir; bazı filmler bilinçli olarak çözümsüz bırakır ve gücünü bu boşluktan alır. Ayrıca birlik bir derece meselesidir. Soru “Bu film birlikli mi?” değil, “Hangi öğeler bağlanıyor, hangileri açıkta kalıyor ve bunun etkisi ne?” olmalıdır.</p><p>Bu beş ilke birbirinden ayrı çalışmaz. Bir motif hem bir işlev görür, hem tekrarlanır, hem değişir, hem gelişmeye katılır, hem de birliğe katkı yapar (ya da onu bozar). Asıl beceri onları aynı sahnede birlikte görebilmektir.</p>"
+    },
+    {
+      "baslik": "Örnek: Citizen Kane",
+      "html": "<p><i>Citizen Kane</i> bu ilkelerin ders kitabı gibidir (spoiler yok). Film bir soruşturma örüntüsüyle gelişir: Bir gazeteci, ölen bir adamın son sözünün anlamını bulmak için onu tanıyan insanlarla tek tek konuşur. Her görüşme bir geri dönüşü (<i>flashback</i>) açar. Aynı hayat, farklı tanıkların gözünden yeniden anlatılır; bazı olayları iki kez görürüz ama her seferinde başka bir vurguyla.</p><p>En berrak örnek kahvaltı masası sahnesidir. Bir evliliğin yıllarını birkaç kısa sahneyle özetleyen bu bölümde mekân, durum ve kamera açıları aynıdır; bu tekrardır. Ama her geçişte konuşmanın tonu, aralarındaki mesafe, okudukları gazeteler değişir. Varyasyon burada anlamın ta kendisidir: Bize evliliğin nasıl çözüldüğü söylenmez, tekrar eden çerçevedeki küçük farklardan biz çıkarırız. Sahne aynı zamanda işlev (yılları sıkıştırmak), gelişme (ilişkinin bir yöne gidişi) ve birlik (filmin tanıklıklar yapısına uyması) ilkelerini de taşır.</p><p>Filmi izlerken açılışta ve kapanışta neyi gördüğüne özellikle dikkat et; haftanın analiz görevi tam olarak bu karşılaştırma üzerine.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bu ilkeler Hafta 2–5'te anlatı, mizansen, kurgu ve ses konuşulurken her seferinde geri dönecek; Hafta 31'deki bilişsel kuramda ise izleyicinin bu örüntüleri nasıl işlediği sorusuna geri döneceğiz.</p>"
+    }
+  ],
+  "sorular": [
+    "Tekrar ve varyasyon neden birbirinin karşıtı değil de ortağıdır? Kendi cümlelerinle, bir örnekle açıkla.",
+    "Bir filmin “birliksiz” olması neden otomatik olarak bir kusur sayılmamalıdır?",
+    "Gerçekçi olmayan bir öğe, işlev ve motivasyon açısından nasıl tamamen yerinde olabilir? Bir türden örnek ver."
+  ],
+  "gozlem": "Bu akşam izlediğin bir dizi bölümünde, reklamda ya da kısa videoda bir motif bul: en az iki kez geri gelen bir nesne, ses, replik ya da görüntü. İkinci gelişinde ne değişmişti? Bu değişiklik sana ne söyledi? İki cümleyle not al.",
+  "terimler": [
+    {"tr": "İşlev", "en": "function", "tanim": "Bir öğenin filmin bütünü içinde gördüğü görev."},
+    {"tr": "Motivasyon (gerekçelendirme)", "en": "motivation", "tanim": "Bir öğenin filmde bulunmasını haklı kılan gerekçe."},
+    {"tr": "Motif", "en": "motif", "tanim": "Film içinde anlamlı biçimde tekrar eden herhangi bir öğe."},
+    {"tr": "Paralellik", "en": "parallelism", "tanim": "İki farklı öğeyi benzer kılarak izleyiciyi karşılaştırmaya davet etme."},
+    {"tr": "Bölümleme", "en": "segmentation", "tanim": "Filmi ana bölümlerine ayırıp gelişme örüntüsünü görünür kılma yöntemi."},
+    {"tr": "Birlik / birliksizlik", "en": "unity / disunity", "tanim": "Öğelerin bütüne ne ölçüde bağlandığı ya da açıkta kaldığı."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles"}
+  ],
+  "yarin": "Bölüm 2'nin sonunu okuyup haftayı toparlayacağız: beş ilkeyi tek bir analizde birlikte kullanmak ve biçimin duygu ve anlamla nasıl iç içe geçtiğini bağlamak."
+}

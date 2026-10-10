@@ -1,0 +1,42 @@
+{
+  "hafta": 1,
+  "gun": 2,
+  "tarih": "2026-10-05",
+  "tur": "ders",
+  "baslik": "Kim yapar, kim gösterir? Üretim biçimleri, dağıtım ve gösterim",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 1'in ikinci yarısı",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Bir filmin biçimi yalnızca yönetmenin aklından çıkmaz. Filmin nasıl üretildiği, kimlerin elinden geçtiği ve seyirciye hangi yoldan ulaştığı da o biçimi belirler.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün sinemanın üç yüzünü konuştuk: yaratıcılık, teknoloji ve endüstri. Görünür hareketin bir yanılsamaya dayandığını ve bir filmin senaryo, hazırlık, çekim ve montaj aşamalarından geçtiğini gördük. Bugün Bordwell ve Thompson'ın bölümün ikinci yarısında sorduğu soruya geçiyoruz: Bu üretim süreci kimin elinde, hangi koşullarda işliyor ve bunun sanatla ne ilgisi var?</p><h3>1. Üretim biçimleri (<i>modes of production</i>)</h3><p>Yazarlar filmlerin tek bir şekilde yapılmadığını söyler ve üç ana biçimi birbirinden ayırır:</p><ul><li><b>Büyük ölçekli üretim</b> (<i>large-scale production</i>): Klasik Hollywood stüdyo sistemi (<i>studio system</i>) ve bugünkü büyük yapımlar bu gruba girer. Burada iş bölümü (<i>division of labor</i>) çok ayrıntılıdır. Senaristler, görüntü yönetmeni, sanat yönetmeni, kurgucu ve ses ekibi ayrı uzmanlık alanlarıdır. Yapımcı bütçeyi ve takvimi denetler. Bu sistemin amacı verimliliktir, yani tekrarlanabilir kaliteyi düzenli olarak üretmek.</li><li><b>Sömürü filmleri ve bağımsız üretim</b> (<i>exploitation and independent production</i>): Daha küçük bütçeli, daha az kişiyle yapılan filmlerdir. Sömürü filmi düşük bütçeyle belli bir seyirci kitlesini hedefler: korku, gençlik filmleri, sansasyonel konular. Bağımsız film ise büyük stüdyo finansmanı dışında yapılır; bütçe küçük olduğu için çoğu zaman yönetmen kararlar üzerinde daha fazla kontrole sahiptir.</li><li><b>Küçük ölçekli üretim</b> (<i>small-scale production</i>): Tek bir kişinin ya da küçük bir kolektifin neredeyse her işi kendisinin yaptığı filmlerdir. Deneysel sinemanın ve kişisel belgesellerin çoğu böyledir. Burada iş bölümü neredeyse ortadan kalkar.</li></ul><p>Bu ayrım neden önemli? Çünkü her üretim biçimi farklı biçimsel olanaklar açıyor ve farklı sınırlar koyuyor. Stüdyo sistemi kusursuz bir ışık ve ses düzeni sağlayabilir ama standartlaşmaya iter. Küçük ölçekli üretim teknik olarak kaba kalabilir ama ana akımın denemeye cesaret edemeyeceği biçimleri deneyebilir.</p><h3>2. Yazarlık sorunu (<i>authorship</i>)</h3><p>Buradan doğal olarak şu soru çıkıyor: Yüzlerce kişinin emeğiyle yapılan bir filmin “sanatçısı” kim? Bordwell ve Thompson pratik bir cevap verir: Çoğu durumda yönetmen, kararları bir araya getiren ve filmin biçimini en çok belirleyen kişidir; bu yüzden ona “yazar” demek makuldür. Ama bu, filmin tek başına onun eseri olduğu anlamına gelmez. Görüntü yönetmeninin bir ışık tercihi ya da kurgucunun bir kesme kararı da filmin anlamını değiştirebilir.</p><p>Bu soru programın ilerleyen bölümlerinde büyük bir tartışmaya dönüşecek: Fransız eleştirmenlerin yazar politikası (<i>politique des auteurs</i> / auteur policy) ve Andrew Sarris'in auteur kuramı (<i>auteur theory</i>) tam olarak bu soru etrafında şekillenecek. Bugünlük şunu not et: “Yönetmenin filmi” ifadesi bir gerçeklikten çok bir kabuldür.</p><h3>3. Dağıtım (<i>distribution</i>) ve gösterim (<i>exhibition</i>)</h3><p>Bir film çekilip kurgulandığında hayatı bitmez. Dağıtımcı filmin hangi pazarlara, ne zaman ve kaç kopyayla gideceğine karar verir; gösterimciler (salonlar, televizyon kanalları, dijital platformlar) filmi seyirciyle buluşturur. Kitabın vurguladığı nokta, bu sürecin filmin biçimine geri etki etmesidir:</p><ul><li><b>Süre:</b> Salonlar günde belli sayıda seans göstermek ister; filmlerin uzunluğu ticari bir baskıyla şekillenir.</li><li><b>Derecelendirme</b> (<i>rating</i>): Bir filmin hangi yaş grubuna açık olacağı ticari kaderini belirler; bu da şiddetin ya da cinselliğin nasıl çekileceğini doğrudan etkiler.</li><li><b>Ekran formatı:</b> Görüntü oranı (<i>aspect ratio</i>) değiştiğinde kompozisyon da değişir; kadrajın kenarındaki bir ayrıntı küçük ekranda kaybolabilir.</li><li><b>Pazarlama ve tür:</b> Dağıtımcının seyirciye “ne tür bir film” vaat ettiği, seyircinin filme hangi beklentilerle oturacağını belirler. Yarın göreceğimiz beklenti (<i>expectation</i>) kavramının ilk tohumu burada.</li></ul><p>Yazarların genel tezi: Sanat ve ticaret birbirinin karşıtı değildir. Ticari kısıtlamalar içinde de büyük sanat yapılabilir; kısıtlamalar bazen yaratıcılığın kaynağı olur. Bu, sinemayı yalnızca dâhilerin işi sayan romantik görüşe de, Hollywood'u yalnızca bir “fabrika” olarak gören küçümseyici bakışa da bir itirazdır.</p>"
+    },
+    {
+      "baslik": "Örnek: Citizen Kane",
+      "html": "<p><b>Üretim biçimi:</b> <i>Kane</i> büyük bir stüdyonun, RKO'nun filmi; yani büyük ölçekli üretim. Ama Welles stüdyodan, ilk filmini çeken bir yönetmen için olağanüstü geniş bir yaratıcı denetim almıştı. Sonuç bir melez: stüdyonun teknik kaynakları ile bağımsız bir sanatçının özgürlüğü bir arada. Filmin cesur deneyleri ancak bu ikisi birleşince mümkün oldu: tavanı görünen dekorlar, derin odak (<i>deep focus</i>), alışılmadık ses geçişleri.</p><p><b>Yazarlık:</b> Filmin sonundaki jenerikte görüntü yönetmeni Gregg Toland'ın adı Welles'inkiyle aynı kartta yer alır; bu, yönetmenin işbirlikçisine verdiği nadir bir kredidir. Senaryo kredisi ise Herman J. Mankiewicz ile paylaşılır ve bu paylaşım bugün hâlâ tartışılır. “Tek bir dâhinin filmi” efsanesinin en çok anıldığı film, aslında yazarlık sorusunun da en iyi örneklerinden biridir.</p><p><b>Dağıtım ve gösterim:</b> Film, William Randolph Hearst'ün hayatından esinlendiği düşünüldüğü için Hearst gazetelerinin düşmanca kampanyasıyla karşılaştı; bazı salon zincirleri filmi göstermekten kaçındı ve film ilk vizyonunda ticari olarak beklentinin altında kaldı. Bir filmin sanatsal değeri ile seyirciye ulaşma yolu ayrı şeylerdir, ama ikincisi birincisinin nasıl algılandığını derinden etkiler.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü yazarlık sorusu Hafta 13–15'te auteur kuramı tartışmasında merkeze oturacak. Endüstri–biçim ilişkisi de sonraki fazlarda klasik Hollywood ve ideoloji eleştirisiyle yeniden karşımıza çıkacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Büyük ölçekli üretimin iş bölümü bir filmin biçimine hangi açıdan <i>yarar</i>, hangi açıdan <i>zarar</i> verebilir? Her biri için birer örnek düşün.",
+    "Bordwell ve Thompson yönetmeni neden “yazar” saymayı makul bulur? Bu kabulün zayıf noktası nedir?",
+    "Aynı film salonda ve telefonda izlendiğinde “aynı film” midir? Dağıtım ve gösterim kavramlarıyla cevapla."
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi bölümünün ya da videonun yalnızca jeneriğine (açılış veya kapanış) bak. İki şeyi not et: (a) Kaç farklı uzmanlık alanı sayılıyor? (b) Yapımcı, dağıtımcı ya da platform logosu hangi sırayla, ne büyüklükte görünüyor? Bu sıralama sana “bu eser kimin” sorusu hakkında ne söylüyor?",
+  "terimler": [
+    {"tr": "Üretim biçimi", "en": "mode of production", "tanim": "Bir filmin hangi örgütlenme, bütçe ve iş bölümüyle yapıldığı."},
+    {"tr": "Stüdyo sistemi", "en": "studio system", "tanim": "Büyük şirketlerin uzman kadrolarla filmleri seri ve standart biçimde ürettiği düzen."},
+    {"tr": "İş bölümü", "en": "division of labor", "tanim": "Film yapımındaki görevlerin ayrı uzmanlara dağıtılması."},
+    {"tr": "Bağımsız üretim", "en": "independent production", "tanim": "Büyük stüdyo finansmanı dışında, genellikle küçük bütçeyle yapılan film üretimi."},
+    {"tr": "Dağıtım / gösterim", "en": "distribution / exhibition", "tanim": "Filmin pazarlara ulaştırılması / seyirciye fiilen sunulması."},
+    {"tr": "Yazarlık", "en": "authorship", "tanim": "Ortak emekle yapılan bir filmin biçiminden kimin sorumlu sayılacağı sorusu."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles", "not": "Hafta 1'in filmi. Biçimsel sistemin bütün ilkeleri, yazarlık tartışması ve dağıtım hikâyesiyle programın açılış filmi."}
+  ],
+  "yarin": "Film biçimi (<i>film form</i>): Bir filmi neden “içerik + biçim” diye ikiye bölemeyeceğimizi ve biçimin seyircide beklentiyi nasıl kurduğunu konuşacağız."
+}
