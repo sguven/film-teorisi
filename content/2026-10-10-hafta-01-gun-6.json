@@ -1,0 +1,44 @@
+{
+  "hafta": 1,
+  "gun": 6,
+  "tarih": "2026-10-10",
+  "tur": "film",
+  "baslik": "Film günü: Citizen Kane",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "<i>Citizen Kane</i>'i bir hikâye olarak değil, bir sistem olarak izle: Her tekrar, her açı, her anlatıcı değişikliği bütün içinde bir iş görüyor; bu hafta öğrendiğimiz “biçim” tam olarak bu bağlantılar ağıdır.",
+  "bolumler": [
+    {
+      "baslik": "Neden bu film, neden bu hafta?",
+      "html": "<p>Bu hafta iki büyük fikir kurduk. Birincisi, sinema aynı anda yaratıcılık, teknoloji ve endüstridir. İkincisi, biçim içeriğin kabı değil, öğelerin birbiriyle kurduğu ilişkiler sistemidir. <i>Citizen Kane</i> (Orson Welles, 1941) bu iki fikri sınamak için neredeyse ideal bir film: Hem stüdyo sisteminin (RKO) içinde, alışılmadık bir yaratıcı özgürlükle ve dönemin teknik imkânları zorlanarak yapıldı, hem de biçimsel olarak son derece bilinçli kurulmuş bir yapıya sahip.</p><p>Film tek bir kişinin hayatını anlatıyor gibi görünür, ama asıl ilginç olan onu <b>nasıl</b> anlattığıdır. Bir gazeteci, ölen bir basın patronunun son sözünün ne anlama geldiğini araştırır ve onu tanıyan insanlarla tek tek konuşur. Yani hayat bize düz bir çizgi hâlinde değil, farklı ağızlardan, farklı zamanlardan, parça parça gelir. Bu, “içerik” denen şeyin biçimden ayrılamayacağının en somut örneği.</p><p>Film yaklaşık iki saat sürüyor. Mümkünse bölmeden, karanlık bir odada izle; bu hafta tek bir film var, acele etme.</p>"
+    },
+    {
+      "baslik": "İzlerken neye dikkat etmeli?",
+      "html": "<h3>1. Açılışa tam dikkat</h3><p>İlk birkaç dakikayı ayrıca not al: kameranın nereden başlayıp nereye ilerlediğini, hangi nesnelerin öne çıktığını, ışığın ve sesin nasıl kullanıldığını. Pazar günkü analiz görevin açılışla kapanışı karşılaştırmak olacak; açılışı ne kadar iyi gözlemlersen sonu o kadar iyi okursun. İstersen filmi bitirdikten sonra ilk beş dakikayı bir kez daha izle.</p><h3>2. Film içinde bir film: haber filmi</h3><p>Filmin başlarında, ölen adamın hayatını özetleyen bir haber filmi (<i>newsreel</i>) var. Kendine şunu sor: Bu bölüm bütün içinde hangi <b>işlevi</b> görüyor? Seyirciye ne veriyor, neyi bilerek vermiyor? Görüntü dokusunun ve anlatım tonunun filmin geri kalanından nasıl ayrıldığına bak.</p><h3>3. Anlatıcılar değiştikçe ne değişiyor?</h3><p>Gazeteci birkaç kişiyle konuşuyor ve her biri hikâyenin bir parçasını kendi bakışından anlatıyor. Her anlatıcı geçişinde not al: Kim anlatıyor, hayatın hangi dönemini anlatıyor, ana karakter bu anlatıda daha sıcak mı daha soğuk mu görünüyor? Bazı olayların birden fazla anlatıda yeniden göründüğüne dikkat et. Bu, haftanın <b>tekrar</b> ve <b>varyasyon</b> ilkelerinin ders kitabı örneği.</p><h3>4. Derin odak ve mekân</h3><p>Görüntü yönetmeni Gregg Toland'la birlikte film, ön plandaki ve arka plandaki öğelerin aynı anda net göründüğü derin odak (<i>deep focus</i>) planlarını yoğun biçimde kullanır. Böyle bir planda kendine sor: Gözüm önce nereye gidiyor? Önemli olan şey ön planda mı, arka planda mı oluyor? Aynı kare içinde kim kimden uzak duruyor? Bu soruyu Hafta 10'da André Bazin'le birlikte çok daha derinlemesine soracağız; şimdiden gözünü alıştır.</p><h3>5. Açılar ve tavanlar</h3><p>Kameranın karakterlere sık sık alçak açıdan (<i>low-angle shot</i>) baktığını, bu yüzden bazı setlerde tavanın kadraja girdiğini fark edeceksin. Bu o dönemin stüdyo filmlerinde pek alışılmış bir şey değildi. Bir karakterin alçak açıdan görüldüğü sahnelerle yüksekten ya da göz hizasından görüldüğü sahneleri karşılaştır: Açı değiştiğinde o karaktere dair hissin değişiyor mu?</p><h3>6. Zamanı sıkıştıran sahneler</h3><p>Film bazen yılları birkaç dakikaya sığdırır. Özellikle aynı mekânda, aynı düzende tekrar eden ama her seferinde biraz değişen bir sahne dizisine dikkat et. Tekrar eden şey ne, değişen ne? Bu değişim bir <b>gelişim</b> çizgisi çiziyor mu?</p><h3>7. Beklenti</h3><p>Film başta bir soru sorar ve seni bir merak yoluna sokar. İzlerken bu sorunun cevabını beklediğini fark et ve kendine şunu sor: Film bu beklentiyi nasıl canlı tutuyor, nerede erteliyor, nerede başka yöne çeviriyor? Bordwell ve Thompson'a göre biçim, seyircinin beklentilerini kurup yöneten bir sistemdir.</p>"
+    },
+    {
+      "baslik": "Haftanın kavramları filmde nerede?",
+      "html": "<ul><li><b>Yaratıcılık + teknoloji + endüstri:</b> Derin odak planları, özel setler ve ışık düzenleri hem Welles'in ve ekibinin yaratıcı kararları hem de RKO'nun sağladığı teknik ve mali koşullar sayesinde mümkün oldu. Jeneriklere de bak: Görüntü yönetmeninin adının nasıl yer aldığı, filmin bir ekip işi olduğunu hatırlatır.</li><li><b>Biçim/içerik:</b> Aynı hayat düz kronolojiyle anlatılsaydı başka bir film olurdu. Parçalı anlatım, karakter hakkında ne bildiğimizi ve onu nasıl yargıladığımızı belirliyor.</li><li><b>İşlev:</b> Haber filmi, gazetecinin yüzünün çoğu zaman net görünmemesi, anlatıcıların sırası: Her biri bir iş görüyor.</li><li><b>Benzerlik ve tekrar:</b> Tekrar eden bir kelime, tekrar eden nesneler, tekrar eden mekânlar ve kapılar/çitler gibi görsel motifler (<i>motif</i>).</li><li><b>Fark ve varyasyon:</b> Aynı olayın farklı anlatıcılardan dönerken değişmesi; aynı mekânın filmin başında ve sonunda farklı görünmesi.</li><li><b>Gelişim:</b> Araştırmanın ilerleyişi ile karakterin hayatının ilerleyişi, iki ayrı çizgi olarak yan yana akıyor.</li><li><b>Birlik/birliksizlik:</b> Filmin sonunda bütün parçalar tek bir anlama mı bağlanıyor, yoksa bazı sorular açık mı kalıyor? Kendi cevabını not et.</li></ul>"
+    },
+    {
+      "baslik": "Pratik öneriler",
+      "html": "<ul><li>Yanına kâğıt kalem al; her anlatıcı değiştiğinde bir satır yaz (kim, hangi dönem, karaktere bakış).</li><li>Etkilendiğin iki planın zaman kodunu not et; tartışmada bu planlara geri döneceğiz.</li><li>Filmi izlemeden önce hakkında yazılmış yorumlara bakma; özellikle sonuyla ilgili bilgilere. Filmin merak yapısı bozulmasın.</li><li>Sıradaki gün sınav günü: Test haftanın kavramları üzerine olacak; analiz görevi ise bu filmin açılışı ile kapanışını karşılaştırmanı isteyecek.</li></ul><p><b>İzledikten sonra notlarını yaz, tartışalım.</b> Aklında kalan ilk iki şeyle başla; gerisini birlikte açarız.</p>"
+    }
+  ],
+  "soru_baslik": "İzledikten sonra düşün",
+  "sorular": [
+    "Haber filmi bölümü sana ana karakter hakkında ne öğretti, neyi eksik bıraktı? Bu eksiklik filmin geri kalanında nasıl bir beklenti yarattı?",
+    "Anlatıcılardan hangisinin anlatısı karaktere en farklı bakıyordu? Bu farkı yaratan biçimsel araçlar (açı, ışık, kadraj, oyunculuk) nelerdi?",
+    "Bir derin odak planı seç: Ön plan ile arka plan arasındaki ilişki o sahnenin anlamını nasıl kuruyor?"
+  ],
+  "gozlem": "Bu hafta izlediğin bir dizi ya da videoda, bir karakterin alçak açıdan ya da yüksek açıdan çekildiği tek bir planı bul. Açı o karaktere dair hissini nasıl etkiledi, aynı plan göz hizasından çekilseydi ne değişirdi?",
+  "terimler": [
+    {"tr": "Derin odak", "en": "deep focus", "tanim": "Kadrajın ön planındaki ve arka planındaki öğelerin aynı anda net göründüğü görüntü tekniği."},
+    {"tr": "Alçak açı", "en": "low-angle shot", "tanim": "Kameranın konusuna aşağıdan yukarı baktığı, çoğu zaman onu büyük ya da baskın gösteren çekim."},
+    {"tr": "Haber filmi", "en": "newsreel", "tanim": "Sinemalarda ana filmden önce gösterilen, güncel olayları özetleyen kısa belgesel bölüm."},
+    {"tr": "Fark ve varyasyon", "en": "difference and variation", "tanim": "Tekrar eden bir öğenin değişerek geri dönmesi; anlamın çoğu zaman bu farktan doğması."}
+  ],
+  "filmler": [
+    {"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles"}
+  ],
+  "yarin": "Hafta 1 sınav günü: haftanın kavramlarından bir test ve <i>Citizen Kane</i>'in açılışı ile kapanışını tekrar ve varyasyon ilkesiyle karşılaştıran analiz görevi."
+}
