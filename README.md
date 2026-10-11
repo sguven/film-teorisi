@@ -16,7 +16,7 @@ Dersler her gün zamanlanmış bir görevle (Claude) hazırlanır, `content/` kl
 | `pdf/` | Derslerin PDF sürümleri |
 | `scripts/build.py` | Siteyi üretir (yalnızca Python standart kütüphanesi) |
 | `assets/` | Stil ve küçük JS (test, sözlük arama) |
-| `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/`, `assets/manifest.js` | Üretilen sayfalar; elle düzenleme, `build.py` üzerine yazar (`arsiv.html` → `dersler.html` yönlendirmesi) |
+| `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/` | Üretilen sayfalar; elle düzenleme, `build.py` üzerine yazar (`arsiv.html` → `dersler.html` yönlendirmesi) |
 
 ## Ders dosyası biçimi
 
@@ -62,9 +62,9 @@ git push origin main
 
 `.gitattributes` üretilen dosyalardaki çakışmaları otomatik geçer; `build.py` onları içerikten yeniden üretir.
 
-## Ziyaretçi ilerlemesi
+## Ana sayfa
 
-Okunan dersler ve "kaldığın yer" ziyaretçinin tarayıcısında (`localStorage`) tutulur; sunucuya hiçbir şey gitmez.
+Ana sayfa her zaman en güncel dersin kendisini gösterir. Diğer dersler "Bütün dersler" sayfasında, en yeni hafta en üstte.
 
 ## Yerelde üretmek
 
