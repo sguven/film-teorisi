@@ -154,21 +154,21 @@ def page(title, body, active, depth=0, description="", wide=False):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(full_title)}</title>
 <meta name="description" content="{desc}">
-<meta name="theme-color" content="#23272E">
+<meta name="theme-color" content="#FAF8F4">
 <meta property="og:title" content="{esc(full_title)}">
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}assets/style.css">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{up}feed.xml">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%2323272E'/%3E%3Crect x='9' y='8' width='14' height='16' rx='1.5' fill='%23F0B323'/%3E%3Cg fill='%23ECEEEA'%3E%3Crect x='3' y='5' width='3' height='3'/%3E%3Crect x='3' y='12' width='3' height='3'/%3E%3Crect x='3' y='19' width='3' height='3'/%3E%3Crect x='26' y='5' width='3' height='3'/%3E%3Crect x='26' y='12' width='3' height='3'/%3E%3Crect x='26' y='19' width='3' height='3'/%3E%3C/g%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232F5D73'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='17' text-anchor='middle' fill='%23FAF8F4'%3EFT%3C/text%3E%3C/svg%3E">
 </head>
 <body>
 <a class="skip" href="#icerik">İçeriğe geç</a>
 <header class="site-head"><div class="wrap-wide">
-<a class="brand" href="{up}index.html"><span class="brand-mark" aria-hidden="true"></span>Film Teorisi</a>
+<a class="brand" href="{up}index.html">Film Teorisi</a>
 <nav class="nav" aria-label="Site">{nav_html}</nav>
 </div></header>
 <main id="icerik"><div class="{w}">
@@ -224,48 +224,41 @@ def week_strip(week, week_lessons, ders_prefix, current=None):
     """Haftanın günlerini 7 kareli bir film şeridi olarak gösterir."""
     by = {str(x["gun"]): x for x in week_lessons}
     slots = ["1", "2", "3", "4", "5"] + (["tekrar"] if "tekrar" in by else []) + ["6", "7"]
-    frames = []
+    items = []
     for s in slots:
         num = "T" if s == "tekrar" else s
-        cap = SLOT_VARSAYILAN[s]
         x = by.get(s)
         if x:
-            cur = x is current
-            attrs = ' class="frame is-current" aria-current="page"' if cur else ' class="frame"'
             title = esc(f'{day_label(x)}: {x["baslik"]}')
-            frames.append(f'<a{attrs} href="{ders_prefix}{x["_slug"]}.html" title="{title}">'
-                          f'<b>{num}</b><span>{cap}</span></a>')
+            cur = ' aria-current="page"' if x is current else ""
+            items.append(f'<a href="{ders_prefix}{x["_slug"]}.html" title="{title}"{cur}>{num}</a>')
         else:
-            frames.append(f'<span class="frame is-empty" title="Henüz yayımlanmadı"><b>{num}</b><span>{cap}</span></span>')
-    return f'<nav class="strip" aria-label="Hafta {week} günleri">{"".join(frames)}</nav>'
+            items.append(f'<span title="Henüz yayımlanmadı">{num}</span>')
+    return (f'<nav class="days" aria-label="Hafta {week} günleri"><span class="days-label">Bu haftanın günleri</span>'
+            f'{"".join(items)}</nav>')
 
 
-def slate(L, program, latest=False):
-    gun = "Tekrar" if L["gun"] == "tekrar" else str(L["gun"])
-    flag = '<span class="slate-flag">En güncel ders</span>' if latest else ""
-    rows = []
+def lesson_header(L, program, up, latest=False):
+    wi = week_info(program, L["hafta"])
+    week_title = f"Hafta {L['hafta']}" + (f": {wi['baslik']}" if wi else "")
+    when = ("En güncel ders, " if latest else "") + tarih_tr(L["_date"])
+    meta = []
     if L.get("okuma"):
-        rows.append(f'<div><dt>Okuma</dt><dd>{esc(L["okuma"])}</dd></div>')
+        meta.append(f"<span>Okuma: {esc(L['okuma'])}</span>")
     if L.get("film"):
-        rows.append(f'<div><dt>Haftanın filmi</dt><dd><i>{esc(L["film"])}</i></dd></div>')
-    extra = f'<dl class="slate-notes">{"".join(rows)}</dl>' if rows else ""
-    return (f'<header class="slate"><div class="clap" aria-hidden="true">{flag}</div>'
-            f'<dl class="slate-grid">'
-            f'<div><dt>Hafta</dt><dd>{L["hafta"]}</dd></div>'
-            f'<div><dt>Gün</dt><dd>{gun}</dd></div>'
-            f'<div class="wide"><dt>Tür</dt><dd>{TUR_UZUN[L["tur"]]}</dd></div>'
-            f'<div class="wide"><dt>Tarih</dt><dd>{esc(tarih_tr(L["_date"]))}</dd></div>'
-            f'</dl><h1>{esc(L["baslik"])}</h1>{extra}</header>')
+        meta.append(f"<span>Haftanın filmi: <i>{esc(L['film'])}</i></span>")
+    if L.get("pdf"):
+        meta.append(f'<span><a href="{up}pdf/{esc(L["pdf"])}">PDF olarak indir</a></span>')
+    meta_html = f'<p class="meta">{"".join(meta)}</p>' if meta else ""
+    return (f'<header class="lesson-head">'
+            f'<p class="eyebrow"><a href="{up}dersler.html#hafta-{L["hafta"]}">{esc(week_title)}</a>'
+            f'<span>{esc(day_label(L))}, {esc(TUR_UZUN[L["tur"]].lower())}</span></p>'
+            f'<h1>{esc(L["baslik"])}</h1><p class="date">{esc(when)}</p>{meta_html}</header>')
 
 
 def lesson_body(L, prev, nxt, program, ders_prefix, up, week_lessons, latest=False, total=0):
     """Ders içeriği. ders_prefix: ders sayfalarına giden yolun öneki ("" ders/ içinden, "ders/" kökten)."""
-    wi = week_info(program, L["hafta"])
-    week_title = f"Hafta {L['hafta']}" + (f": {wi['baslik']}" if wi else "")
-    parts = [slate(L, program, latest)]
-    pdf = f'<a class="pdf-link" href="{up}pdf/{esc(L["pdf"])}">PDF olarak indir</a>' if L.get("pdf") else ""
-    parts.append(f'<div class="week-bar"><a class="week-name" href="{up}dersler.html#hafta-{L["hafta"]}">{esc(week_title)}</a>'
-                 f'<span class="week-links">{pdf}<a href="{up}dersler.html">Bütün dersler ({total})</a></span></div>')
+    parts = [lesson_header(L, program, up, latest)]
     parts.append(week_strip(L["hafta"], week_lessons, ders_prefix, current=L))
     if L.get("tek_cumle"):
         parts.append(f'<p class="lead"><span class="lead-label">Bugünün tek cümlesi</span>{L["tek_cumle"]}</p>')
@@ -368,7 +361,7 @@ def dersler_page(lessons, program):
         title = wi["baslik"] if wi else ""
         film = f'<p class="week-film">Haftanın filmi: <i>{esc(wi["film"])}</i></p>' if wi and wi.get("film") else ""
         parts.append(f'<section class="week" id="hafta-{w}"><h2>Hafta {w}: {esc(title)}</h2>{film}'
-                     f'{week_strip(w, weeks[w], "ders/")}{lesson_rows(weeks[w])}</section>')
+                     f'{lesson_rows(weeks[w])}</section>')
     return page("Dersler", "\n".join(parts), "dersler")
 
 
