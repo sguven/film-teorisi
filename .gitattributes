@@ -8,4 +8,3 @@ sozluk.html merge=ours
 filmler.html merge=ours
 feed.xml merge=ours
 ders/*.html merge=ours
-assets/manifest.js merge=ours

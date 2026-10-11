@@ -4,7 +4,7 @@
 Kullanım (repo kökünden):  python3 scripts/build.py
 
 Üretilenler: index.html, dersler.html, program.html, sozluk.html, filmler.html,
-arsiv.html (dersler.html'e yönlendirir), feed.xml, assets/manifest.js ve
+arsiv.html (dersler.html'e yönlendirir), feed.xml ve
 ders/<slug>.html. Ders içeriğinin biçimi için README.md'ye bak.
 """
 import datetime as dt
@@ -29,7 +29,7 @@ TOTAL_WEEKS = 52
 AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos",
          "Eylül", "Ekim", "Kasım", "Aralık"]
 GUNLER = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
-TUR_ETIKET = {"ders": "Okuma", "tekrar": "Tekrar", "film": "Film", "sinav": "Test"}
+TUR_ETIKET = {"ders": "Ders", "tekrar": "Tekrar", "film": "Film", "sinav": "Test"}
 
 TR_ORDER = "aâbcçdefgğhıiîjklmnoöprsştuûüvyzqwx"
 
@@ -139,13 +139,13 @@ def week_info(program, week):
 # ---------------------------------------------------------------- şablon
 def page(title, body, active, depth=0, description="", wide=False):
     up = "../" * depth
-    nav = [("index.html", "Ana sayfa", "ana"), ("dersler.html", "Dersler", "dersler"),
+    nav = [("index.html", "Son ders", "ana"), ("dersler.html", "Dersler", "dersler"),
            ("program.html", "Program", "program"), ("sozluk.html", "Sözlük", "sozluk"),
            ("filmler.html", "Filmler", "filmler")]
     nav_html = "".join(
-        f'<a href="{up}{h}"{" class=\"active\"" if k == active else ""}>{t}</a>' for h, t, k in nav)
-    full_title = f"{title} · {SITE_NAME}" if title != SITE_NAME else f"{SITE_NAME} · 52 haftalık okuma programı"
-    desc = esc(description or "52 haftalık, baştan sona izlenebilen bir film teorisi programı: günlük kısa dersler, haftalık filmler, testler ve terim sözlüğü.")
+        f'<a href="{up}{h}"{" aria-current=\"page\"" if k == active else ""}>{t}</a>' for h, t, k in nav)
+    full_title = f"{title} | {SITE_NAME}" if title != SITE_NAME else f"{SITE_NAME}: 52 haftalık okuma programı"
+    desc = esc(description or "52 haftalık bir film teorisi programı: günlük kısa dersler, haftalık filmler, testler ve terim sözlüğü.")
     w = "wrap-wide" if wide else "wrap"
     return f"""<!doctype html>
 <html lang="tr">
@@ -154,29 +154,30 @@ def page(title, body, active, depth=0, description="", wide=False):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(full_title)}</title>
 <meta name="description" content="{desc}">
+<meta name="theme-color" content="#23272E">
 <meta property="og:title" content="{esc(full_title)}">
 <meta property="og:description" content="{desc}">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{up}assets/style.css">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{up}feed.xml">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%238b2a1e'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23f5f0e6' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='2.5' fill='%23f5f0e6'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%2323272E'/%3E%3Crect x='9' y='8' width='14' height='16' rx='1.5' fill='%23F0B323'/%3E%3Cg fill='%23ECEEEA'%3E%3Crect x='3' y='5' width='3' height='3'/%3E%3Crect x='3' y='12' width='3' height='3'/%3E%3Crect x='3' y='19' width='3' height='3'/%3E%3Crect x='26' y='5' width='3' height='3'/%3E%3Crect x='26' y='12' width='3' height='3'/%3E%3Crect x='26' y='19' width='3' height='3'/%3E%3C/g%3E%3C/svg%3E">
 </head>
-<body data-root="{up}">
+<body>
+<a class="skip" href="#icerik">İçeriğe geç</a>
 <header class="site-head"><div class="wrap-wide">
-<a class="brand" href="{up}index.html">Film <span>Teorisi</span></a>
-<nav class="nav">{nav_html}</nav>
+<a class="brand" href="{up}index.html"><span class="brand-mark" aria-hidden="true"></span>Film Teorisi</a>
+<nav class="nav" aria-label="Site">{nav_html}</nav>
 </div></header>
-<main><div class="{w}">
+<main id="icerik"><div class="{w}">
 {body}
 </div></main>
 <footer class="site-foot"><div class="wrap-wide">
-<span>52 haftalık bir film teorisi programı · Dersler Claude ile hazırlanır. İlerlemen yalnızca bu tarayıcıda saklanır.</span>
-<span><a href="{up}feed.xml">RSS</a></span>
+<span>52 haftalık bir film teorisi programı. Dersler her gün Claude ile hazırlanıyor.</span>
+<a href="{up}feed.xml">RSS ile takip et</a>
 </div></footer>
-<script src="{up}assets/manifest.js"></script>
 <script src="{up}assets/site.js" defer></script>
 </body>
 </html>
@@ -204,8 +205,13 @@ def quiz_block(quiz):
 <p class="meta" style="margin-bottom:0.5rem">Bir seçeneğe dokun; cevap ve açıklama hemen açılır.</p>
 <script type="application/json">{data}</script>
 <div class="quiz-list"></div>
-<div class="quiz-score">Puan: <b class="val"></b> <button type="button" class="btn btn-ghost" data-quiz-reset>Baştan başla</button></div>
+<div class="quiz-score">Puan: <b class="val"></b> <button type="button" class="btn btn-ghost" data-quiz-reset>Testi sıfırla</button></div>
 </section>"""
+
+
+TUR_UZUN = {"ders": "Okuma", "tekrar": "Tekrar", "film": "Film günü", "sinav": "Sınav günü"}
+SLOT_VARSAYILAN = {"1": "Okuma", "2": "Okuma", "3": "Okuma", "4": "Okuma", "5": "Okuma",
+                   "tekrar": "Tekrar", "6": "Film", "7": "Sınav"}
 
 
 def tag(L):
@@ -214,26 +220,53 @@ def tag(L):
 
 
 # ---------------------------------------------------------------- sayfalar
-def lesson_page(L, prev, nxt, total, program):
-    wi = week_info(program, L["hafta"])
-    week_title = f": {wi['baslik']}" if wi else ""
-    pct = round(100 * L["_n"] / max(total, 1), 1)
-    parts = [
-        f'<p class="crumb"><a href="../dersler.html#hafta-{L["hafta"]}">Hafta {L["hafta"]}{esc(week_title)}</a>'
-        f' <span aria-hidden="true">›</span> {esc(day_label(L))} {tag(L)}</p>',
-        f'<h1>{esc(L["baslik"])}</h1>',
-        f'<div class="seq"><span>Ders {L["_n"]} / {total}</span><span data-read-badge hidden>✓ Okundu</span></div>'
-        f'<div class="progress thin"><span style="width:{pct}%"></span></div>',
-    ]
-    meta = []
+def week_strip(week, week_lessons, ders_prefix, current=None):
+    """Haftanın günlerini 7 kareli bir film şeridi olarak gösterir."""
+    by = {str(x["gun"]): x for x in week_lessons}
+    slots = ["1", "2", "3", "4", "5"] + (["tekrar"] if "tekrar" in by else []) + ["6", "7"]
+    frames = []
+    for s in slots:
+        num = "T" if s == "tekrar" else s
+        cap = SLOT_VARSAYILAN[s]
+        x = by.get(s)
+        if x:
+            cur = x is current
+            attrs = ' class="frame is-current" aria-current="page"' if cur else ' class="frame"'
+            title = esc(f'{day_label(x)}: {x["baslik"]}')
+            frames.append(f'<a{attrs} href="{ders_prefix}{x["_slug"]}.html" title="{title}">'
+                          f'<b>{num}</b><span>{cap}</span></a>')
+        else:
+            frames.append(f'<span class="frame is-empty" title="Henüz yayımlanmadı"><b>{num}</b><span>{cap}</span></span>')
+    return f'<nav class="strip" aria-label="Hafta {week} günleri">{"".join(frames)}</nav>'
+
+
+def slate(L, program, latest=False):
+    gun = "Tekrar" if L["gun"] == "tekrar" else str(L["gun"])
+    flag = '<span class="slate-flag">En güncel ders</span>' if latest else ""
+    rows = []
     if L.get("okuma"):
-        meta.append(f"<b>Okuma:</b> {esc(L['okuma'])}")
+        rows.append(f'<div><dt>Okuma</dt><dd>{esc(L["okuma"])}</dd></div>')
     if L.get("film"):
-        meta.append(f"<b>Haftanın filmi:</b> <i>{esc(L['film'])}</i>")
-    meta.append(f"Yayın: {esc(tarih_tr(L['_date']))}")
-    if L.get("pdf"):
-        meta.append(f'<a class="pdf-link" href="../pdf/{esc(L["pdf"])}">PDF indir</a>')
-    parts.append(f'<p class="meta">{" · ".join(meta)}</p>')
+        rows.append(f'<div><dt>Haftanın filmi</dt><dd><i>{esc(L["film"])}</i></dd></div>')
+    extra = f'<dl class="slate-notes">{"".join(rows)}</dl>' if rows else ""
+    return (f'<header class="slate"><div class="clap" aria-hidden="true">{flag}</div>'
+            f'<dl class="slate-grid">'
+            f'<div><dt>Hafta</dt><dd>{L["hafta"]}</dd></div>'
+            f'<div><dt>Gün</dt><dd>{gun}</dd></div>'
+            f'<div class="wide"><dt>Tür</dt><dd>{TUR_UZUN[L["tur"]]}</dd></div>'
+            f'<div class="wide"><dt>Tarih</dt><dd>{esc(tarih_tr(L["_date"]))}</dd></div>'
+            f'</dl><h1>{esc(L["baslik"])}</h1>{extra}</header>')
+
+
+def lesson_body(L, prev, nxt, program, ders_prefix, up, week_lessons, latest=False, total=0):
+    """Ders içeriği. ders_prefix: ders sayfalarına giden yolun öneki ("" ders/ içinden, "ders/" kökten)."""
+    wi = week_info(program, L["hafta"])
+    week_title = f"Hafta {L['hafta']}" + (f": {wi['baslik']}" if wi else "")
+    parts = [slate(L, program, latest)]
+    pdf = f'<a class="pdf-link" href="{up}pdf/{esc(L["pdf"])}">PDF olarak indir</a>' if L.get("pdf") else ""
+    parts.append(f'<div class="week-bar"><a class="week-name" href="{up}dersler.html#hafta-{L["hafta"]}">{esc(week_title)}</a>'
+                 f'<span class="week-links">{pdf}<a href="{up}dersler.html">Bütün dersler ({total})</a></span></div>')
+    parts.append(week_strip(L["hafta"], week_lessons, ders_prefix, current=L))
     if L.get("tek_cumle"):
         parts.append(f'<p class="lead"><span class="lead-label">Bugünün tek cümlesi</span>{L["tek_cumle"]}</p>')
     for b in L.get("bolumler", []):
@@ -243,7 +276,7 @@ def lesson_page(L, prev, nxt, total, program):
     if L.get("quiz"):
         parts.append(quiz_block(L["quiz"]))
     if L.get("sorular"):
-        title = L.get("soru_baslik") or "Düşünme soruları"
+        title = L.get("soru_baslik") or "Bugünün soruları"
         items = "".join(f"<li>{q}</li>" for q in L["sorular"])
         hints = ""
         if L.get("ipuclari"):
@@ -255,37 +288,59 @@ def lesson_page(L, prev, nxt, total, program):
     if L.get("gozlem"):
         parts.append(f'<section class="box"><h2>Gözlem görevi <small class="muted-small">2 dakika</small></h2><p>{L["gozlem"]}</p></section>')
     if L.get("terimler"):
-        parts.append("<h2>Bu dersin terimleri</h2>" + terms_table(L["terimler"]))
+        parts.append("<h2>Bugünün terimleri</h2>" + terms_table(L["terimler"]))
     if L.get("yarin"):
         parts.append(f'<h2>Sıradaki ders</h2><p>{L["yarin"]}</p>')
-    # bitiş kutusu
-    if nxt:
-        finish = (f'<section class="finish"><p class="finish-text">Dersi bitirdin mi?</p>'
-                  f'<a class="btn btn-big" href="{nxt["_slug"]}.html" data-mark-read="{L["_slug"]}">Okudum, sonraki derse geç →</a>'
-                  f'<p class="finish-next">Sıradaki: <b>{esc(label(nxt))}</b> · {esc(nxt["baslik"])}</p></section>')
+    links = []
+    if prev:
+        links.append(f'<a class="prev" href="{ders_prefix}{prev["_slug"]}.html"><small>Önceki ders</small>'
+                     f'<span>{esc(label(prev))}</span><b>{esc(prev["baslik"])}</b></a>')
     else:
-        finish = (f'<section class="finish"><p class="finish-text">Bu, şu ana kadar yayımlanan son ders. Yeni dersler her gün ekleniyor.</p>'
-                  f'<button type="button" class="btn btn-big" data-mark-read="{L["_slug"]}">Okudum ✓</button>'
-                  f'<p class="finish-next"><a href="../dersler.html">Bütün derslere dön</a></p></section>')
-    parts.append(finish)
-    pv = (f'<a href="{prev["_slug"]}.html"><small>← Önceki</small>{esc(label(prev))}</a>' if prev else "<span></span>")
-    nx = (f'<a class="next" href="{nxt["_slug"]}.html"><small>Sonraki →</small>{esc(label(nxt))}</a>' if nxt else "<span></span>")
-    parts.append(f'<nav class="pager">{pv}<a class="mid" href="../dersler.html#hafta-{L["hafta"]}"><small>Dersler</small>Hafta {L["hafta"]}</a>{nx}</nav>')
-    desc = strip_tags(L.get("tek_cumle"))
-    body = "\n".join(parts)
-    return page(f'{label(L)}: {L["baslik"]}', f'<article data-lesson="{L["_slug"]}">{body}</article>',
-                "dersler", depth=1, description=desc)
+        links.append("<span></span>")
+    if nxt:
+        links.append(f'<a class="next" href="{ders_prefix}{nxt["_slug"]}.html"><small>Sonraki ders</small>'
+                     f'<span>{esc(label(nxt))}</span><b>{esc(nxt["baslik"])}</b></a>')
+    else:
+        links.append(f'<a class="next" href="{up}dersler.html"><small>Yeni ders her gün ekleniyor</small>'
+                     f'<span>Arşiv</span><b>Bütün derslere göz at</b></a>')
+    parts.append(f'<nav class="pager" aria-label="Ders gezinme">{"".join(links)}</nav>')
+    return "\n".join(parts)
+
+
+def latest_of(lessons):
+    return max(lessons, key=lambda x: (x["_date"], sort_key(x))) if lessons else None
+
+
+def lesson_page(L, prev, nxt, program, lessons):
+    wl = [x for x in lessons if x["hafta"] == L["hafta"]]
+    body = lesson_body(L, prev, nxt, program, ders_prefix="", up="../", week_lessons=wl,
+                       latest=L is latest_of(lessons), total=len(lessons))
+    return page(f'{label(L)}: {L["baslik"]}', body, "dersler", depth=1,
+                description=strip_tags(L.get("tek_cumle")))
+
+
+def index_page(lessons, program):
+    if not lessons:
+        return page(SITE_NAME, "<h1>İlk ders yakında</h1>", "ana")
+    L = latest_of(lessons)
+    i = lessons.index(L)
+    prev = lessons[i - 1] if i > 0 else None
+    nxt = lessons[i + 1] if i + 1 < len(lessons) else None
+    wl = [x for x in lessons if x["hafta"] == L["hafta"]]
+    body = lesson_body(L, prev, nxt, program, ders_prefix="ders/", up="", week_lessons=wl,
+                       latest=True, total=len(lessons))
+    return page(SITE_NAME, body, "ana", description=strip_tags(L.get("tek_cumle")))
 
 
 def lesson_rows(lessons, prefix=""):
     items = []
     for L in lessons:
-        one = f'<div class="one">{L["tek_cumle"]}</div>' if L.get("tek_cumle") else ""
+        one = f'<p class="one">{L["tek_cumle"]}</p>' if L.get("tek_cumle") else ""
         items.append(
-            f'<li data-slug="{L["_slug"]}"><span class="check" aria-hidden="true"></span>'
-            f'<div class="when"><b>{esc(day_label(L))}</b>{tag(L)}</div>'
-            f'<div><a class="title" href="{prefix}ders/{L["_slug"]}.html">{esc(L["baslik"])}</a>{one}</div></li>')
-    return f'<ul class="list lessons">{"".join(items)}</ul>'
+            f'<li><a class="row" href="{prefix}ders/{L["_slug"]}.html">'
+            f'<span class="when"><b>{esc(day_label(L))}</b><span>{TUR_UZUN[L["tur"]]}</span></span>'
+            f'<span class="what"><span class="title">{esc(L["baslik"])}</span>{one}</span></a></li>')
+    return f'<ul class="lessons">{"".join(items)}</ul>'
 
 
 def group_weeks(lessons):
@@ -297,90 +352,24 @@ def group_weeks(lessons):
 
 def dersler_page(lessons, program):
     weeks = group_weeks(lessons)
-    total = len(lessons)
-    parts = ['<p class="kicker">Dersler</p>', "<h1>Baştan sona bütün dersler</h1>",
-             f'<p>Dersler programdaki sırayla dizili. Her hafta beş kısa okuma, bir tekrar ya da film günü ve bir test var. '
-             f'Okuduğun dersler bu tarayıcıda işaretlenir; istediğin zaman kaldığın yerden devam edebilirsin.</p>',
-             f'<div class="progress-row"><div class="progress"><span data-overall-bar style="width:0%"></span></div>'
-             f'<span class="progress-label"><b data-overall-count>0</b> / {total} ders okundu</span></div>',
-             (f'<p><a class="btn" href="ders/{lessons[0]["_slug"]}.html" data-continue-link>Baştan başla →</a></p>' if lessons else '')]
-    if not lessons:
-        parts.append('<p class="empty">Henüz ders yok.</p>')
-    # haftalara hızlı geçiş
-    if len(weeks) > 1:
-        chips = "".join(f'<a class="chip" href="#hafta-{w}">Hafta {w}</a>' for w in sorted(weeks))
-        parts.append(f'<nav class="chips">{chips}</nav>')
-    for w in sorted(weeks):
-        wi = week_info(program, w)
-        ph = phase_of(program, w)
-        title = wi["baslik"] if wi else ""
-        film = f'<p class="meta" style="margin-bottom:0.6rem">Haftanın filmi: <i>{esc(wi["film"])}</i></p>' if wi and wi.get("film") else ""
-        ph_txt = f'Faz {ph["faz"]} · {esc(ph["ad"])}' if ph else ""
-        parts.append(f'<section class="week" id="hafta-{w}"><p class="kicker" style="margin-top:2.4rem">{ph_txt}</p>'
-                     f'<div class="week-head"><h2>Hafta {w}: {esc(title)}</h2>'
-                     f'<span class="week-count" data-week-count="{w}" data-week-total="{len(weeks[w])}"></span></div>{film}'
-                     f'{lesson_rows(weeks[w])}</section>')
-    parts.append('<p class="reset-row"><button type="button" class="linklike" data-reset-progress>İlerlememi sıfırla</button></p>')
-    return page("Dersler", "\n".join(parts), "dersler")
-
-
-def index_page(lessons, program, terms, films):
-    t = today()
-    wk = min(week_of(t), TOTAL_WEEKS)
-    weeks = group_weeks(lessons)
-    total = len(lessons)
-    first = lessons[0] if lessons else None
-    parts = []
-    # karşılama
-    parts.append('<section class="welcome">')
-    parts.append('<p class="kicker">52 haftalık bir okuma programı</p>')
-    parts.append('<h1 class="display">Film teorisini baştan, adım adım öğren.</h1>')
-    parts.append('<p class="intro">Bordwell ve Thompson\'ın film dilinden başlayıp Eisenstein ve Bazin\'e, auteur kuramına, '
-                 'göstergebilim ve psikanalize, Deleuze\'e, belgesele, dijital sinemaya ve Türkiye sinemasına uzanan bir yol. '
-                 'Her ders 10–15 dakikalık bir okuma; her hafta bir film ve kısa bir test.</p>')
-    if first:
-        parts.append(f'<div class="cta" data-cta>'
-                     f'<a class="btn btn-big" href="ders/{first["_slug"]}.html" data-continue-link>Baştan başla: {esc(label(first))} →</a>'
-                     f'<a class="btn btn-ghost" href="ders/{first["_slug"]}.html" data-start-link hidden>Baştan başla</a>'
-                     f'</div><p class="cta-note" data-continue-note>İlk ders: {esc(first["baslik"])}</p>')
-    parts.append('</section>')
-    # nasıl çalışır
-    parts.append('<section class="how"><h2>Nasıl çalışır?</h2><ol class="steps">'
-                 '<li><b>Her gün bir ders.</b> Pazartesiden cumaya 10–15 dakikalık kısa bir okuma: bir kuramcının ana iddiası, '
-                 'neye karşı çıktığı ve bir film sahnesi üzerinden örneği.</li>'
-                 '<li><b>Cumartesi film.</b> Haftanın filmi için spoiler vermeyen bir izleme rehberi.</li>'
-                 '<li><b>Pazar test.</b> Haftayı toparlayan etkileşimli bir test ve kısa bir analiz görevi.</li>'
-                 '<li><b>Kendi hızında.</b> Takvime yetişmek zorunda değilsin. Okuduğun dersler işaretlenir, '
-                 'döndüğünde kaldığın yerden devam edersin.</li></ol></section>')
-    # haftalar özeti
-    if weeks:
-        parts.append('<h2>Haftalar</h2>')
-        rows = []
-        for w in sorted(weeks):
-            wi = week_info(program, w)
-            title = wi["baslik"] if wi else ""
-            rows.append(f'<li><a href="dersler.html#hafta-{w}"><span class="wn">Hafta {w}</span>'
-                        f'<span class="wt">{esc(title)}</span>'
-                        f'<span class="week-count" data-week-count="{w}" data-week-total="{len(weeks[w])}">{len(weeks[w])} ders</span></a></li>')
-        parts.append(f'<ul class="week-list">{"".join(rows)}</ul>')
-        parts.append('<p class="more"><a href="dersler.html">Bütün dersler →</a> · <a href="program.html">52 haftalık programın tamamı →</a></p>')
-    # en yeni ders
+    parts = ['<h1 class="page-title">Dersler</h1>']
     if lessons:
-        L = max(lessons, key=lambda x: (x["_date"], sort_key(x)))
-        parts.append('<section class="latest">')
-        parts.append(f'<p class="kicker">En yeni ders · {esc(tarih_tr(L["_date"]))}</p>')
-        parts.append(f'<h3><a href="ders/{L["_slug"]}.html">{esc(label(L))}: {esc(L["baslik"])}</a></h3>')
-        if L.get("tek_cumle"):
-            parts.append(f'<p>{L["tek_cumle"]}</p>')
-        ph = phase_of(program, wk)
-        ph_txt = f" (Faz {ph['faz']}: {ph['ad']})" if ph else ""
-        parts.append(f'<p class="meta" style="margin:0">Program şu an Hafta {wk}\'te{esc(ph_txt)}. Yeni dersler her gün ekleniyor.</p>')
-        parts.append('</section>')
-    parts.append(f'<div class="stats"><div class="stat"><b>{total}</b><span>ders</span></div>'
-                 f'<div class="stat"><b>{len(terms)}</b><span>terim</span></div>'
-                 f'<div class="stat"><b>{len(films)}</b><span>film</span></div>'
-                 f'<div class="stat"><b>{TOTAL_WEEKS}</b><span>hafta</span></div></div>')
-    return page(SITE_NAME, "\n".join(parts), "ana")
+        first = lessons[0]
+        latest = latest_of(lessons)
+        parts.append('<div class="jump">'
+                     f'<a class="btn" href="ders/{latest["_slug"]}.html">En güncel derse git</a>'
+                     f'<a class="btn btn-ghost" href="ders/{first["_slug"]}.html">Programın ilk dersi</a></div>')
+        parts.append('<p class="intro">Haftalar en yenisi üstte olacak şekilde sıralı. Her hafta beş okuma günü, '
+                     'bir film günü ve bir sınav gününden oluşuyor.</p>')
+    else:
+        parts.append('<p class="empty">Henüz ders yok.</p>')
+    for w in sorted(weeks, reverse=True):
+        wi = week_info(program, w)
+        title = wi["baslik"] if wi else ""
+        film = f'<p class="week-film">Haftanın filmi: <i>{esc(wi["film"])}</i></p>' if wi and wi.get("film") else ""
+        parts.append(f'<section class="week" id="hafta-{w}"><h2>Hafta {w}: {esc(title)}</h2>{film}'
+                     f'{week_strip(w, weeks[w], "ders/")}{lesson_rows(weeks[w])}</section>')
+    return page("Dersler", "\n".join(parts), "dersler")
 
 
 def redirect_page(target):
@@ -394,11 +383,12 @@ def program_page(program, lessons):
     t = today()
     wk = week_of(t)
     have = {L["hafta"] for L in lessons}
-    parts = ['<p class="kicker">Program</p>', "<h1>52 hafta, 9 faz</h1>",
-             '<p>Her hafta beş kısa okuma günü, bir film günü ve bir sınav günü var. Sıra hem kronolojik hem '
-             'kavramsal: her faz bir öncekinin üstüne kurulur. Dersleri yayımlanmış haftalar bağlantılıdır.</p>']
+    parts = ['<h1 class="page-title">Program</h1>',
+             '<p class="intro">52 hafta, 9 faz. Film dilinden başlayıp klasik teoriye, auteur ve türe, göstergebilim ve '
+             'psikanalize, bilişsel kurama, belgesele, dijital sinemaya ve Türkiye sinemasına uzanıyor. Her faz bir '
+             'öncekinin üstüne kurulu. Dersleri yayımlanmış haftalara tıklayabilirsin.</p>']
     for f in program:
-        parts.append(f'<section class="phase"><p class="kicker">Faz {esc(f["faz"])} · Hafta {f["baslangic"]}–{f["bitis"]}</p>'
+        parts.append(f'<section class="phase"><p class="kicker">Faz {esc(f["faz"])}, Hafta {f["baslangic"]}–{f["bitis"]}</p>'
                      f'<h2>{esc(f["ad"])}</h2><p class="desc">{esc(f["aciklama"])}</p><ul class="weeks">')
         for w in f["haftalar"]:
             end = w.get("hafta_bitis") or w["hafta"]
@@ -428,9 +418,9 @@ def collect_terms(lessons):
 
 
 def glossary_page(terms):
-    parts = ['<p class="kicker">Sözlük</p>', "<h1>Terimler</h1>",
-             '<p>Derslerde geçen bütün terimler; Türkçe karşılık, İngilizce (gerekirse orijinal dil) ve tek cümlelik tanım. '
-             'Her terim ilk geçtiği derse bağlanır.</p>',
+    parts = ['<h1 class="page-title">Sözlük</h1>',
+             f'<p class="intro">Derslerde geçen {len(terms)} terim: Türkçesi, İngilizcesi (gerekirse orijinal dili) ve tek '
+             'cümlelik tanımı. Her terim ilk geçtiği derse bağlanıyor.</p>',
              '<input class="search" type="search" placeholder="Terim ara (Türkçe ya da İngilizce)…" data-filter aria-label="Terim ara">']
     parts.append(terms_table(terms, with_source=True))
     parts.append('<p class="empty" data-empty hidden>Bu aramayla eşleşen terim yok.</p>')
@@ -455,24 +445,19 @@ def collect_films(lessons):
 
 
 def films_page(films):
-    parts = ['<p class="kicker">Filmler</p>', "<h1>Derslerde konuşulan filmler</h1>",
-             '<p>Haftanın filmleri ve derslerde örnek olarak açılan filmler. Programdaki bütün film listesi '
-             '<a href="program.html">Program</a> sayfasında.</p>']
+    parts = ['<h1 class="page-title">Filmler</h1>',
+             '<p class="intro">Haftanın filmleri ve derslerde örnek olarak açılan filmler. Programdaki bütün filmlerin '
+             'listesi <a href="program.html">Program</a> sayfasında.</p>']
     if not films:
         parts.append('<p class="empty">Henüz film yok.</p>')
     for f in films:
         bits = [str(f[k]) for k in ("yonetmen", "yil") if f.get(k)]
-        meta = " · ".join(bits)
+        meta = ", ".join(bits)
         note = f'<p style="margin:0.3rem 0 0.4rem">{f["not"]}</p>' if f.get("not") else ""
         parts.append(f'<div class="film-card"><h3><i>{esc(f["ad"])}</i></h3>'
                      f'<div class="fmeta">{esc(meta)}</div>{note}'
                      f'<div class="fmeta">Geçtiği dersler: {", ".join(f["_refs"])}</div></div>')
     return page("Filmler", "\n".join(parts), "filmler")
-
-
-def manifest_js(lessons):
-    data = [{"s": L["_slug"], "l": label(L), "t": L["baslik"], "w": L["hafta"]} for L in lessons]
-    return "window.FT_LESSONS = " + json.dumps(data, ensure_ascii=False) + ";\n"
 
 
 def feed(lessons):
@@ -503,13 +488,15 @@ def main():
         prev = lessons[i - 1] if i > 0 else None
         nxt = lessons[i + 1] if i + 1 < total else None
         f = out / f"{L['_slug']}.html"
-        f.write_text(lesson_page(L, prev, nxt, total, program), encoding="utf-8")
+        f.write_text(lesson_page(L, prev, nxt, program, lessons), encoding="utf-8")
         keep.add(f.name)
     for f in out.glob("*.html"):
         if f.name not in keep:
             f.unlink()
-    (ROOT / "assets" / "manifest.js").write_text(manifest_js(lessons), encoding="utf-8")
-    (ROOT / "index.html").write_text(index_page(lessons, program, terms, films), encoding="utf-8")
+    mf = ROOT / "assets" / "manifest.js"
+    if mf.exists():
+        mf.unlink()
+    (ROOT / "index.html").write_text(index_page(lessons, program), encoding="utf-8")
     (ROOT / "dersler.html").write_text(dersler_page(lessons, program), encoding="utf-8")
     (ROOT / "arsiv.html").write_text(redirect_page("dersler.html"), encoding="utf-8")
     (ROOT / "program.html").write_text(program_page(program, lessons), encoding="utf-8")
