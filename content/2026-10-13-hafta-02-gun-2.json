@@ -1,0 +1,77 @@
+{
+  "hafta": 2,
+  "gun": 2,
+  "tarih": "2026-10-13",
+  "tur": "ders",
+  "baslik": "Nedensellik",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 3",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Bir anlatıyı anlatı yapan şey olayların art arda gelmesi değil, birbirine neden–sonuç bağlarıyla zincirlenmesidir; seyirci bu zinciri sürekli kurar, eksik halkaları tahmin eder ve film onun bu tahminleriyle oynar.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün iki katmanı ayırdık: filmin bize perdede gösterdiği <b>olay örgüsü</b> (<i>plot</i> / Rusça <i>syuzhet</i>) ve bizim zihnimizde kurduğumuz <b>hikâye</b> (<i>story</i> / <i>fabula</i>). Bugünün sorusu şu: Seyirci hikâyeyi neyin üzerine kuruyor? Bordwell ve Thompson'ın <i>Film Art</i> kitabındaki cevap net: her şeyden önce <b>nedensellik</b> (<i>causality</i>) üzerine. Anlatıyı, zaman ve mekânda geçen, birbirine neden–sonuç ilişkisiyle bağlı olaylar zinciri olarak tanımlıyorlar. Romancı E. M. Forster'ın ünlü örneğiyle: “kral öldü, sonra kraliçe öldü” bir sıralamadır; “kral öldü, kraliçe de kederden öldü” bir anlatıdır. Aradaki fark “kederden” kelimesidir; o kelime bir nedeni gösterir.</p><p>Bu iddianın neye karşı durduğunu görmek önemli. Filmi bir “olaylar dizisi” ya da yönetmenin ruh hâlinin dökümü olarak gören gevşek bir yaklaşım var; bu yaklaşımda sahneler yan yana durur, anlam ise “atmosfer”den doğar. Bordwell ve Thompson'ın biçimci (<i>formalist</i>) tutumu buna itiraz eder: Seyirci pasif bir alıcı değildir; her sahnede “bu neden oldu, bundan ne çıkacak?” sorusunu sorarak aktif bir zihinsel iş yapar. Film anlamı bize teslim etmez; biz onu nedensel çıkarımlarla inşa ederiz. Bu fikir, Hafta 1'de gördüğümüz “biçim seyircinin beklentilerini harekete geçirir” ilkesinin anlatıya uygulanmış hâlidir.</p><p><b>Nedenler nereden gelir?</b> Klasik anlatı sinemasında (<i>classical narrative cinema</i>) nedenlerin çoğu <b>karakterlerden</b> gelir. Karakter, anlatıda bir <b>fail</b>dir (<i>agent</i>): bir arzusu, bir hedefi (<i>goal</i>) ve onu bu hedefe doğru iten ya da engelleyen <b>karakter özellikleri</b> (<i>character traits</i>) vardır. Kıskanç, korkak, hırslı, dürüst... Bu sıfatlar dekor değildir; olayları doğuran motorlardır. Film bir karaktere ilk dakikalarda bir özellik verdiyse, o özellik genellikle ileride bir olayın nedeni olarak geri döner. Doğal olaylar (bir fırtına, bir deprem) ya da toplumsal güçler (savaş, yoksulluk, bir kurum) da neden olabilir; ama klasik filmde bunlar çoğunlukla karakterlerin seçimleri için bir çerçeve olarak kalır. Bazı akımlar, örneğin İtalyan Yeni Gerçekçiliği ya da Sovyet montaj sineması, nedenselliğin ağırlığını bireyden topluma kaydırır; bunu ilerleyen haftalarda göreceğiz.</p><p><b>Motivasyon.</b> Hafta 1'de biçim tartışırken <b>motivasyon</b> (<i>motivation</i>) kavramıyla karşılaşmıştın: bir öğenin filmde bulunmasının gerekçesi. Nedensellik, motivasyonun en güçlü türüdür. Bir silah ilk perdede masada duruyorsa, seyirci onun bir nedeni olduğunu varsayar ve ileride işe yaramasını bekler. Senaristlerin “yerleştirme” (<i>setup</i> ya da <i>planting</i>) dediği şey budur: Bir sonucu önceden hazırlamak, böylece geldiğinde keyfî görünmemesini sağlamak. Kötü yazılmış bir filmde sonuçlar “gökten düşer”; iyi yazılmış birinde, geriye dönüp baktığında nedenin oradan beri durduğunu fark edersin.</p><p><b>Nedenler ve sonuçlar her zaman aynı anda verilmez.</b> Olay örgüsü ile hikâye arasındaki fark burada işe yarar. Bir polisiye filmde sonucu (bir ceset) en başta görürüz; neden, yani cinayetin nasıl ve niçin işlendiği, olay örgüsünün sonuna kadar saklanır. Hikâyede neden önce gelir, ama olay örgüsü onu geriye atar. Bu boşluk merakı (<i>curiosity</i>) doğurur. Tersi de mümkündür: Nedeni görürüz (bir bomba masanın altına konur), sonucu bekleriz; bu da gerilimi (<i>suspense</i>) doğurur. Yani bir filmin duygusal etkisinin büyük kısmı, nedensel bilgiyi ne zaman verdiğine ve ne zaman sakladığına bağlıdır.</p><p><b>Kapanış.</b> Nedensellik zinciri bir yerde sonlanmalı mı? Klasik film çoğunlukla <b>kapanış</b> (<i>closure</i>) sunar: Açılan nedensel sorular cevaplanır, hedefe ulaşılır ya da ulaşılamaz ama bir sonuç vardır. Bazı filmler ise bilinçli olarak <b>açık son</b> (<i>open ending</i>) bırakır: Bazı nedenler ya da sonuçlar belirsiz kalır, seyirciyi kendi çıkarımını yapmaya zorlar. Bu bir eksiklik değil, bir tercihtir; filmin seyirciyle kurduğu ilişkinin parçasıdır. Klasik anlatıda sık görülen bir başka araç da <b>zaman sınırı</b>dır (<i>deadline</i>): “Gün batmadan”, “tren kalkmadan” gibi bir süre, nedensel zinciri sıkıştırır ve hızlandırır.</p><p>Bunun neden önemli olduğunu tek cümleyle söyleyeyim: Nedensellik, filmin “ne anlattığı”ndan çok “nasıl düşündürdüğü”yle ilgilidir. Bir filmin hangi nedenleri gösterdiği, hangilerini sakladığı ve hangilerini hiç vermediği, onun dünya hakkında neyi önemli saydığını da ele verir.</p>"
+    },
+    {
+      "baslik": "Örnek: Rashomon",
+      "html": "<p><i>Rashomon</i> nedensellik kavramını adeta laboratuvar koşullarında sınar. Sonuç baştan bellidir: Ormanda bir samuray ölmüştür. Yağmur altındaki Rashomon kapısında oduncu ile rahip, olayın sorgusunu ve tanıklıklarını anlatır. Film boyunca öğrendiğimiz şey sonuç değil, <b>nedenler</b>dir; ve her anlatıcı aynı sonuca farklı bir nedensel zincirle ulaşır. Her versiyonda karakterlerin özellikleri değişir: Birinde biri cesur ve onurludur, öbüründe aynı kişi aşağılık ya da zayıftır. Dikkat et: Değişen sadece “kim yaptı” değildir; olayı doğuran karakter özellikleri, yani nedenlerin kaynağı da değişir. Bu yüzden film, seyircinin en güvendiği zihinsel işlemi, nedensel çıkarımı, sarsar. Normalde hikâyeyi olay örgüsünden kurarız; burada elimizde birbiriyle çelişen birden fazla olay örgüsü vardır ve hangisinin “gerçek” hikâyeye götürdüğüne karar veremeyiz. Filmi izlerken her versiyon için kendine şunu sor: Bu anlatıcı ölümün nedenini kimin karakterine yüklüyor, ve bu açıklama anlatıcının kendisine ne kazandırıyor?</p><p>İsteğe bağlı film <i>Memento</i> aynı sorunu başka bir yönden kurar: Kahraman yakın geçmişi hatırlayamadığı için her sahnenin nedeni ondan da bizden de saklıdır; olay örgüsü bizi sonuçtan nedene doğru geriye yürütür.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü nedensellik fikri, yarın göreceğimiz zaman düzeniyle doğrudan bağlantılıdır ve ileride Bordwell'in klasik Hollywood anlatımı üzerine çalışmalarında, “hedef odaklı kahraman” modelinin temeli olarak yeniden karşımıza çıkacak.</p>"
+    }
+  ],
+  "soru_baslik": "Bugünün 3 sorusu",
+  "sorular": [
+    "“Olayların art arda sıralanması” ile “nedensel zincir” arasındaki farkı kendi uydurduğun iki cümlelik bir örnekle göster.",
+    "Merak (<i>curiosity</i>) ve gerilim (<i>suspense</i>) nedensel bilginin verilme sırasıyla nasıl ilişkilidir? Her biri için bir film sahnesi örneği ver.",
+    "<i>Rashomon</i>'da sonuç (samurayın ölümü) sabitken nedenlerin değişmesi, seyircinin hikâyeyi (<i>fabula</i>) kurma işini nasıl etkiler?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi bölümünün, reklamın ya da kısa videonun ilk iki dakikasını düşün. İki şeyi not et: (1) Ana karakterin hedefi ne ve bunu ilk ne zaman anladın? (2) İlk dakikalarda verilen bir karakter özelliği ya da nesne, sonradan bir olayın nedeni olarak geri döndü mü (yerleştirme)?",
+  "terimler": [
+    {
+      "tr": "Nedensellik",
+      "en": "causality",
+      "tanim": "Anlatıdaki olayları birbirine neden–sonuç ilişkisiyle bağlayan ilke."
+    },
+    {
+      "tr": "Fail / karakter özellikleri",
+      "en": "agent / character traits",
+      "tanim": "Olayları doğuran kişi ve onun eylemlerini açıklayan nitelikler."
+    },
+    {
+      "tr": "Motivasyon",
+      "en": "motivation",
+      "tanim": "Bir öğenin filmde bulunmasının gerekçesi; nedensel motivasyon onun en yaygın türüdür."
+    },
+    {
+      "tr": "Yerleştirme",
+      "en": "setup / planting",
+      "tanim": "İleride işe yarayacak bir nedeni önceden göstererek sonucu hazırlamak."
+    },
+    {
+      "tr": "Merak / gerilim",
+      "en": "curiosity / suspense",
+      "tanim": "Nedenin saklanmasından doğan soru ile sonucun beklenmesinden doğan endişe."
+    },
+    {
+      "tr": "Kapanış / açık son",
+      "en": "closure / open ending",
+      "tanim": "Nedensel soruların cevaplanarak bitmesi ya da bilerek belirsiz bırakılması."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "Memento",
+      "yil": 2000,
+      "yonetmen": "Christopher Nolan",
+      "not": "İsteğe bağlı"
+    }
+  ],
+  "yarin": "Zaman: olay örgüsü hikâyenin sırasını, süresini ve sıklığını nasıl değiştirir (geriye dönüş, eliptik anlatım, tekrar)."
+}
