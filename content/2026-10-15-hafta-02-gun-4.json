@@ -1,0 +1,81 @@
+{
+  "hafta": 2,
+  "gun": 4,
+  "tarih": "2026-10-15",
+  "tur": "ders",
+  "baslik": "Anlatımın Menzili — Sınırlı ve Sınırsız Anlatım",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 3 (anlatı biçimi), anlatımın menzili alt başlığı.",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Her film, hikâye bilgisini seyirciye belli bir ölçüyle dağıtır: ya bizi tek bir karakterin bildikleriyle sınırlar ya da karakterlerin hiçbirinin bilmediğini bize gösterir; bu seçim, bir sahnenin merak mı, gerilim mi, şaşkınlık mı üreteceğini belirler.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Bu hafta adım adım ilerliyoruz: önce hikâye (<i>story</i> / Rusça <i>fabula</i>) ile olay örgüsü (<i>plot</i> / <i>syuzhet</i>) ayrımını kurduk, sonra bu ikisini birbirine bağlayan nedenselliği, dün de zamanın sıra, süre ve sıklık eksenlerinde nasıl yeniden düzenlendiğini gördük. Bugün yeni bir soru soruyoruz: olay örgüsü hikâye bilgisini <b>kimin gözünden ve ne kadarıyla</b> veriyor?</p>\n<p>Bordwell ve Thompson, olay örgüsünün hikâye bilgisini seyirciye sunma sürecine anlatım (<i>narration</i>) diyor. Dikkat: burada anlatım, bir anlatıcı sesinin (<i>voice-over</i>) konuşması demek değil. Anlatıcısı olmayan bir film de anlatım yapar; çünkü hangi planın gösterileceğine, hangi bilginin saklanacağına, hangi anın atlanacağına karar veren bir süreç her zaman vardır. Kitabın bu bölümdeki temel iddiası, bu sürecin iki boyutta incelenebileceğidir: <b>menzil</b> (<i>range</i>), yani ne kadar bilgi verildiği, ve <b>derinlik</b> (<i>depth</i>), yani bu bilginin karakterlerin iç dünyasına ne kadar indiği. Bugün menzil; derinlik yarın.</p>\n<p><b>1. Sınırsız anlatım</b> (<i>unrestricted narration</i>). Film bizi tek bir karaktere bağlamaz; bir mekândan ötekine, bir karakter grubundan ötekine serbestçe geçer. Sonuçta seyirci, herhangi bir karakterin tek başına bildiğinden daha fazlasını bilir. Edebiyattaki “her şeyi bilen anlatıcı” (<i>omniscient narration</i>) buna yakındır. Paralel kurgulanmış bir kaçış–kovalama sahnesi tipik örnektir: kaçanın nereye saklandığını da, kovalayanın hangi yoldan geldiğini de biz görürüz; ikisi de ötekinin konumunu bilmez.</p>\n<p><b>2. Sınırlı anlatım</b> (<i>restricted narration</i>). Film bizi büyük ölçüde tek bir karakterin deneyimine bağlar: o karakter neyi öğrenirse biz de onu, onunla aynı anda öğreniriz. Kitabın klasik örneği dedektif filmidir (ör. <i>The Big Sleep</i>, 1946): dedektif bir odaya girmeden biz o odayı görmeyiz, o bir ipucunu bulmadan biz de bulmayız. Cinayetin çözümünü dedektifle birlikte öğreniriz.</p>\n<p><b>3. Bilgi hiyerarşisi</b> (<i>hierarchy of knowledge</i>). Bu iki kutup bir “ya o ya bu” değil, bir yelpazedir. Bir film çoğunlukla sınırlı olup kritik bir anda sınırsıza açılabilir. Bunu ölçmenin pratik yolu, her sahnede kendine şunu sormaktır: <b>Şu an kim neyi biliyor, ben neyi biliyorum?</b> Seyirci bazen karakterle eşit, bazen ondan geride, bazen ondan önde durur. Kitap bu yelpazeyi <i>North by Northwest</i> (Hitchcock, 1959) üzerinden gösterir: film neredeyse baştan sona yanlışlıkla casus sanılan kahramanına bağlıdır; ama bir sahnede istihbaratçıların toplantısına geçer ve kahramanın henüz bilmediği önemli bir gerçeği bize söyler. O andan sonra biz ondan bir adım öndeyizdir ve ona olan biteni izlerken kaygımız artar.</p>\n<p><b>4. Menzilin duygusal sonuçları: merak, gerilim, şaşkınlık.</b> Menzil seçimi yalnızca bir “bilgi muhasebesi” değildir; seyircinin ne hissedeceğini belirler.</p>\n<ul>\n<li><b>Merak</b> (<i>curiosity</i>): Sınırlı anlatım, özellikle geçmişe ait bilgiyi sakladığında, “ne oldu, kim yaptı?” sorusunu doğurur. Gizem (<i>mystery</i>) türü bunun üzerine kuruludur.</li>\n<li><b>Gerilim</b> (<i>suspense</i>): Sınırsız anlatım, karakterin bilmediği bir tehlikeyi bize önceden gösterdiğinde “ne olacak?” sorusu acı verici hâle gelir. Hitchcock'un meşhur bomba örneği bunu anlatır: masanın altında bomba olduğunu seyirci bilip karakterler bilmiyorsa, sıradan bir sohbet dakikalarca gergin bir sahneye dönüşür.</li>\n<li><b>Şaşkınlık</b> (<i>surprise</i>): Aynı bombayı seyirci de bilmiyorsa, patlama yalnızca birkaç saniyelik bir şok yaratır. Sınırlı anlatım, beklentimizi aniden kıran bir bilgiyle şaşkınlık üretir.</li>\n</ul>\n<p>Melodramlar çoğu zaman sınırsızdır (karakterlerin birbirinden habersiz acı çektiğini biz biliriz); gizem filmleri ise sınırlıdır. Ama tür bir kural değil, bir eğilimdir.</p>\n<p><b>Neden önemli, kime karşı?</b> Bu yaklaşım, “kamera tarafsız bir göz, film olanı olduğu gibi gösterir” düşüncesine karşı çıkar: kameranın nerede durduğu, neyi gösterip neyi göstermediği her an bir bilgi stratejisidir. Ayrıca filmi yalnızca “konu”su ile değerlendiren okumaya da karşıdır: aynı hikâye sınırlı anlatılırsa bir gizem, sınırsız anlatılırsa bir gerilim filmi olur. Bordwell'in sonraki çalışmalarında geliştireceği bilişsel bakışın (Hafta 31) özü de burada: seyirci, filmin kendisine verdiği bilgi miktarına göre sürekli hipotez kuran, bekleyen, düzelten aktif bir zihindir.</p>"
+    },
+    {
+      "baslik": "Örnek: Rashomon'da menzil",
+      "html": "<p>Rashomon (Kurosawa, 1950) menzil kavramını alışılmadık bir yere taşır. Ormandaki olayın her versiyonu tek bir tanığa bağlıdır: haydutun anlatısında haydutun bildiği ve iddia ettiği kadarını, kadının anlatısında onun anlattığı kadarını görürüz. Yani her geriye dönüş <b>sınırlı</b> bir anlatımdır. Normalde sınırlı anlatımlar bir yerde birleşir ve film sonunda bize sınırsız, “gerçek” bir versiyon sunar; dedektif filmlerinin sonundaki çözüm sahnesi gibi. Rashomon bu kontrol versiyonunu vermez. Film kendi sesinden, hiçbir tanığa bağlı olmayan tarafsız bir “olan buydu” planı göstermez.</p>\n<p>Mahkeme sahnelerine dikkat et: tanıklar kameraya, yani doğrudan bize bakarak konuşur; yargıcı hiç görmeyiz, sorularını duymayız. Böylece film bizi mahkemenin yerine koyar: karar verecek olan biziz, ama elimizde yalnızca birbiriyle çelişen sınırlı anlatımlar var. Burada menzil, Gün 3'te konuştuğumuz sıklıkla birleşir: aynı olay dört kez gösterilir, ama her seferinde farklı bir bilgi sınırı içinden. Sonuç, seyircinin karakterlerden <i>önde</i> değil, onlarla birlikte sisin içinde kalmasıdır. Cumartesi filmi izlerken her anlatı için şunu not et: Bu anlatıcı neyi görmüş olabilir, neyi görmüş olamaz?</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Seyircinin bir karakterin bilgisine “bağlanması” fikri, Hafta 31'de Murray Smith'in hizalanma (<i>alignment</i>) kavramıyla, Hafta 27'de ise psikanalitik teorinin dikiş (<i>suture</i>) kavramıyla çok farklı iki yönden yeniden karşımıza çıkacak.</p>"
+    }
+  ],
+  "soru_baslik": "Bugünün 3 sorusu",
+  "sorular": [
+    "Sınırlı ve sınırsız anlatımı kendi cümlelerinle tanımla ve her biri için izlediğin bir filmden bir örnek ver.",
+    "Hitchcock'un bomba örneğinde aynı sahne, seyircinin bilgisi değiştiğinde neden gerilimden şaşkınlığa dönüşür? Cevabını “bilgi hiyerarşisi” kavramıyla kur.",
+    "Bir filmin anlatıcı sesi (<i>voice-over</i>) olmasa bile bir anlatımı vardır. Bu cümle ne demek? Anlatım ile anlatıcı arasındaki farkı açıkla."
+  ],
+  "gozlem": "Bugün izlediğin bir dizi sahnesini ya da bir videoyu seç. Sahne boyunca üç kez dur ve kendine sor: “Şu an ben, ekrandaki karakterden <b>daha az</b> mı, <b>eşit</b> mi, <b>daha fazla</b> mı biliyorum?” Cevabın sahne içinde değişti mi? Değiştiyse, bunu hangi plan ya da kesme değiştirdi? Tek cümleyle not et.",
+  "terimler": [
+    {
+      "tr": "Anlatım",
+      "en": "narration",
+      "tanim": "Olay örgüsünün hikâye bilgisini seyirciye seçerek ve düzenleyerek sunma süreci."
+    },
+    {
+      "tr": "Anlatımın menzili",
+      "en": "range of story information",
+      "tanim": "Seyircinin hikâye bilgisine ne kadar geniş erişimi olduğu."
+    },
+    {
+      "tr": "Sınırlı anlatım",
+      "en": "restricted narration",
+      "tanim": "Seyircinin bilgisini büyük ölçüde tek bir karakterin bildikleriyle sınırlayan anlatım."
+    },
+    {
+      "tr": "Sınırsız (her şeyi bilen) anlatım",
+      "en": "unrestricted / omniscient narration",
+      "tanim": "Seyirciye herhangi bir karakterin tek başına bildiğinden fazlasını gösteren anlatım."
+    },
+    {
+      "tr": "Bilgi hiyerarşisi",
+      "en": "hierarchy of knowledge",
+      "tanim": "Bir sahnede seyirci ile karakterlerin hikâye bilgisi bakımından birbirine göre konumu."
+    },
+    {
+      "tr": "Gerilim / şaşkınlık",
+      "en": "suspense / surprise",
+      "tanim": "Seyircinin karakterden fazla bildiği beklenti hâli / bilgi saklanınca ortaya çıkan ani şok."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "The Big Sleep",
+      "yil": 1946,
+      "yonetmen": "Howard Hawks"
+    },
+    {
+      "ad": "North by Northwest",
+      "yil": 1959,
+      "yonetmen": "Alfred Hitchcock"
+    }
+  ],
+  "yarin": "Anlatımın derinliği (<i>depth of story information</i>): film bizi bir karakterin dış davranışında mı tutuyor, yoksa zihnine mi sokuyor; öznel ve nesnel anlatım, anlatıcının güvenilirliği ve diegetik / diegetik olmayan unsurlar."
+}
