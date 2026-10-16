@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Film Teorisi sitesini content/*.json dosyalarından üretir.
+"""Builds the Film Teorisi site from the content/*.json files.
 
-Kullanım (repo kökünden):  python3 scripts/build.py
+Usage (from the repo root):  python3 scripts/build.py
 
-Üretilenler: index.html, dersler.html, program.html, sozluk.html, filmler.html,
-arsiv.html (dersler.html'e yönlendirir), feed.xml ve
-ders/<slug>.html. Ders içeriğinin biçimi için README.md'ye bak.
+Generates: index.html, dersler.html, program.html, sozluk.html, filmler.html,
+arsiv.html (redirects to dersler.html), feed.xml and
+ders/<slug>.html. See README.md for the lesson content format.
 """
 import datetime as dt
 import html
@@ -21,9 +21,9 @@ except Exception:  # pragma: no cover
     TZ = None
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-SITE_URL = "https://sguven.github.io/film-teorisi/"
+SITE_URL = "https://sguven.github.io/film-theory/"
 SITE_NAME = "Film Teorisi"
-START = dt.date(2026, 10, 5)  # Hafta 1'in (kaydırılmış) Pazartesi'si; Hafta n = START + 7(n-1)
+START = dt.date(2026, 10, 5)  # Monday of Week 1 (shifted); Week n = START + 7(n-1)
 TOTAL_WEEKS = 52
 
 AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos",
@@ -81,12 +81,12 @@ def day_label(L):
 
 def sort_key(L):
     g = L["gun"]
-    # Tekrar günü Gün 5'ten sonra, Gün 6'dan önce gelir
+    # The review day comes after Day 5 and before Day 6
     order = 5.5 if g == "tekrar" else float(g)
     return (L["hafta"], order, L["_date"])
 
 
-# ---------------------------------------------------------------- yükleme
+# ---------------------------------------------------------------- loading
 def load_lessons():
     lessons = []
     for p in sorted((ROOT / "content").glob("*.json")):
@@ -136,7 +136,7 @@ def week_info(program, week):
     return None
 
 
-# ---------------------------------------------------------------- şablon
+# ---------------------------------------------------------------- template
 def page(title, body, active, depth=0, description="", wide=False):
     up = "../" * depth
     nav = [("index.html", "Son ders", "ana"), ("dersler.html", "Dersler", "dersler"),
@@ -221,7 +221,7 @@ def tag(L):
 
 # ---------------------------------------------------------------- sayfalar
 def week_strip(week, week_lessons, ders_prefix, current=None):
-    """Haftanın günlerini 7 kareli bir film şeridi olarak gösterir."""
+    """Shows the days of the week as a 7-frame film strip."""
     by = {str(x["gun"]): x for x in week_lessons}
     slots = ["1", "2", "3", "4", "5"] + (["tekrar"] if "tekrar" in by else []) + ["6", "7"]
     items = []
@@ -257,7 +257,7 @@ def lesson_header(L, program, up, latest=False):
 
 
 def lesson_body(L, prev, nxt, program, ders_prefix, up, week_lessons, latest=False, total=0):
-    """Ders içeriği. ders_prefix: ders sayfalarına giden yolun öneki ("" ders/ içinden, "ders/" kökten)."""
+    """Lesson content. ders_prefix: prefix of the path to lesson pages ("" from inside ders/, "ders/" from the root)."""
     parts = [lesson_header(L, program, up, latest)]
     parts.append(week_strip(L["hafta"], week_lessons, ders_prefix, current=L))
     if L.get("tek_cumle"):
