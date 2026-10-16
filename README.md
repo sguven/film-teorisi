@@ -1,75 +1,85 @@
-# Film Teorisi
+# Film Theory
 
-52 haftalık bir film teorisi okuma programının günlük dersleri, testleri ve terim sözlüğü.
+Daily lessons, quizzes and a glossary from a 52-week film theory reading program.
+The lessons themselves are written in Turkish, with English terms alongside.
 
-**Site:** https://sguven.github.io/film-teorisi/
+**Site:** https://sguven.github.io/film-theory/
 
-Dersler her gün zamanlanmış bir görevle (Claude) hazırlanır, `content/` klasörüne JSON olarak eklenir ve
-`scripts/build.py` siteyi yeniden üretir. Sayfalar düz HTML'dir; GitHub Pages `main` dalının kökünden yayımlar.
+A scheduled task (Claude) prepares each day's lesson, adds it to `content/` as JSON, and
+`scripts/build.py` regenerates the site. Pages are plain HTML; GitHub Pages publishes from the
+root of the `main` branch.
 
-## Klasörler
+## Layout
 
-| Yol | Ne |
+| Path | What it is |
 |---|---|
-| `content/YYYY-MM-DD-hafta-XX-gun-Y.json` | Her dersin içeriği (kaynak) |
-| `data/program.json` | 52 haftalık programın faz ve hafta başlıkları |
-| `pdf/` | Derslerin PDF sürümleri |
-| `scripts/build.py` | Siteyi üretir (yalnızca Python standart kütüphanesi) |
-| `assets/` | Stil ve küçük JS (test, sözlük arama) |
-| `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/` | Üretilen sayfalar; elle düzenleme, `build.py` üzerine yazar (`arsiv.html` → `dersler.html` yönlendirmesi) |
+| `content/YYYY-MM-DD-hafta-XX-gun-Y.json` | Source content for each lesson (`hafta` = week, `gun` = day) |
+| `data/program.json` | Phase and week titles for the 52-week program |
+| `pdf/` | PDF versions of the lessons |
+| `scripts/build.py` | Builds the site (Python standard library only) |
+| `assets/` | Styles and a little JS (quizzes, glossary search) |
+| `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `ders/` | Generated pages – don't edit by hand, `build.py` overwrites them (`arsiv.html` redirects to `dersler.html`) |
 
-## Ders dosyası biçimi
+Generated page names are Turkish because they are part of the site's public URLs:
+`dersler` = all lessons, `sozluk` = glossary, `filmler` = films, `ders/` = individual lessons.
 
-Dosya adı: `content/<tarih>-hafta-<XX>-gun-<Y>.json` (tekrar günü için `...-hafta-01-tekrar.json`).
+## Lesson file format
 
-```json
+File name: `content/<date>-hafta-<XX>-gun-<Y>.json` (for a review day: `...-hafta-01-tekrar.json`).
+Field names are Turkish because the build script and the scheduled task use them; the English
+meaning is in the comments below.
+
+```jsonc
 {
-  "hafta": 3,
-  "gun": 2,
-  "tarih": "2026-10-20",
-  "tur": "ders",
-  "baslik": "Konu başlığı",
-  "okuma": "Kaynak ve bölüm (isteğe bağlı)",
-  "film": "Haftanın filmi (isteğe bağlı)",
+  "hafta": 3,                     // week
+  "gun": 2,                       // day of the week, 1–7, or "tekrar" (review)
+  "tarih": "2026-10-20",          // date
+  "tur": "ders",                  // type: ders (lesson, days 1–5), tekrar (review), film (day 6), sinav (quiz, day 7)
+  "baslik": "Topic title",
+  "okuma": "Reading and chapter (optional)",
+  "film": "Film of the week (optional)",
   "pdf": "film-teorisi-hafta-03-gun-2.pdf",
-  "tek_cumle": "Bugünün tek cümlesi",
-  "bolumler": [{"baslik": "Anlatım", "html": "<p>...</p>"}],
-  "sorular": ["Soru 1", "Soru 2", "Soru 3"],
-  "soru_baslik": "Bugünün soruları",
-  "ipuclari": ["İsteğe bağlı; katlanmış kutuda gösterilir"],
-  "gozlem": "Gözlem görevi",
+  "tek_cumle": "Today's one sentence",
+  "bolumler": [{"baslik": "Lecture", "html": "<p>...</p>"}],      // sections
+  "sorular": ["Question 1", "Question 2", "Question 3"],          // questions
+  "soru_baslik": "Today's questions",                             // heading for the questions
+  "ipuclari": ["Optional; shown in a collapsed box"],             // hints
+  "gozlem": "Observation exercise",
   "quiz": [{"soru": "...", "secenekler": ["A", "B", "C", "D"], "dogru": 1, "aciklama": "..."}],
-  "analiz": "<p>Analiz görevi (sınav günü)</p>",
-  "terimler": [{"tr": "Derin odak", "en": "deep focus", "orijinal": "isteğe bağlı", "tanim": "Tek cümle"}],
-  "filmler": [{"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles", "not": "isteğe bağlı"}],
-  "yarin": "Yarının konusu"
+  "analiz": "<p>Analysis task (quiz day)</p>",
+  "terimler": [{"tr": "Derin odak", "en": "deep focus", "orijinal": "optional", "tanim": "One sentence"}],
+  "filmler": [{"ad": "Citizen Kane", "yil": 1941, "yonetmen": "Orson Welles", "not": "optional"}],
+  "yarin": "Tomorrow's topic"
 }
 ```
 
-- `gun`: 1–7 arası sayı ya da `"tekrar"`. `tur`: `ders` (Gün 1–5), `tekrar`, `film` (Gün 6), `sinav` (Gün 7).
-- `quiz[].dogru`: doğru seçeneğin sırası, **0'dan başlar**.
-- `html`, `sorular`, `gozlem`, `tek_cumle`, `yarin` alanlarında basit HTML (`<p> <b> <i> <ul> <ol> <li> <h3>`) kullanılabilir.
-- Tanımlanmamış alanlar atlanır. Terimler ve filmler sözlük ve film sayfalarında otomatik toplanır.
+- `quiz[].dogru` is the index of the correct option and **starts at 0**.
+- `html`, `sorular`, `gozlem`, `tek_cumle` and `yarin` accept simple HTML (`<p> <b> <i> <ul> <ol> <li> <h3>`).
+- Fields that aren't defined are skipped. Terms and films are collected automatically into the
+  glossary and film pages.
 
-## Yayımlama (çakışmasız)
+## Publishing (conflict-free)
 
 ```bash
-git add -A && git commit -m "Hafta X · Gün Y: konu"
+git add -A && git commit -m "Hafta X · Gün Y: topic"
 git fetch origin main && git -c merge.ours.driver=true rebase origin/main
-python3 scripts/build.py && git add -A && (git diff --cached --quiet || git commit -m "Siteyi yeniden üret")
+python3 scripts/build.py && git add -A && (git diff --cached --quiet || git commit -m "Rebuild site")
 git push origin main
 ```
 
-`.gitattributes` üretilen dosyalardaki çakışmaları otomatik geçer; `build.py` onları içerikten yeniden üretir.
+`.gitattributes` resolves conflicts in generated files automatically; `build.py` regenerates them
+from the content.
 
-## Ana sayfa
+## Home page
 
-Ana sayfa her zaman en güncel dersin kendisini gösterir. Diğer dersler "Bütün dersler" sayfasında, en yeni hafta en üstte.
+The home page always shows the latest lesson itself. All other lessons are on the "all lessons"
+page, newest week first.
 
-## Yerelde üretmek
+## Building locally
 
 ```bash
 python3 scripts/build.py
 ```
 
-Ders kaynaklarındaki kitap ve makaleler bu repoya konmaz; dersler fikirleri kendi cümleleriyle anlatır.
+The books and articles used as sources are not stored in this repo; the lessons explain the ideas
+in their own words.

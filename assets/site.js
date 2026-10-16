@@ -1,4 +1,4 @@
-/* Film Teorisi — etkileşimli parçalar: test, sözlük arama */
+/* Film Teorisi — interactive parts: quizzes, glossary search */
 (function () {
   "use strict";
 
@@ -58,7 +58,7 @@
     render();
   });
 
-  // ---------- Sözlük arama ----------
+  // ---------- Glossary search ----------
   var search = document.querySelector("[data-filter]");
   if (search) {
     var rows = Array.prototype.slice.call(document.querySelectorAll("[data-row]"));

@@ -1,5 +1,5 @@
-# Üretilen dosyalar: rebase/merge çakışmasında olduğu gibi bırak, ardından scripts/build.py yeniden üretir.
-# Kullanım: git -c merge.ours.driver=true rebase origin/main && python3 scripts/build.py
+# Generated files: keep them as they are during a rebase/merge conflict; scripts/build.py regenerates them afterwards.
+# Usage: git -c merge.ours.driver=true rebase origin/main && python3 scripts/build.py
 index.html merge=ours
 dersler.html merge=ours
 arsiv.html merge=ours
