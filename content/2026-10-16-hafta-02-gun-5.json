@@ -1,0 +1,44 @@
+{
+  "hafta": 2,
+  "gun": 5,
+  "tarih": "2026-10-16",
+  "tur": "ders",
+  "baslik": "Anlatımın Derinliği, Güvenilirlik ve Diegesis",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 3 (anlatı biçimi), anlatımın derinliği ve anlatıcı alt başlıkları.",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Bir film bize yalnızca <b>ne kadar</b> bilgi vereceğini (menzil) değil, o bilgiye bir karakterin <b>ne kadar içinden</b> bakacağımızı da (derinlik) seçer; Rashomon bu ikinci seçimin hiçbir zaman masum olmadığını gösterir.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p><b>1. Menzilden derinliğe.</b> Dün anlatımın menzilini (<i>range of story information</i>) gördük: kamera bir karakterin bildikleriyle mi sınırlı, yoksa her yere mi gidebiliyor? Bugünkü soru başka bir eksende: anlatımın derinliği (<i>depth of story information</i>). Bir karakterle kaldığımızda onu yalnızca dışarıdan mı görüyoruz, yoksa onun gördüğünü, duyduğunu, hatırladığını, hayal ettiğini de mi paylaşıyoruz? Bordwell ve Thompson'ın önemli uyarısı şu: bu iki eksen birbirinden bağımsızdır. Bir film menzil bakımından tek bir karaktere sıkı sıkıya bağlı kalıp onu tamamen dışarıdan gösterebilir; tersine, sınırsız bir anlatım birçok karakterin zihnine sırayla girebilir.</p><p><b>2. Nesnel ve öznel anlatım.</b> Derinliğin bir ucunda nesnel anlatım (<i>objective narration</i>) var: karakterlerin ne yaptığını, ne söylediğini görürüz ama zihinlerine girmeyiz; iç dünyayı davranıştan çıkarmak bize kalır. Öbür uçta öznel anlatım. Kitap bunu iki kademeye ayırır:</p><ul><li><b>Algısal öznellik</b> (<i>perceptual subjectivity</i>): karakterin algısını paylaşırız. En bilinen aracı bakış açısı planı (<i>point-of-view shot / optical POV</i>): kamera karakterin gözünün yerine geçer. Ses de bunu yapabilir: karakterin duyduğu gibi boğuk, uzak ya da bulanık bir ses (<i>sound perspective</i>).</li><li><b>Zihinsel öznellik</b> (<i>mental subjectivity</i>): bir adım daha içeri gireriz. İç ses (<i>inner voice</i>), hayaller, düşler, anılar ve özellikle geriye dönüş (<i>flashback</i>) bu düzeye aittir.</li></ul><p>Filmlerin çoğu bu ikisi arasında gidip gelir. Hitchcock gibi yönetmenler gerilimi tam da bu salınımla kurar: önce karaktere dışarıdan bakarız, sonra onun bakış açısından bir plan, sonra yine dışarıdan. Burada önemli nokta şu: derinlik bir <b>yoğunluk ayarıdır</b>, açık/kapalı bir düğme değil.</p><p><b>3. Anlatım ve anlatıcı aynı şey değil.</b> Bordwell bütün film boyunca bilgiyi dağıtan sürece anlatım (<i>narration</i>) der; bu süreç çoğu zaman bir kişiye bağlı değildir. Bazen ise film bir anlatıcı (<i>narrator</i>) koyar. Anlatıcı ya hikâyenin içinden bir karakterdir (karakter-anlatıcı, <i>character narrator</i>), ya da hikâyenin dışında kalan bir sestir (karakter olmayan anlatıcı, <i>noncharacter narrator</i>), örneğin bir belgeseldeki ya da bir masal filmindeki dış ses. Dikkat: bir karakterin dış sesle anlattığı film bile o karakterin bilemeyeceği şeyleri gösterebilir. Anlatıcının sözü ile filmin görüntüsü her zaman örtüşmez; bu boşluk bizim için en verimli analiz alanıdır.</p><p><b>4. Güvenilmez anlatım.</b> Seyirci olarak genellikle görüntüye güveniriz; “kamera yalan söylemez” varsayımıyla izleriz. Güvenilmez anlatım (<i>unreliable narration</i>) bu varsayımı kullanır: bir karakter yanlış ya da çarpıtılmış bir hikâye anlatır ve film bunu bir süre görüntüyle destekler. Klasik Hollywood'da bu, seyirciyi “aldatıyor” sayıldığı için tartışmalıydı; Hitchcock'un <i>Stage Fright</i>'ındaki (1950) yalan söyleyen geriye dönüş bu yüzden ünlüdür. Buradaki teorik ders şudur: öznel bir sahne her zaman bir <b>iddiadır</b>, kanıt değil. Geriye dönüş “bu oldu” demez; “bu karakter böyle olduğunu anlatıyor” der. Ama sinema bu iki şeyi aynı görüntü diliyle verdiği için aradaki farkı biz kurmak zorundayız.</p><p><b>5. Diegesis: hikâyenin dünyası.</b> Haftanın sınav sorularından biri doğrudan buraya bakıyor. Diegesis (<i>diegesis</i>; Yunanca kökenli, film kuramına Fransız filmoloji çevresinden <i>la diégèse</i> olarak geçti) filmin kurduğu hikâye dünyası demektir: karakterler, mekânlar, olaylar ve o dünyada var olan her şey. Bir unsur bu dünyanın içindeyse diegetiktir (<i>diegetic</i>): karakterlerin duyduğu radyo müziği, yağmurun sesi, bir tabelanın yazısı. Dünyanın dışındaysa diegetik olmayandır (<i>nondiegetic</i>): film müziğinin çoğu, jenerik yazıları, dış ses anlatıcı, karakterlerin göremediği ara yazılar. Basit test: “Karakterler bunu algılayabilir mi?” Evetse diegetik, hayırsa diegetik olmayan. Olay örgüsü (<i>syuzhet</i>) diegetik olmayan malzemeyi de içerir; hikâye (<i>fabula</i>) ise yalnızca diegetik olaylardan kurulur. Hafta 4'te ses bölümünde bu ayrımı çok daha ayrıntılı göreceğiz; sınırda kalan durumlar (ör. müziğin diegetik başlayıp diegetik olmayana dönüşmesi) orada asıl ilgi alanımız olacak.</p>"
+    },
+    {
+      "baslik": "Örnek: Rashomon",
+      "html": "<p>Rashomon'un mahkeme sahnelerine bak. Tanıklar doğrudan kameraya, yani bize konuşur. Sorguyu yapan yargıcı hiç görmeyiz, sorularını da duymayız; yalnızca tanıkların cevaplarından soruyu çıkarırız. Kamera yargıcın yerine oturur ve seyirciyi fiilen yargıç yapar. Bu, menzil açısından ilginç bir sınırlamadır, ama derinlik açısından daha da ilginç: her tanıklık bir geriye dönüşe açılır, yani zihinsel öznelliğe geçeriz. Tajomaru'nun, kadının, ölü samurayın (bir medyum aracılığıyla) ve oduncunun anlattıkları birbiriyle çelişir.</p><p>Can alıcı nokta şu: Kurosawa bu dört versiyonu görsel olarak birbirinden ayırmaz. Hiçbirinde “bu bir yalandır” diyen bir filtre ya da işaret yoktur; ormandaki görüntüler her seferinde aynı canlılık ve kesinlikle akar. Görüntü, nesnel anlatımın bütün otoritesini taşır ama içeriği öznel bir iddiadır. Böylece film, geriye dönüşün tarafsız bir kayıt olduğu inancını sarsar ve güvenilirliği seyircinin yargısına bırakır. Çerçeve hikâye de buna katkıda bulunur: Rashomon kapısındaki oduncu, rahip ve yolcu dinleyicidir; tanıklıklar onlara aktarılan tanıklıklardır. Bir anlatının içinde başka anlatılar, onların içinde de başka anlatılar vardır.</p><p>Diegesis açısından da dikkatli dinle: kapıdaki yağmurun sesi diegetiktir, karakterler onu duyar ve ona karşı bağırarak konuşur. Orman sahnelerine eşlik eden müzik ise büyük ölçüde diegetik değildir; karakterler duymaz, ama bizim her versiyonu nasıl hissedeceğimizi yönlendirir. Yani diegetik olmayan bir unsur, kimin anlatısının hangi duyguyla sunulduğunu sessizce etkiler.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü “görüntü bir iddiadır” fikri, Faz IV'te (Hafta 19–29) seyircinin görüntüye nasıl bağlandığını soran dikiş (<i>suture</i>) ve ideoloji kuramlarının tam başlangıç noktasıdır.</p>"
+    }
+  ],
+  "soru_baslik": "Bugünün 3 sorusu",
+  "sorular": [
+    "Menzil ile derinlik neden birbirinden bağımsız eksenlerdir? Sınırlı ama nesnel bir anlatıma bir örnek ver.",
+    "Algısal öznellik ile zihinsel öznellik arasındaki farkı birer sinema tekniğiyle açıkla.",
+    "Bir film müziği hangi koşulda diegetik, hangi koşulda diegetik olmayandır? Kullandığın testin sınırda kaldığı bir durum düşünebilir misin?"
+  ],
+  "gozlem": "Bugün izlediğin bir dizi, reklam ya da YouTube videosunda iki dakika boyunca yalnızca sese odaklan. Duyduğun her sesi iki sütuna yaz: diegetik / diegetik olmayan. Sonra kendine sor: diegetik olmayan sesler (müzik, dış ses, efekt) sana ne hissetmeni ya da kime inanmanı söylüyordu?",
+  "terimler": [
+    {"tr": "Anlatımın derinliği", "en": "depth of story information", "tanim": "Anlatımın bir karakterin algı ve zihnine ne kadar girdiği."},
+    {"tr": "Algısal öznellik", "en": "perceptual subjectivity", "tanim": "Karakterin gördüğünü ve duyduğunu paylaşmamız (ör. bakış açısı planı)."},
+    {"tr": "Zihinsel öznellik", "en": "mental subjectivity", "tanim": "Karakterin iç sesine, anılarına, hayallerine erişmemiz (ör. geriye dönüş)."},
+    {"tr": "Güvenilmez anlatım", "en": "unreliable narration", "tanim": "Anlatının bize yanlış ya da çarpıtılmış hikâye bilgisi verdiği durum."},
+    {"tr": "Diegesis", "en": "diegesis", "orijinal": "Fr. diégèse", "tanim": "Filmin kurduğu, karakterlerin içinde yaşadığı hikâye dünyası."},
+    {"tr": "Diegetik olmayan", "en": "nondiegetic", "tanim": "Hikâye dünyasının dışından gelen, karakterlerin algılayamadığı unsur (film müziği, jenerik, dış ses)."}
+  ],
+  "filmler": [
+    {"ad": "Rashomon", "yil": 1950, "yonetmen": "Akira Kurosawa"},
+    {"ad": "Stage Fright", "yil": 1950, "yonetmen": "Alfred Hitchcock"}
+  ],
+  "yarin": "Yarın film günü: Rashomon için spoiler vermeyen bir izleme rehberiyle haftanın bütün kavramlarını (hikâye/olay örgüsü, nedensellik, zaman, menzil, derinlik) tek filmde birleştireceğiz."
+}

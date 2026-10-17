@@ -1,0 +1,57 @@
+{
+  "hafta": 2,
+  "gun": 6,
+  "tarih": "2026-10-17",
+  "tur": "film",
+  "baslik": "Film günü — Rashomon (ve isteğe bağlı Memento)",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Bu hafta öğrendiğin her anlatı kavramı aslında seyircinin kafasında yaptığı bir işi adlandırıyor; bugün o işi bilerek yapacaksın: perdede gösterilenden (olay örgüsü) kafanda bir hikaye kurmaya çalışacak ve bunun nerede zorlaştığını fark edeceksin.",
+  "bolumler": [
+    {
+      "baslik": "Hangisiyle başlamalı?",
+      "html": "<p><b>Önce Rashomon</b> (Akira Kurosawa, 1950, yaklaşık 88 dakika). Haftanın zorunlu filmi bu; analiz görevin de bunun üzerine. Kısa, yoğun ve tek oturuşta izlenmeli. Vaktin ve enerjin kalırsa <b>Memento</b>'yu (Christopher Nolan, 2000, yaklaşık 113 dakika) başka bir gün izle; ikisini arka arkaya izlemek ikisini de bulanıklaştırır. İkisi de aynı soruyu farklı yoldan sorar: elimizdeki anlatım (<i>narration</i>) bize güvenilir bir hikaye kurmamıza izin veriyor mu?</p><p>Pratik not: Rashomon'u mümkünse iyi bir altyazıyla izle; ifadelerdeki küçük kelime farkları önemli. Not defterini yanına al ama ilk izleyişte sürekli durdurma; sadece aklına takılanı birkaç kelimeyle yaz.</p>"
+    },
+    {
+      "baslik": "Rashomon: neye dikkat etmeli?",
+      "html": "<p>Filmin kurgusu (spoiler değil, ilk dakikalarda kurulur): Yağmur altında, yıkık bir kent kapısında sığınan üç adam, ormanda yaşanmış bir olayı konuşuyor. Olay, farklı kişilerin ağzından, farklı biçimlerde yeniden anlatılıyor. İzlerken şu dört eksene bak:</p><ol><li><b>Üç zaman katmanı.</b> Filmde iç içe geçmiş en az üç zaman var: kapıdaki konuşmanın “şimdi”si, mahkemedeki ifadeler ve ifadelerin içinde canlandırılan ormandaki olay. Kendine sor: şu an hangi katmandayım ve bu sahneyi bana kim anlatıyor? Bu, haftanın <b>zaman sırası</b> (<i>order</i>) konusudur; olay örgüsü, hikayenin kronolojisini parçalayıp yeniden diziyor.</li><li><b>Aynı olayın tekrarı.</b> Ormandaki olay birden fazla kez gösteriliyor. Bu, Gün 4'te gördüğün <b>sıklık</b> (<i>frequency</i>) kavramının en saf örneği: hikayede bir kez olan şey, olay örgüsünde birkaç kez anlatılıyor. Her tekrarda neyin <b>aynı kaldığını</b>, neyin <b>değiştiğini</b> not et. Hafta 1'deki tekrar ve varyasyon ilkesi burada doğrudan iş başında.</li><li><b>Anlatımın menzili ve derinliği.</b> Her ifade, anlatanın bildikleriyle ve gördükleriyle sınırlı mı (<b>sınırlı anlatım</b> / <i>restricted narration</i>), yoksa kamera bazen anlatanın göremeyeceği şeyleri de gösteriyor mu? Kamera bir karakterin gözüne mi giriyor (öznel derinlik / <i>subjective depth</i>), yoksa dışarıdan mı bakıyor? Bu sorunun cevabı her ifadede aynı olmayabilir; asıl ilginç olan bu.</li><li><b>Güvenilirlik.</b> Filmin bize “doğru”yu verip vermediğini değil, <b>neden</b> her anlatıcının olayı böyle anlattığını düşün. Her ifade anlatanın kendisini nasıl görmek istediği hakkında ne söylüyor? Analiz görevin tam olarak bu.</li></ol>"
+    },
+    {
+      "baslik": "Biçime dair üç somut ipucu",
+      "html": "<ul><li><b>Mahkeme sahneleri.</b> Tanıkların kime konuştuğuna dikkat et. Sorgulayanı görüyor musun, duyuyor musun? Bu tercih seni, yani seyirciyi, hangi konuma yerleştiriyor? Bu küçük biçimsel karar, bütün filmin anlatım mantığının anahtarı.</li><li><b>Orman ve ışık.</b> Ormandaki sahnelerde ağaç yapraklarından süzülen güneşe, gölgelerin yüzlerde nasıl oynadığına ve kameranın çok hareketli olduğu anlara bak (görüntü yönetmeni Kazuo Miyagawa). Kapıdaki durağan, yağmurlu sahnelerle karşılaştır: iki mekanın görsel dili hangi zaman katmanına ait olduklarını sana nasıl söylüyor?</li><li><b>Müzik ve ses.</b> Fumio Hayasaka'nın müziğinin hangi sahnelerde girdiğine dikkat et. Müzik <b>diegetik olmayan</b> (<i>nondiegetic</i>) bir unsur: karakterler onu duymuyor ama sen duyuyorsun. Müzik bir ifadeye inanmanı mı kolaylaştırıyor, yoksa ona mesafe mi koyduruyor? Yağmurun sesi ise diegetik (<i>diegetic</i>): hikaye dünyasının içinde.</li></ul>"
+    },
+    {
+      "baslik": "İzlerken tutacağın kısa not şablonu",
+      "html": "<p>Her ifade için tek satır: <b>Anlatan kim? · Kime anlatıyor? · Kendini nasıl gösteriyor? · Bir önceki versiyondan en önemli fark ne?</b> Film bitince bu satırlar analiz görevinin iskeleti olacak.</p>"
+    },
+    {
+      "baslik": "Memento (isteğe bağlı): neye dikkat etmeli?",
+      "html": "<p>Filmin temel kuralı da açılışta kurulur: kısa süreli belleğini kaybetmiş bir adam, notlar ve fotoğraflarla bir şeyi çözmeye çalışıyor. Filmde iki ayrı anlatı çizgisi var; biri renkli, biri siyah-beyaz. İzlerken:</p><ul><li>Hangi çizgi hikayenin kronolojisine göre ileri, hangisi geri gidiyor? Bunu kendin çöz; Gün 2'deki hikaye/olay örgüsü (<i>fabula/syuzhet</i>) ayrımını bundan daha somut yaşayamazsın.</li><li>Seyirci olarak bilgi düzeyin kahramanınkine ne kadar yakın? Film menzili sınırlayarak seni onun durumuna sokuyor. Bu, Rashomon'daki sınırlı anlatımdan nasıl farklı?</li><li>Her sahnenin başında “bir önceki sahneyle nedensel bağı ne?” diye sor. Nedenselliği (<i>causality</i>) geriye doğru kurmak zorunda kalıyorsun; normalde kendiliğinden yaptığın iş görünür hale geliyor.</li></ul>"
+    },
+    {
+      "baslik": "Bu haftanın kavramları filmde nerede?",
+      "html": "<ul><li><b>Hikaye / olay örgüsü</b> (<i>fabula / syuzhet</i>): Rashomon'da tek olay, birden fazla olay örgüsü versiyonu. Memento'da kronolojiyi seyircinin kafasında yeniden kurması.</li><li><b>Nedensellik</b> (<i>causality</i>): Rashomon'da her ifadede olayın “neden” öyle geliştiği değişiyor. Memento'da sonuçtan nedene doğru ilerlemek.</li><li><b>Zaman: sıra, süre, sıklık</b>: Rashomon'da üç zaman katmanı; aynı olayın tekrarı. Memento'da iki çizginin zıt yönlü sırası.</li><li><b>Menzil ve derinlik</b>: Rashomon'da her anlatıcının bildiğiyle sınırlı görüntüler. Memento'da kahramanın bellek sınırına kilitlenmiş seyirci.</li><li><b>Diegetik / diegetik olmayan</b>: Rashomon'da yağmur sesi ve müzik. Memento'da dış ses (<i>voice-over</i>) ve müzik.</li></ul>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Rashomon'un “kim anlatıyor, ona ne kadar güvenebilirim?” sorusu, Hafta 31'de Bordwell'in seyircinin hipotez kuran etkin zihni ve Hafta 43'te belgeselde hakikatin nasıl kurulduğu tartışmalarında yeniden karşımıza çıkacak.</p>"
+    },
+    {
+      "baslik": "İzledikten sonra",
+      "html": "<p><b>İzledikten sonra bu projede yaz, tartışalım.</b> İlk izlenimini, not şablonundaki satırlarını ve seni en çok rahatsız eden ya da şaşırtan anı getir.</p>"
+    }
+  ],
+  "gozlem": "Bugün biriyle bir olay hakkında konuşurken (ya da bir haber/sosyal medya paylaşımında) aynı olayın iki farklı anlatımını yakala. Her birinde neyin atlandığını ve anlatanın kendini nasıl konumladığını tek cümleyle yaz. Rashomon'un yöntemini gündelik hayatta görmüş olacaksın.",
+  "terimler": [
+    {"tr": "Anlatım", "en": "narration", "tanim": "Olay örgüsünün hikaye bilgisini seyirciye hangi sırayla, ne kadar ve kimin gözünden verdiği süreç."},
+    {"tr": "Sıklık", "en": "frequency", "tanim": "Hikayede kaç kez olan bir olayın olay örgüsünde kaç kez gösterildiği."},
+    {"tr": "Sınırlı anlatım", "en": "restricted narration", "tanim": "Seyircinin bilgisini bir karakterin bildikleriyle sınırlayan anlatım."},
+    {"tr": "Öznel derinlik", "en": "subjective depth", "tanim": "Anlatımın bir karakterin algısına ya da zihnine girmesi (bakış açısı planı, iç ses, hatıra)."},
+    {"tr": "Güvenilmez anlatıcı", "en": "unreliable narrator", "tanim": "Anlattıklarının doğruluğundan şüphe etmemiz için film içinde ipuçları bulunan anlatıcı."},
+    {"tr": "Dış ses", "en": "voice-over", "tanim": "Görüntünün üzerine eklenen, sahnede konuşan biri olmadan duyulan anlatıcı sesi."}
+  ],
+  "filmler": [
+    {"ad": "Rashomon", "yil": 1950, "yonetmen": "Akira Kurosawa"},
+    {"ad": "Memento", "yil": 2000, "yonetmen": "Christopher Nolan"}
+  ],
+  "yarin": "Yarın Hafta 2 sınav günü: hikaye/olay örgüsü, anlatım ve diegesis üzerine bir test ve Rashomon'daki anlatıları menzil ve güvenilirlik üzerinden karşılaştıracağın analiz görevi."
+}
