@@ -1,0 +1,75 @@
+{
+  "hafta": 3,
+  "gun": 5,
+  "tarih": "2026-10-23",
+  "tur": "ders",
+  "baslik": "Sinematografi III — Hareketli çerçeve ve plan süresi",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 5 (son kısım: hareketli çerçeve ve planın süresi).",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "Kamera hareket ettiğinde ve plan uzadığında çerçeve sadece bir bakış noktası olmaktan çıkar, zamanın içinde akan bir anlatıcıya dönüşür: neyi, ne zaman ve hangi sırayla göreceğimize artık kesme değil, çerçevenin kendisi karar verir.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Bu hafta sinematografiyi üç seçim alanına ayırmıştık: fotoğrafik nitelikler (çarşamba), çerçeveleme (dün) ve planın süresi (bugün). Dün çerçeveyi sabit bir pencere gibi düşündük: açı, yükseklik, mesafe, kadraj dışı alan. Bugün o pencereyi hareket ettiriyoruz ve saatin işlediğini fark ediyoruz.</p><p>Bordwell ve Thompson'ın temel iddiası şu: kamera hareketi ve plan süresi süs değil, anlatımın (<i>narration</i>) aracıdır. Hareket eden bir çerçeve, kurgunun yaptığı işi, yani dikkati bir noktadan ötekine taşımayı, kesmeden yapabilir. Karşı çıktıkları iki yaygın sezgi var. Birincisi, kamera hareketinin “gösteriş” ya da “dinamizm” için yapıldığı, kendi başına bir değer olduğu fikri. İkincisi, uzun planın otomatik olarak daha “gerçekçi” ya da daha “sanatsal” olduğu fikri. Yazarlara göre ikisi de işlev sorusunu atlıyor: Bu hareket bu filmde ne iş görüyor? Bu süre bize neyi deneyimletiyor?</p><p><b>1. Hareketli çerçeve (<i>mobile framing</i>).</b> Kameranın çekim sırasında çerçeveyi değiştirmesinin temel türleri şunlar:</p><ul><li><b>Yatay çevrinme (<i>pan</i>):</b> Kamera yerinde durur, sağa ya da sola döner; sanki başımızı çeviriyoruz.</li><li><b>Dikey çevrinme (<i>tilt</i>):</b> Kamera yerinde durur, yukarı ya da aşağı döner.</li><li><b>Kaydırmalı çekim (<i>tracking shot / dolly shot</i>):</b> Kameranın kendisi yerden ilerler; ileri, geri, yana ya da bir figürün etrafında.</li><li><b>Vinç çekimi (<i>crane shot</i>):</b> Kamera yerden yükselir ya da alçalır, çoğu zaman yatay hareketle birleşir.</li><li><b>Omuz kamerası (<i>handheld camera</i>):</b> Kamera operatörün elinde ya da omzundadır; titreşimli, sarsıntılı bir görüntü verir. Belgesel duygusu ya da öznel bir telaş için sık kullanılır.</li></ul><p>Kitabın burada yaptığı ince ama önemli ayrım şu: çevrinmede (pan ve tilt) kamera tek bir eksende döndüğü için nesnelerin birbirine göre konumu değişmez; perspektif aynı kalır. Kaydırmalı çekimde ise kamera uzamın içinde yol aldığı için ön plandaki nesneler arka plandakilerden daha hızlı kayar (paralaks / <i>parallax</i>). Bu yüzden kaydırma bize uzamın derinliğini “bedenimizle” hissettirir. Zum (<i>zoom</i>) ise kamera hareketi değildir; lensin odak uzaklığı değişir, görüntü büyür ama paralaks oluşmaz. Çarşamba konuştuğumuz lens bilgisi tam burada işe yarıyor: zumla yaklaşmak ile kamerayla yaklaşmak gözle bakınca benzer, ama uzamı çok farklı kurar.</p><p><b>2. Hareketin işlevleri.</b> Bordwell ve Thompson hareketli çerçeveyi iki ilişki üzerinden okumamızı ister. Uzamla ilişkisi: Kamera bir figürü takip edebilir; ya da figürden bağımsız davranıp bize bir şeyi bilinçli olarak açığa çıkarabilir veya gizleyebilir. En gündelik biçimi yeniden çerçevelemedir (<i>reframing</i>): oyuncu biraz kıpırdadığında kameranın onu ortada tutmak için ufakça kayması. Klasik sinemada bunu neredeyse hiç fark etmeyiz. Zamanla ilişkisi: Hareketin hızı ve süresi bir ritim yaratır; ağır bir yaklaşma beklenti, ani bir çevrinme sürpriz üretir. Kısacası kamera hareketi, kadraj dışı alanı (dünkü konu) sürekli kadraj içine çeviren ve tersini yapan bir mekanizmadır.</p><p><b>3. Planın süresi ve uzun süreli plan (<i>long take</i>).</b> Önce bir terim tuzağı. Dün “uzun plan” dediğimizde mesafeyi kastettik: figürün tüm bedeninin göründüğü ölçek (<i>long shot</i>). Bugünkü kavram bambaşka: <b>uzun süreli plan</b> (<i>long take</i>), alışılmadık ölçüde uzun süren, kesilmeden devam eden plandır. Biri uzamla, öteki zamanla ilgilidir; yakın planla çekilmiş uzun süreli bir plan da olabilir. Bu karışıklık sınavda çok sık yapılır, o yüzden Türkçede ikisini bilinçli olarak ayırıyoruz.</p><p>Bir sahnenin tamamı tek bir planda veriliyorsa buna plan-sekans (<i>plan-séquence</i> / sequence shot) denir. Uzun süreli plan, kurguya bir alternatif olarak çalışır: yönetmen dikkati kesmeyle değil, oyuncu yerleşimiyle (salı günkü konu), derin odakla (çarşamba) ve kamera hareketiyle yönlendirir. Bordwell ve Thompson burada önemli bir şey söyler: uzun süreli plan “kurgusuz” değildir; içinde, kesmelerin yapacağı vurguları taşıyan bir iç düzenleme vardır. Seyircinin gözü yine yönlendirilir, ama bu yönlendirme gerçek zamanın sürekliliği içinde olur. Tarihsel olarak bu tercih 1930'lar ve 40'larda Renoir, Mizoguchi ve Welles gibi yönetmenlerde belirgin bir üsluba dönüştü.</p><p>Neden önemli? Çünkü süre, gördüğümüz şeyle ilişkimizi değiştirir. Kesmenin olmadığı bir yerde olayın süresi ile perdedeki süre çakışır; gerilim, bekleme, sıkılma, sabır gibi deneyimler doğrudan seyircinin bedenine aktarılır.</p>"
+    },
+    {
+      "baslik": "Örnek: Touch of Evil (Welles, 1958) açılış plan-sekansı",
+      "html": "<p>Film, bir el bir saatli bombayı kurarken yakın planla açılır. Bombayı yerleştiren adam bir arabanın bagajına onu koyar ve kaçar. Bir çift arabaya biner ve hareket eder. Bu noktadan sonra kamera, vinç üzerinde, arabayı sınır kasabasının sokakları boyunca takip eder; kimi zaman yükselip binaların üstünden bakar, kimi zaman alçalıp kalabalığın arasına girer. Bir noktada kamera arabayı bırakıp yürüyen başka bir çifti, Vargas'ı (Charlton Heston) ve Susie'yi (Janet Leigh) izlemeye başlar; iki çift sınır kapısında yeniden yan yana gelir. Planın tamamı üç dakikayı aşar.</p><p>Şimdi bugünkü kavramlarla çözelim. Birincisi, bomba bilgisini bize en başta veren şey çerçevedir: karakterler bilmiyor, biz biliyoruz. Hafta 2'de konuştuğumuz bilgi dağılımı burada en saf hâliyle çalışıyor; Hitchcock'un “sürpriz değil gerilim” formülünü hatırla. İkincisi, kesme olmadığı için bombanın saati ile bizim saatimiz aynı hızda işler. Her geçen saniye gerçek bir saniyedir; kurgu zamanı sıkıştırıp genişletemez. Üçüncüsü, kameranın arabayı bırakıp yayaları izlemesi, bombayı bir an kadraj dışına atar. Görmediğimiz şeyi düşünmek zorunda kalırız: kadraj dışı alan tam da hareketli çerçeve sayesinde gerilim kaynağına dönüşür. Ve plan, patlama sesiyle kesilir; gördüğümüz son şey bir öpücüktür, patlamanın kendisi değil. Uzun süreli plan ve kamera hareketi burada gösteriş değil, seyirciyi bir saatin içine kilitleyen bir yapı olarak çalışıyor.</p><p>Karşıtlık için Ozu'yu düşün: Tokyo Story'de kamera büyük ölçüde sabittir ve Ozu duyguyu kamera hareketiyle değil, sabit çerçevelerin art arda dizilişiyle kurar. Aynı hafta içinde iki uç: biri hareketle, öteki hareketsizlikle anlatıyor. İkisi de birer seçim.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Uzun süreli plan ve derin odak, Hafta 10'da Bazin'in gerçekçilik kuramının merkezine yerleşecek; orada bu teknikler yalnızca bir üslup tercihi olarak değil, sinemanın gerçeklikle ilişkisi üzerine bir iddia olarak savunulacak, Hafta 4'teki kurgu konusu ise bunun karşı kutbunu hazırlıyor.</p>"
+    }
+  ],
+  "sorular": [
+    "“Uzun plan” (<i>long shot</i>) ile “uzun süreli plan” (<i>long take</i>) arasındaki farkı açıkla. Hem uzun süreli hem yakın plan olan bir çekim mümkün müdür?",
+    "Yatay çevrinme ile kaydırmalı çekim arasındaki fark nedir? Paralaks kavramını kullanarak açıkla; zum bu ikisinden hangisine daha yakındır ve neden?",
+    "Touch of Evil'in açılışı kesmelerle, örneğin bomba saatine yapılan ara yakın planlarla çekilseydi ne kazanılır, ne kaybedilirdi?"
+  ],
+  "gozlem": "Bu akşam izlediğin bir dizide, videoda ya da reklamda tek bir planın süresini telefonunun kronometresiyle ölç; ardından birkaç ardışık planın ortalamasını kafadan tahmin et. Bu planlardan birinde kamera hareket ediyor mu? Ediyorsa: bir figürü mü takip ediyor, yoksa bize bir şeyi kendisi mi gösteriyor? Tek cümle yaz: kesme yerine hareket mi tercih edilmiş, yoksa hareket yerine kesme mi?",
+  "terimler": [
+    {
+      "tr": "Hareketli çerçeve",
+      "en": "Mobile framing",
+      "tanim": "Kameranın çekim sırasında hareket ederek çerçeveyi değiştirmesinin genel adı."
+    },
+    {
+      "tr": "Yatay çevrinme",
+      "en": "Pan",
+      "tanim": "Kameranın yerinde durup kendi ekseni etrafında sağa ya da sola dönmesi; perspektif değişmez."
+    },
+    {
+      "tr": "Kaydırmalı çekim",
+      "en": "Tracking shot / dolly shot",
+      "tanim": "Kameranın uzamın içinde yol alması; paralaks yoluyla derinlik hissi üretir."
+    },
+    {
+      "tr": "Yeniden çerçeveleme",
+      "en": "Reframing",
+      "tanim": "Kameranın, kıpırdayan figürü dengede tutmak için yaptığı küçük, çoğu zaman fark edilmeyen hareket."
+    },
+    {
+      "tr": "Uzun süreli plan",
+      "en": "Long take",
+      "tanim": "Alışılmadık ölçüde uzun süren, kesilmeden devam eden plan; mesafeyle değil süreyle ilgilidir."
+    },
+    {
+      "tr": "Plan-sekans",
+      "en": "Plan-séquence / sequence shot",
+      "tanim": "Bütün bir sahnenin tek bir kesintisiz planda verilmesi."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    }
+  ],
+  "yarin": "Yarın film günü: Tokyo Story ve Touch of Evil'in açılışı için, bu haftanın mizansen ve sinematografi kavramlarını nerede arayacağını gösteren spoiler'sız bir izleme rehberi."
+}

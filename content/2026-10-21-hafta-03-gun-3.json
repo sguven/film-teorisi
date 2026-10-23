@@ -1,0 +1,75 @@
+{
+  "hafta": 3,
+  "gun": 3,
+  "tarih": "2026-10-21",
+  "tur": "ders",
+  "baslik": "Sinematografi I — Fotoğrafik nitelikler: ton, hız, lens ve odak",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 5 (ilk yarı: fotoğrafik nitelikler)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "Kamera önündekini “olduğu gibi” kaydetmez; aynı mizansen, seçilen ton, hız, lens ve odakla bambaşka bir görüntüye, dolayısıyla bambaşka bir anlama dönüşür.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Pazartesi ve salı kameranın <b>önünde</b> olanı konuştuk: mekân, kostüm, ışık, oyuncu. Bu üç gün kameranın <b>kendisine</b> geçiyoruz. Bordwell ve Thompson sinematografiyi (<i>cinematography</i>, kelime anlamıyla “hareketle yazmak”) üç seçim alanına ayırır: görüntünün fotoğrafik nitelikleri, çerçeveleme (<i>framing</i>) ve planın süresi (<i>duration of the shot</i>). Bugün birincisi; yarın çerçeve ve kamera hareketi, cuma plan süresi.</p><p>Yazarların temel iddiası şu: sinema görüntüsü bir pencereden bakmak değil, bir dizi teknik kararın ürünüdür. Karşı çıktıkları görüş, kameranın şeffaf bir kayıt cihazı olduğu, “iyi” sinematografinin görünmez olması gerektiği fikridir. Görüntü her zaman <b>bir biçimde</b> fotoğraflanır; tarafsız bir sıfır noktası yoktur. Bu yüzden bir film çözümlerken “ne gösteriliyor?” sorusunun yanına “nasıl fotoğraflanmış?” sorusunu koymak zorundayız.</p><p><b>1. Ton aralığı (<i>tonality</i>).</b> Görüntünün siyahtan beyaza ya da renkte doygundan soluğa hangi değerleri taşıyacağı film stoğu (ya da dijital sensör ayarları), pozlama (<i>exposure</i>), banyo/renk düzeltme ve filtrelerle belirlenir. Yüksek kontrast (<i>high contrast</i>) keskin siyahlar ve parlak beyazlar verir, gerilimi ve ahlaki keskinliği vurgular; düşük kontrast gri tonlara yayılır, daha yumuşak, belgesel ya da melankolik bir doku yaratır. Az pozlanmış (<i>underexposed</i>) bir görüntü karanlığa gömülür, fazla pozlanmış (<i>overexposed</i>) bir görüntü beyaza yıkanır; ikisi de hata değil, tercih olabilir. Salı günü konuştuğumuz ışık ile ton birbirine bağlıdır ama aynı şey değildir: ışık sette kurulur, ton ise o ışığın görüntüye nasıl kaydedildiğidir.</p><p><b>2. Hareket hızı (<i>speed of motion</i>).</b> Sesli sinemanın standardı saniyede 24 karedir (<i>frames per second</i>). Kamera daha yüksek hızda çekip normal hızda gösterirse ağır çekim (<i>slow motion</i>, çekimde <i>overcranking</i>), daha düşük hızda çekip normal gösterirse hızlandırılmış hareket (<i>fast motion</i>, <i>undercranking</i>) elde edilir. Ağır çekim bir anı büyütür, ona ağırlık ya da şiirsellik verir; hızlandırma komediye ya da zamanın akıp gidişine hizmet eder. Önemli nokta: hız, gerçek zamanı değil <b>algılanan</b> zamanı biçimlendirir.</p><p><b>3. Perspektif ve lens.</b> Bugünün kalbi burası. Bir lensin odak uzaklığı (<i>focal length</i>) görüntüdeki derinliği ve büyüklük ilişkilerini değiştirir:</p><ul><li><b>Geniş açı lens</b> (<i>wide-angle lens</i>, kısa odak): derinliği abartır. Ön plandaki nesne iri, arkadaki küçük görünür; aralarındaki mesafe olduğundan uzun hissedilir. Kameraya yakın yüzlerde ve kenarlarda bükülme (<i>distortion</i>) yaratabilir.</li><li><b>Normal lens</b> (<i>normal lens</i>, 35 mm film için yaklaşık 35–50 mm): insan gözünün algısına en yakın, bükülmesiz perspektif.</li><li><b>Tele lens</b> (<i>telephoto lens</i>, uzun odak): derinliği sıkıştırır. Uzaktaki ve yakındaki nesneler birbirine yapışmış gibi görünür, uzam düzleşir.</li><li><b>Zoom</b> (<i>zoom lens</i>): çekim sırasında odak uzaklığını değiştirir. Kamera yerinden kıpırdamaz; bu yüzden zoom ile kamera hareketi aynı şey değildir. Zoom görüntüyü büyütür ama perspektifi değiştirir; kamerayla yaklaşmak ise izleyiciyi uzamın içinde gerçekten ilerletir.</li></ul><p><b>4. Alan derinliği ve odak.</b> Bordwell ve Thompson burada önemli bir ayrım yapar ve öğrenciler bunu sık karıştırır. Alan derinliği (<i>depth of field</i>), kameradan belirli uzaklıklar arasındaki netlik bölgesinin genişliğidir; her görüntünün bir alan derinliği vardır. Derin odak (<i>deep focus</i>) ise bilinçli bir üslup tercihidir: ön, orta ve arka planın aynı anda net olması. Tersine, sığ odak (<i>shallow focus</i>) yalnız bir düzlemi net tutar, gerisini bulanıklaştırır ve dikkatimizi zorla yönlendirir. Planın içinde netliği bir düzlemden ötekine aktarmaya odak kaydırma (<i>racking focus</i> ya da <i>rack focus</i>) denir; kesme yapmadan bakışımızı değiştirmenin yoludur.</p><p>Neden önemli? Derin odakta seyirci, çerçevenin hangi düzlemine bakacağını kısmen kendisi seçer; sığ odakta seçim onun yerine yapılmıştır. Bu fark yalnızca teknik değil, ileride göreceğimiz gibi teorik bir kavganın da konusu olacak.</p>"
+    },
+    {
+      "baslik": "Örnek",
+      "html": "<p>Haftanın iki filmi bu açıdan neredeyse zıt kutuplardır. <b>Tokyo Story</b>'de (Ozu, 1953) Ozu'nun, olgunluk dönemi filmlerinde büyük ölçüde tek bir normal lensle çalıştığı bilinir. Sonuç: bükülme yok, abartılı derinlik yok, sakin ve eşit bir perspektif. Yaşlı çiftin oğullarının evinde oturduğu sahnelerde karakterler ne ön planda devleşir ne arka planda kaybolur; uzam, ailenin içindeki mesafeyi dramatik bir lens efektiyle değil, sade ve sabit bir bakışla gösterir. Bu sadelik bir “eksiklik” değil, filmin ölçülü duygusunun ta kendisidir.</p><p><b>Touch of Evil</b>'de (Welles, 1958) ise Russell Metty'nin geniş açılı çekimleri tam tersini yapar. Welles'in canlandırdığı şişman, çökmüş polis şefi Quinlan'a alttan ve yakından geniş açıyla bakıldığında bedeni çerçeveye taşar, yüzü hafifçe bükülür; arka plan gerilir, mekân boğucu ve dengesiz görünür. Aynı karakter tele lensle çekilseydi daha düz, daha “normal” görünürdü. Kısacası Quinlan'ın ahlaki çarpıklığı kısmen lensin çarpıttığı perspektif üzerinden hissedilir. Cumartesi izlerken bir sahnede kendine şunu sor: bu yüz/bu koridor bu lensle mi böyle görünüyor, yoksa gerçekten böyle mi?</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Hafta 1'de Citizen Kane'de gördüğümüz derin odak (Gregg Toland) burada teknik adını alıyor; Faz II'de André Bazin bu tekniği, seyirciye seçme özgürlüğü tanıdığı için gerçekçi sinemanın temeli olarak savunacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Alan derinliği ile derin odak arasındaki fark nedir? Her derin alan derinliğine sahip planı “derin odak üslubu” sayabilir miyiz?",
+    "Bir karakterin yalnızlığını göstermek için tele lens mi, geniş açı lens mi seçerdin? İki seçeneğin ayrı ayrı nasıl bir yalnızlık hissi yaratacağını açıkla.",
+    "Zoom ile kameranın öne doğru hareketi (<i>dolly in</i>) neden aynı etkiyi yaratmaz?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi, reklam ya da YouTube videosunda bir yakın plan bul. Arka plan net mi, bulanık mı? Planın içinde netlik bir yerden başka bir yere kayıyor mu (odak kaydırma)? Bulanıklık dikkatini nereye yönlendirdi; bir cümleyle not et.",
+  "terimler": [
+    {
+      "tr": "Ton aralığı",
+      "en": "tonality",
+      "tanim": "Görüntünün kontrast, pozlama ve renk değerlerinin bütünü."
+    },
+    {
+      "tr": "Odak uzaklığı",
+      "en": "focal length",
+      "tanim": "Lensin perspektifi ve derinlik algısını belirleyen optik ölçüsü."
+    },
+    {
+      "tr": "Geniş açı / tele lens",
+      "en": "wide-angle / telephoto lens",
+      "tanim": "Derinliği sırasıyla abartan ya da sıkıştıran lens türleri."
+    },
+    {
+      "tr": "Alan derinliği",
+      "en": "depth of field",
+      "tanim": "Görüntüde net görünen uzaklık aralığının genişliği."
+    },
+    {
+      "tr": "Derin odak / sığ odak",
+      "en": "deep focus / shallow focus",
+      "tanim": "Tüm düzlemleri net tutma ya da yalnızca bir düzlemi net bırakma üslubu."
+    },
+    {
+      "tr": "Odak kaydırma",
+      "en": "racking focus",
+      "tanim": "Plan içinde netliği bir düzlemden diğerine aktarma."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Çerçeveleme ve kamera hareketi: kadraj oranı, kadraj dışı alan (<i>offscreen space</i>), kamera açısı, yüksekliği, mesafesi ve hareket eden çerçeve."
+}

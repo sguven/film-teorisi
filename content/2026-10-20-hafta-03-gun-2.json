@@ -1,0 +1,80 @@
+{
+  "hafta": 3,
+  "gun": 2,
+  "tarih": "2026-10-20",
+  "tur": "ders",
+  "baslik": "Mizansen II — Işık, oyuncu yerleşimi, uzam ve zaman",
+  "okuma": "Bordwell & Thompson, Film Art, Böl. 4 (ikinci yarı)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "Mizansen bir eşya listesi değil, bir yönlendirme sistemidir: ışık ve oyuncu yerleşimi, bakışımızı karenin içinde nereye ve ne zaman gideceğine göre düzenler.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün mizansenin (<i>mise-en-scène</i>, Fransızca “sahneye koymak”) ilk iki bileşenini gördük: mekân ve kostüm-makyaj. Bugün kalan ikisini, ışığı ve oyuncu yerleşimini ele alıyoruz; ardından Bordwell ve Thompson'ın asıl vurguladığı noktaya geçiyoruz: bu dört bileşen tek tek değil, uzam ve zaman içinde birlikte çalışır.</p><p><b>1. Işık (<i>lighting</i>).</b> Sinemada ışık, sadece “görünsün diye” yakılmaz. Bir nesnenin hacmini, dokusunu, önemini ve ruh halini ışık belirler. Yazarlar ışığı dört özellik üzerinden incelemeyi önerir:</p><ul><li><b>Nitelik (<i>quality</i>):</b> Sert ışık (<i>hard light</i>) keskin, net kenarlı gölgeler bırakır; yumuşak ışık (<i>soft light</i>) dağınıktır, gölgeleri eritir. Sert ışık gerilim ve doku, yumuşak ışık yakınlık ve sükûnet hissi verir.</li><li><b>Yön (<i>direction</i>):</b> Önden ışık yüzü düzleştirir; yandan ışık yüzü ikiye böler; arkadan ışık (<i>backlighting</i>) figürü fondan ayıran parlak bir kontur çizer; alttan ışık yüzü bize tuhaf, tekinsiz gösterir.</li><li><b>Kaynak (<i>source</i>):</b> Klasik Hollywood'un standart düzeni üç noktalı aydınlatmadır (<i>three-point lighting</i>): ana ışık (<i>key light</i>) baskın kaynaktır, dolgu ışığı (<i>fill light</i>) ana ışığın bıraktığı gölgeleri yumuşatır, arka ışık figürü fondan ayırır.</li><li><b>Renk (<i>color</i>):</b> Işığın sıcak ya da soğuk tonu sahnenin atmosferini değiştirir.</li></ul><p>Buradan iki geniş üslup doğar. Yüksek anahtarlı aydınlatma (<i>high-key lighting</i>), dolgu ışığının güçlü olduğu, gölgelerin az ve yumuşak olduğu düzendir; komedilerde ve müzikallerde yaygındır. Düşük anahtarlı aydınlatma (<i>low-key lighting</i>) ise dolgu ışığını kısar, sert karanlık bölgeler bırakır; kara film (<i>film noir</i>) ve korku sineması bunu sever. Önemli olan şu: “düşük anahtarlı = karanlık film” değil, “ana ışıkla dolgu ışığı arasındaki oran yüksek” demektir. Bu ayrım sınavda sık karıştırılır.</p><p><b>2. Oyuncu yerleşimi ve oyunculuk (<i>staging: movement and performance</i>).</b> Mizansenin dördüncü bileşeni, karedeki figürlerin ne yaptığıdır. Bu sadece oyunculuk değil; bir kapının açılması, bir hayvanın koşması, bir gölgenin kayması da “figür davranışı”dır. Bordwell ve Thompson burada önemli bir uyarı yapar: oyunculuğu “gerçekçi mi, değil mi” diye yargılamak yanıltıcıdır. Gerçekçilik ölçütü dönemden döneme değişir; 1910'ların abartılı jestleri, kendi zamanının seyircisine doğal geliyordu. Doğru soru şudur: Bu oyunculuk, filmin genel biçimi içinde hangi işlevi görüyor? Stilize, donuk, hatta “kötü” görünen bir oyunculuk bilinçli bir tercih olabilir (ör. Bresson'un oyuncularını bilerek duygusuz oynatması).</p><p>Oyunculuk iki kanaldan gelir: görsel (yüz, jest, duruş, yürüyüş) ve işitsel (ses tonu, ritim). Ayrıca kamera mesafesi oyunculuğu belirler: uzak planda bütün beden konuşur, yakın planda bir kaş hareketi yeterlidir.</p><p><b>3. Uzamda mizansen: dikkat nereye gider?</b> Bir kare iki boyutlu bir yüzeydir; mizansen bu yüzeyi düzenleyerek gözümüzü yönlendirir. Gözümüz şunlara çekilir: hareket eden şeye, ışığın en parlak olduğu yere, renk karşıtlığına, karenin merkezine ve kameraya dönük yüzlere. Kameraya ne kadar döndüğüne <b>önden duruş</b> (<i>frontality</i>) denir: tam karşıdan bakan bir figür, sırtı dönük olandan daha fazla dikkat çeker. Yönetmen bu ilkelerle kompozisyonu dengeler (<i>balance</i>) ya da bilinçli olarak bozar.</p><p>Karede derinlik yanılsaması da mizansenin işidir. Derinlik ipuçları (<i>depth cues</i>): üst üste binme (<i>overlap</i>), boyut farkı, ışık ve gölge, atmosferik perspektif (uzaktaki şeylerin soluklaşması), hareket. Bu ipuçlarıyla yönetmen <b>derinlemesine sahneleme</b> (<i>staging in depth</i>) yapabilir: önemli olaylar önde, arkada ve ortada aynı anda gerçekleşir. Hafta 1'de andığımız <i>Citizen Kane</i>'deki, çocuk Kane'in arka planda pencereden göründüğü, yetişkinlerin önde pazarlık ettiği sahne tam olarak budur. Burada dikkat: derinlemesine sahneleme bir mizansen kararıdır; o derinliğin netlikle gösterilmesi ise (derin odak / <i>deep focus</i>) sinematografinin konusudur. Yarın bu ayrımı netleştireceğiz.</p><p><b>4. Zamanda mizansen.</b> Kare durağan bir resim değildir. Dikkat, plan boyunca bir noktadan diğerine sırayla taşınır: biri konuşur, sonra öbürü döner, sonra arka plandaki kapı açılır. Mizansen bir koreografidir; tempo (<i>tempo</i>) ve ritim de ona dahildir. Bordwell ve Thompson'ın ana iddiası budur: mizansen, izleyicinin beklentilerini ve dikkatini zaman içinde yöneten bir sistemdir.</p><p><b>Neye karşı çıkıyorlar?</b> İki yaygın yaklaşıma. Birincisi, mizansenin sadece “dekor ve aksesuar” olduğunu, asıl sinemanın kamera ve kurguda olduğunu düşünen görüş. İkincisi, mizanseni gerçekçilik ölçütüyle değerlendiren görüş (“Bu mekân inandırıcı mı? Bu oyunculuk doğal mı?”). Yazarlara göre her iki yaklaşım da işlevi kaçırır. Bu, kitabın baştan beri savunduğu biçimci (<i>formalist</i>) tutumun devamıdır: bir unsur, filmin bütünü içinde ne yaptığına göre anlam kazanır.</p>"
+    },
+    {
+      "baslik": "Örnek: Tokyo Story (Ozu, 1953)",
+      "html": "<p>Filmin başında yaşlı çift, Onomichi'deki evlerinde, yere oturmuş halde yolculuk hazırlığı yapar. Kamera alçaktadır, oturan figürlerin yüksekliğine yakın. Oyunculuk son derece sakindir: jestler küçük, ses tonu düz, diyaloğun önemli bir kısmı gündelik ayrıntılar üzerinedir. Işık yumuşak ve eşittir; dramatik gölgeler yoktur. Bu üç tercih birlikte, olayları değil gündelik ritmi öne çıkarır. Film boyunca karakterlerin sıkça yan yana, aynı yöne bakarak oturdukları kompozisyonlar göreceksin. Bu yerleşim, figürleri karşı karşıya koyan çatışma kurgusunun tam tersidir; ilişkiyi yüzleşme yerine paylaşılan bir bakış olarak kurar.</p><p>Karşıt örnek olarak <i>Touch of Evil</i>'in açılışına bak: sert, düşük anahtarlı ışık, sürekli hareket eden figürler, derinlemesine sahneleme. İki film, aynı dört bileşenle bambaşka dikkat düzenleri kurar.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü “dikkatin yönlendirilmesi” fikri, Hafta 30–31'de bilişsel kuramın (Bordwell'in kendisi dahil) izleyiciyi aktif bir anlam kurucu olarak ele almasının temelidir.</p>"
+    }
+  ],
+  "sorular": [
+    "Düşük anahtarlı aydınlatmayı “karanlık bir sahne” olarak tanımlamak neden eksiktir? Doğru tanım ne olmalı?",
+    "Bordwell ve Thompson oyunculuğu neden “gerçekçilik” ölçütüyle değerlendirmemizi önermiyor? Bir örnekle açıkla.",
+    "Derinlemesine sahneleme ile derin odak arasındaki fark nedir? Hangisi mizansenin, hangisi sinematografinin konusudur?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi, haber ya da video içeriğinden bir planı durdur. Üç şeyi not et: (1) Ana ışık nereden geliyor, gölgeler sert mi yumuşak mı? (2) İlk bakışta gözün nereye gitti ve neden (hareket, parlaklık, merkez, önden duruş)? (3) Figürlerden biri kameraya sırtını dönmüş mü; dönmüşse bu ona verilen önemi nasıl etkiliyor?",
+  "terimler": [
+    {
+      "tr": "Üç noktalı aydınlatma",
+      "en": "three-point lighting",
+      "tanim": "Ana ışık, dolgu ışığı ve arka ışıktan oluşan klasik Hollywood aydınlatma düzeni."
+    },
+    {
+      "tr": "Ana ışık / dolgu ışığı",
+      "en": "key light / fill light",
+      "tanim": "Sahnenin baskın ışık kaynağı ve onun bıraktığı gölgeleri yumuşatan ikincil kaynak."
+    },
+    {
+      "tr": "Düşük anahtarlı aydınlatma",
+      "en": "low-key lighting",
+      "tanim": "Dolgu ışığının az olduğu, ana ışıkla arasında yüksek kontrast bulunan, sert gölgeli düzen."
+    },
+    {
+      "tr": "Yüksek anahtarlı aydınlatma",
+      "en": "high-key lighting",
+      "tanim": "Güçlü dolgu ışığıyla gölgelerin az ve yumuşak olduğu, düşük kontrastlı düzen."
+    },
+    {
+      "tr": "Önden duruş",
+      "en": "frontality",
+      "tanim": "Figürün kameraya dönük olma derecesi; ne kadar önden durursa o kadar dikkat çeker."
+    },
+    {
+      "tr": "Derinlemesine sahneleme",
+      "en": "staging in depth",
+      "tanim": "Önemli eylemlerin karenin ön, orta ve arka planlarına dağıtılması."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Yarın sinematografiye geçiyoruz: aynı mizansen, lens, odak derinliği ve ton seçimiyle nasıl bambaşka bir görüntüye dönüşür (<i>Film Art</i>, Böl. 5)."
+}
