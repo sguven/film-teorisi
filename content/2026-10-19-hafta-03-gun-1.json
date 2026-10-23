@@ -1,0 +1,80 @@
+{
+  "hafta": 3,
+  "gun": 1,
+  "tarih": "2026-10-19",
+  "tur": "ders",
+  "baslik": "Mizansen I — Kavram, mekân, kostüm ve makyaj",
+  "okuma": "Bordwell & Thompson, Film Art, Bölüm 4 (ilk yarı)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "Mizansen, kameranın önüne konan her şeydir; ve bir film onu “gerçekçi” olduğu için değil, filmin bütünü içinde bir iş gördüğü için seçer.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Geçen hafta film biçimini (<i>film form</i>) bir parçalar sistemi olarak gördük: bir filmde hiçbir öğe tek başına anlam taşımaz, anlamı öteki öğelerle kurduğu ilişkiden gelir. Bu hafta o sistemin en görünür katmanına iniyoruz: mizansen (<i>mise-en-scène</i>). Kelime Fransızcadır ve tiyatrodan gelir; kabaca “sahneye koymak” demektir. Tiyatroda yönetmenin dekoru, ışığı, oyuncuyu nereye koyacağına karar verme işidir. Sinemada Bordwell ve Thompson bu terimi yönetmenin çerçevenin içinde kontrol ettiği her şey için kullanır ve onu dört bileşene ayırır: <b>mekân (<i>setting</i>), kostüm ve makyaj (<i>costume and makeup</i>), ışık (<i>lighting</i>) ve oyuncu yerleşimi ile hareketi (<i>staging: performance and movement</i>)</b>. Bugün kavramın kendisini ve ilk iki bileşeni, yarın ışığı, oyuncuyu ve bunların uzay ile zamanı nasıl kurduğunu ele alacağız.</p><p>Önemli bir sınır çizgisi koyalım: mizansen kameranın <i>önündeki</i> şeydir. Lens seçimi, odak, kamera açısı, kamera hareketi ise sinematografidir (<i>cinematography</i>) ve Çarşamba'dan itibaren onu çalışacağız. Gerçek filmlerde ikisi iç içe geçer, ama analizde ayırmak işe yarar: “Bu sahnede ne var?” sorusu mizansenin, “Bu şeyi nasıl görüyoruz?” sorusu sinematografinin sorusudur.</p><p><b>Yazarların temel iddiası ve karşı çıktıkları şey.</b> Seyircinin mizansene dair en yaygın ölçütü gerçekçiliktir: “Kostümler döneme uygun mu? Mekân inandırıcı mı?” Bordwell ve Thompson bu ölçütü reddetmez ama onu tek ölçüt olarak görmeye karşı çıkar. Gerçekçilik fikri kültürden kültüre, dönemden döneme değişir; bir dönemin “doğal” bulduğu oyunculuk sonraki kuşağa yapay gelir. Üstelik pek çok büyük film bilinçli olarak gerçekçi değildir. Bu yüzden önerdikleri soru şudur: <b>Bu öğe bu filmde ne işe yarıyor?</b> Yani mizanseni bir işlev (<i>function</i>) meselesi olarak okumak. Bu, geçen haftaki “biçim bir sistemdir” fikrinin doğrudan uygulamasıdır.</p><p>Bu tavrın tarihsel arka planında sinemanın iki erken kutbu durur: Lumière kardeşler kamerayı gündelik hayata, gerçek sokaklara çevirmişti; Georges Méliès ise stüdyosunda boyalı dekorlar, numaralar ve hilelerle tamamen kurgusal dünyalar inşa etti. Méliès'in Ay'a yolculuğu kimseyi “gerçekçi” olduğu için etkilemez; her şeyin tamamen kontrol edilmiş olmasıyla etkiler. Mizansen kavramı tam olarak bu kontrolü adlandırır, ister bir sokak sahnesi olsun ister bir masal.</p><p><b>Mekân (<i>setting</i>).</b> Sinemada mekân tiyatrodakinden çok daha etkin bir rol oynayabilir; sadece bir arka plan değil, olayların içine giren bir güçtür. Film yapımcısı ya hazır bir yer seçer (gerçek mekânda çekim / <i>location shooting</i>) ya da bir dekor inşa eder (<i>set</i>). Dekor tam ölçekli olabilir, maket olabilir, bugün olduğu gibi dijital olarak eklenebilir. Hangisinin seçildiği değil, ne yaptığı önemlidir: bir mekânın renkleri, boyutu, doluluğu ya da boşluğu, karakterle arasındaki oran bize karakter hakkında bir şey söyler. Geniş ve boş bir oda yalnızlık, sıkışık bir oda baskı ya da yakınlık anlatabilir.</p><p>Mekânın içindeki nesnelere aksesuar (<i>prop</i>, tiyatrodaki “property”den) denir. Bir aksesuar film boyunca tekrar ederek bir motife (<i>motif</i>) dönüşebilir: tekrar her seferinde biraz değişen bir anlam yükü taşır. Citizen Kane'deki kar küresini hatırla: önce sadece bir nesnedir, sonra filmin anlam düğümlerinden biri olur.</p><p><b>Kostüm ve makyaj (<i>costume and makeup</i>).</b> Kostüm de mekân gibi ya gerçekçi bir işlev görür (dönemi, mesleği, sınıfı belirtmek) ya da stilize bir işlev (bir rengi ya da biçimi filmin genel deseni içinde tekrar etmek). Kostüm bir karakterin değişimini de izleyebilir: kıyafetin değişmesi çoğu zaman karakterin durumunun değiştiğini işaret eder. Makyaj başta siyah-beyaz film stoğunun yüzleri doğru göstermesi için gerekliydi; zamanla oyuncunun yüzünü bir ifade aracına çevirdi. Kaşların biçimi, yaşlandırma, yüzün ne kadar “pürüzsüz” ya da yıpranmış göründüğü karakterin okunuşunu belirler. Kostüm ve makyaj, renk planı (<i>color design</i>) aracılığıyla mekânla birlikte çalışır: bir film belirli renkleri yalnızca belirli karakterlere ya da anlara ayırabilir.</p><p><b>Neden önemli?</b> Çünkü mizansen bakışımızı yönetir. Bir çerçevede her şeyi aynı anda göremeyiz; mekânın düzeni, renk zıtlıkları, kostümün öne çıkışı gözümüzü bir noktaya çeker. Mizanseni çözümlemeyi öğrenmek, filmin dikkatimizi nasıl yönlendirdiğini görmeyi öğrenmektir. İleride Bazin'i okuduğumuzda bu konu çok daha büyük bir tartışmaya dönüşecek: kesmeden, mizansen ve derinlik içinde anlatmanın kurguya karşı bir estetik ve ahlak olduğu fikrine.</p>"
+    },
+    {
+      "baslik": "Örnek: Tokyo Story (Ozu, 1953)",
+      "html": "<p>Ozu'nun filmi, taşradaki Onomichi kasabasından Tokyo'ya çocuklarını ziyarete gelen yaşlı bir çiftin hikâyesidir. Filmin büyük kısmı evlerin içinde geçer ve bu evler birer karakter gibi çalışır. Japon evinin sürgülü kapıları, koridorları ve iç içe geçen odaları, kadrajı çerçeve içinde çerçevelere böler; karakterler çoğu zaman bir kapı aralığından, bir odanın derinliğinden görünür.</p><p>Somut bir karşılaştırma yap: Tokyo'daki doktor oğlun evi kalabalık, işlevsel ve yoğundur; ev hayatı ile muayenehane iç içedir, yaşlı çift o evde misafirden çok bir yük gibi durur. Buna karşılık dul gelinleri Noriko'nun dairesi çok küçük ve sadedir; ama yaşlı çifti en sıcak karşılayan yer orasıdır. Mekânın büyüklüğü ile gösterilen ilginin ters orantılı olması, filmin aile ve modern şehir üzerine söylediğini diyalogdan önce mizansenle söyler. Kostüm de aynı çizgide işler: yaşlı kuşak geleneksel kimonolar içindeyken, şehirde çalışan genç kuşak sık sık Batı tarzı kıyafetlerle görünür. Bu, kuşaklar arasındaki ayrılığın görsel kaydıdır. İzlerken kendine sor: hangi eşyalar (çay takımları, yelpazeler, duvardaki fotoğraflar) tekrar ediyor ve hangi karakterle birlikte?</p><p>Kısa bir karşıt örnek: Touch of Evil'in açılışında sınır kasabasının gece sokakları, neon ışıkları ve kalabalığı, kameranın hareketiyle birlikte gerilim üreten bir mekân kurar. Ozu'da mekân dingin ve tekrar edilebilir bir düzen kurarken Welles'te karmaşık ve tehditkârdır. İkisi de “gerçekçi” sokaklar ve evler kullanır ama bambaşka işlevlerle.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Mizansene “işlev” üzerinden bakmak Hafta 2'deki biçim-sistem fikrinin devamıdır ve ileride Bazin'in kurgu yerine mekân ve süre üzerinden kurduğu gerçekçilik kuramına doğrudan zemin hazırlar.</p>"
+    }
+  ],
+  "sorular": [
+    "Bordwell ve Thompson neden gerçekçiliği mizanseni değerlendirmek için yeterli bir ölçüt saymıyor? Kendi örneğinle açıkla.",
+    "Bir aksesuar hangi koşulda motife dönüşür? İzlediğin bir filmden bir örnek ver ve anlamının film boyunca nasıl değiştiğini söyle.",
+    "Tokyo Story'de iki farklı evin mekân düzeni karakterler arasındaki ilişkiyi nasıl görünür kılıyor? Mizansenin sinematografiden ayrıldığı noktayı da belirterek cevapla."
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi, video ya da reklamda tek bir kareyi durdur. Kamerayı unut; sadece kameranın önündekileri listele: mekân hazır mı yoksa kurulmuş mu, hangi aksesuarlar var, karakterin kıyafeti ve makyajı ona dair ne söylüyor? Sonra tek cümle yaz: bu karede mizansen gözümü nereye götürüyor ve nasıl?",
+  "terimler": [
+    {
+      "tr": "Mizansen",
+      "en": "mise-en-scène (Fr. “sahneye koyma”)",
+      "tanim": "Çerçevenin içinde yönetmenin kontrol ettiği her şey: mekân, kostüm-makyaj, ışık, oyuncu yerleşimi."
+    },
+    {
+      "tr": "Mekân / dekor",
+      "en": "setting / set",
+      "tanim": "Olayın geçtiği yer; hazır bulunabilir ya da inşa edilebilir ve olayın içine giren bir güç olabilir."
+    },
+    {
+      "tr": "Gerçek mekânda çekim",
+      "en": "location shooting",
+      "tanim": "Stüdyo dekoru yerine var olan bir yerde yapılan çekim."
+    },
+    {
+      "tr": "Aksesuar",
+      "en": "prop",
+      "tanim": "Mekânın içinde olaya katılan ya da anlam taşıyan nesne."
+    },
+    {
+      "tr": "Motif",
+      "en": "motif",
+      "tanim": "Film boyunca tekrar eden ve her tekrarda anlam biriktiren öğe."
+    },
+    {
+      "tr": "İşlev",
+      "en": "function",
+      "tanim": "Bir öğenin filmin bütün sistemi içinde gördüğü iş."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Mizansenin öteki iki bileşeni: ışığın niteliği, yönü ve kaynağı ile oyuncunun performansı ve hareketi; bunların çerçevede uzay ve zamanı nasıl kurduğu."
+}
