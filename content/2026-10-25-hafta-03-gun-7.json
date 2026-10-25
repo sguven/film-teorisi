@@ -1,0 +1,189 @@
+{
+  "hafta": 3,
+  "gun": 7,
+  "tarih": "2026-10-25",
+  "tur": "sinav",
+  "baslik": "Sınav — Mizansen ve sinematografi",
+  "film": "Tokyo Story (Ozu, 1953) ve Touch of Evil açılışı (Welles, 1958)",
+  "tek_cumle": "Bir planın anlamı, kameranın önüne neyin konduğu (mizansen) ile o şeyin nasıl kaydedildiğinin (sinematografi) birlikte verdiği kararlardan doğar.",
+  "bolumler": [
+    {
+      "baslik": "Nasıl çalışacaksın",
+      "html": "<p>Bugün üç bölüm var: (1) 10 soruluk çoktan seçmeli test, (2) müfredattaki üç kısa cevaplı soru, (3) haftanın analiz görevi. Testi önce cevap anahtarına bakmadan çöz; cevaplarını bir kâğıda yaz, sonra en sondaki anahtarla karşılaştır. Kısa cevapları ve analizini bu projede bana gönder, hoca gibi okuyup değerlendireyim. Toplam süre 30–45 dakika.</p>"
+    },
+    {
+      "baslik": "Haftanın kısa tekrarı",
+      "html": "<p>Pazartesi–Salı mizanseni (<i>mise-en-scène</i>, Fransızca “sahneye koyma”) gördük: Film Art bunu dört bileşene ayırır: mekân/dekor (<i>setting</i>), kostüm ve makyaj (<i>costume and makeup</i>), ışık (<i>lighting</i>) ve oyuncu yerleşimi ile oyunculuk (<i>staging: movement and performance</i>). Işıkta anahtar ışık (<i>key light</i>), dolgu ışığı (<i>fill light</i>) ve arka ışıktan (<i>backlight</i>) oluşan üç nokta aydınlatmasını (<i>three-point lighting</i>), yüksek anahtarlı (<i>high-key</i>) ve düşük anahtarlı (<i>low-key</i>) aydınlatma farkını konuştuk.</p><p>Çarşamba–Cuma sinematografiye (<i>cinematography</i>) geçtik: görüntünün fotoğrafik nitelikleri (ton, hız, lensin odak uzaklığına bağlı perspektif), çerçeve/kadraj (<i>framing</i>: en-boy oranı, kamera açısı, yüksekliği, uzaklığı, kadraj içi ve dışı alan), kamera hareketi (<i>pan, tilt, tracking, crane</i>) ve plan süresi (<i>duration</i>; uzun plan / <i>long take</i>). Derin odak (<i>deep focus</i>) birden fazla düzlemi net tutarak seyirciye bakacağı yeri seçme payı bırakır; sığ odak (<i>shallow focus</i>) ve odak kaydırma (<i>rack focus</i>) ise dikkati yönetmen adına seçer.</p><p>Haftanın iki filmi iki zıt kutup gibi duruyor: Ozu’nun <i>Tokyo Story</i>’si alçak ve sabit kamerası, sakin kompozisyonları ve mekân planlarıyla; Welles’in <i>Touch of Evil</i> açılışı ise kesmesiz, vinçle uçan, üç dakikadan uzun bir plan-sekansla (<i>plan-séquence</i> / sequence shot) gerilimi kurgu yerine kamera hareketiyle üretir.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bu hafta adlandırmayı öğrendiğin derin odak ve uzun plan, Hafta 10’da Bazin’in gerçekçilik kuramının merkezine oturacak; orada bu teknikler bir “üslup” olmaktan çıkıp bir sinema felsefesine dönüşecek.</p>"
+    }
+  ],
+  "quiz": [
+    {
+      "soru": "Film Art’ın sınıflandırmasına göre aşağıdakilerden hangisi mizansenin dört bileşeninden biri <b>değildir</b>?",
+      "secenekler": [
+        "Mekân/dekor",
+        "Işık",
+        "Kurgu",
+        "Kostüm ve makyaj"
+      ],
+      "dogru": 2,
+      "aciklama": "Kurgu planlar arasındaki ilişkidir; mizansen ise tek bir planın içinde kameranın önüne konanlardır."
+    },
+    {
+      "soru": "Üç nokta aydınlatmasında yüzün ana modelajını yapan, en güçlü ve yönlü ışık hangisidir?",
+      "secenekler": [
+        "Dolgu ışığı (<i>fill light</i>)",
+        "Anahtar ışık (<i>key light</i>)",
+        "Arka ışık (<i>backlight</i>)",
+        "Tepe ışığı (<i>top light</i>)"
+      ],
+      "dogru": 1,
+      "aciklama": "Anahtar ışık ana kaynaktır; dolgu ışığı onun gölgelerini yumuşatır, arka ışık figürü arka plandan ayırır."
+    },
+    {
+      "soru": "Kara filmlerde sık görülen, keskin gölgeler ve yüksek kontrast üreten aydınlatma türü hangisidir?",
+      "secenekler": [
+        "Yüksek anahtarlı (<i>high-key</i>)",
+        "Düz/yaygın aydınlatma",
+        "Düşük anahtarlı (<i>low-key</i>)",
+        "Doğal pencere ışığı"
+      ],
+      "dogru": 2,
+      "aciklama": "Düşük anahtarlı aydınlatma az dolgu ışığı kullandığı için güçlü gölge ve kontrast üretir."
+    },
+    {
+      "soru": "Bir sahnede ön plandaki bir nesne ile arka plandaki bir karakter aynı anda net görünüyor. Bu tekniğin adı nedir ve seyirciye ne yapar?",
+      "secenekler": [
+        "Sığ odak; dikkati tek bir noktaya kilitler.",
+        "Derin odak; birden çok düzlemi birlikte okumaya, nereye bakacağını seçmeye izin verir.",
+        "Odak kaydırma; dikkati bir düzlemden ötekine taşır.",
+        "Yumuşak odak; görüntüye romantik bir puslu hava verir."
+      ],
+      "dogru": 1,
+      "aciklama": "Derin odak birden fazla düzlemi net tutar ve seyirciye bakacağı yeri seçme payı bırakır."
+    },
+    {
+      "soru": "Uzun odaklı (telefoto) lensin mekânsal etkisi için hangisi doğrudur?",
+      "secenekler": [
+        "Derinliği abartır, düzlemleri birbirinden uzaklaştırır.",
+        "Derinliği bastırır, düzlemleri birbirine yaklaşmış ve yassılaşmış gösterir.",
+        "Kenarlarda belirgin çizgi bükülmesi yaratır.",
+        "Perspektifi hiç etkilemez, yalnızca netliği değiştirir."
+      ],
+      "dogru": 1,
+      "aciklama": "Telefoto lens düzlemleri sıkıştırıp yassılaştırır; derinliği abartan geniş açı lenstir."
+    },
+    {
+      "soru": "Ozu’nun <i>Tokyo Story</i>’sindeki kamera konumu için en doğru tanım hangisidir?",
+      "secenekler": [
+        "Sürekli hareket eden el kamerası",
+        "Tatami üzerinde oturan bir kişinin göz hizasına yakın, alçak ve çoğunlukla sabit kamera",
+        "Karakterlere tepeden bakan kuşbakışı açı",
+        "Göz hizasının çok üstünde, vinçle sürekli yükselen kamera"
+      ],
+      "dogru": 1,
+      "aciklama": "Ozu’nun kamerası oturan bir kişinin göz hizasına yakın, alçak ve çoğunlukla sabittir."
+    },
+    {
+      "soru": "<i>Touch of Evil</i>’in açılışında Welles’in gerilimi kurduğu temel yöntem nedir?",
+      "secenekler": [
+        "Hızlı, ritmik kesmeler",
+        "Kesmesiz, vinçle hareket eden uzun bir plan-sekans; seyirci bombayı bildiği hâlde patlamayı plan içinde bekler",
+        "Sabit kamera ve uzun sessizlik",
+        "Karakterin iç sesiyle anlatılan geri dönüş"
+      ],
+      "dogru": 1,
+      "aciklama": "Açılış kesmesiz bir vinç planıdır; bombanın varlığını bildiğimiz için gerilim planın süresinden doğar."
+    },
+    {
+      "soru": "Kadraj dışı alan (<i>offscreen space</i>) için hangisi yanlıştır?",
+      "secenekler": [
+        "Bir karakterin kadraj dışına bakması o alanı seyircinin zihninde etkinleştirir.",
+        "Kadraj dışından gelen bir ses, görmediğimiz bir uzamın varlığını kurar.",
+        "Kadraj dışı alan, kameranın arkasını ve dekorun gerisini de içerebilir.",
+        "Kadraj dışı alan yalnızca kurgu sırasında oluşur; tek bir planın içinde işlevi yoktur."
+      ],
+      "dogru": 3,
+      "aciklama": "Kadraj dışı alan tek bir planın içinde de bakış, ses ve giriş-çıkışlarla sürekli işler."
+    },
+    {
+      "soru": "Bir karakteri alçak açıdan (<i>low angle</i>) çekmek için hangisi en dengeli yorumdur?",
+      "secenekler": [
+        "Her zaman karakteri güçlü gösterir; bu sabit bir kuraldır.",
+        "Sık sık güç ya da tehdit izlenimi verir, ama anlamı bağlam ve filmin kendi biçimsel sistemi belirler.",
+        "Her zaman karakteri zayıf gösterir.",
+        "Hiçbir anlam taşımaz, yalnızca tekniktir."
+      ],
+      "dogru": 1,
+      "aciklama": "Açıların sabit bir sözlüğü yoktur; anlam bağlama ve filmin biçimsel sistemine bağlıdır."
+    },
+    {
+      "soru": "Biçimsel sistem açısından (Hafta 1), Ozu’nun neredeyse her iç mekânda aynı alçak kamera yüksekliğini kullanması en iyi nasıl açıklanır?",
+      "secenekler": [
+        "Teknik bir sınırlama; başka konum kullanamazdı.",
+        "Filmin kendi içinde kurduğu bir norm; tekrar sayesinde küçük sapmalar ve kompozisyon değişiklikleri anlam kazanır.",
+        "Rastlantısal bir alışkanlık; anlamla ilgisi yoktur.",
+        "Klasik Hollywood devamlılık kurallarının birebir uygulanması."
+      ],
+      "dogru": 1,
+      "aciklama": "Tekrarlanan kamera yüksekliği filmin iç normudur; normdan küçük sapmalar bu yüzden fark edilir ve anlam taşır."
+    }
+  ],
+  "soru_baslik": "Kısa cevaplı sorular (müfredattan) — her birine 3–5 cümleyle, mümkünse bir film örneğiyle cevap ver",
+  "sorular": [
+    "Mizansenin dört bileşeni nedir? Her birine haftanın filmlerinden birer örnek ver.",
+    "Derin odak ile sığ odak anlamı nasıl değiştirir? Seyircinin dikkati ve sahnedeki ilişkiler açısından açıkla.",
+    "Kadraj dışı alan (<i>offscreen</i>) neden önemlidir? En az iki yolunu (bakış, ses, giriş-çıkış vb.) say."
+  ],
+  "analiz": "<p><b>Görev (300–500 kelime):</b> <i>Tokyo Story</i>’den bir sahneyi kamera yüksekliği, çerçeve ve oyuncu yerleşimiyle çözümle.</p><p><b>Nasıl yapabilirsin:</b></p><ul><li>Kısa (1–3 dakikalık), içinde en az iki karakterin bulunduğu bir iç mekân sahnesi seç. Sahneyi tarif ederken olay örgüsünü değil, görüntüyü anlat.</li><li><b>Kamera yüksekliği:</b> Kamera nerede duruyor? Bu yükseklik karakterlerle bizim aramızda nasıl bir ilişki kuruyor (yakınlık, mesafe, saygı, gözlem)?</li><li><b>Çerçeve:</b> Kapı, pencere, sürgülü bölme gibi çerçeve içinde çerçeveler var mı? Kompozisyon simetrik mi? Kadraj dışında neler olduğunu nereden anlıyoruz?</li><li><b>Oyuncu yerleşimi:</b> Karakterler kameraya göre nasıl dizilmiş (yan yana, paralel, aynı yöne bakarak)? Mekân içindeki mesafeleri aralarındaki duygusal ilişkiyi nasıl gösteriyor?</li><li><b>Biçimsel sistem:</b> Bu sahnedeki seçimler filmin başka sahnelerinde nasıl tekrar ediyor ya da değişiyor? (Hafta 1’deki tekrar ve varyasyon ilkesini kullan.)</li><li>Son paragrafta tek bir iddia kur: “Bu sahnede biçim, … duygusunu … yoluyla üretir.”</li></ul><p>Analizini bu projede bana gönder. Güçlü yanları, eksikleri ve yanlış kullandığın kavramları açıkça söyleyeceğim.</p>",
+  "gozlem": "Bu akşam izlediğin herhangi bir dizi ya da videoda bir konuşma sahnesini durdur. Kameranın göz hizasında mı, altında mı, üstünde mi olduğunu ve arka planın net mi bulanık mı olduğunu not et. Kendine sor: bu seçim beni kime yaklaştırıyor?",
+  "terimler": [
+    {
+      "tr": "Mizansen",
+      "en": "mise-en-scène",
+      "tanim": "Kameranın önüne konan her şey: dekor, kostüm-makyaj, ışık ve oyuncu yerleşimi."
+    },
+    {
+      "tr": "Anahtar ışık",
+      "en": "key light",
+      "tanim": "Sahnenin ana, en güçlü ve yönlü ışık kaynağı."
+    },
+    {
+      "tr": "Düşük anahtarlı aydınlatma",
+      "en": "low-key lighting",
+      "tanim": "Az dolgu ışığıyla keskin gölge ve yüksek kontrast üreten aydınlatma."
+    },
+    {
+      "tr": "Derin odak",
+      "en": "deep focus",
+      "tanim": "Ön, orta ve arka planı aynı anda net tutan çekim tekniği."
+    },
+    {
+      "tr": "Plan-sekans",
+      "en": "sequence shot",
+      "orijinal": "plan-séquence",
+      "tanim": "Bütün bir sahneyi kesmeden tek bir uzun planda veren çekim."
+    },
+    {
+      "tr": "Kadraj dışı alan",
+      "en": "offscreen space",
+      "tanim": "Görmediğimiz ama bakış, ses ve hareketle varlığını hissettiğimiz uzam."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Yarın Hafta 4 başlıyor: kurgu (<i>editing</i>); planlar arasındaki grafik, ritmik, uzamsal ve zamansal ilişkilerle devamlılık sistemine giriyoruz."
+}
