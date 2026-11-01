@@ -1,0 +1,75 @@
+{
+  "hafta": 4,
+  "gun": 2,
+  "tarih": "2026-10-27",
+  "tur": "ders",
+  "baslik": "Devamlılık sistemi — 180° kuralı, göz hattı ve plan/karşı plan",
+  "okuma": "Film Art, Böl. 6",
+  "film": "À bout de souffle (Godard, 1960) ve The Conversation (Coppola, 1974)",
+  "tek_cumle": "Devamlılık kurgusu (<i>continuity editing</i>), parçalara bölünmüş bir mekânı izleyicinin kafasında tek ve tutarlı bir mekân olarak yeniden kurmak için geliştirilmiş, kuralları bilinçli olarak öğrenilen ama izlerken neredeyse hiç fark edilmeyen bir sistemdir.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün kurgunun planlar arasında dört tür ilişki kurabildiğini gördük: grafik, ritmik, uzamsal ve zamansal. Bugün bu olasılıkların içinden bir seçim yapan, tarihsel olarak en etkili sistemi ele alıyoruz. Bordwell ve Thompson’ın <i>Film Art</i>’ın 6. bölümündeki temel iddiası şu: Hollywood’un 1910’lar ile 1920’ler arasında oturttuğu devamlılık sistemi doğal ya da kaçınılmaz bir “film dili” değildir; belirli bir amaca, anlatının akıcı ve anlaşılır biçimde aktarılmasına hizmet eden bir <b>tercihler bütünüdür</b>. Bu tercih o kadar yaygınlaştı ki bugün çoğumuz onu “normal kurgu” sanıyoruz.</p><p>Sistemin amacı basit: Kamera açısı değişse bile izleyici nerede olduğunu, kimin kime baktığını ve kimin nereye hareket ettiğini kaybetmemeli. Bunun için dikkat kurgunun kendisine değil hikâyeye yönelmeli; bu yüzden bu sisteme sık sık “görünmez kurgu” (<i>invisible editing</i>) da denir. Görünmezlik bir yokluk değil, büyük bir emeğin sonucudur.</p><p><b>180° kuralı ve aksiyon ekseni.</b> Sistemin omurgası aksiyon ekseni (<i>axis of action</i>) ya da 180° çizgisidir. İki kişi konuşuyorsa aralarından hayali bir çizgi geçer. Kamera bu çizginin hep aynı tarafında kalırsa, her planda A kadrajın solunda, B sağında görünür; A sağa doğru, B sola doğru bakar. Bu sabitlik sayesinde izleyici, iki kişiyi asla aynı kadrajda görmese bile aralarındaki uzamsal ilişkiyi korur. Kamera çizgiyi geçerse karakterler birden yer değiştirmiş gibi görünür ve izleyici bir an yönünü kaybeder. Bordwell ve Thompson’ın vurguladığı nokta şu: Kural yalnızca konumu değil, <b>bakış ve hareket yönünü</b> de sabitler. Soldan sağa koşan biri, bir sonraki planda da soldan sağa koşmalıdır ki aynı yolculuğun devam ettiğini anlayalım; buna ekran yönü (<i>screen direction</i>) denir.</p><p><b>Kuruluş planı ve analitik bölme.</b> Klasik bir sahne çoğunlukla mekânı bütünüyle gösteren bir kuruluş planıyla (<i>establishing shot</i>) açılır. Ardından sahne daha yakın planlara bölünür (<i>analytical editing</i>), gerektiğinde bir yeniden kuruluş planıyla (<i>reestablishing shot</i>) bütün yeniden hatırlatılır. Bu düzen izleyiciye önce harita verir, sonra haritanın ayrıntılarına götürür.</p><p><b>Plan/karşı plan.</b> Diyalog sahnelerinin standart çözümü plan/karşı plandır (<i>shot/reverse shot</i>): Önce A’yı, genellikle B’nin omzunun üzerinden, sonra B’yi A’nın omzunun üzerinden görürüz. İki plan da 180° çizgisinin aynı tarafından çekildiği için karakterler birbirine bakıyormuş gibi okunur. Bu tekniğin gücü, iki ayrı çekimi (bazen farklı günlerde çekilmiş) tek bir konuşma anına dönüştürmesidir.</p><p><b>Göz hattı eşleşmesi.</b> Göz hattı eşleşmesi (<i>eyeline match</i>) en sessiz ama en güçlü araçtır: Bir plan bir karakterin bir şeye baktığını gösterir, bir sonraki plan bakılan şeyi gösterir. İzleyici, ikinci planı birincinin “bakışının hedefi” olarak okur. Kuleshov deneylerinde görülen etkiyi hatırlayın: Aynı yüz farklı nesnelerle yan yana gelince farklı duygular okunur. Göz hattı eşleşmesi bu çıkarımı sistemli hale getirir. Buna eşlik eden bir araç da hareket eşleşmesidir (<i>match on action</i>): Bir hareket bir planda başlar, öteki planda devam eder; kesme hareketin içinde saklanır.</p><p><b>Neden önemli?</b> Bordwell ve Thompson burada iki şeye karşı çıkar. Birincisi, devamlılığı “tek doğru yol” sayan, bunun dışındaki her şeyi hata gibi gören dar bakış. İkincisi, kurguyu yalnızca teknik bir zanaat olarak gören, onun izleyicinin algısını ve çıkarımlarını nasıl yönettiğini görmeyen yaklaşım. Devamlılık sistemini bir sistem olarak tanımak, hem onun ustalığını takdir etmenizi hem de onu bilinçli olarak kıran filmlerin ne yaptığını anlamanızı sağlar. Yarın konuşacağımız sıçramalı kesme (<i>jump cut</i>) ancak bu kuralların bilindiği bir dünyada bir “kırılma” olarak okunabilir.</p><p>Bir uyarı: Bu kurallar sert yasalar değil, uzlaşımlardır (<i>conventions</i>). Usta yönetmenler çizgiyi geçmenin yollarını bulur; örneğin kamera hareketiyle çizgiyi izleyicinin gözü önünde geçerek ya da karakteri ekseni değiştiren bir harekete sokarak. Sistemin ölçütü kuralın kendisi değil, izleyicinin yönelimini kaybetmemesidir.</p>"
+    },
+    {
+      "baslik": "Örnek",
+      "html": "<p>Haftanın iki filmini yan yana düşünün. <i>The Conversation</i> (Coppola, 1974), gözetleme ve dinleme üzerine kurulu bir film; dolayısıyla göz hattı eşleşmesi burada yalnızca bir teknik değil, filmin konusu haline gelir. Harry Caul’un bir şeye baktığı ya da kulaklıkla bir şey dinlediği planlardan sonra gelen planı izlerken kendinize şunu sorun: Bunu “Harry’nin gördüğü/duyduğu” olarak mı okuyorum, yoksa film bana Harry’nin erişemediği bir şeyi mi gösteriyor? Klasik göz hattı eşleşmesi bu ayrımı netleştirir; film ise yer yer bu netliği bilerek bulandırır.</p><p><i>À bout de souffle</i> (Godard, 1960) ise tersi yönden öğretir. Filmde diyalog sahnelerinin önemli bir kısmı klasik plan/karşı plan düzeniyle değil, uzun takip planlarıyla ya da beklenmedik kesmelerle çözülür. İzlerken bir konuşma sahnesinde “Burada klasik bir film hangi plan/karşı plan düzenini kurardı?” diye sorarsanız Godard’ın neyi reddettiğini somut olarak görürsünüz. (Ayrıntıya film gününde ve yarınki derste gireceğiz; şimdilik sadece gözünüzü buna hazırlayın.)</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Göz hattı eşleşmesi ve plan/karşı plan, programın ilerleyen haftalarında göreceğimiz dikiş (<i>suture</i>) kuramının hareket noktasıdır: Oudart ve Dayan, izleyiciyi anlatıya “diken” mekanizmanın tam da bu bakış/karşı bakış düzeni olduğunu savunacak.</p>"
+    }
+  ],
+  "sorular": [
+    "180° kuralı yalnızca karakterlerin kadrajdaki konumunu mu korur? Başka hangi iki şeyi sabit tutar?",
+    "Göz hattı eşleşmesi neden Kuleshov etkisinin sistemli bir kullanımı olarak görülebilir?",
+    "Bordwell ve Thompson devamlılık sistemini neden “doğal film dili” değil, bir “tercih” olarak tanımlar? Bu ayrım film eleştirisi için neyi değiştirir?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi ya da talk-show’da iki kişinin konuştuğu bir sahne bul. Sesi kapat ve sadece şunlara bak: Karakterler her planda kadrajın aynı tarafında mı? Omuz üstü planlar kullanılıyor mu? Kamera bir kez bile çizgiyi geçiyor mu? Geçiyorsa yönünü kaybettin mi?",
+  "terimler": [
+    {
+      "tr": "Devamlılık kurgusu",
+      "en": "continuity editing",
+      "tanim": "Mekân, zaman ve aksiyonu kesintisiz ve anlaşılır göstermeyi amaçlayan klasik kurgu sistemi."
+    },
+    {
+      "tr": "Aksiyon ekseni / 180° kuralı",
+      "en": "axis of action / 180° rule",
+      "tanim": "Kameranın, karakterler arasından geçen hayali çizginin hep aynı tarafında kalması ilkesi."
+    },
+    {
+      "tr": "Kuruluş planı",
+      "en": "establishing shot",
+      "tanim": "Sahnenin başında mekânın bütününü ve karakterlerin konumlarını gösteren plan."
+    },
+    {
+      "tr": "Plan/karşı plan",
+      "en": "shot/reverse shot",
+      "tanim": "Birbirine bakan iki karakteri sırayla, eksenin aynı tarafından gösteren kurgu düzeni."
+    },
+    {
+      "tr": "Göz hattı eşleşmesi",
+      "en": "eyeline match",
+      "tanim": "Bir karakterin bakışından sonra bakılan şeyi göstererek ikisini ilişkilendiren kesme."
+    },
+    {
+      "tr": "Hareket eşleşmesi",
+      "en": "match on action",
+      "tanim": "Bir hareketin bir planda başlayıp ötekinde devam ettiği, kesmeyi gizleyen geçiş."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    }
+  ],
+  "yarin": "Devamlılığın zamansal tarafı ve onu kıran alternatifler: elips, çapraz kurgu ve Godard’ın sıçramalı kesmesi (<i>jump cut</i>)."
+}

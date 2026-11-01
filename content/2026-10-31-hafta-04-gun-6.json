@@ -1,0 +1,82 @@
+{
+  "hafta": 4,
+  "gun": 6,
+  "tarih": "2026-10-31",
+  "tur": "film",
+  "baslik": "Film günü — À bout de souffle ve The Conversation",
+  "film": "À bout de souffle (Godard, 1960) ve The Conversation (Coppola, 1974)",
+  "tek_cumle": "Bu hafta öğrendiğin kurgu ve ses kurallarını iki filmde izleyeceksin: biri görüntünün kurallarını bilerek kırıyor, öteki sesi hikâyenin kendisine dönüştürüyor.",
+  "bolumler": [
+    {
+      "baslik": "Hangisiyle başlamalı?",
+      "html": "<p>Önce <b>À bout de souffle</b> (<i>Breathless</i> / Serseri Aşıklar, Jean-Luc Godard, 1960; yaklaşık 90 dk), sonra <b>The Conversation</b> (Konuşma, Francis Ford Coppola, 1974; yaklaşık 113 dk). Sıra haftanın sırasıyla aynı: Pazartesi–Çarşamba kurguyu, Perşembe–Cuma sesi okudun. Godard’la kurgunun “görünmezlik” sözleşmesinin nasıl bozulduğunu görüp gözünü keskinleştir; Coppola’da ise kulağını aç. İki filmi aynı gün izleyemezsen Godard’ı bugün, Coppola’yı yarın sınavdan önce izle.</p>"
+    },
+    {
+      "baslik": "1. À bout de souffle — kuralları kıran kurgu",
+      "html": "<p>Hikâye basit: bir küçük suçlu ile Paris’te yaşayan Amerikalı bir genç kadın. Ama asıl izlenmesi gereken hikâye değil, filmin hikâyeyi nasıl <i>anlattığı</i>. Fransız Yeni Dalgası’nın (<i>Nouvelle Vague</i> / French New Wave) simge filmi bu; Hollywood’un devamlılık sistemini çok iyi bilen eleştirmenlerin kamera arkasına geçtiği bir dönemin ürünü.</p><ul><li><b>Atlamalı kesme (<i>jump cut</i>):</b> Aynı çekimin içinden kısa parçaların atılmasıyla görüntü “zıplar”. En belirgin örneği arabadaki sahnede göreceksin: kadın karakterin yüzü aynı açıdan kalırken arka plan ve zaman sıçrar. Kendine sor: bu, 30 derece kuralını ve zamansal devamlılığı nasıl ihlal ediyor? Sana rahatsızlık mı veriyor, ritim mi?</li><li><b>Kameraya bakış:</b> Film başlarında karakterin doğrudan seyirciye konuştuğu anlar var. Klasik kurgu seyirciyi “görünmez tanık” yapar; burada seni fark ediyorlar. Bu, devamlılık sisteminin yarattığı yanılsamayı nasıl kırar?</li><li><b>Uzun oda sahnesi:</b> Filmin ortasında, bir otel odasında geçen uzun bir bölüm var. Burada kurgu birden yavaşlar. Plan/karşı plan (<i>shot/reverse shot</i>) kullanılıyor mu, yoksa kamera iki karakteri aynı kadrajda mı tutuyor? Göz hattı eşleşmeleri (<i>eyeline match</i>) ne kadar “temiz”?</li><li><b>Elde kamera ve doğal mekân:</b> Görüntü yönetmeni Raoul Coutard’ın hareketli kamerası, sokakta çekilmiş sahneler. Uzamsal ilişkiler (<i>spatial relations</i>) her zaman net mi? 180° kuralının (<i>180° rule</i>) korunduğu ve göz ardı edildiği anları ayırt etmeye çalış.</li></ul><p><b>Not al:</b> Analiz görevin bu filmden bir jump cut sahnesini klasik devamlılık kurallarıyla karşılaştırmak olacak. İzlerken iki aday sahnenin dakikasını yaz.</p>"
+    },
+    {
+      "baslik": "2. The Conversation — ses hikâyenin merkezinde",
+      "html": "<p>Gene Hackman bir dinleme uzmanını, Harry Caul’u oynuyor. Film, bir konuşmanın kaydedilmesi ve o kaydın tekrar tekrar dinlenmesi üzerine kurulu. Ses tasarımı ve kurgu Walter Murch’e ait; bu film, sesin yalnızca görüntüye “eşlik etmediği”, anlamı taşıdığı filmlerin başında gelir.</p><ul><li><b>Açılış sahnesi:</b> Kalabalık bir meydanın üstünden yavaşça yaklaşan bir görüntü ve parçalı, bozuk bir ses. Kendine sor: bu sesin kaynağı kadraj içinde mi (<i>onscreen</i>) yoksa kadraj dışında mı (<i>offscreen</i>)? Kimin kulağından duyuyoruz?</li><li><b>Diegetik ve diegetik olmayan ses (<i>diegetic / nondiegetic sound</i>):</b> Karakterlerin dünyasında var olan sesleri (kayıt cihazları, konuşmalar, Harry’nin evinde çaldığı müzik) filmin seyirciye özel müziğinden ayırmaya çalış. Bazen ikisinin sınırı bilerek bulanıklaştırılıyor; bu anları işaretle.</li><li><b>Aynı kaydın tekrarları:</b> Kaydedilen konuşma film boyunca birçok kez çalınıyor. Her seferinde neyin değiştiğine dikkat et: kelimeler mi, yoksa senin onları duyma biçimin mi? (Burada daha fazlasını söylemiyorum.)</li><li><b>Ses köprüsü (<i>sound bridge</i>):</b> Bir sahnenin sesinin bir sonraki sahneye taştığı ya da sonraki sahnenin sesinin önceden başladığı geçişleri yakala. Kayıt sesi, görüntü başka bir yere geçtikten sonra da sürüyor mu?</li><li><b>Sessizlik:</b> Harry’nin dünyasında ses kadar sessizlik de önemli. Hangi anlarda ortam sesi (<i>ambient sound</i>) çekiliyor ve bu ne hissettiriyor?</li></ul><p><b>Not al:</b> Sınav sorularından biri senden bir ses köprüsü örneği isteyecek. Bu filmden bir tane yakalayıp dakikasını yaz.</p>"
+    },
+    {
+      "baslik": "İki filmi birlikte düşün",
+      "html": "<p>Klasik devamlılık sistemi (<i>continuity editing</i>) hem görüntüde hem seste aynı amaca hizmet eder: seyircinin uzamı ve zamanı zahmetsizce takip etmesi, tekniği fark etmemesi. Godard görüntüde bu zahmetsizliği bozar; Coppola ve Murch ise sesi o kadar öne çıkarır ki seyirci teknikle, yani kaydın kendisiyle yüzleşmek zorunda kalır. İzlerken şu soruyu taşı: <i>Bu film bana tekniğini ne zaman fark ettiriyor ve bunu neden yapıyor?</i></p>"
+    },
+    {
+      "baslik": "İzledikten sonra",
+      "html": "<p><b>İzledikten sonra bu projede yaz, tartışalım.</b></p>"
+    }
+  ],
+  "soru_baslik": "İzlerken kendine soracağın 3 soru",
+  "sorular": [
+    "À bout de souffle’daki atlamalı kesmeler bir “hata” gibi mi duruyor, yoksa karakterlerin ruh hâline dair bir şey mi söylüyor?",
+    "The Conversation’da bir sesin kaynağını göremediğinde ona daha mı az, daha mı çok güveniyorsun?",
+    "İki filmde de plan/karşı plan kalıbının sade, kurallara uygun kullanıldığı bir sahne bul. Kural kırmanın etkisi, kurala uyulan sahnelerle yan yana gelince nasıl değişiyor?"
+  ],
+  "terimler": [
+    {
+      "tr": "Atlamalı kesme",
+      "en": "jump cut",
+      "tanim": "Aynı konunun benzer açıdan iki çekimi arasındaki, görüntüde ani bir sıçrama yaratan kesme."
+    },
+    {
+      "tr": "Devamlılık kurgusu",
+      "en": "continuity editing",
+      "tanim": "Uzam ve zamanı tutarlı göstererek kurguyu “görünmez” kılmayı amaçlayan klasik sistem."
+    },
+    {
+      "tr": "Göz hattı eşleşmesi",
+      "en": "eyeline match",
+      "tanim": "Bir karakterin baktığı yönü, sonraki çekimde baktığı şeyi göstererek eşleyen kesme."
+    },
+    {
+      "tr": "Diegetik ses",
+      "en": "diegetic sound",
+      "tanim": "Kaynağı filmin hikâye dünyasında bulunan ve karakterlerin de duyabildiği ses."
+    },
+    {
+      "tr": "Kadraj dışı ses",
+      "en": "offscreen sound",
+      "tanim": "Kaynağı hikâye dünyasında olan ama o an kadrajda görünmeyen ses."
+    },
+    {
+      "tr": "Ses köprüsü",
+      "en": "sound bridge",
+      "tanim": "Bir sahnenin sesinin kesmeden sonra da sürmesi ya da sonraki sahnenin sesinin önceden başlaması."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    }
+  ],
+  "yarin": "Hafta 4 sınav günü: kurgu ve ses kavramları üzerine test, üç kısa cevaplı soru ve À bout de souffle’dan bir jump cut sahnesinin analizi."
+}

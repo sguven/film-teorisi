@@ -1,0 +1,80 @@
+{
+  "hafta": 4,
+  "gun": 1,
+  "tarih": "2026-10-26",
+  "tur": "ders",
+  "baslik": "Kurgu nedir? Planlar arasındaki dört ilişki",
+  "okuma": "[FA] Böl. 6, kurgu (Pzt–Çar okumasının ilk parçası: kurgunun tanımı ve grafik, ritmik, uzamsal, zamansal ilişkiler). Yarın devamlılık sistemine geçiyoruz.",
+  "film": "À bout de souffle (Godard, 1960) ve The Conversation (Coppola, 1974)",
+  "tek_cumle": "Kurgu iki planı yalnızca arka arkaya eklemek değildir; her kesme, iki plan arasında grafik, ritmik, uzamsal ve zamansal bir ilişki kurar ve film yapımcısı bu dört ilişkiden her birini bilinçli olarak seçer.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p><b>Kurgu ne yapar?</b> Geçen hafta tek bir planın içinde olan biteni konuştuk: mizansen (<i>mise-en-scène</i>) ve sinematografi (<i>cinematography</i>). Bu hafta planın sınırına geliyoruz. Kurgu (<i>editing</i>), bir planın bitip diğerinin başladığı noktada, yani kesmede (<i>cut</i>) yaşanan her şeydir. Teknik olarak kesmenin dışında başka geçişler de vardır: kararma ve açılma (<i>fade-out / fade-in</i>), zincirleme (<i>dissolve</i>), silme (<i>wipe</i>). Ama sinemanın büyük çoğunluğu düz kesmeyle çalışır, çünkü düz kesme en hızlı ve en az fark edilen geçiştir.</p><p>Bordwell ve Thompson’ın bu bölümdeki temel iddiası şu: kurgu, sadece “hikâyeyi sırayla anlatmak” için yapılan teknik bir montaj işi değil, filmin biçimsel sisteminin (Hafta 1) aktif bir parçasıdır. İki plan yan yana geldiğinde seyirci aralarında bir bağ kurar. Bu bağ dört düzeyde işler ve yönetmen her kesmede, farkında olsun olmasın, bu dört düzeyde bir karar verir.</p><p><b>1) Grafik ilişkiler (<i>graphic relations</i>).</b> İki planı saf görsel nitelikleriyle düşünün: ışık ve karanlık, renk, çizgi, şekil, hacim, hareket yönü. Bir kesme bu nitelikleri sürdürebilir ya da çarpıştırabilir. En güçlü sürdürme biçimine grafik eşleşme (<i>graphic match</i>) denir: ilk plandaki bir şeklin, ikinci planda benzer bir şekille aynı yerde devam etmesi. Klasik örnek Kubrick’in <i>2001</i>’inde havaya fırlatılan kemikten yörüngedeki uzay aracına geçiştir. Tersi de mümkündür: aydınlık bir plandan karanlığa, durağandan hareketliye sert bir grafik çatışma. Hafta 9’da okuyacağımız Eisenstein, bu çatışmayı bir kuram hâline getirecek.</p><p><b>2) Ritmik ilişkiler (<i>rhythmic relations</i>).</b> Her planın bir süresi vardır ve kurgucu bu süreleri belirler. Planlar giderek kısalırsa tempo hızlanır, gerilim artar; uzun planlar ise seyirciye bakma ve düşünme zamanı bırakır. Ritim sadece plan uzunluğundan gelmez: planın içindeki hareket ve ses de ritme katılır. Ama kurgunun kendi ritmi, planların süre örüntüsüdür. Bir sahneyi dört saniyelik planlarla mı, on beşer saniyelik planlarla mı kurduğunuz, aynı olayı başka bir deneyime dönüştürür.</p><p><b>3) Uzamsal ilişkiler (<i>spatial relations</i>).</b> Kurgu, kameranın gösterdiği parçaları birleştirerek seyircinin kafasında bir mekân inşa eder. Bir plan bir kapıyı, sonraki plan bir odayı gösterirse, aynı binada olduğumuzu varsayarız; bunu filmde hiç kimse söylemez. Sovyet kurgucu Lev Kuleşov’un deneyleri bunu çok açık gösterdi: farklı yerlerde çekilmiş planlar arka arkaya getirildiğinde seyirci onları tek bir yer gibi algılar. Buna Kuleşov etkisi (<i>Kuleshov effect</i>) denir; aynı adı, bir yüzün anlamının ardından gelen plana göre değişmesi için de kullanıyoruz. Kısacası: perdedeki mekânı kamera değil, kurgu kurar.</p><p><b>4) Zamansal ilişkiler (<i>temporal relations</i>).</b> Hafta 2’de anlatıda zamanın üç boyutunu görmüştük: sıra, süre, sıklık. Kurgu bu üçünü doğrudan kontrol eder. <i>Sıra:</i> geriye dönüş (<i>flashback</i>) ya da ileriye sıçrama (<i>flashforward</i>) bir kesmeyle olur. <i>Süre:</i> kurgu zamanı kısaltabilir; buna eksiltme (<i>ellipsis</i>) denir. Bir karakter merdivenin dibinde, sonraki planda kapının önündedir; aradaki tırmanışı izlememiz gerekmez. Nadiren de kurgu zamanı uzatır: aynı hareketin farklı açılardan üst üste gösterilmesiyle (<i>overlapping editing</i>). <i>Sıklık:</i> aynı olay birden çok kez gösterilebilir.</p><p><b>Neye karşı?</b> Bu çerçeve iki kolay yaklaşıma itiraz eder. Birincisi, kurguyu “görünmez”, nötr bir yapıştırma işi sayan görüş. İkincisi, kurguyu yalnızca hız ya da “heyecan” meselesi sanan görüş. Bordwell ve Thompson’a göre her kesme bir seçimdir ve seçeneklerin tamamı ancak bu dört ilişkiyi birlikte düşünürsek görünür. Yarın göreceğimiz Hollywood devamlılık sistemi de bu seçeneklerin “bir” kullanım biçimidir, tek doğru kullanımı değil.</p><p><b>Neden önemli?</b> Klasik film teorisinin en büyük kavgalarından biri tam burada başlar: sinemanın özü kurgu mu (Sovyetler), yoksa kesintisiz plan ve mizansen mi (Bazin)? Bu dört ilişkiyi adlandıramadan o tartışmayı yalnızca slogan düzeyinde yaparsınız.</p>"
+    },
+    {
+      "baslik": "Örnek: À bout de souffle (Godard, 1960)",
+      "html": "<p>Filmin en çok anılan sahnelerinden birinde Michel üstü açık bir arabayı sürerken yanındaki Patricia’ya onun güzelliğini sayıp döker. Kamera Patricia’nın ensesine ve saçlarına bakar; konuşma sürerken görüntü birkaç kez aynı açıdan, kısa sıçramalarla kesilir. Arka plandaki yol değişir ama Patricia neredeyse aynı yerde, aynı pozdadır.</p><p>Dört ilişkiyle okuyalım. <i>Grafik</i> olarak kesmeler neredeyse hiçbir şeyi değiştirmez: aynı kadraj, aynı şekil. Bu yüzden kesmeyi saklamak yerine görünür kılar. <i>Zamansal</i> olarak her kesme bir eksiltmedir: araba yolda ilerlemiş, zaman atlamıştır. Ama klasik eksiltme gibi “önemsiz anı” atlayıp bizi önemli olana götürmez; konuşma kesintisiz akar gibi duyulurken görüntü atlar. <i>Ritmik</i> olarak kısa, düzensiz aralıklar sahneye bir kesik kesik nefes duygusu verir (filmin adı da “nefes nefese”). <i>Uzamsal</i> olarak mekân kafamızda bozulmaz; yine bir arabadayız. Yani Godard dört ilişkiden birini (zamanı) sakladığı yerden çıkarıp öne sürer. Bu tür kesmeye atlamalı kesme (<i>jump cut</i>) denir; Çarşamba’ya kadar devamlılık kurallarını öğrenince hangi kuralı kırdığını tam olarak adlandırabileceksin.</p><p>Karşılaştırma için: <i>The Conversation</i>’daki kurgu çoğunlukla klasik kurallara sadıktır. İkisini aynı hafta izlemenin amacı tam olarak budur: aynı dört ilişki, iki zıt tercih.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü grafik ve uzamsal ilişkiler, Hafta 8–9’da Kuleşov, Pudovkin ve Eisenstein’ın montaj kuramlarında bir sanat felsefesine dönüşecek; Bazin ise Hafta 10’da kurgu yerine derin odağı ve kesintisiz planı savunacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Kuleşov etkisi, “anlam planın içindedir” fikrine nasıl bir itiraz getirir?",
+    "Bir eksiltme ile bir atlamalı kesme (<i>jump cut</i>) ikisi de zamanı kısaltır. Aradaki fark nedir?",
+    "Grafik eşleşme ile grafik çatışma seyircide nasıl farklı bir etki bırakır? Birer örnek düşün."
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyden (bir dizi sahnesi, bir reklam, bir YouTube videosu) 30 saniyelik bir bölüm seç. Kesmeleri say. Sonra tek bir kesme seç ve kendine sor: buradaki asıl ilişki grafik mi, ritmik mi, uzamsal mı, zamansal mı? Zaman atlandı mı, yoksa aynı anın farklı bir açısına mı geçildi?",
+  "terimler": [
+    {
+      "tr": "Kurgu",
+      "en": "editing",
+      "tanim": "Planların birbirine bağlanması ve aralarındaki ilişkilerin düzenlenmesi."
+    },
+    {
+      "tr": "Grafik eşleşme",
+      "en": "graphic match",
+      "tanim": "İki ardışık planda benzer şekil, renk veya hareketin aynı yerde sürmesi."
+    },
+    {
+      "tr": "Eksiltme",
+      "en": "ellipsis",
+      "tanim": "Kurgunun olay süresinin bir kısmını atlayarak zamanı kısaltması."
+    },
+    {
+      "tr": "Kuleşov etkisi",
+      "en": "Kuleshov effect",
+      "tanim": "Ayrı çekilmiş planların yan yana gelince seyircide tek bir mekân ya da anlam oluşturması."
+    },
+    {
+      "tr": "Atlamalı kesme",
+      "en": "jump cut",
+      "tanim": "Aynı ya da çok yakın açıdan çekilmiş iki plan arasında zamanın görünür biçimde sıçraması."
+    },
+    {
+      "tr": "Zincirleme",
+      "en": "dissolve",
+      "tanim": "Bir planın kaybolurken diğerinin üstüne binerek belirdiği geçiş."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "2001: A Space Odyssey",
+      "yil": 1968,
+      "yonetmen": "Stanley Kubrick"
+    }
+  ],
+  "yarin": "Yarın Hollywood’un devamlılık sistemini (<i>continuity editing</i>) ve onun omurgası olan 180° kuralını (<i>180° rule</i>) inceleyeceğiz: seyircinin mekânda kaybolmaması için kurulmuş görünmez bir anlaşma."
+}

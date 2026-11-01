@@ -1,0 +1,75 @@
+{
+  "hafta": 4,
+  "gun": 4,
+  "tarih": "2026-10-29",
+  "tur": "ders",
+  "baslik": "Ses I — Sesin gücü ve temel özellikleri",
+  "okuma": "[FA] Bordwell & Thompson, Film Art, Bölüm 7 (ses) — birinci yarı. Yarın bölümün ikinci yarısını (sesin mekânı ve zamanı) işleyeceğiz.",
+  "film": "À bout de souffle (Godard, 1960) ve The Conversation (Coppola, 1974)",
+  "tek_cumle": "Ses, görüntünün arkasına eklenmiş bir “süs” değil; ne gördüğümüzü, nereye baktığımızı ve gördüğümüzü nasıl yorumladığımızı yönlendiren, görüntü kadar seçilmiş ve kurgulanmış bir biçim unsurudur.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p><b>1. Neden sesi ayrıca düşünmeliyiz?</b> Bordwell ve Thompson’ın bu bölümdeki temel iddiası, izleyicinin sesi genellikle “doğal” kabul ettiğidir: bir kapı çarpınca çarpma sesi duyarız ve bunun bir tercih olduğunu fark etmeyiz. Oysa film sesi neredeyse hiçbir zaman çekim anında olduğu gibi kaydedilip bırakılmaz. Diyaloglar sonradan yeniden seslendirilir (<i>ADR / post-synchronization</i>), ayak sesleri stüdyoda yeniden üretilir (<i>Foley</i>), arka plan gürültüsü temizlenir ya da eklenir. Yani ses de tıpkı mizansen (<i>mise-en-scène</i>) ve kurgu gibi bir seçimler zinciridir. Yazarlar burada, sesi görüntünün sadık bir eşlikçisi sayan sağduyuya karşı çıkıyor: ses görüntüyü yalnızca “tamamlamaz”, onu dönüştürebilir.</p><p>Bunun pratik bir sonucu var: aynı görüntünün altına farklı bir ses koyduğunuzda farklı bir sahne elde edersiniz. Boş bir koridor görüntüsü, altında hafif bir rüzgâr sesiyle huzurlu, tek bir uzak ayak sesiyle tekinsiz, neşeli bir müzikle ironik görünür. Ses, dikkatimizi kadrajın belli bir yerine çeker (birinin konuştuğunu duyunca gözümüz o kişiye gider) ve beklentilerimizi şekillendirir.</p><p><b>2. Üç ses türü.</b> Film sesi geleneksel olarak üç kategoride düşünülür:</p><ul><li><b>Konuşma</b> (<i>speech</i>): diyalog, iç ses, anlatıcı sesi. Klasik anlatı sinemasında genellikle önceliklidir; ses karışımı (<i>mixing</i>) diyaloğun anlaşılır olmasını garanti edecek şekilde yapılır.</li><li><b>Müzik</b> (<i>music</i>): duygu tonunu belirler, sahneleri birbirine bağlar, bir karakteri ya da fikri temsil eden tekrar eden motiflerle (<i>leitmotif</i>) anlamı taşır.</li><li><b>Efekt / gürültü</b> (<i>sound effects / noise</i>): adımlar, trafik, yağmur, ortam sesi (<i>ambient sound</i>). Bir mekânın “dokusunu” ve gerçeklik duygusunu kurar.</li></ul><p>Önemli olan bu üçünün <b>nasıl seçildiği ve karıştırıldığıdır</b>. Ses tasarımcısı her an şunu sorar: Bu sahnede ne duyulmalı, ne duyulmamalı, hangisi öne çıkmalı? Gerçek hayatta kalabalık bir kafede konuşurken çevredeki onlarca sesi duyarız; film ise genellikle bunların çoğunu bastırıp iki kişinin konuşmasını öne çıkarır. Bu, kameranın kadrajı seçmesinin ses dünyasındaki karşılığıdır.</p><p><b>3. Sesin algısal özellikleri.</b> Bordwell ve Thompson sesi üç temel nitelikle analiz etmeyi önerir:</p><ul><li><b>Ses yüksekliği</b> (<i>loudness</i>): Yüksek/alçak ses mesafe ve önem bildirir. Ani bir sessizlik ya da patlama dikkatimizi zorla bir yere yöneltir.</li><li><b>Perde</b> (<i>pitch</i>): Sesin incelik-kalınlığı. Karakterleri ayırt etmeye, gerilim kurmaya yarar (tiz, uzayan bir ton huzursuzluk üretir).</li><li><b>Tını</b> (<i>timbre</i>): Bir sesi diğerinden ayıran “renk” ya da doku; aynı notayı çalan keman ve klarnet arasındaki fark. Bir sesin boğuk, metalik, yankılı olması bize hem kaynağı hem atmosferi anlatır.</li></ul><p>Bunlara ek olarak kitap sesin film içindeki iki boyutuna dikkat çeker: <b>ritim</b> (<i>rhythm</i>) ve <b>sadakat</b> (<i>fidelity</i>). Ritim, sesin temposunun görüntünün ve kurgunun temposuyla nasıl ilişki kurduğudur: müzik planlarla aynı vuruşta ilerleyebilir ya da onlara karşı işleyebilir. Sadakat ise sesin kaynağına “uygun” olup olmadığıdır: bir köpek havlaması köpek gibi mi duyuluyor, yoksa bir kedi miyavlaması mı? Burada dikkat: sadakat, sesin <b>gerçekten</b> o kaynaktan kaydedilip kaydedilmediği değil, izleyiciye kaynağına uygun <b>görünüp görünmediğidir</b>. Kasıtlı sadakatsizlik (bir insanın ağzından makine sesi çıkması gibi) komedi, tekinsizlik ya da yabancılaştırma üretmek için kullanılır.</p><p><b>4. Neden önemli?</b> Bu bölüm, bu hafta işlediğimiz kurgu konusunu tamamlar. Kurgu planlar arasındaki ilişkileri düzenliyordu; ses de hem görüntüyle hem kendi içinde ilişkiler kurar. Ses kesintisiz akarken görüntü kesilebilir ve bu, kesmeyi “görünmez” kılar; devamlılık sistemini (<i>continuity system</i>) ayakta tutan şeylerden biri aslında sestir. Tersi de geçerli: sesin aniden kesilmesi ya da görüntüyle uyumsuz olması, Godard’ın yaptığı gibi, izleyiciye filmin bir yapı olduğunu hatırlatır.</p>"
+    },
+    {
+      "baslik": "Örnek: The Conversation (Coppola, 1974) — açılış sahnesi",
+      "html": "<p>Film, kalabalık bir meydanın yukarıdan genel görüntüsüyle açılır; kamera yavaşça yaklaşır. Duyduğumuz şey “doğal” bir meydan sesi değildir: yer yer bozulan, cızırtılı, metalik bir tınıya bürünen, sonra yeniden netleşen konuşma parçaları. Bu, uzaktan yapılan bir dinleme kaydıdır. Ses yüksekliği ve tını burada doğrudan anlatının konusudur: hangi cümlenin duyulup hangisinin kaybolduğu, kimin neyi bilebileceğini belirler. Sahneyi izlerken kendinize şunu sorun: Ses bana mekânı mı anlatıyor, yoksa bir kayıt cihazının o mekânı nasıl “duyduğunu” mu? Coppola sesin sadakatini bilinçli olarak bozarak bizi bir dinleyicinin, daha doğrusu bir dinleme teknisyeninin konumuna yerleştirir. Filmin bütününde aynı kaydın tekrar tekrar dinlenmesi, sesin yorumla nasıl değiştiğini gösterecek; ayrıntıyı film günü için saklıyorum.</p><p>Karşılaştırma için: <i>À bout de souffle</i> büyük ölçüde senkron ses alınmadan çekilmiş, sesi sonradan eklenmiştir. Bu yüzden filmin ses dünyası çoğu zaman temiz, seçilmiş ve görüntüden biraz “kopuk”tur; bu da Godard’ın kurgudaki kural kırıcılığıyla uyumludur.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü “ses de bir seçimdir” fikri, Hafta 2–3’te mizansen ve görüntüyü seçimler olarak okumamızın ses alanındaki devamı; ilerideki klasik kuram haftalarında Eisenstein ve arkadaşlarının ses ile görüntü arasında “karşı nokta” (<i>counterpoint</i>) ilişkisi kurma çağrısında bu tartışmanın kuramsal köklerini göreceğiz.</p>"
+    }
+  ],
+  "sorular": [
+    "Bir filmde sesin “doğal” olduğunu düşünmemiz neden yanıltıcıdır? ADR ve Foley üzerinden açıkla.",
+    "Ses yüksekliği, perde ve tınıdan hangisi bir mekânın “nasıl bir yer” olduğunu anlatmada en etkilidir? Bir örnekle savun.",
+    "Sadakat (fidelity) ile gerçekçilik (realism) aynı şey mi? Neden?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyden (dizi, reklam, YouTube videosu) 30 saniyelik bir bölümü bir kez <b>gözlerin kapalı</b> dinle. Duyduğun sesleri konuşma / müzik / efekt diye üç sütuna yaz. Sonra aynı bölümü görüntüyle izle: Hangi ses görüntü olmadan anlamsızdı, hangisi tek başına sahneyi anlatıyordu?",
+  "terimler": [
+    {
+      "tr": "Sonradan seslendirme",
+      "en": "ADR / post-synchronization",
+      "tanim": "Diyaloğun çekimden sonra stüdyoda yeniden kaydedilip görüntüye eşlenmesi."
+    },
+    {
+      "tr": "Foley",
+      "en": "Foley",
+      "tanim": "Ayak sesi, kumaş hışırtısı gibi gündelik seslerin stüdyoda görüntüye bakılarak yeniden üretilmesi."
+    },
+    {
+      "tr": "Ses karışımı",
+      "en": "mixing",
+      "tanim": "Konuşma, müzik ve efektlerin göreli yüksekliklerinin ayarlanıp tek bir ses kuşağında birleştirilmesi."
+    },
+    {
+      "tr": "Tını",
+      "en": "timbre",
+      "tanim": "Aynı yükseklik ve perdedeki iki sesi birbirinden ayıran doku ya da “renk”."
+    },
+    {
+      "tr": "Sadakat",
+      "en": "fidelity",
+      "tanim": "Sesin, izleyiciye görüntüdeki kaynağına uygun görünüp görünmemesi."
+    },
+    {
+      "tr": "Ortam sesi",
+      "en": "ambient sound",
+      "tanim": "Bir mekânın arka planda süren, ona doku ve gerçeklik duygusu veren genel sesi."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    }
+  ],
+  "yarin": "Sesin mekânı ve zamanı: diegetik ve diegetik olmayan ses (<i>diegetic / nondiegetic</i>), kadraj içi ve dışı ses (<i>onscreen / offscreen</i>) ve sahneleri birbirine bağlayan ses köprüsü (<i>sound bridge</i>)."
+}

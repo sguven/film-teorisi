@@ -1,0 +1,76 @@
+{
+  "hafta": 4,
+  "gun": 5,
+  "tarih": "2026-10-30",
+  "tur": "ders",
+  "baslik": "Ses II — Sesin uzamı ve zamanı",
+  "okuma": "[FA] Bordwell & Thompson, Film Art, Bölüm 7 (ikinci yarı): diegetik ve diegetik olmayan ses, kadraj içi ve dışı ses, ses köprüsü.",
+  "film": "À bout de souffle (Godard, 1960) ve The Conversation (Coppola, 1974)",
+  "tek_cumle": "Bir sesin filmde “nerede” ve “ne zaman” olduğu, görüntünün bize söylediğinden bağımsız olarak ayarlanabilir; sinemacı bu boşluğu anlam, gerilim ve geçiş üretmek için kullanır.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Dün sesin “ne” olduğuna baktık: konuşma, müzik, efekt; yükseklik, perde, tını. Bugün sesin iki boyutunu ele alıyoruz: <b>uzam</b> (ses nereden geliyor?) ve <b>zaman</b> (ses görüntüyle aynı anda mı?). Bordwell ve Thompson’ın temel iddiası şu: ses, görüntüye yapıştırılmış bir kayıt değil, ayrı bir kanaldır. Mikrofon ile kamera aynı anda çalışsa bile, sesler montajda ayrı ayrı seçilir, katmanlanır ve yerleştirilir. Bu yüzden “doğal” görünen her ses ilişkisi aslında bir tasarımdır. Kitabın karşı çıktığı şey, sesi görüntünün sadık bir eşlikçisi, ikinci sınıf bir unsur sayan sağduyudur.</p><p><b>1. Diegetik ve diegetik olmayan ses.</b> Diegesis (<i>diegesis</i>, Yunanca <i>diēgēsis</i>, “anlatı”) filmin hikâye dünyasıdır: karakterlerin yaşadığı mekân, zaman ve olaylar. O dünyanın içinden gelen ses <b>diegetik ses</b>tir (<i>diegetic sound</i>): karakterlerin konuşması, kapı gıcırtısı, odadaki radyodan çalan şarkı. Karakterler bu sesi duyabilir. Hikâye dünyasının dışından gelen ses ise <b>diegetik olmayan ses</b>tir (<i>nondiegetic sound</i>): film müziği, her şeyi bilen bir anlatıcının sesi. Karakterler bunu duymaz; ses yalnızca bize, seyirciye yöneliktir.</p><p>Ayrım basit görünür ama sinemacılar onunla oynamayı sever. Bir sahnede “dış” müzik sandığımız melodinin, kamera döndüğünde bir karakterin pikabından geldiği ortaya çıkabilir; ya da tersine, radyodan çalan bir şarkı sahne bitince sesini açıp film müziğine dönüşebilir. Bu kaymalar seyircinin dünya ile anlatım arasındaki sınırı nasıl algıladığını açığa çıkarır.</p><p>Diegetik sesin içinde bir ayrım daha var: <b>dış diegetik ses</b> (<i>external diegetic sound</i>), sahnede fiziksel olarak var olan ve başkalarının da duyabileceği sestir. <b>İç diegetik ses</b> (<i>internal diegetic sound</i>) ise bir karakterin zihninden gelir: düşünceleri, hatırladığı bir ses. Bu ses hikâye dünyasına aittir, ama yalnızca o karakter “duyar”. Bu ikisini diegetik olmayan anlatıcı sesiyle karıştırmamak gerekir.</p><p><b>2. Kadraj içi ve kadraj dışı ses.</b> Diegetik bir sesin kaynağı ya kadrajın içinde görünür (<i>onscreen sound</i>) ya da kadrajın dışında kalır (<i>offscreen sound</i>). Kadraj dışı ses, perdenin kenarlarının ötesinde bir dünya olduğunu hatırlatır; bu yüzden mekânı genişletir. Ama daha önemlisi, bilgi ile merak arasındaki dengeyi kurar: sesi duyarız, kaynağını görmeyiz. Gerilim sinemasının büyük kısmı bu boşluğa dayanır. Kapının ardından gelen ayak sesi, gördüğümüz herhangi bir şeyden daha ürkütücü olabilir.</p><p>Bu ilişkiye <b>ses perspektifi</b> (<i>sound perspective</i>) de eklenir: sesin hacmi, yankısı ve tınısı, kaynağın bize ne kadar uzak olduğunu düşündürür. Geniş bir planda kısık, yankılı bir konuşma; yakın planda ise net, “kuru” bir ses duyarız. Klasik sinema genelde ses perspektifini görüntünün ölçeğine uydurur; buna uymamak da bilinçli bir tercih olabilir.</p><p><b>3. Sesin zamanı.</b> Burada iki ayrı soru var. Birincisi teknik: ses görüntüyle <b>senkron</b> mu (<i>synchronous sound</i>)? Dudak hareketiyle sözcükler eşleşiyor mu? Senkronun bozulması genelde hatadır, ama bazen bilinçli bir yabancılaştırmadır. İkincisi anlatısal: ses, hikâye zamanında görüntüyle <b>eş zamanlı</b> mı (<i>simultaneous sound</i>), yoksa <b>eş zamanlı olmayan</b> mı (<i>nonsimultaneous sound</i>)? Bir karakterin geçmişte söylediği bir cümleyi, şimdiki bir görüntünün üstünde hatırlaması eş zamanlı olmayan sestir. Ya da tersine: geçmişi gösteren bir geri dönüşün (<i>flashback</i>) üzerinde, olayı bugünden anlatan bir ses duyabiliriz.</p><p><b>4. Ses köprüsü.</b> Bu haftanın kurgu konusuyla sesin buluştuğu nokta <b>ses köprüsü</b>dür (<i>sound bridge</i>): bir sahnenin sesinin, görüntü kesildikten sonra bir sonraki sahneye taşması, ya da sonraki sahnenin sesinin kesmeden önce başlaması. Birinci kullanımda geçiş yumuşar ve iki sahne arasında bir bağ kurulur; ikincisinde seyirci yeni sahneye ses aracılığıyla “önceden” çekilir. Pazartesi gördüğümüz grafik, ritmik, uzamsal ve zamansal kurgu ilişkilerinin hepsi ses için de geçerlidir: ses, kesmenin sert kenarını örtebilir ya da tam tersine vurgulayabilir.</p><p>Neden önemli? Çünkü sesin uzam ve zaman ayarları, seyircinin dikkatini nereye vereceğini, neyi bildiğini ve neyi beklediğini belirler. Kurgu görüntüyü parçalar; ses ise çoğu zaman bu parçaları birleştiren, ya da birleşik görünen bir dünyayı çatlatan unsurdur.</p>"
+    },
+    {
+      "baslik": "Örnek",
+      "html": "<p><b><i>À bout de souffle</i> (Godard, 1960):</b> Michel’in arabada Patricia’yla konuştuğu ünlü sahnede görüntü, Patricia’nın başının arkasını gösteren planlar arasında sıçrar; zaman kopuk kopuk ilerler. Ama Michel’in kadraj dışından gelen sesi büyük ölçüde akmaya devam eder. Çarşamba konuştuğumuz atlamalı kesme (<i>jump cut</i>) burada sesle birlikte düşünülmeli: görüntü süreksizken ses bir süreklilik ipi sunar. Sesi dinlerken “aynı konuşmanın içindeyiz” deriz, görüntüye bakınca “zaman atlıyor” deriz. Bu çelişki sahnenin tuhaf, canlı enerjisinin kaynağıdır.</p><p><b><i>The Conversation</i> (Coppola, 1974):</b> Harry Caul, kaydettiği bir konuşmayı atölyesinde tekrar tekrar çalar. Teyp sesinin kaynağı atölyededir, yani diegetiktir; ama içerik geçmişe aittir. Film zaman zaman bu sesi meydandaki çiftin görüntüleriyle birleştirir. Böylece aynı ses hem şimdiki zamanın bir nesnesi (makinede dönen bant) hem de geçmişe açılan bir pencere olur. Harry’nin saksafonunu bir plakla birlikte çaldığı anlar diegetik müziktir; filmin piyano ağırlıklı müziği ise diegetik değildir. Filmi izlerken bu ikisini ayırt etmeye çalış.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Bugünkü diegetik/diegetik olmayan ayrımı, Hafta 3’teki mizansen ve kadraj tartışmasının sesteki karşılığıdır; ileride anlatı (<i>narration</i>) ve sinemada bilginin nasıl dağıtıldığı konularında yeniden karşımıza çıkacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Bir karakterin düşüncelerini duyduğumuz bir ses neden diegetik olmayan anlatıcı sesinden farklıdır? Kendi cümlelerinle ayırt et.",
+    "Kadraj dışı ses, seyircinin bilgisini hem artırır hem sınırlar. Bu iki etkiyi aynı örnek üzerinden açıkla.",
+    "Bir sonraki sahnenin sesinin kesmeden önce başlaması ile önceki sahnenin sesinin kesmeden sonra devam etmesi arasında ne fark var? Her biri seyircide ne tür bir beklenti kurar?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir dizi, video ya da reklamda bir sahne geçişi seç. Kesme olduğu anda ses ne yapıyor: kesiliyor mu, önceden mi başlıyor, devam mı ediyor? Bir de müziği dinle: diegetik mi, değil mi? Bunu anlamak için hangi ipucuna baktığını not et.",
+  "terimler": [
+    {
+      "tr": "Diegetik ses",
+      "en": "diegetic sound",
+      "orijinal": "diēgēsis (Yunanca)",
+      "tanim": "Kaynağı hikâye dünyasının içinde olan, karakterlerin duyabileceği ses."
+    },
+    {
+      "tr": "Diegetik olmayan ses",
+      "en": "nondiegetic sound",
+      "tanim": "Hikâye dünyasının dışından gelen, yalnızca seyirciye yönelik ses (film müziği, dış anlatıcı)."
+    },
+    {
+      "tr": "Kadraj dışı ses",
+      "en": "offscreen sound",
+      "tanim": "Kaynağı hikâye dünyasında olan ama o anda kadrajda görünmeyen ses."
+    },
+    {
+      "tr": "Ses perspektifi",
+      "en": "sound perspective",
+      "tanim": "Hacim, yankı ve tınıyla sesin kaynağının uzaklığını hissettirme."
+    },
+    {
+      "tr": "Eş zamanlı olmayan ses",
+      "en": "nonsimultaneous sound",
+      "tanim": "Hikâye zamanında görüntüden önce ya da sonra gerçekleşen bir olaya ait ses."
+    },
+    {
+      "tr": "Ses köprüsü",
+      "en": "sound bridge",
+      "tanim": "Bir sahnenin sesinin kesmeden sonra devam etmesi ya da sonraki sahnenin sesinin önceden başlaması."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    }
+  ],
+  "yarin": "Yarın film günü: <i>À bout de souffle</i> ve <i>The Conversation</i> için bu haftanın kurgu ve ses kavramlarını nerede arayacağını gösteren spoiler’sız bir izleme rehberi."
+}
