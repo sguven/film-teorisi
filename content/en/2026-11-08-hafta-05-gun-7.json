@@ -1,0 +1,180 @@
+{
+ "hafta": 5,
+ "gun": 7,
+ "tarih": "2026-11-08",
+ "tur": "sinav",
+ "baslik": "Test — What is film theory? Draw the map",
+ "okuma": "Robert Stam (introduction and the “prehistory”), Dudley Andrew (<i>The Major Film Theories</i>, introduction), Thomas Elsaesser and Malte Hagener (<i>Film Theory: An Introduction through the Senses</i>, introduction)",
+ "film": "Sherlock Jr. (Keaton, 1924)",
+ "tek_cumle": "This week you moved from looking at cinema to thinking about cinema; you saw three different maps: Stam’s historical map, Andrew’s four-question map and Elsaesser and Hagener’s map of the body; today we test whether you can read them.",
+ "bolumler": [
+  {
+   "baslik": "The week in brief",
+   "html": "<p>In the first four weeks you learned to analyze film form (mise-en-scène, cinematography, editing, sound). This week we went up a level: rather than individual films, we looked at theories that think about cinema itself. <i>Film criticism</i> interprets and evaluates a particular film; <i>film theory</i> asks generalizable questions such as “what is cinema, how does it make meaning, what does it do to the viewer?”</p><p><b>Stam</b> showed us that film theory did not start from scratch in 1895: Plato’s cave, Aristotle’s idea of imitation (<i>mimesis</i>), the union of the arts and the debates over arts of space and arts of time are “cinema questions” asked centuries before cinema. He also stressed that this “prehistory” should not be limited to Europe.</p><p><b>Andrew</b> argued that every theory, whether it says so or not, answers four questions: <i>raw material</i>, <i>methods and techniques</i>, <i>forms and shapes</i>, and <i>purpose and value</i>. These four questions let us set the <i>formative</i> and <i>realist</i> traditions side by side and compare them.</p><p><b>Elsaesser and Hagener</b> started somewhere else: with the viewer’s body. For them, every film theory is a model of the relationship between the screen and the spectator’s body. Their series of metaphors follows this distance as it gradually closes: window and frame (looking from afar), door and threshold (entering the screen), mirror (self-recognition, identification), eye (the look), skin (haptic visuality), ear (sound) and brain (mental processes). On film day, <i>Sherlock Jr.</i> (Keaton, 1924) staged almost all of these questions through a projectionist who walks into the screen.</p><p>Do the quiz first, then the short-answer questions, and write the analysis task last. The answer key is at the end; don’t look at it before you finish the quiz.</p>"
+  },
+  {
+   "baslik": "Reminder: the Phase I exam",
+   "html": "<p>Week 5 ends <b>Phase I</b>. Before moving on to Phase II (classical theory), you need to do the Phase I exam. It has two parts:</p><ol><li><b><i>Shot breakdown</i> (Fr. <i>découpage</i>):</b> Take a sequence of about 3 minutes from a film of your choice. For each shot, write down: the shot number and approximate length, the shot scale (long, medium, close-up, etc.), the camera angle and movement (static, pan, tracking, etc.), the type of transition to the next shot (straight cut, eyeline match, shot/reverse shot, jump cut, dissolve, etc.) and the sound (dialogue, diegetic/nondiegetic, offscreen, sound bridge). A table is the easiest format.</li><li><b>A 10-question concept quiz:</b> A short quiz covering the four weeks of Phase I (defining cinema and film form, mise-en-scène and cinematography, editing and sound, the map of film theory). Do it once your breakdown is finished.</li></ol><p>My suggestion: do the breakdown this weekend or during the coming week, alongside the Phase II readings. Choose a sequence whose editing is noticeable (many cuts, or the opposite, very long takes) so that your observations are concrete.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "soru": "How is the basic difference between film theory and film criticism best expressed?",
+   "secenekler": [
+    "Criticism is an academic discipline, while theory is practiced in journalism",
+    "Theory deals only with silent cinema, criticism only with contemporary films",
+    "Criticism interprets and evaluates particular films; theory asks generalizable questions about the nature of cinema, how it works and its relationship to the viewer",
+    "There is no difference; both decide whether a film is good or bad"
+   ],
+   "dogru": 2,
+   "aciklama": "Criticism looks at the individual film, theory at cinema in general; they feed each other, but their questions sit at different levels."
+  },
+  {
+   "soru": "What does Stam mean when he says film theory has a “prehistory”?",
+   "secenekler": [
+    "That questions about the image, imitation, illusion and the spectator were asked in philosophy and debates about art long before cinema, and that cinema raised them again in the face of a new apparatus",
+    "That the first film theorists made films before the Lumière brothers",
+    "That film theory had no value before the 1960s",
+    "That there were film scripts written before cinema was invented"
+   ],
+   "dogru": 0,
+   "aciklama": "For Stam, theory did not start from scratch in 1895; old questions running from Plato to debates about the arts were asked anew with cinema."
+  },
+  {
+   "soru": "Why is Plato’s <i>Allegory of the Cave</i> so often mentioned in film theory?",
+   "secenekler": [
+    "Because Plato designed a machine that anticipated cinema",
+    "Because the allegory contains the first definition of editing",
+    "Because the cave was the site of the first open-air cinema",
+    "Because the scene of people sitting in the dark and taking shadows on a wall for reality evokes the audience in a movie theater and the image’s power of illusion"
+   ],
+   "dogru": 3,
+   "aciklama": "Darkness, light, projected shadows and deceived spectators: the cave is a powerful analogy for the movie theater and for debates about the cinematic apparatus."
+  },
+  {
+   "soru": "Which of the following is <b>not</b> one of the four questions that Dudley Andrew says every theory answers?",
+   "secenekler": [
+    "What is the raw material of cinema?",
+    "How does the director’s personal life explain the film?",
+    "What forms and shapes emerge from this material?",
+    "What is the purpose and value of cinema?"
+   ],
+   "dogru": 1,
+   "aciklama": "Andrew’s four questions are raw material, methods and techniques, forms and shapes, and purpose and value; the director’s biography is not one of them."
+  },
+  {
+   "soru": "A theorist says: “The material of cinema is the photographic record of the world in front of the camera.” Which of Andrew’s four questions does this statement answer?",
+   "secenekler": [
+    "Purpose and value",
+    "Forms and shapes",
+    "Raw material",
+    "Methods and techniques"
+   ],
+   "dogru": 2,
+   "aciklama": "Any claim about what cinema is made of is an answer to the raw material question."
+  },
+  {
+   "soru": "In Andrew’s classification, which pair belongs to the <i>realist tradition</i>?",
+   "secenekler": [
+    "Sergei Eisenstein and Rudolf Arnheim",
+    "André Bazin and Siegfried Kracauer",
+    "Hugo Münsterberg and Sergei Eisenstein",
+    "Rudolf Arnheim and Béla Balázs"
+   ],
+   "dogru": 1,
+   "aciklama": "Bazin and Kracauer locate cinema’s value in its recording of reality; Münsterberg, Arnheim, Eisenstein and Balázs belong to the formative tradition."
+  },
+  {
+   "soru": "In general, in which direction does Elsaesser and Hagener’s series of metaphors (window, door, mirror, eye, skin, ear, brain) move?",
+   "secenekler": [
+    "From sound cinema back to silent cinema, chronologically backwards",
+    "From the director’s intention to the actor’s performance",
+    "From national cinemas toward Hollywood",
+    "From a spectator looking at the screen from a distance toward the inside of the body; the distance between spectator and screen gradually closes"
+   ],
+   "dogru": 3,
+   "aciklama": "The series runs from the distanced gaze of window/frame to the intertwining of skin, ear and brain."
+  },
+  {
+   "soru": "Which theorist sees the screen as a window opening onto a world that continues beyond its edges, and thinks of the frame as <i>centrifugal</i>?",
+   "secenekler": [
+    "Rudolf Arnheim",
+    "Sergei Eisenstein",
+    "André Bazin",
+    "Hugo Münsterberg"
+   ],
+   "dogru": 2,
+   "aciklama": "For Bazin, the screen is like a mask or window; the unseen world continues outside the frame. The idea of the frame as centripetal is closer to the formalists."
+  },
+  {
+   "soru": "In <i>Sherlock Jr.</i>, the sleeping projectionist’s “dream self” walks down the theater aisle and climbs into the screen. Which of Elsaesser and Hagener’s metaphors does this most directly bring to life?",
+   "secenekler": [
+    "Door / threshold",
+    "Skin",
+    "Ear",
+    "Brain"
+   ],
+   "dogru": 0,
+   "aciklama": "A spectator crossing the screen like a threshold and stepping into the narrative world is the door metaphor staged literally."
+  },
+  {
+   "soru": "Once Keaton is inside the screen, he stays in place while the background changes with every cut (a doorstep, a garden, a busy street, a cliff edge, lions, a desert, a rock at sea, snow). What does this sequence show above all?",
+   "secenekler": [
+    "That silent cinema could not show space because it lacked sound",
+    "That Keaton did not know continuity editing",
+    "That in a silent film the intertitles alone carry the narrative",
+    "That the world inside the screen is not a continuous reality but a space built out of cuts; the world entered through the door is subject to the rules of editing"
+   ],
+   "dogru": 3,
+   "aciklama": "Editing creates and destroys space; the body that enters the screen has to obey these rules too, and that is where the comedy comes from."
+  }
+ ],
+ "soru_baslik": "Short-answer questions (from the syllabus)",
+ "sorular": [
+  "What is the difference between film theory and film criticism? (3–5 sentences; give one concrete example of each.)",
+  "Write down Andrew’s four questions. (Explain each in one sentence and show how the formative and realist traditions answer at least one of them differently.)",
+  "Why do Elsaesser and Hagener start from the spectator’s body? (Write what they are arguing against and what this starting point makes visible.)"
+ ],
+ "analiz": "<p><b>Task:</b> Read the scene in <i>Sherlock Jr.</i> where the viewer “enters” the screen through the window/frame and door/screen metaphors.</p><p><b>How to write it (400–600 words):</b></p><ul><li><b>Describe the scene:</b> The projectionist falls asleep in the booth; his dream self separates from his body, walks down the theater aisle and climbs into the screen, is first thrown out, then gets back in, followed by the rapid changes of location. How many cuts, which shot scales, where is the camera? Pay attention to the shots that show the auditorium and the screen in the same frame.</li><li><b>Window/frame reading:</b> At the start of the scene, how does the screen work for the audience in the theater: as a window onto a world that continues beyond its edges, or as a frame that gathers meaning inside it? How does Keaton show the screen as a “frame within a frame”?</li><li><b>Door/screen reading:</b> When does the screen turn into a threshold, a door one can pass through? Why is he thrown out the first time? What does the part where the locations change with each cut say about the kind of world that has been “entered”?</li><li><b>Interpretation:</b> Does the scene celebrate the viewer’s desire to “enter” the story, or show that this desire is an illusion? As a <i>self-reflexive</i> film, what answer does <i>Sherlock Jr.</i> suggest to the question you read about this week, “what is film theory?”</li></ul><p>What I will look for: using the two metaphors correctly and keeping them apart, concrete observation (details of shots, cuts and framing), showing where the metaphors “work” in the scene and where they are strained, and an interpretation grounded in observation.</p><p>Write down your answers before you compare notes.</p>",
+ "terimler": [
+  {
+   "tr": "Film teorisi / film eleştirisi",
+   "en": "film theory / film criticism",
+   "tanim": "Theory asks generalizable questions about the overall nature and workings of cinema; criticism interprets and evaluates particular films."
+  },
+  {
+   "tr": "Andrew’un dört sorusu",
+   "en": "raw material, methods and techniques, forms and shapes, purpose and value",
+   "tanim": "The four basic questions every film theory answers, implicitly or explicitly: the material, the way it is worked, the resulting form, and the purpose."
+  },
+  {
+   "tr": "Biçimci / gerçekçi gelenek",
+   "en": "formative / realist tradition",
+   "tanim": "The basic divide between those who see what makes cinema an art in its transformation of reality and those who see it in its recording of reality."
+  },
+  {
+   "tr": "Bedenlenmiş seyirci",
+   "en": "embodied spectator",
+   "tanim": "The idea of a spectator who experiences a film not only with the eyes but with all the senses and the whole body."
+  },
+  {
+   "tr": "Pencere / çerçeve / kapı",
+   "en": "window / frame / door",
+   "tanim": "Three metaphors that think of the screen, respectively, as an opening onto a world that continues beyond it, a composition that gathers meaning inside it, and a threshold the viewer can cross."
+  },
+  {
+   "tr": "Plan plan döküm",
+   "en": "shot breakdown",
+   "orijinal": "découpage (Fr.)",
+   "tanim": "A method of analysis that records every shot of a sequence in order, by scale, camera, transition and sound."
+  }
+ ],
+ "filmler": [
+  {
+   "ad": "Sherlock Jr.",
+   "yil": 1924,
+   "yonetmen": "Buster Keaton"
+  }
+ ],
+ "yarin": "Phase II (classical theory) begins: in Week 6 we turn to the question “is cinema an art?”, with Stam on the theories of the silent era and the debate over the “essence of cinema”; Münsterberg and Arnheim come next."
+}

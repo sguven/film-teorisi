@@ -1,0 +1,180 @@
+{
+ "hafta": 5,
+ "gun": 7,
+ "tarih": "2026-11-08",
+ "tur": "sinav",
+ "baslik": "Sınav — Film teorisi nedir? Haritayı çıkar",
+ "okuma": "Robert Stam (giriş ve “tarih öncesi”), Dudley Andrew (<i>The Major Film Theories</i>, giriş), Thomas Elsaesser ve Malte Hagener (<i>Film Theory: An Introduction through the Senses</i>, giriş)",
+ "film": "Sherlock Jr. (Keaton, 1924)",
+ "tek_cumle": "Bu hafta sinemaya bakmaktan sinema hakkında düşünmeye geçtin; üç farklı harita gördün: Stam’ın tarihsel haritası, Andrew’un dört soruluk haritası ve Elsaesser ile Hagener’in bedensel haritası; bugün bu haritaları okuyabildiğini sınıyoruz.",
+ "bolumler": [
+  {
+   "baslik": "Haftanın kısa tekrarı",
+   "html": "<p>İlk dört hafta filmin biçimini (mizansen, sinematografi, kurgu, ses) çözümlemeyi öğrendin. Bu hafta bir kat yukarı çıktık: tek tek filmleri değil, sinemanın kendisini düşünen kuramlara baktık. Film eleştirisi (<i>film criticism</i>) belirli bir filmi yorumlar ve değerlendirir; film teorisi (<i>film theory</i>) ise “sinema nedir, nasıl anlam üretir, seyirciye ne yapar?” gibi genelleştirilebilir sorular sorar.</p><p><b>Stam</b> bize film teorisinin 1895’te sıfırdan başlamadığını gösterdi: Platon’un mağarası, Aristoteles’in taklit (<i>mimesis</i>) fikri, sanatların birleşmesi ve uzam/zaman sanatları tartışmaları, sinemadan yüzyıllar önce sorulmuş “sinema soruları”dır. Bu “tarih öncesi”ni Avrupa’yla sınırlamamak gerektiğini de vurguladı.</p><p><b>Andrew</b> her teorinin, açıkça söylesin ya da söylemesin, dört soruya cevap verdiğini söyledi: ham madde (<i>raw material</i>), yöntem ve teknikler (<i>methods and techniques</i>), biçimler ve şekiller (<i>forms and shapes</i>), amaç ve değer (<i>purpose and value</i>). Bu dört soru, biçimci (<i>formative</i>) ve gerçekçi (<i>realist</i>) gelenekleri yan yana koyup karşılaştırmamızı sağlar.</p><p><b>Elsaesser ve Hagener</b> ise başka bir yerden başladılar: seyircinin bedeninden. Onlara göre her film teorisi, perde ile seyircinin bedeni arasındaki ilişkinin bir modelidir. Metafor dizileri bu mesafenin giderek kapanmasını izler: pencere ve çerçeve (uzaktan bakış), kapı ve eşik (perdeye girmek), ayna (kendini tanıma, özdeşleşme), göz (bakış), ten (dokunsal görsellik), kulak (ses) ve beyin (zihinsel süreçler). Film günü <i>Sherlock Jr.</i> (Keaton, 1924), bu soruların neredeyse hepsini perdeye giren bir makinist üzerinden sahneledi.</p><p>Önce testi çöz, sonra kısa cevaplı sorulara geç, en son analiz görevini yaz. Cevap anahtarı en sonda; testi bitirmeden bakma.</p>"
+  },
+  {
+   "baslik": "Faz I sınavı hatırlatması",
+   "html": "<p>Hafta 5 ile <b>Faz I</b> bitiyor. Faz II’ye (klasik teori) geçmeden önce Faz I sınavını yapman gerekiyor. İki parçası var:</p><ol><li><b>Plan plan döküm (<i>shot breakdown</i> / Fr. <i>découpage</i>):</b> Seçtiğin bir filmden yaklaşık 3 dakikalık bir sekans al. Her plan için şunları yaz: plan numarası ve yaklaşık süresi, plan ölçeği (genel, orta, yakın vb.), kamera açısı ve hareketi (sabit, pan, kaydırma vb.), plandan bir sonrakine geçiş türü (düz kesme, göz hattı eşleşmesi, plan/karşı plan, atlamalı kesme, zincirleme vb.) ve ses (diyalog, diegetik/diegetik olmayan, kadraj dışı, ses köprüsü). Bir tablo halinde yapman en kolayı.</li><li><b>10 soruluk kavram testi:</b> Faz I’in dört haftasını (sinemanın tanımı ve film biçimi, mizansen ve sinematografi, kurgu ve ses, film teorisinin haritası) kapsayan kısa bir test. Dökümünü bu projede gönderdiğinde testi de orada birlikte yapacağız.</li></ol><p>Önerim: Dökümü bu hafta sonu ya da önümüzdeki hafta içinde, Faz II okumalarına paralel olarak yap. Sekansı seçerken kurgusu fark edilir (çok kesmeli ya da tersine çok uzun planlı) bir bölüm seç ki gözlemlerin somut olsun.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "soru": "Film teorisi ile film eleştirisi arasındaki temel fark en doğru şekilde nasıl ifade edilir?",
+   "secenekler": [
+    "Eleştiri akademik bir disiplindir, teori ise gazetecilikte yapılır",
+    "Teori yalnızca sessiz sinemayla, eleştiri yalnızca çağdaş filmlerle ilgilenir",
+    "Eleştiri belirli filmleri yorumlayıp değerlendirir; teori sinemanın doğası, işleyişi ve seyirciyle ilişkisi hakkında genelleştirilebilir sorular sorar",
+    "Aralarında fark yoktur; ikisi de bir filmin iyi mi kötü mü olduğuna karar verir"
+   ],
+   "dogru": 2,
+   "aciklama": "Eleştiri tekil filme, teori sinemanın geneline yönelir; ikisi beslenir ama soruları farklı düzeydedir."
+  },
+  {
+   "soru": "Stam’ın film teorisinin bir “tarih öncesi” olduğunu söylerken kastettiği nedir?",
+   "secenekler": [
+    "İmge, taklit, yanılsama ve seyirci üzerine soruların sinemadan çok önce felsefe ve sanat tartışmalarında sorulmuş olduğu ve sinemanın bunları yeni bir aygıt karşısında yeniden gündeme getirdiği",
+    "İlk film teorisyenlerinin Lumière kardeşlerden önce film çektiği",
+    "Film teorisinin 1960’lardan önce hiçbir değer taşımadığı",
+    "Sinemanın icadından önce yazılmış film senaryolarının bulunduğu"
+   ],
+   "dogru": 0,
+   "aciklama": "Stam’a göre teori 1895’te sıfırdan başlamadı; Platon’dan sanatlar tartışmasına uzanan eski sorular sinemayla yeniden soruldu."
+  },
+  {
+   "soru": "Platon’un mağara alegorisi (<i>Allegory of the Cave</i>) film teorisinde neden sık anılır?",
+   "secenekler": [
+    "Platon’un sinemayı öngören bir makine tasarlamış olması nedeniyle",
+    "Alegorinin kurgunun ilk tanımını içermesi nedeniyle",
+    "Mağaranın ilk açık hava sinemasının yapıldığı yer olması nedeniyle",
+    "Karanlıkta oturup duvara düşen gölgeleri gerçek sanan insanlar sahnesi, sinema salonundaki seyirciyi ve imgenin yanılsama gücünü düşündürdüğü için"
+   ],
+   "dogru": 3,
+   "aciklama": "Karanlık, ışık, yansıtılan gölgeler ve kandırılan seyirciler; mağara, sinema salonu ve aygıt tartışmaları için güçlü bir benzetmedir."
+  },
+  {
+   "soru": "Aşağıdakilerden hangisi Dudley Andrew’un her teorinin cevap verdiğini söylediği dört soru arasında <b>yer almaz</b>?",
+   "secenekler": [
+    "Sinemanın ham maddesi nedir?",
+    "Yönetmenin kişisel hayatı filmi nasıl açıklar?",
+    "Bu malzemeden hangi biçimler ve şekiller ortaya çıkar?",
+    "Sinemanın amacı ve değeri nedir?"
+   ],
+   "dogru": 1,
+   "aciklama": "Andrew’un dört sorusu ham madde, yöntem ve teknikler, biçimler ve şekiller, amaç ve değerdir; yönetmen biyografisi bunlardan biri değildir."
+  },
+  {
+   "soru": "Bir kuramcı “Sinemanın malzemesi, kameranın önündeki dünyanın fotoğrafik kaydıdır” diyor. Bu ifade Andrew’un dört sorusundan hangisine verilmiş bir cevaptır?",
+   "secenekler": [
+    "Amaç ve değer",
+    "Biçimler ve şekiller",
+    "Ham madde",
+    "Yöntem ve teknikler"
+   ],
+   "dogru": 2,
+   "aciklama": "Sinemanın neyden yapıldığına dair her iddia ham madde sorusuna verilmiş bir cevaptır."
+  },
+  {
+   "soru": "Andrew’un sınıflandırmasında hangi ikili gerçekçi gelenek (<i>realist tradition</i>) içinde yer alır?",
+   "secenekler": [
+    "Sergey Eisenstein ve Rudolf Arnheim",
+    "André Bazin ve Siegfried Kracauer",
+    "Hugo Münsterberg ve Sergey Eisenstein",
+    "Rudolf Arnheim ve Béla Balázs"
+   ],
+   "dogru": 1,
+   "aciklama": "Bazin ve Kracauer sinemanın değerini gerçekliği kaydetmesinde görür; Münsterberg, Arnheim, Eisenstein ve Balázs biçimci gelenektedir."
+  },
+  {
+   "soru": "Elsaesser ve Hagener’in metafor dizisi (pencere, kapı, ayna, göz, ten, kulak, beyin) genel olarak hangi yönde ilerler?",
+   "secenekler": [
+    "Sesli sinemadan sessiz sinemaya doğru, kronolojik olarak geriye",
+    "Yönetmenin niyetinden oyuncunun performansına doğru",
+    "Ulusal sinemalardan Hollywood’a doğru",
+    "Perdeye uzaktan bakan seyirciden bedenin içine doğru; seyirci ile perde arasındaki mesafe giderek kapanır"
+   ],
+   "dogru": 3,
+   "aciklama": "Dizi, pencere/çerçevedeki mesafeli bakıştan ten, kulak ve beyindeki iç içe geçmeye uzanır."
+  },
+  {
+   "soru": "Perdeyi, kenarlarının ötesinde de süren bir dünyaya açılan bir pencere olarak gören ve kadrajı merkezkaç (<i>centrifugal</i>) düşünen kuramcı kimdir?",
+   "secenekler": [
+    "Rudolf Arnheim",
+    "Sergey Eisenstein",
+    "André Bazin",
+    "Hugo Münsterberg"
+   ],
+   "dogru": 2,
+   "aciklama": "Bazin’e göre perde bir maske/pencere gibidir; görünmeyen dünya kadrajın dışında sürer. Çerçeve (merkezcil) anlayışı ise biçimcilere yakındır."
+  },
+  {
+   "soru": "<i>Sherlock Jr.</i>’da uyuyan makinistin “rüya benliği”nin salonun koridorundan yürüyüp perdeye tırmanması, Elsaesser ve Hagener’in hangi metaforunu en doğrudan canlandırır?",
+   "secenekler": [
+    "Kapı / eşik (<i>door / threshold</i>)",
+    "Ten (<i>skin</i>)",
+    "Kulak (<i>ear</i>)",
+    "Beyin (<i>brain</i>)"
+   ],
+   "dogru": 0,
+   "aciklama": "Seyircinin perdeyi bir eşik gibi geçip anlatı dünyasına adım atması, kapı metaforunun harfi harfine sahnelenmesidir."
+  },
+  {
+   "soru": "Keaton perdeye girdikten sonra o yerinde kalırken arka plan her kesmede değişir (kapı önü, bahçe, kalabalık sokak, uçurum kenarı, aslanlar, çöl, denizde bir kaya, kar). Bu sekans en çok neyi gösterir?",
+   "secenekler": [
+    "Sessiz sinemanın sesin yokluğu yüzünden uzamı gösteremediğini",
+    "Keaton’ın devamlılık kurgusunu bilmediğini",
+    "Sessiz filmde anlatıyı ara yazıların tek başına taşıdığını",
+    "Perdenin içindeki dünyanın kesintisiz bir gerçeklik değil, kesmelerle kurulmuş bir uzam olduğunu; kapıdan girilen dünyanın kurgunun kurallarına tabi olduğunu"
+   ],
+   "dogru": 3,
+   "aciklama": "Kurgu uzamı yaratır ve yıkar; perdeye giren beden de bu kurallara uymak zorunda kalır, komedi buradan doğar."
+  }
+ ],
+ "soru_baslik": "Kısa cevaplı sorular (müfredattan)",
+ "sorular": [
+  "Film teorisi ile film eleştirisi farkı ne? (3–5 cümle; her birine birer somut örnek ver.)",
+  "Andrew’un dört sorusunu yaz. (Her birini birer cümleyle açıkla ve biçimci ile gerçekçi geleneğin en az birine nasıl farklı cevap verdiğini göster.)",
+  "Elsaesser ve Hagener neden seyircinin bedeninden başlıyor? (Neye karşı çıktıklarını ve bu başlangıcın neyi görünür kıldığını yaz.)"
+ ],
+ "analiz": "<p><b>Görev:</b> <i>Sherlock Jr.</i>’da seyircinin perdeye “girmesi” sahnesini pencere/çerçeve ve kapı/perde metaforlarıyla oku.</p><p><b>Nasıl yazmalı (400–600 kelime):</b></p><ul><li><b>Sahneyi tarif et:</b> Makinist kabinde uyuyor; rüya benliği bedeninden ayrılıyor, salonun koridorundan yürüyüp perdeye tırmanıyor, önce dışarı atılıyor, sonra yeniden giriyor ve ardından gelen hızlı mekân değişimleri. Kaç kesme, hangi plan ölçekleri, kamera nerede duruyor? Salonu ve perdeyi aynı kadrajda gösteren planlara dikkat et.</li><li><b>Pencere/çerçeve okuması:</b> Sahnenin başında perde salondaki seyirciler için ne gibi işliyor: kenarları ötesinde süren bir dünyaya açılan bir pencere mi, yoksa anlamı içeride toplayan bir çerçeve mi? Keaton perdeyi bir “çerçeve içinde çerçeve” olarak nasıl gösteriyor?</li><li><b>Kapı/perde okuması:</b> Perde ne zaman bir eşiğe, geçilebilir bir kapıya dönüşüyor? İlk girişte neden dışarı atılıyor? Mekânların kesmelerle değiştiği bölüm, “girilen” dünyanın nasıl bir dünya olduğunu söylüyor?</li><li><b>Yorum:</b> Sahne, seyircinin anlatıya “girme” arzusunu mu kutluyor, yoksa bu arzunun bir yanılsama olduğunu mu gösteriyor? Kendi üzerine düşünen (<i>self-reflexive</i>) bir film olarak <i>Sherlock Jr.</i> bu hafta okuduğun “film teorisi nedir?” sorusuna nasıl bir cevap öneriyor?</li></ul><p>Değerlendirme ölçütlerim: iki metaforu birbirinden ayırarak doğru kullanman, somut gözlem (plan, kesme, kadraj ayrıntısı), metaforların sahnede nerede “işe yaradığını” ve nerede zorlandığını göstermen ve yorumun gözleme dayanması.</p><p>Cevaplarını bu projede yaz, değerlendireyim.</p>",
+ "terimler": [
+  {
+   "tr": "Film teorisi / film eleştirisi",
+   "en": "film theory / film criticism",
+   "tanim": "Teori sinemanın genel doğası ve işleyişi hakkında genelleştirilebilir sorular sorar; eleştiri belirli filmleri yorumlar ve değerlendirir."
+  },
+  {
+   "tr": "Andrew’un dört sorusu",
+   "en": "raw material, methods and techniques, forms and shapes, purpose and value",
+   "tanim": "Her film teorisinin örtük ya da açık olarak cevap verdiği dört temel soru: malzeme, işleme yolu, ortaya çıkan biçim ve amaç."
+  },
+  {
+   "tr": "Biçimci / gerçekçi gelenek",
+   "en": "formative / realist tradition",
+   "tanim": "Sinemayı sanat yapan şeyi gerçekliği dönüştürmesinde görenler ile onu gerçekliği kaydetmesinde görenler arasındaki temel ayrım."
+  },
+  {
+   "tr": "Bedenlenmiş seyirci",
+   "en": "embodied spectator",
+   "tanim": "Filmi yalnızca gözle değil bütün duyuları ve bedeniyle deneyimleyen seyirci fikri."
+  },
+  {
+   "tr": "Pencere / çerçeve / kapı",
+   "en": "window / frame / door",
+   "tanim": "Perdeyi sırasıyla ötesinde dünya süren bir açıklık, anlamı içeride toplayan bir kompozisyon ve seyircinin geçebileceği bir eşik olarak düşünen üç metafor."
+  },
+  {
+   "tr": "Plan plan döküm",
+   "en": "shot breakdown",
+   "orijinal": "découpage (Fr.)",
+   "tanim": "Bir sekansın her planını ölçek, kamera, geçiş ve ses açısından sırayla kaydeden çözümleme yöntemi."
+  }
+ ],
+ "filmler": [
+  {
+   "ad": "Sherlock Jr.",
+   "yil": 1924,
+   "yonetmen": "Buster Keaton"
+  }
+ ],
+ "yarin": "Faz II (klasik teori) başlıyor: Hafta 6’da “sinema bir sanat mı?” sorusuyla Stam’ın sessiz sinema dönemi kuramlarına ve “sinemanın özü” tartışmasına geçiyoruz; ardından Münsterberg ve Arnheim gelecek."
+}
