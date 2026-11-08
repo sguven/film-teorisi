@@ -1,0 +1,80 @@
+{
+  "hafta": 4,
+  "gun": 1,
+  "tarih": "2026-10-26",
+  "tur": "ders",
+  "baslik": "What is editing? The four relations between shots",
+  "okuma": "[FA] Ch. 6, editing (first part of the Mon–Wed reading: the definition of editing and graphic, rhythmic, spatial and temporal relations). Tomorrow we move on to the continuity system.",
+  "film": "Breathless (À bout de souffle, Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "Editing is not simply joining one shot to the next; every cut creates a graphic, rhythmic, spatial and temporal relation between two shots, and the filmmaker consciously chooses each of these four relations.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>What does editing do?</b> Last week we discussed what happens within a single shot: <i>mise-en-scène</i> and <i>cinematography</i>. This week we arrive at the boundary of the shot. <i>Editing</i> is everything that happens at the point where one shot ends and the next begins — that is, at the <i>cut</i>. Technically there are transitions other than the cut: the <i>fade-out / fade-in</i>, the <i>dissolve</i>, the <i>wipe</i>. But the vast majority of cinema works with the straight cut, because it is the fastest and least noticeable transition.</p><p>Bordwell and Thompson’s core claim in this chapter is this: editing is not just a technical assembly job done to “tell the story in order,” but an active part of the film’s formal system (Week 1). When two shots are placed side by side, the viewer forms a connection between them. This connection operates on four levels, and with every cut the director makes a decision on all four, whether aware of it or not.</p><p><b>1) Graphic relations.</b> Think of two shots purely in terms of their visual qualities: light and dark, color, line, shape, volume, direction of movement. A cut can either continue these qualities or set them in collision. The strongest form of continuation is called a <i>graphic match</i>: a shape in the first shot carried on by a similar shape in the same place in the second shot. The classic example is the transition in Kubrick’s <i>2001</i> from a bone tossed into the air to a spacecraft in orbit. The opposite is also possible: a harsh graphic clash, from a bright shot to darkness, from stillness to motion. Eisenstein, whom we will read in Week 9, will turn this clash into a theory.</p><p><b>2) Rhythmic relations.</b> Every shot has a duration, and the editor determines these durations. If the shots grow steadily shorter, the tempo quickens and tension rises; long shots, by contrast, leave the viewer time to look and to think. Rhythm doesn’t come only from shot length: movement and sound within the shot also contribute to it. But editing’s own rhythm is the pattern of shot durations. Whether you build a scene from four-second shots or fifteen-second shots turns the same event into a different experience.</p><p><b>3) Spatial relations.</b> By joining the fragments the camera shows, editing constructs a space in the viewer’s mind. If one shot shows a door and the next shows a room, we assume we are in the same building; no one in the film ever says so. The experiments of the Soviet filmmaker Lev Kuleshov showed this very clearly: when shots filmed in different places are joined together, the viewer perceives them as a single place. This is called the <i>Kuleshov effect</i>; we also use the same name for the way a face’s meaning changes depending on the shot that follows it. In short: it is not the camera but editing that builds the space on screen.</p><p><b>4) Temporal relations.</b> In Week 2 we saw the three dimensions of time in narrative: order, duration and frequency. Editing controls all three directly. <i>Order:</i> a <i>flashback</i> or a <i>flashforward</i> happens with a cut. <i>Duration:</i> editing can shorten time; this is called <i>ellipsis</i>. A character is at the foot of the stairs, and in the next shot at the front door; we don’t need to watch the climb in between. More rarely, editing stretches time, by showing the same action several times from different angles (<i>overlapping editing</i>). <i>Frequency:</i> the same event can be shown more than once.</p><p><b>What is it arguing against?</b> This framework challenges two easy approaches. The first sees editing as an “invisible,” neutral job of splicing. The second thinks editing is only a matter of speed or “excitement.” For Bordwell and Thompson, every cut is a choice, and the full range of options becomes visible only if we think about all four relations together. The Hollywood continuity system we will look at tomorrow is likewise just “one” way of using these options, not the only correct one.</p><p><b>Why does it matter?</b> One of the biggest battles in classical film theory begins right here: is the essence of cinema editing (the Soviets), or the uninterrupted shot and mise-en-scène (Bazin)? Without being able to name these four relations, you can only have that debate at the level of slogans.</p>"
+    },
+    {
+      "baslik": "Example: Breathless (À bout de souffle, Godard, 1960)",
+      "html": "<p>In one of the film’s most famous scenes, Michel drives a convertible while listing Patricia’s charms to her as she sits beside him. The camera looks at the back of her neck and her hair; as the talk continues, the image is cut several times from the same angle, in short jumps. The road in the background changes, but Patricia stays in almost the same place, in the same pose.</p><p>Let’s read it through the four relations. <i>Graphically</i>, the cuts change almost nothing: the same framing, the same shape. That is exactly why they make the cut visible rather than hiding it. <i>Temporally</i>, each cut is an ellipsis: the car has moved down the road, time has skipped. But unlike a classical ellipsis, it doesn’t skip the “unimportant moment” to take us to what matters; the conversation sounds as if it flows uninterrupted while the image jumps. <i>Rhythmically</i>, the short, irregular intervals give the scene a sense of ragged breathing (the French title itself means “out of breath”). <i>Spatially</i>, the space in our minds stays intact; we are still in a car. In other words, Godard takes one of the four relations — time — out of hiding and pushes it to the fore. This kind of cut is called a <i>jump cut</i>; once you have learned the continuity rules by Wednesday, you’ll be able to name exactly which rule it breaks.</p><p>For comparison: the editing in <i>The Conversation</i> is mostly faithful to classical rules. That is precisely the point of watching the two in the same week: the same four relations, two opposite choices.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s graphic and spatial relations will become a philosophy of art in the montage theories of Kuleshov, Pudovkin and Eisenstein in Weeks 8–9; Bazin, in Week 10, will instead champion deep focus and the uninterrupted shot over editing.</p>"
+    }
+  ],
+  "sorular": [
+    "How does the Kuleshov effect challenge the idea that “meaning lies within the shot”?",
+    "An ellipsis and a <i>jump cut</i> both shorten time. What is the difference between them?",
+    "How do a graphic match and a graphic clash affect the viewer differently? Think of an example of each."
+  ],
+  "gozlem": "Pick a 30-second stretch from anything you watch today (a scene from a series, a commercial, a YouTube video). Count the cuts. Then choose a single cut and ask yourself: is the main relation here graphic, rhythmic, spatial or temporal? Was time skipped, or did the cut move to a different angle on the same moment?",
+  "terimler": [
+    {
+      "tr": "Kurgu",
+      "en": "editing",
+      "tanim": "Joining shots together and organizing the relations between them."
+    },
+    {
+      "tr": "Grafik eşleşme",
+      "en": "graphic match",
+      "tanim": "The continuation of a similar shape, color or movement in the same place across two consecutive shots."
+    },
+    {
+      "tr": "Eksiltme",
+      "en": "ellipsis",
+      "tanim": "Editing shortening time by skipping part of an event’s duration."
+    },
+    {
+      "tr": "Kuleşov etkisi",
+      "en": "Kuleshov effect",
+      "tanim": "Separately filmed shots creating a single space or meaning for the viewer when placed side by side."
+    },
+    {
+      "tr": "Atlamalı kesme",
+      "en": "jump cut",
+      "tanim": "A visible leap in time between two shots taken from the same or a very similar angle."
+    },
+    {
+      "tr": "Zincirleme",
+      "en": "dissolve",
+      "tanim": "A transition in which one shot fades out while the next appears superimposed over it."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "2001: A Space Odyssey",
+      "yil": 1968,
+      "yonetmen": "Stanley Kubrick"
+    }
+  ],
+  "yarin": "Tomorrow we’ll examine Hollywood’s <i>continuity editing</i> system and its backbone, the <i>180° rule</i>: an invisible agreement designed to keep the viewer from getting lost in space."
+}

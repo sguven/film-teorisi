@@ -1,0 +1,72 @@
+{
+  "hafta": 5,
+  "gun": 4,
+  "tarih": "2026-11-05",
+  "tur": "ders",
+  "baslik": "Thinking cinema through the body — window, frame, door",
+  "okuma": "Thomas Elsaesser and Malte Hagener, Film Theory: An Introduction through the Senses — introduction; window/frame and door",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "For Elsaesser and Hagener, every film theory, implicitly or explicitly, is a model of the relationship between the spectator’s body and the screen; this relationship begins with looking from a distance (window, frame) and moves toward stepping inside the screen (door).",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>What is the book after?</b> Thomas Elsaesser and Malte Hagener’s <i>Film Theory: An Introduction through the Senses</i> refuses to present film theory as a “list of schools.” Classical textbooks usually line theory up like this: the formalists (<i>formalism</i>) on one side, the realists (<i>realism</i>) on the other; then structuralism, psychoanalysis, feminism, cognitivism... This order is easy to memorize, but it hides something: all these theories are in fact giving different answers to the same question. And that question is: <b>What kind of relationship exists between film and spectator, and where does the spectator’s body stand within it?</b></p><p>Yesterday we saw Dudley Andrew’s four questions (raw material, method, form, purpose/value). Andrew let us compare theories according to <i>the questions they ask</i>. Elsaesser and Hagener propose a different axis: comparing theories according to <i>where they place the spectator</i>. Is the spectator far from the screen, looking in from outside? On the screen’s threshold? Does the screen hold up a mirror to the spectator’s face? Does the film touch their skin, envelop their ears, shape their brain?</p><p><b>What are they arguing against?</b> For a long time film theory thought of the spectator almost as a disembodied eye: a consciousness sitting motionless in the dark, only looking, only making sense. This approach is called <i>ocularcentrism</i>. The authors say it is incomplete. Cinema is not only something seen; sound vibrates in the body, our muscles tense in a horror scene, we see the texture of a fabric and almost feel it. That is why the book starts from the idea of the <i>embodied spectator</i>: the spectator is a body that has senses, sits somewhere and breathes, and the film addresses this body.</p><p><b>Why does the book’s structure matter?</b> The authors organize the history of theory around seven metaphors: window and frame, door, mirror, eye, skin, ear, brain. This sequence is not arbitrary. It traces a path from distance to closeness: we begin with an eye looking at the screen from outside, then we cross the threshold, then the screen shows us ourselves, and finally the film enters the body, reaching the senses and the mind. In this way the “history of theory” stops being a chronology of schools and becomes the story of the gradually closing distance between spectator and screen. This reading is spread over two days: today we take up the metaphors of distance (window, frame) and the threshold (door); tomorrow we move on to mirror, eye, skin, ear and brain.</p><p><b>Window.</b> Thinking of the screen as a window is an old idea that comes from Renaissance painting: the picture is an open window behind which a world extends. Applied to cinema, this idea nourishes the realist tradition. The edges of the screen are not the end of the world; the image shows part of a reality that continues beyond the frame. In André Bazin’s French terms, this is the screen as a mask (<i>cache</i>): a covering that hides the world but does not deny its existence. In the window model, the spectator is a witness who looks in but does not touch.</p><p><b>Frame.</b> The frame model stresses the opposite. The image is not a window but a composition carefully constructed within its borders; meaning arises <i>inside</i> the edges, in the arrangement of the elements. Bazin calls this the frame (<i>cadre</i>): a <i>centripetal</i> structure that draws attention inward. The window, by contrast, works outward, <i>centrifugally</i>. The formalist tradition (names such as Arnheim and Eisenstein, whom we will read in Phase II) ties cinema’s status as art precisely to this power of framing and arranging. What matters here is this: both models keep the spectator <i>outside</i>. We look at the window and at the frame alike with a distanced eye. These are metaphors of the ocularcentric spectator who looks from afar.</p><p><b>Door and threshold.</b> With the third metaphor, distance is broken for the first time. The screen is no longer just a surface to be looked at but a threshold to be passed through. Classical narrative cinema invites the spectator into the world of the story; in the opening shots we come through a door or arrive in a town, and when the film ends we leave through a door again. The door metaphor lets us think together about entering the movie theater (the passage from the street into the dark) and “immersing” ourselves in the film’s world. In this model the spectator is no longer just a witness but a guest who temporarily takes part in the space of the story. But the door is also a limit: we can go in, but we cannot stay; at some point the threshold pushes us back.</p><p>The value of this distinction lies here: when, instead of asking whether a theory is “realist” or “formalist,” you ask where it puts the spectator, you notice that theories that seem opposed actually share the same assumption of a distanced eye. And this lets you see what a theory does not see.</p>"
+    },
+    {
+      "baslik": "Example: Sherlock Jr. (Keaton, 1924)",
+      "html": "<p>This week’s film contains an almost textbook scene of these metaphors. Buster Keaton plays a movie projectionist. He falls asleep during a screening; the “second” Keaton of his dream leaves his body, walks down the aisle of the auditorium and climbs into the screen, entering the film. He is immediately thrown out, then goes back in.</p><p>Now let’s read it with the three metaphors. For the projectionist sitting in the auditorium, the screen is a <b>window</b>: one looks at another world from outside. Keaton’s walk to the screen turns it into a <b>door</b>, a threshold that can be crossed; the spectator’s secret desire (to enter the film) is fulfilled here quite literally. But what happens once he is inside? Keaton sits down on a bench in a garden, a cut comes, the bench vanishes and he finds himself in the middle of the street; then he lands on the edge of a cliff, among lions, in a desert, on a rock in the middle of the sea. Keaton stays put, but the space changes with every cut. Here is the power of the <b>frame</b> and of editing: entering the film’s world means surrendering to its rules (to the frame and the cut). The door is open, but the inside belongs not to the spectator but to the frame. In this scene Keaton shows, as a joke, what theory would name years later: the spectator longs to be both outside and inside the screen, but cinema works with a boundary that separates these two positions.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>This tension between window and frame is the very debate at the heart of the classical theory we will read in Phase II (Bazin’s realism versus the formalism of Arnheim and Eisenstein); today we have drawn its map in advance.</p>"
+    }
+  ],
+  "sorular": [
+    "By organizing the history of theory around the spectator’s body instead of “schools,” what do Elsaesser and Hagener want to make visible? Answer by comparing their approach with Andrew’s four questions.",
+    "The window (<i>cache</i>) and frame (<i>cadre</i>) models seem opposed. What shared assumption do they hold?",
+    "In what respect does the door metaphor differ from the window and the frame? Does this metaphor have a limit?"
+  ],
+  "gozlem": "Pay attention to the first 30 seconds of any series, video or ad you watch today. Does the image behave like a <b>window</b> (a sense that the world continues beyond the frame), or like a carefully composed <b>frame</b>? Is there a <b>door/threshold</b> moment that invites you in (a door opening, an entrance through a doorway, the camera moving forward into a space)? Write down one sentence.",
+  "terimler": [
+    {
+      "tr": "Bedenlenmiş seyirci",
+      "en": "embodied spectator",
+      "tanim": "A spectator who experiences a film not only with the eyes but with the senses and the whole body."
+    },
+    {
+      "tr": "Göz-merkezcilik",
+      "en": "ocularcentrism",
+      "tanim": "An approach that places sight above the other senses and reduces the spectator to a disembodied eye."
+    },
+    {
+      "tr": "Pencere / maske",
+      "en": "window",
+      "orijinal": "cache (Fr.)",
+      "tanim": "A model that sees the screen as an opening onto a world that continues beyond the frame, working outward (centrifugally)."
+    },
+    {
+      "tr": "Çerçeve",
+      "en": "frame",
+      "orijinal": "cadre (Fr.)",
+      "tanim": "A model of composition that looks for meaning in the arrangement within the borders and draws attention inward (centripetally)."
+    },
+    {
+      "tr": "Merkezkaç / merkezcil",
+      "en": "centrifugal / centripetal",
+      "tanim": "A pair of opposing concepts describing whether the image directs attention outside the frame or into it."
+    },
+    {
+      "tr": "Kapı / eşik",
+      "en": "door / threshold",
+      "tanim": "A metaphor that thinks of the screen as a point of passage through which the spectator temporarily enters the film’s world."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "The distance keeps closing: with the metaphors of mirror, eye, skin, ear and brain we will see how the spectator’s body is drawn toward the screen."
+}

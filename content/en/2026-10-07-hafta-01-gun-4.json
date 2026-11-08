@@ -1,0 +1,70 @@
+{
+  "hafta": 1,
+  "gun": 4,
+  "tarih": "2026-10-07",
+  "tur": "ders",
+  "baslik": "The five principles of the formal system",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 2: Principles of Film Form",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "What holds a film’s parts together is not chance: every element does a job, is repeated, changes, moves in a certain direction, and in the end either connects to the whole or doesn’t. Reading form means learning to see these five movements.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we talked about how form is not “packaging” but a system: the viewer builds expectations, makes predictions and draws out meaning. Today’s question is this: what principles keep that system standing? Bordwell and Thompson name five. They are not a “recipe for a good film” but tools for seeing, which help us notice how a film is organized. What the authors are pushing back against here is impressionistic criticism, which reads a film only through the question “What is it saying?” and treats form as decoration. For them, meaning arises from the relationships among the elements.</p><h3>1. Function</h3><p>Every element has a job within the whole. The first question of analysis should be “Why is this element here, and what is it doing?” An object can set up an event, introduce a character, establish a mood, or lay the groundwork for a meaning that comes later. The justification for an element’s presence is called its <b>motivation</b>. The question “Is this element realistic?” comes after the question “What is this element doing in this film?” Characters suddenly bursting into song in a musical is not realistic, but it is fully motivated by the rules of the genre.</p><h3>2. Similarity and repetition</h3><p>For us to build expectations, things need to come back. Any element that recurs meaningfully within a film is called a <b>motif</b>: an object, a color, a line of dialogue, a musical phrase, a camera movement. A more complex form of repetition is <b>parallelism</b>: making two different elements resemble each other so as to invite the viewer to compare them.</p><h3>3. Difference and variation</h3><p>Pure repetition is dull. The liveliness of form comes from repetition returning slightly different each time. That is why repetition and variation are not opposites but partners: when the same motif returns, we compare it with its first appearance and read the difference as the carrier of meaning. Contrasts between characters and between settings are also part of this principle.</p><h3>4. Development</h3><p>Repetition and variation move in a direction. Development is the pattern the elements trace from beginning to end. The practical way to see it is to break the film into parts: <b>segmentation</b>. Common patterns of development include a journey (from point A to point B), an investigation (from ignorance to knowledge), and change over time. Some films link the beginning and the end to create a framed structure such as ABA.</p><h3>5. Unity and disunity</h3><p>When all the elements connect to the whole, a film appears unified; when loose ends remain, we speak of disunity. Two cautions: unity is not a measure of value; some films deliberately leave things unresolved and draw their power from that gap. And unity is a matter of degree. The question should not be “Is this film unified?” but “Which elements connect, which are left open, and what is the effect?”</p><p>These five principles don’t work in isolation. A single motif serves a function, is repeated, changes, takes part in development, and contributes to unity (or disrupts it). The real skill is being able to see them all working together in the same scene.</p>"
+    },
+    {
+      "baslik": "Example: Citizen Kane",
+      "html": "<p><i>Citizen Kane</i> is practically a textbook of these principles (no spoilers). The film develops through an investigation pattern: to find out what a dead man’s last word meant, a journalist talks one by one with the people who knew him. Each interview opens a <i>flashback</i>. The same life is retold through the eyes of different witnesses; we see some events twice, but each time with a different emphasis.</p><p>The clearest example is the breakfast table sequence. In this passage, which sums up years of a marriage in a few short scenes, the setting, the situation and the camera angles stay the same; this is repetition. But with each transition, the tone of the conversation, the distance between the two, and the newspapers they’re reading all change. Here variation is the meaning itself: we are not told how the marriage fell apart; we infer it from the small differences within the repeated frame. The sequence also carries the principles of function (compressing the years), development (the relationship heading in one direction) and unity (fitting the film’s structure of testimonies).</p><p>As you watch, pay special attention to what you see at the opening and at the close; this week’s analysis task is built around exactly that comparison.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>These principles will come back again and again in Weeks 2–5 as we discuss narrative, mise-en-scène, editing and sound; and with cognitive theory in Week 31, we’ll return to the question of how viewers process these patterns.</p>"
+    }
+  ],
+  "sorular": [
+    "Why are repetition and variation partners rather than opposites? Explain in your own words, with an example.",
+    "Why shouldn’t a film’s being “disunified” automatically count as a flaw?",
+    "How can an unrealistic element be entirely appropriate in terms of function and motivation? Give an example from a genre."
+  ],
+  "gozlem": "In an episode, ad or short video you watch this evening, find a motif: an object, sound, line or image that comes back at least twice. What had changed by its second appearance? What did that change tell you? Write it down in two sentences.",
+  "terimler": [
+    {
+      "tr": "İşlev",
+      "en": "function",
+      "tanim": "The job an element performs within the film as a whole."
+    },
+    {
+      "tr": "Motivasyon (gerekçelendirme)",
+      "en": "motivation",
+      "tanim": "The justification for an element’s presence in a film."
+    },
+    {
+      "tr": "Motif",
+      "en": "motif",
+      "tanim": "Any element that recurs meaningfully within a film."
+    },
+    {
+      "tr": "Paralellik",
+      "en": "parallelism",
+      "tanim": "Making two different elements resemble each other so as to invite the viewer to compare them."
+    },
+    {
+      "tr": "Bölümleme",
+      "en": "segmentation",
+      "tanim": "A method of dividing a film into its main parts to make its pattern of development visible."
+    },
+    {
+      "tr": "Birlik / birliksizlik",
+      "en": "unity / disunity",
+      "tanim": "The degree to which the elements connect to the whole or are left open."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "We’ll read the end of Chapter 2 and wrap up the week: using all five principles together in a single analysis, and connecting how form is intertwined with emotion and meaning."
+}

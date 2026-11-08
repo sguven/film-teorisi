@@ -1,0 +1,70 @@
+{
+  "hafta": 5,
+  "gun": 3,
+  "tarih": "2026-11-04",
+  "tur": "ders",
+  "baslik": "Dudley Andrew and the four questions of theory",
+  "okuma": "Dudley Andrew, The Major Film Theories, introduction",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "According to Dudley Andrew, every film theory, whether it says so openly or not, answers the same four questions: what is cinema’s raw material, by what methods is this material worked, what forms result, and what is the purpose or value of it all?",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>On Monday and Tuesday we looked at the “prehistory” of film theory with Robert Stam: we saw that people were thinking about images, representation and illusion long before cinema, and that the first writers on film, trying to understand what this new medium was, produced scattered but valuable intuitions. Today we move to the second layer of the map. In the introduction to <i>The Major Film Theories</i>, published in 1976, Dudley Andrew asks: How can we compare so many different theories? How do we sit Münsterberg and Bazin, Eisenstein and Kracauer at the same table?</p><p>Andrew’s answer is to propose a <i>classification scheme</i>. Instead of labeling theories “good” or “bad,” he looks at which questions each one answers and how. This approach closely resembles the four “causes” Aristotle asked about in order to understand a thing (material, maker, form, purpose), and Andrew does indeed rest his scheme on this classical way of thinking. The four questions are:</p><ol><li><b>Raw material:</b> What does cinema work with? With reality itself, with the photographic image, with light, time, space, sound? For a realist the raw material is the world in front of the camera; for a formalist it is that world as it falls onto the screen — already limited and flattened.</li><li><b>Methods and techniques:</b> How is this raw material worked? Editing, camera angle, framing, lighting, acting, sound. The question here is: where does the filmmaker’s creative intervention begin, and how far should it go?</li><li><b>Forms and shapes:</b> What kinds of films result from these operations? The narrative film, the documentary, the experimental film, <i>genres</i>. What does the theory say about cinema’s “natural” or “most appropriate” form?</li><li><b>Purpose and value:</b> What is cinema for in human life? Does it bring us closer to reality, raise reality to art by transforming it, change society, or imitate the workings of the mind?</li></ol><p>The real strength of this scheme is that it makes visible where theories part ways. Andrew’s book groups theorists roughly around two great traditions: the <i>formative tradition</i> and the <i>realist tradition</i>. The formalists (Münsterberg, Arnheim, Eisenstein, Balázs) say that what makes cinema an art is its transformation of reality; because the camera cannot copy the world as it is, art arises precisely from this “deficiency.” The realists (Kracauer, Bazin), by contrast, locate cinema’s distinctiveness in its power to record the world; the more one intervenes, the further cinema strays from its own essence. The book’s final section is devoted to more recent French thinkers (Mitry, Metz, the phenomenological critics).</p><p>What is Andrew arguing against? Two things. First, the confusion of theory with judgments of taste about individual films. Criticism evaluates a particular film; theory asks what cinema in general is capable of (<i>cinematic capability</i>). This is also the basis of the first question on Sunday’s quiz. Second, memorizing theories as a list of disconnected “schools.” For Andrew, truly understanding a theory means seeing how it links its answers to the four questions: how you define the raw material determines which method you consider legitimate and, in the end, what you expect from cinema.</p><p>Why does it matter? Because this scheme is a checklist for every text you will read in the coming months. Whatever a theorist says, you can ask yourself: “What does this writer take the raw material to be, and so which method do they praise?” The scheme also has a limit: written in 1976, it does not fully address the questions about the spectator and about power raised by later approaches such as ideology critique, psychoanalysis, feminism and cognitive theory. Keep this in mind; from Phase III onward, the question of the spectator will move to the center.</p>"
+    },
+    {
+      "baslik": "Example: Sherlock Jr. (Keaton, 1924)",
+      "html": "<p>The film’s most famous moment: the projectionist played by Keaton falls asleep during a screening and, in his dream, gets up from the auditorium and steps into the screen. The film on the screen lets him in, but then editing starts to play games: while Keaton stays in the same spot, the background suddenly changes — a garden gate, a crowded street, the edge of a cliff, next to lions, a desert, a stormy sea, a snow-covered field. With every cut Keaton’s body stays in the same position in the frame, and the world changes around him.</p><p>Let’s read this scene with Andrew’s four questions. <b>Raw material:</b> real, photographed locations and Keaton’s real, acrobatic body. <b>Method:</b> cutting and matched editing; a meticulous shooting plan that preserves the actor’s position across the cuts. <b>Form:</b> a film within a dream, a comedy within a film; cinema takes itself as its subject. <b>Purpose:</b> to make us laugh, but also to show the spectator the power of cinema: editing can break the continuity of space in an instant. A formalist would celebrate cinema’s power to transform reality in this scene; a realist might point out why the gag works: we laugh because Keaton’s body and the danger look real. The same scene is material for the different questions of both traditions.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Andrew’s formalist–realist distinction forms the entire backbone of Phase II (Weeks 6–12); when you read Münsterberg, Arnheim, the Soviet montage theorists, Kracauer and Bazin, these four questions will be your map.</p>"
+    }
+  ],
+  "sorular": [
+    "Which of Andrew’s four questions creates the deepest divide between theories? Explain with an example how the definition of raw material determines the other three answers.",
+    "Describe the difference between film theory and film criticism in your own words, through Andrew’s approach.",
+    "How much room does Andrew’s scheme give to the spectator’s body and experience? Is this a shortcoming?"
+  ],
+  "gozlem": "Choose a 30-second segment from anything you watch today (a scene from a series, an ad, a short video). Answer the four questions in one word each: what is its raw material (a real location, animation, a screen recording)? Which method dominates (editing, camera movement, sound)? Which form does it belong to? What is its purpose? Then note which one was hardest to answer.",
+  "terimler": [
+    {
+      "tr": "Ham madde",
+      "en": "raw material",
+      "tanim": "The material cinema works on: reality, the photographic image, time, space, sound."
+    },
+    {
+      "tr": "Yöntem ve teknikler",
+      "en": "methods and techniques",
+      "tanim": "The way raw material is worked through tools such as editing, framing and lighting."
+    },
+    {
+      "tr": "Biçimler ve şekiller",
+      "en": "forms and shapes",
+      "tanim": "The kinds of films and structures that result from these operations."
+    },
+    {
+      "tr": "Amaç ve değer",
+      "en": "purpose and value",
+      "tanim": "The question of what cinema is for, in human life and in society."
+    },
+    {
+      "tr": "Biçimci gelenek",
+      "en": "formative tradition",
+      "tanim": "The line of theory holding that what makes cinema an art is its transformation of reality."
+    },
+    {
+      "tr": "Gerçekçi gelenek",
+      "en": "realist tradition",
+      "tanim": "The line of theory that sees cinema’s essence in its power to record and reveal the world."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "Tomorrow, with Elsaesser and Hagener, we will talk about thinking about cinema starting not from the eye but from the spectator’s body, and about the book’s metaphors of the window, the door and the mirror."
+}

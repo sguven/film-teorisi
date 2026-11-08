@@ -1,0 +1,81 @@
+{
+  "hafta": 2,
+  "gun": 4,
+  "tarih": "2026-10-15",
+  "tur": "ders",
+  "baslik": "Range of Narration — Restricted and Unrestricted Narration",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 3 (Narrative Form), the subsection on the range of story information.",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Every film doles out story information to the viewer in a particular measure: either it limits us to what a single character knows, or it shows us what none of the characters know; this choice determines whether a scene will produce curiosity, suspense or surprise.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>This week we are moving step by step: first we set up the distinction between story (Russian <i>fabula</i>) and plot (<i>syuzhet</i>), then we looked at causality, which ties the two together, and yesterday we saw how time is reorganized along the axes of order, duration and frequency. Today we ask a new question: <b>through whose eyes, and how much of it,</b> does the plot give us the story information?</p>\n<p>Bordwell and Thompson call the process by which the plot presents story information to the viewer <i>narration</i>. Note that narration here does not mean a narrator’s voice speaking (<i>voice-over</i>). A film without a narrator still has narration, because there is always a process deciding which shot will be shown, which piece of information will be withheld and which moment will be skipped. The chapter’s core claim here is that this process can be examined along two dimensions: <b>range</b> — how much information is given — and <b>depth</b> — how far that information reaches into the characters’ inner lives. Today: range; tomorrow: depth.</p>\n<p><b>1. Unrestricted narration.</b> The film does not tie us to a single character; it moves freely from one place to another, from one group of characters to another. As a result, the viewer knows more than any one character knows alone. The “all-knowing narrator” of literature (<i>omniscient narration</i>) is close to this. A chase sequence built through crosscutting is a typical example: we see both where the fugitive is hiding and which road the pursuer is coming down; neither of them knows where the other is.</p>\n<p><b>2. Restricted narration.</b> The film largely ties us to the experience of a single character: whatever that character learns, we learn too, at the same moment. The book’s classic example is the detective film (e.g., <i>The Big Sleep</i>, 1946): we don’t see a room until the detective enters it, and we don’t find a clue until he does. We learn the solution to the murder together with the detective.</p>\n<p><b>3. Hierarchy of knowledge.</b> These two poles are not an either/or but a spectrum. A film can be mostly restricted and then open out into unrestricted narration at a critical moment. The practical way to gauge this is to ask yourself in every scene: <b>Who knows what right now, and what do I know?</b> Sometimes the viewer stands level with a character, sometimes behind, sometimes ahead. The book illustrates this spectrum with <i>North by Northwest</i> (Hitchcock, 1959): the film is tied almost from beginning to end to its hero, who has been mistaken for a spy; but in one scene it cuts to a meeting of intelligence officers and tells us an important truth that the hero does not yet know. From that moment on we are one step ahead of him, and our anxiety grows as we watch what happens to him.</p>\n<p><b>4. The emotional consequences of range: curiosity, suspense, surprise.</b> The choice of range is not merely a matter of “information bookkeeping”; it determines what the viewer will feel.</p>\n<ul>\n<li><b>Curiosity:</b> Restricted narration, especially when it withholds information about the past, raises the question “What happened? Who did it?” The <i>mystery</i> genre is built on this.</li>\n<li><b>Suspense:</b> When unrestricted narration shows us in advance a danger the character doesn’t know about, the question “What will happen?” becomes agonizing. Hitchcock’s famous bomb example captures this: if the audience knows there is a bomb under the table and the characters don’t, an ordinary conversation turns into a scene of tension that lasts for minutes.</li>\n<li><b>Surprise:</b> If the audience doesn’t know about the bomb either, the explosion produces only a few seconds of shock. Restricted narration produces surprise through a piece of information that suddenly shatters our expectations.</li>\n</ul>\n<p>Melodramas are often unrestricted (we know that the characters are suffering unaware of one another), while mystery films are restricted. But genre is a tendency, not a rule.</p>\n<p><b>Why does it matter, and what does it argue against?</b> This approach rejects the idea that “the camera is a neutral eye; the film shows things as they are”: where the camera stands, and what it shows and doesn’t show, is at every moment an information strategy. It also stands against readings that judge a film only by its “subject”: told with restricted narration, the same story becomes a mystery; told with unrestricted narration, a suspense film. Here too lies the essence of the cognitive perspective Bordwell would develop in later work (Week 31): the viewer is an active mind that constantly forms hypotheses, waits and revises according to the amount of information the film gives it.</p>"
+    },
+    {
+      "baslik": "Example: Range in Rashomon",
+      "html": "<p>Rashomon (Kurosawa, 1950) takes the concept of range somewhere unusual. Each version of the incident in the forest is tied to a single witness: in the bandit’s account, we see only as much as the bandit knows and claims; in the woman’s account, only as much as she tells. In other words, every flashback is a <b>restricted</b> narration. Normally, restricted narrations converge at some point, and in the end the film offers us an unrestricted, “true” version — like the solution scene at the end of a detective film. Rashomon withholds this controlling version. The film never shows, in its own voice, a neutral “this is what happened” shot tied to no witness at all.</p>\n<p>Pay attention to the court scenes: the witnesses speak while looking into the camera — that is, directly at us; we never see the judge or hear his questions. In this way the film puts us in the place of the court: we are the ones who must decide, yet all we have are mutually contradictory restricted narrations. Here range joins with the frequency we discussed on Day 3: the same event is shown four times, but each time from within a different limit of knowledge. The result is that the viewer is not <i>ahead</i> of the characters but stays in the fog alongside them. When you watch the film on Saturday, note for each account: what could this narrator have seen, and what could they not have seen?</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The idea of the viewer being “tied” to a character’s knowledge will come back from two very different directions: in Week 31 with Murray Smith’s concept of <i>alignment</i>, and in Week 27 with psychoanalytic theory’s concept of <i>suture</i>.</p>"
+    }
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "sorular": [
+    "Define restricted and unrestricted narration in your own words, and give an example of each from a film you have seen.",
+    "In Hitchcock’s bomb example, why does the same scene turn from suspense into surprise when the viewer’s knowledge changes? Build your answer around the concept of the “hierarchy of knowledge.”",
+    "Even if a film has no narrator’s voice (<i>voice-over</i>), it still has narration. What does this sentence mean? Explain the difference between narration and narrator."
+  ],
+  "gozlem": "Choose a scene from a series or a video you watched today. Pause three times during the scene and ask yourself: “Right now, do I know <b>less</b> than, <b>as much as</b> or <b>more</b> than the character on screen?” Did your answer change within the scene? If so, which shot or cut changed it? Note it down in a single sentence.",
+  "terimler": [
+    {
+      "tr": "Anlatım",
+      "en": "narration",
+      "tanim": "The process by which the plot selects, arranges and presents story information to the viewer."
+    },
+    {
+      "tr": "Anlatımın menzili",
+      "en": "range of story information",
+      "tanim": "How wide the viewer’s access to story information is."
+    },
+    {
+      "tr": "Sınırlı anlatım",
+      "en": "restricted narration",
+      "tanim": "Narration that largely limits the viewer’s knowledge to what a single character knows."
+    },
+    {
+      "tr": "Sınırsız (her şeyi bilen) anlatım",
+      "en": "unrestricted / omniscient narration",
+      "tanim": "Narration that shows the viewer more than any one character knows alone."
+    },
+    {
+      "tr": "Bilgi hiyerarşisi",
+      "en": "hierarchy of knowledge",
+      "tanim": "The relative positions of the viewer and the characters in a scene with respect to story information."
+    },
+    {
+      "tr": "Gerilim / şaşkınlık",
+      "en": "suspense / surprise",
+      "tanim": "The state of anticipation when the viewer knows more than the character / the sudden shock that arises when information has been withheld."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "The Big Sleep",
+      "yil": 1946,
+      "yonetmen": "Howard Hawks"
+    },
+    {
+      "ad": "North by Northwest",
+      "yil": 1959,
+      "yonetmen": "Alfred Hitchcock"
+    }
+  ],
+  "yarin": "The <i>depth of story information</i>: does the film keep us at the level of a character’s outward behavior, or does it take us inside their mind? Subjective and objective narration, the reliability of the narrator, and diegetic / nondiegetic elements."
+}

@@ -1,0 +1,80 @@
+{
+  "hafta": 3,
+  "gun": 2,
+  "tarih": "2026-10-20",
+  "tur": "ders",
+  "baslik": "Mise-en-scène II — Lighting, staging, space and time",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 4 (second half)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "<i>Mise-en-scène</i> is not an inventory of objects but a system of guidance: lighting and staging organize where our gaze will go within the frame, and when.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we looked at the first two components of <i>mise-en-scène</i> (French for “putting on stage”): setting, and costume and makeup. Today we take up the remaining two, lighting and staging; then we move on to the point Bordwell and Thompson really emphasize: these four components do not work one by one but together, in space and time.</p><p><b>1. Lighting.</b> In cinema, light is not switched on merely “so things can be seen.” Lighting determines an object’s volume, texture, importance and mood. The authors suggest examining lighting through four features:</p><ul><li><b>Quality:</b> Hard light casts sharp, clearly edged shadows; soft light is diffused and melts the shadows away. Hard light suggests tension and texture; soft light, intimacy and calm.</li><li><b>Direction:</b> Frontal light flattens the face; sidelight splits the face in two; backlighting draws a bright outline that separates the figure from the background; underlighting makes the face look strange and uncanny to us.</li><li><b>Source:</b> The standard setup in classical Hollywood is three-point lighting: the key light is the dominant source, the fill light softens the shadows the key light leaves, and the backlight separates the figure from the background.</li><li><b>Color:</b> The warm or cool tone of the light changes the atmosphere of a scene.</li></ul><p>Two broad styles emerge from this. High-key lighting is a setup in which the fill light is strong and the shadows are few and soft; it is common in comedies and musicals. Low-key lighting, by contrast, turns the fill light down and leaves hard areas of darkness; <i>film noir</i> and horror love it. The important thing is this: “low-key” does not mean “a dark film”; it means “a high ratio between key light and fill light.” This distinction is often confused in quizzes.</p><p><b>2. Staging: movement and performance.</b> The fourth component of <i>mise-en-scène</i> is what the figures in the frame do. This is not just acting; a door opening, an animal running or a shadow sliding across a wall are also “figure behavior.” Bordwell and Thompson offer an important caution here: judging acting by whether or not it is “realistic” is misleading. The standard of realism changes from one era to the next; the exaggerated gestures of the 1910s seemed natural to audiences of their time. The right question is: what function does this performance serve within the film’s overall form? A performance that looks stylized, wooden or even “bad” can be a deliberate choice (for example, Bresson deliberately having his actors perform without emotion).</p><p>Performance comes through two channels: visual (face, gesture, posture, gait) and auditory (tone of voice, rhythm). Camera distance also shapes performance: in a long shot the whole body speaks; in a close-up, the movement of an eyebrow is enough.</p><p><b>3. <i>Mise-en-scène</i> in space: where does attention go?</b> A frame is a two-dimensional surface; <i>mise-en-scène</i> directs our eye by organizing that surface. Our eye is drawn to the thing that moves, to the brightest area, to color contrast, to the center of the frame, and to faces turned toward the camera. The degree to which a figure faces the camera is called <b>frontality</b>: a figure looking straight out at us attracts more attention than one with their back turned. Using these principles, the director balances the composition or deliberately unbalances it.</p><p>Creating the illusion of depth in the frame is also the work of <i>mise-en-scène</i>. The depth cues are overlap, differences in size, light and shadow, atmospheric perspective (distant things growing paler), and movement. With these cues, the director can practice <b>staging in depth</b>: important actions take place in the foreground, middle ground and background at the same time. The scene in <i>Citizen Kane</i> we mentioned in Week 1, in which young Kane is seen through the window in the background while the adults negotiate in the foreground, is exactly this. Note carefully: staging in depth is a decision of <i>mise-en-scène</i>; showing that depth in sharp focus (deep focus) is a matter of cinematography. We will clarify this distinction tomorrow.</p><p><b>4. <i>Mise-en-scène</i> in time.</b> A frame is not a static picture. Over the course of a shot, attention is carried from one point to another in sequence: someone speaks, then another person turns, then a door in the background opens. <i>Mise-en-scène</i> is a choreography, and tempo and rhythm are part of it. This is Bordwell and Thompson’s main claim: <i>mise-en-scène</i> is a system that manages the viewer’s expectations and attention over time.</p><p><b>What are they arguing against?</b> Two common approaches. The first is the view that <i>mise-en-scène</i> is just “sets and props,” and that real cinema lies in the camera and editing. The second is the view that evaluates <i>mise-en-scène</i> by the standard of realism (“Is this setting convincing? Is this acting natural?”). According to the authors, both approaches miss the question of function. This continues the formalist stance the book has defended from the start: an element gains meaning according to what it does within the film as a whole.</p>"
+    },
+    {
+      "baslik": "Example: Tokyo Story (Ozu, 1953)",
+      "html": "<p>At the start of the film, the elderly couple are in their home in Onomichi, seated on the floor, preparing for their journey. The camera is low, close to the height of the seated figures. The acting is extremely restrained: the gestures are small, the tone of voice even, and much of the dialogue concerns everyday details. The light is soft and even; there are no dramatic shadows. Together, these three choices foreground not events but the rhythm of daily life. Throughout the film you will see compositions in which characters sit side by side, looking in the same direction. This arrangement is the exact opposite of a confrontational setup that places figures face to face; it builds the relationship not as a confrontation but as a shared gaze.</p><p>As a contrasting example, look at the opening of <i>Touch of Evil</i>: hard, low-key lighting, figures in constant motion, staging in depth. Using the same four components, the two films build completely different patterns of attention.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea of “guiding attention” is the foundation for the way cognitive theory (including Bordwell himself), in Weeks 30–31, treats the viewer as an active builder of meaning.</p>"
+    }
+  ],
+  "sorular": [
+    "Why is it incomplete to define low-key lighting as “a dark scene”? What should the correct definition be?",
+    "Why do Bordwell and Thompson advise against judging acting by the standard of “realism”? Explain with an example.",
+    "What is the difference between staging in depth and deep focus? Which is a matter of <i>mise-en-scène</i>, and which of cinematography?"
+  ],
+  "gozlem": "Pause on a shot from any TV episode, news segment or video you watch today. Note three things: (1) Where is the key light coming from, and are the shadows hard or soft? (2) Where did your eye go first, and why (movement, brightness, the center, frontality)? (3) Does any figure have their back to the camera? If so, how does that affect the importance given to them?",
+  "terimler": [
+    {
+      "tr": "Üç noktalı aydınlatma",
+      "en": "three-point lighting",
+      "tanim": "The classical Hollywood lighting setup, consisting of a key light, a fill light and a backlight."
+    },
+    {
+      "tr": "Ana ışık / dolgu ışığı",
+      "en": "key light / fill light",
+      "tanim": "The dominant light source in a scene, and the secondary source that softens the shadows it leaves."
+    },
+    {
+      "tr": "Düşük anahtarlı aydınlatma",
+      "en": "low-key lighting",
+      "tanim": "A setup with little fill light, high contrast between key and fill, and hard shadows."
+    },
+    {
+      "tr": "Yüksek anahtarlı aydınlatma",
+      "en": "high-key lighting",
+      "tanim": "A low-contrast setup in which strong fill light keeps shadows few and soft."
+    },
+    {
+      "tr": "Önden duruş",
+      "en": "frontality",
+      "tanim": "The degree to which a figure faces the camera; the more frontal the figure, the more attention it draws."
+    },
+    {
+      "tr": "Derinlemesine sahneleme",
+      "en": "staging in depth",
+      "tanim": "Distributing important actions across the foreground, middle ground and background of the frame."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Tomorrow we move on to cinematography: how the same <i>mise-en-scène</i> turns into a completely different image through the choice of lens, depth of field and tonality (<i>Film Art</i>, Ch. 5)."
+}

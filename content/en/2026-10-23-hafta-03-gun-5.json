@@ -1,0 +1,75 @@
+{
+  "hafta": 3,
+  "gun": 5,
+  "tarih": "2026-10-23",
+  "tur": "ders",
+  "baslik": "Cinematography III — Mobile framing and the duration of the shot",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 5 (final part: mobile framing and the duration of the shot).",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "When the camera moves and the shot lengthens, the frame stops being just a vantage point and becomes a narrator flowing through time: what we see, when, and in what order is now decided not by the cut but by the frame itself.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>This week we divided cinematography into three areas of choice: photographic qualities (Wednesday), framing (yesterday) and the duration of the shot (today). Yesterday we treated the frame as a fixed window: angle, height, distance, offscreen space. Today we set that window in motion — and notice that the clock is running.</p><p>Bordwell and Thompson’s core claim is this: camera movement and shot duration are not ornaments but instruments of <i>narration</i>. A moving frame can do the work editing does — shifting attention from one point to another — without cutting. They push back against two common intuitions. The first is the idea that camera movement is done for “show” or “dynamism,” as a value in itself. The second is the idea that a long take is automatically more “realistic” or more “artistic.” For the authors, both skip the question of function: What job does this movement do in this film? What does this duration make us experience?</p><p><b>1. Mobile framing.</b> The basic ways the camera can change the frame during a shot are:</p><ul><li><b>Pan:</b> The camera stays in place and swivels left or right, as if we were turning our head.</li><li><b>Tilt:</b> The camera stays in place and swivels up or down.</li><li><b>Tracking shot / dolly shot:</b> The camera itself travels along the ground — forward, backward, sideways, or around a figure.</li><li><b>Crane shot:</b> The camera rises or descends above the ground, often combined with horizontal movement.</li><li><b>Handheld camera:</b> The camera is held in the operator’s hands or on the shoulder, giving a jittery, shaky image. It is often used for a documentary feel or a sense of subjective urgency.</li></ul><p>The book draws a subtle but important distinction here: in a pan or tilt, the camera rotates on a single axis, so the positions of objects relative to one another don’t change; the perspective stays the same. In a tracking shot, by contrast, the camera travels through space, so objects in the foreground slide past faster than those in the background (<i>parallax</i>). That is why tracking lets us feel the depth of space “with our bodies.” A <i>zoom</i>, on the other hand, is not a camera movement at all: the lens’s focal length changes, the image is magnified, but no parallax is produced. What we learned about lenses on Wednesday pays off right here: zooming in and moving the camera in may look similar at a glance, but they construct space very differently.</p><p><b>2. The functions of movement.</b> Bordwell and Thompson ask us to read mobile framing through two relationships. Its relationship to space: the camera can follow a figure, or it can act independently of the figure and deliberately reveal or conceal something for us. Its most everyday form is <i>reframing</i>: the camera shifting slightly to keep an actor centered when they move a little. In classical cinema we almost never notice it. Its relationship to time: the speed and duration of a movement create a rhythm; a slow approach builds anticipation, a sudden pan produces surprise. In short, camera movement is a mechanism that constantly turns offscreen space (yesterday’s topic) into onscreen space, and vice versa.</p><p><b>3. Shot duration and the long take.</b> First, a terminological trap. Yesterday, when we said “long shot,” we meant distance: the scale at which a figure’s whole body is visible. Today’s concept is something else entirely: the <b>long take</b>, a shot that runs for an unusually long time without a cut. One concerns space, the other time; a long take can perfectly well be filmed in close-up. This confusion comes up constantly in exams, and because the two terms sound so alike in English, keep them deliberately apart.</p><p>When an entire scene is presented in a single shot, it is called a <i>plan-séquence</i>, or sequence shot. The long take works as an alternative to editing: the director guides attention not by cutting but through staging (Tuesday’s topic), deep focus (Wednesday) and camera movement. Bordwell and Thompson make an important point here: the long take is not “editless”; it contains an internal organization that carries the emphases cuts would otherwise provide. The viewer’s eye is still guided, but the guiding happens within the continuity of real time. Historically, this choice became a distinctive style in the 1930s and ’40s with directors such as Renoir, Mizoguchi and Welles.</p><p>Why does it matter? Because duration changes our relationship to what we see. Where there is no cut, the duration of the event and the duration on screen coincide; experiences such as suspense, waiting, boredom and patience are transferred directly into the viewer’s body.</p>"
+    },
+    {
+      "baslik": "Example: the opening sequence shot of Touch of Evil (Welles, 1958)",
+      "html": "<p>The film opens on a close-up of a hand setting a time bomb. The man planting it puts it in the trunk of a car and runs off. A couple get into the car and drive away. From this point on, the camera, mounted on a crane, follows the car through the streets of the border town, sometimes rising to look down over the buildings, sometimes descending into the crowd. At one point the camera leaves the car and begins following another couple on foot, Vargas (Charlton Heston) and Susie (Janet Leigh); the two couples come side by side again at the border checkpoint. The whole shot runs over three minutes.</p><p>Now let’s unpack it with today’s concepts. First, it is the frame that gives us the information about the bomb at the very start: the characters don’t know, but we do. The distribution of information we discussed in Week 2 is working here in its purest form; recall Hitchcock’s formula of “suspense, not surprise.” Second, because there is no cut, the bomb’s clock and our clock run at the same speed. Every passing second is a real second; editing cannot compress or stretch time. Third, when the camera leaves the car to follow the pedestrians, it pushes the bomb offscreen for a moment. We are forced to think about what we cannot see: offscreen space becomes a source of suspense precisely thanks to mobile framing. And the shot is cut by the sound of the explosion; the last thing we see is a kiss, not the explosion itself. Here the long take and camera movement work not as showmanship but as a structure that locks the viewer inside a ticking clock.</p><p>For contrast, think of Ozu: in <i>Tokyo Story</i> the camera is largely static, and Ozu builds emotion not through camera movement but through the succession of fixed frames. Two extremes in the same week: one tells its story through movement, the other through stillness. Both are choices.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The long take and deep focus will move to the center of Bazin’s theory of realism in Week 10; there, these techniques will be defended not merely as a stylistic choice but as a claim about cinema’s relationship to reality — while next week’s topic, editing in Week 4, sets up the opposite pole.</p>"
+    }
+  ],
+  "sorular": [
+    "Explain the difference between a <i>long shot</i> and a <i>long take</i>. Is it possible for a shot to be both a long take and a close-up?",
+    "What is the difference between a pan and a tracking shot? Explain using the concept of parallax; which of the two is a zoom closer to, and why?",
+    "If the opening of <i>Touch of Evil</i> had been filmed with cuts — for example, with inserted close-ups of the bomb’s timer — what would have been gained, and what lost?"
+  ],
+  "gozlem": "In a series, video or commercial you watch this evening, time the length of a single shot with your phone’s stopwatch; then estimate the average length of a few consecutive shots in your head. Does the camera move in any of these shots? If it does: is it following a figure, or is it showing us something on its own? Write one sentence: was movement chosen instead of a cut, or a cut instead of movement?",
+  "terimler": [
+    {
+      "tr": "Hareketli çerçeve",
+      "en": "Mobile framing",
+      "tanim": "The general term for the camera changing the frame by moving during a shot."
+    },
+    {
+      "tr": "Yatay çevrinme",
+      "en": "Pan",
+      "tanim": "The camera staying in place and swiveling left or right on its own axis; the perspective does not change."
+    },
+    {
+      "tr": "Kaydırmalı çekim",
+      "en": "Tracking shot / dolly shot",
+      "tanim": "The camera traveling through space; it produces a sense of depth through parallax."
+    },
+    {
+      "tr": "Yeniden çerçeveleme",
+      "en": "Reframing",
+      "tanim": "A small, often unnoticed camera movement that keeps a moving figure balanced in the frame."
+    },
+    {
+      "tr": "Uzun süreli plan",
+      "en": "Long take",
+      "tanim": "A shot that runs for an unusually long time without a cut; it concerns duration, not distance."
+    },
+    {
+      "tr": "Plan-sekans",
+      "en": "Plan-séquence / sequence shot",
+      "tanim": "The presentation of an entire scene in a single uninterrupted shot."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    }
+  ],
+  "yarin": "Tomorrow is film day: a spoiler-free viewing guide to <i>Tokyo Story</i> and the opening of <i>Touch of Evil</i>, showing where to look for this week’s concepts of mise-en-scène and cinematography."
+}

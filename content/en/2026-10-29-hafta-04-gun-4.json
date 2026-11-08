@@ -1,0 +1,75 @@
+{
+  "hafta": 4,
+  "gun": 4,
+  "tarih": "2026-10-29",
+  "tur": "ders",
+  "baslik": "Sound I — The power of sound and its basic properties",
+  "okuma": "[FA] Bordwell & Thompson, Film Art, Ch. 7 (sound) — first half. Tomorrow we will cover the second half of the chapter (sound in space and time).",
+  "film": "À bout de souffle (Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "Sound is not an “ornament” added behind the image; it is a formal element, as carefully chosen and edited as the image, that guides what we see, where we look and how we interpret what we see.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>1. Why should we think about sound separately?</b> Bordwell and Thompson’s central claim in this chapter is that viewers usually take sound for granted as “natural”: when a door slams, we hear a slam and don’t notice that this is a choice. Yet film sound is almost never recorded on set and simply left as it is. Dialogue is re-recorded afterward (<i>ADR / post-synchronization</i>), footsteps are recreated in the studio (<i>Foley</i>), background noise is cleaned up or added. In other words, sound, just like <i>mise-en-scène</i> and editing, is a chain of choices. Here the authors push back against the common-sense view that treats sound as the image’s faithful companion: sound does not merely “complete” the image; it can transform it.</p><p>This has a practical consequence: put a different sound under the same image and you get a different scene. An empty corridor looks peaceful with a soft wind beneath it, uncanny with a single distant footstep, ironic with cheerful music. Sound draws our attention to a particular part of the frame (when we hear someone speak, our eyes go to that person) and shapes our expectations.</p><p><b>2. Three types of sound.</b> Film sound is traditionally thought of in three categories:</p><ul><li><b>Speech</b>: dialogue, inner voice, voice-over narration. In classical narrative cinema it usually takes priority; the <i>mixing</i> is done so as to guarantee that the dialogue is intelligible.</li><li><b>Music</b>: it sets the emotional tone, links scenes together, and carries meaning through recurring motifs that stand for a character or an idea (<i>leitmotif</i>).</li><li><b>Sound effects / noise</b>: footsteps, traffic, rain, <i>ambient sound</i>. It builds the “texture” of a place and a sense of reality.</li></ul><p>What matters is <b>how these three are selected and mixed</b>. At every moment the sound designer asks: What should be heard in this scene, what shouldn’t, and what should come to the fore? In real life, talking in a crowded café, we hear dozens of sounds around us; a film usually suppresses most of them and brings two people’s conversation to the front. This is the sonic equivalent of the camera choosing the frame.</p><p><b>3. The perceptual properties of sound.</b> Bordwell and Thompson propose analyzing sound through three basic qualities:</p><ul><li><b>Loudness</b>: loud or soft sound signals distance and importance. A sudden silence or an explosion forces our attention somewhere.</li><li><b>Pitch</b>: how high or low a sound is. It helps distinguish characters and build tension (a shrill, sustained tone creates unease).</li><li><b>Timbre</b>: the “color” or texture that sets one sound apart from another — the difference between a violin and a clarinet playing the same note. Whether a sound is muffled, metallic or echoing tells us about both its source and the atmosphere.</li></ul><p>In addition, the book draws attention to two further dimensions of sound in film: <b>rhythm</b> and <b>fidelity</b>. Rhythm is how the tempo of the sound relates to the tempo of the image and the editing: music can move on the same beat as the shots or work against them. Fidelity is whether a sound is “true” to its source: does a dog’s bark sound like a dog, or like a cat’s meow? Note carefully: fidelity is not about whether the sound was <b>actually</b> recorded from that source, but whether it <b>seems</b> true to its source to the viewer. Deliberate infidelity (a machine noise coming out of a person’s mouth, say) is used to produce comedy, uncanniness or estrangement.</p><p><b>4. Why does it matter?</b> This chapter completes the topic of editing we have been working on this week. Editing organized the relationships between shots; sound, too, builds relationships, both with the image and within itself. The image can cut while the sound flows on uninterrupted, and this makes the cut “invisible”; one of the things that actually holds up the <i>continuity system</i> is sound. The reverse holds as well: when sound cuts out suddenly or clashes with the image, as Godard does, the viewer is reminded that the film is a construction.</p>"
+    },
+    {
+      "baslik": "Example: The Conversation (Coppola, 1974) — opening scene",
+      "html": "<p>The film opens with a high-angle long shot of a crowded square; the camera slowly moves in. What we hear is not a “natural” sound of a square: fragments of conversation that break up here and there, take on a crackling, metallic timbre, then come back into focus. This is a surveillance recording made from a distance. Loudness and timbre are directly the subject of the narrative here: which sentence is heard and which is lost determines who can know what. As you watch the scene, ask yourself: Is the sound telling me about the space, or about how a recording device “hears” that space? By deliberately undermining the fidelity of the sound, Coppola places us in the position of a listener — more precisely, of a surveillance technician. Over the course of the film, the same recording is played again and again, showing how sound changes with interpretation; I’m saving the details for film day.</p><p>For comparison: <i>Breathless</i> (<i>À bout de souffle</i>) was shot largely without synchronous sound, and its sound was added afterward. That is why the film’s sound world is often clean, selective and slightly “detached” from the image — which fits well with Godard’s rule-breaking approach to editing.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea that “sound is a choice too” extends into the realm of sound our reading of mise-en-scène and cinematography as choices in Weeks 2–3; in the classical theory weeks ahead, we will see the theoretical roots of this debate in the call by Eisenstein and his colleagues for a relationship of <i>counterpoint</i> between sound and image.</p>"
+    }
+  ],
+  "sorular": [
+    "Why is it misleading to think that sound in a film is “natural”? Explain with reference to ADR and Foley.",
+    "Which of loudness, pitch and timbre is most effective at conveying “what kind of place” a space is? Defend your answer with an example.",
+    "Are fidelity and realism the same thing? Why or why not?"
+  ],
+  "gozlem": "Take a 30-second stretch of anything you watched today (a series, an ad, a YouTube video) and listen to it once <b>with your eyes closed</b>. Write down the sounds you hear in three columns: speech / music / effects. Then watch the same stretch with the image: Which sound was meaningless without the image, and which one told the scene on its own?",
+  "terimler": [
+    {
+      "tr": "Sonradan seslendirme",
+      "en": "ADR / post-synchronization",
+      "tanim": "Re-recording dialogue in the studio after shooting and syncing it to the image."
+    },
+    {
+      "tr": "Foley",
+      "en": "Foley",
+      "tanim": "Recreating everyday sounds such as footsteps or the rustle of clothing in the studio while watching the image."
+    },
+    {
+      "tr": "Ses karışımı",
+      "en": "mixing",
+      "tanim": "Adjusting the relative levels of speech, music and effects and combining them into a single soundtrack."
+    },
+    {
+      "tr": "Tını",
+      "en": "timbre",
+      "tanim": "The texture or “color” that distinguishes two sounds of the same loudness and pitch."
+    },
+    {
+      "tr": "Sadakat",
+      "en": "fidelity",
+      "tanim": "Whether a sound seems true, to the viewer, to its source in the image."
+    },
+    {
+      "tr": "Ortam sesi",
+      "en": "ambient sound",
+      "tanim": "The general sound running in the background of a space, giving it texture and a sense of reality."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    }
+  ],
+  "yarin": "Sound in space and time: <i>diegetic / nondiegetic</i> sound, <i>onscreen / offscreen</i> sound, and the <i>sound bridge</i> that links scenes together."
+}

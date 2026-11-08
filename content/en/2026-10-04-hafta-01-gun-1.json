@@ -1,0 +1,75 @@
+{
+  "hafta": 1,
+  "gun": 1,
+  "tarih": "2026-10-04",
+  "tur": "ders",
+  "baslik": "Cinema is three things at once: art, technology, industry",
+  "okuma": "Bordwell & Thompson, Film Art, first half of Ch. 1",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "A film comes neither from an artist’s imagination alone, nor from a machine alone, nor from a company’s balance sheet alone; every formal decision we see on screen is made where these three meet.",
+  "bolumler": [
+    {
+      "baslik": "Welcome to the program",
+      "html": "<p>Over 52 weeks, this program works through the major debates of film theory in order. But before we get to theory, we need a vocabulary: if we can’t name a shot, a cut or a sound, we can’t discuss questions like “Does cinema show reality, or does it transform it?” The first five weeks build that vocabulary. Each day there is a 10–15 minute lesson, on Saturday the film of the week, and on Sunday a quiz and a short analysis task. Go at your own pace; if you miss a day, simply pick up where you left off the next day.</p>"
+    },
+    {
+      "baslik": "Lecture",
+      "html": "<p>Bordwell and Thompson open the book with a simple but important observation: when we talk about cinema, we usually speak three different languages and tend to mix them up. One is the language of art (the director’s style, the film’s meaning), one is the language of technology (camera, lighting, effects), and one is the language of business (budget, box office, stars). The authors argue that these three must be thought about <b>together</b>, not separately. A film’s form emerges when creative decisions are made within technological possibilities and commercial conditions.</p><p>This claim pushes back against two common views. The first is the romantic view that treats cinema purely as the work of geniuses: as if the director had designed everything in his head, and the machines and money merely carried it from paper to screen. The second is the dismissive view that treats commercial cinema as nothing but a factory product: as if there could be no art in big studio films. Bordwell and Thompson say “no” to both: constraints don’t block creativity; more often than not, they shape it.</p><h3>The machinery of cinema: apparent motion</h3><p>The most basic fact on the technology side is a surprising one: nothing on the screen actually moves. A film is made up of a series of still images, or <i>frames</i>; in standard cinema, 24 frames are shown per second. The projector holds each frame on the screen for a brief moment, then moves on to the next. Our eyes and brain perceive these successive still images as continuous movement. This is called <b>apparent motion</b>.</p><p>For a long time this phenomenon was explained as “persistence of vision”; the authors stress that this explanation is inadequate, and that the perception of motion arises from the way our visual system combines successive stimuli. There is also the problem of flicker: so that we don’t notice the dark moments between frames, the projector shows each frame more than once; when light flashes on and off above a certain rate, we no longer perceive it as flickering. This is called <b>critical flicker fusion</b>. Digital projection works with a different mechanism, but the principle is the same: cinema is an illusion that cooperates with our perception.</p><p>Why does this matter? Because in the weeks ahead we’ll follow the quarrel between theorists who say “cinema is a record of reality” and those who say “cinema transforms reality.” From the very first day we can see that even the most “realistic”-looking film actually rests on a mechanism that fools our brain.</p><h3>How a film gets made: four stages</h3><p>On the business and creative side, the authors divide filmmaking into four stages:</p><ul><li><b>Scriptwriting and funding</b>: An idea becomes a screenplay, and a producer finds the money. Already at this stage, the budget begins to limit what the film will look like.</li><li><b>Preproduction</b>: Actors are cast, locations are found, sets and costumes are designed, and a shooting schedule is drawn up. Most visual decisions are made here.</li><li><b>Production</b>: The director, the cinematographer, the actors and the technical crew record the scenes.</li><li><b>Postproduction</b>: Editing, sound, music and effects are added; the footage that was shot is turned into a film.</li></ul><p>At every stage, different people make decisions about form. That is why the question “Whose film is it?” is not as simple as it seems; tomorrow we’ll return to it through the lens of modes of production.</p>"
+    },
+    {
+      "baslik": "Example: The ceilings of Citizen Kane",
+      "html": "<p>Look carefully at <i>Citizen Kane</i> (Orson Welles, 1941), the film of the week, and you’ll notice something: in many interior scenes, the ceiling of the room is visible. This was unusual in the Hollywood studios of the time; sets were generally built without ceilings, because the lights and microphones hung overhead.</p><p>This single detail brings today’s three elements together. <b>The creative decision:</b> placing the camera at low angles to show characters either crushed by their surroundings or towering over them. <b>The technological solution:</b> building the ceilings from light materials such as fabric so they wouldn’t block light and sound, along with cinematographer Gregg Toland’s choices of lighting and lenses. <b>The industrial condition:</b> all of this was possible thanks to the workshops and budget of a major studio, RKO. And most of these decisions were made before shooting, during preproduction, while the sets were being designed. As you watch the film, look at the ceilings; then ask yourself: should we credit this style to Welles, to Toland, or to the studio?</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The idea of apparent motion will come back in Week 6 with Münsterberg and Arnheim, and in Week 10 with Bazin’s claim of “photographic reality”; the question “Whose film is it?” will be at the center of the auteur debate in Weeks 13–15.</p>"
+    }
+  ],
+  "sorular": [
+    "Why is it incomplete to see cinema as only “art” or only “commerce”? Explain in your own words, using an example from a film you know.",
+    "What is apparent motion, and why does it matter for cinema’s claim to “record reality as it is”?",
+    "List the four stages of film production in order. Which stage do you think most determines how a film looks? Why?"
+  ],
+  "gozlem": "In anything you watch today (a series, an ad, a YouTube video), pick a single visual detail: a light, a set, a camera angle. Do you think this detail is an artistic decision, a technical necessity, or a matter of budget? Maybe all three at once? Jot it down in one sentence.",
+  "terimler": [
+    {
+      "tr": "Görünür hareket",
+      "en": "apparent motion",
+      "tanim": "The perception of still frames shown in rapid succession as continuous movement."
+    },
+    {
+      "tr": "Kare",
+      "en": "frame",
+      "tanim": "A single still image that makes up a film; in standard cinema, 24 frames are shown per second."
+    },
+    {
+      "tr": "Kritik titreşim birleşmesi",
+      "en": "critical flicker fusion",
+      "tanim": "The perception of a flashing light as continuous once it flashes above a certain rate."
+    },
+    {
+      "tr": "Hazırlık",
+      "en": "preproduction",
+      "tanim": "The stage before shooting in which casting, sets, costumes and the shooting schedule are prepared."
+    },
+    {
+      "tr": "Çekim",
+      "en": "production",
+      "tanim": "The stage in which scenes are recorded with camera and sound."
+    },
+    {
+      "tr": "Birleştirme",
+      "en": "postproduction",
+      "tanim": "The stage in which the footage is turned into a film through editing, sound, music and effects."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles",
+      "not": "The film of Week 1. The program’s opening film, with all the principles of the formal system, the authorship debate and the story of its distribution."
+    }
+  ],
+  "yarin": "Who makes films, and who shows them? Modes of production, the question of authorship, and how distribution and exhibition feed back into a film’s form."
+}

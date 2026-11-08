@@ -1,0 +1,179 @@
+{
+  "hafta": 4,
+  "gun": 7,
+  "tarih": "2026-11-01",
+  "tur": "sinav",
+  "baslik": "Test — Editing and sound",
+  "film": "À bout de souffle (Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "Editing and sound are two invisible hands that shape how the viewer constructs space, time and meaning; this week you learned to make those hands visible, and today we put that to the test.",
+  "bolumler": [
+    {
+      "baslik": "A short review of the week",
+      "html": "<p>This week we covered two large areas: <i>editing</i> and <i>sound</i>. In editing, we looked at the four kinds of relations (graphic, rhythmic, spatial, temporal), the <i>continuity system</i> and its tools (the 180° rule, the eyeline match, shot/reverse shot). In sound, we examined whether a sound’s source lies in the story world or not (diegetic / nondiegetic), onscreen and offscreen sound, and the sound bridge that links two scenes. The films: <i>Breathless</i> (<i>À bout de souffle</i>, Godard, 1960) and <i>The Conversation</i> (Coppola, 1974). Do the quiz first, then move on to the short-answer questions, and write the analysis task last. The answer key is at the very end; don’t look at it until you’ve finished the quiz.</p>"
+    }
+  ],
+  "quiz": [
+    {
+      "soru": "What is the basic goal of classical continuity editing?",
+      "secenekler": [
+        "To make cuts conspicuous and remind the viewer that the film has been edited",
+        "To make space and time consistent and easy to read, directing attention to the story and keeping the cut unnoticed",
+        "To shoot every scene in as few shots as possible",
+        "To create a deliberate clash between image and sound"
+      ],
+      "dogru": 1,
+      "aciklama": "The continuity system makes space and time legible and keeps attention on the story by rendering the cut invisible."
+    },
+    {
+      "soru": "What does the <i>180° rule</i> exist to preserve?",
+      "secenekler": [
+        "That the actors look the same tone under the lighting",
+        "That shots are equal in length",
+        "Consistent onscreen positions and directions of movement for the characters, by staying on one side of the <i>axis of action</i>",
+        "That the camera always stays at eye level"
+      ],
+      "dogru": 2,
+      "aciklama": "Staying on one side of the axis keeps the characters’ left/right positions and directions of movement constant."
+    },
+    {
+      "soru": "In one shot a character looks offscreen; the next shot shows a letter on a table. The viewer assumes the character sees the letter. What is this technique?",
+      "secenekler": [
+        "<i>Eyeline match</i>",
+        "<i>Graphic match</i>",
+        "<i>Jump cut</i>",
+        "<i>Crosscutting</i>"
+      ],
+      "dogru": 0,
+      "aciklama": "The link created between a look and the object being looked at is the eyeline match."
+    },
+    {
+      "soru": "In a conversation between two people, the camera shows one of them, then, from the same side of the axis, the other, and keeps alternating like this. What is this pattern called?",
+      "secenekler": [
+        "<i>Establishing shot</i>",
+        "<i>Long take</i>",
+        "<i>Sound bridge</i>",
+        "<i>Shot/reverse shot</i>"
+      ],
+      "dogru": 3,
+      "aciklama": "Alternating cuts between speakers form the shot/reverse-shot pattern; it usually works together with the 180° rule."
+    },
+    {
+      "soru": "Which is the most accurate definition of a <i>jump cut</i>?",
+      "secenekler": [
+        "Alternating between actions in two different locations",
+        "Cutting the same subject with little or no change in camera position, producing a noticeable leap in time and in the image",
+        "A scene’s sound beginning before its image",
+        "Linking the shape of an object to a similar shape in the next shot"
+      ],
+      "dogru": 1,
+      "aciklama": "A jump cut cuts the same subject with a very small change of angle, creating a leap in time and position."
+    },
+    {
+      "soru": "Cutting from a round object in one shot to another, similarly shaped object in the next shot is the best example of which kind of editing relation?",
+      "secenekler": [
+        "<i>Graphic relations</i>",
+        "<i>Rhythmic relations</i>",
+        "<i>Temporal relations</i>",
+        "<i>Spatial relations</i>"
+      ],
+      "dogru": 0,
+      "aciklama": "A connection built on visual similarities such as shape, color or line is a graphic relation."
+    },
+    {
+      "soru": "In a suspenseful scene, orchestral music swells although there is no musician or radio in the scene. What type of sound is this?",
+      "secenekler": [
+        "Offscreen diegetic sound",
+        "<i>Internal diegetic sound</i>",
+        "<i>Nondiegetic sound</i>",
+        "Simultaneous diegetic sound"
+      ],
+      "dogru": 2,
+      "aciklama": "Music whose source is not in the story world is nondiegetic sound."
+    },
+    {
+      "soru": "The frame shows only a woman sitting in a room; from behind the door we hear footsteps and a man’s voice. How is this sound classified?",
+      "secenekler": [
+        "Nondiegetic sound",
+        "<i>Offscreen diegetic sound</i>",
+        "Onscreen nondiegetic sound",
+        "<i>Voice-over</i>"
+      ],
+      "dogru": 1,
+      "aciklama": "Its source is in the story world but not in the image: offscreen diegetic sound."
+    },
+    {
+      "soru": "At the end of a scene, before the image changes, we begin to hear the train whistle from the next scene; then a cut takes us to the station. What is this?",
+      "secenekler": [
+        "Jump cut",
+        "Eyeline match",
+        "Graphic match",
+        "<i>Sound bridge</i>"
+      ],
+      "dogru": 3,
+      "aciklama": "The next scene’s sound beginning early is a sound bridge; it links the two scenes smoothly."
+    },
+    {
+      "soru": "In terms of this week’s sound concepts, what does Harry Caul’s repeated listening to the same recording in <i>The Conversation</i> show most of all?",
+      "secenekler": [
+        "That recorded sound is not objective evidence but material that is selected, processed and interpreted",
+        "That nondiegetic music always carries the character’s emotion",
+        "That sound is independent of editing and produces no meaning",
+        "That the 180° rule applies to sound as well"
+      ],
+      "dogru": 0,
+      "aciklama": "The film shows the recording taking on different meanings as it is replayed; sound, too, is selected, processed and interpreted."
+    }
+  ],
+  "soru_baslik": "Short-answer questions (from the syllabus)",
+  "sorular": [
+    "What is the purpose of continuity editing? (2–4 sentences; refer to at least two techniques by name.)",
+    "Which rule does the <i>jump cut</i> break, and what effect does it create? (Name the rule and describe the effect in terms of the viewer’s experience.)",
+    "Give an example of a sound bridge. (From any film you’ve seen; describe which scene the sound carries over from and into, and what purpose this serves.)"
+  ],
+  "analiz": "<p><b>Task:</b> Compare a jump-cut scene from <i>Breathless</i> (<i>À bout de souffle</i>) with the rules of classical continuity.</p><p><b>How to write it (300–500 words):</b></p><ul><li><b>Choose and describe the scene:</b> Which scene is it, roughly where in the film, who is in it, and what happens? How many cuts did you notice?</li><li><b>Imagine the classical solution:</b> If we shot the same scene using the Hollywood continuity system, what would we do? Describe it using at least two tools such as the establishing shot, shot/reverse shot, the 180° rule and the <i>match on action</i>.</li><li><b>Name the difference:</b> Which rule does Godard break, and how? Is time skipping, is position jumping, and how does the sound relate to the image (does it carry on over the cuts)?</li><li><b>Interpret the effect:</b> What does this rupture create in the viewer: unease, energy, awareness of the editing, the character’s state of mind? Is it a “mistake” or a deliberate style? Give your reasons.</li></ul><p>Assessment criteria: using the concepts correctly, concrete observation (seconds, shots, details of sound), actually carrying out the comparison with the classical system, and grounding your interpretation in observation.</p><p>Write down your answers — we’ll go over them.</p>",
+  "terimler": [
+    {
+      "tr": "Devamlılık kurgusu",
+      "en": "continuity editing",
+      "tanim": "The classical editing system that keeps cuts unnoticed and presents space and time consistently."
+    },
+    {
+      "tr": "Aksiyon ekseni / 180° kuralı",
+      "en": "axis of action / 180° rule",
+      "tanim": "The principle that the camera stays on one side of an imaginary line through the scene to preserve screen direction."
+    },
+    {
+      "tr": "Göz hattı eşleşmesi",
+      "en": "eyeline match",
+      "tanim": "A cut from a character who is looking to a shot showing what they are looking at."
+    },
+    {
+      "tr": "Atlamalı kesme",
+      "en": "jump cut",
+      "tanim": "A leap in time and in the image created by cutting the same subject from nearly the same angle."
+    },
+    {
+      "tr": "Diegetik / diegetik olmayan ses",
+      "en": "diegetic / nondiegetic sound",
+      "tanim": "The distinction between sound whose source lies in the story world and sound coming from outside that world (e.g. the film score)."
+    },
+    {
+      "tr": "Ses köprüsü",
+      "en": "sound bridge",
+      "tanim": "The sound of one scene carrying over into the next, or the next scene’s sound beginning early."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    }
+  ],
+  "yarin": "Week 5 begins: with the question “What is film theory?” we turn to Stam’s introduction and to the “prehistory” of film theory — moving from analyzing form to the theories that think about it."
+}

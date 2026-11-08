@@ -57,6 +57,13 @@ a:hover { text-decoration-thickness: 2px; }
 .nav a:hover { color: var(--ink); }
 .nav a[aria-current="page"] { color: var(--ink); border-bottom: 1.5px solid var(--ink); }
 
+/* Language switch (EN / TR) */
+.lang-switch { display: inline-flex; border: 1px solid var(--rule); border-radius: 999px; overflow: hidden; font-family: var(--sans); font-size: 0.75rem; letter-spacing: 0.04em; margin-left: auto; align-self: center; }
+.lang-switch button { appearance: none; border: 0; background: transparent; color: var(--muted); padding: 0.22rem 0.62rem; cursor: pointer; font: inherit; font-weight: 600; }
+.lang-switch button:hover { color: var(--ink); }
+html[data-lang="en"] .lang-switch [data-set-lang="en"], html[data-lang="tr"] .lang-switch [data-set-lang="tr"] { background: var(--ink); color: var(--paper); }
+.note-lang { font-family: var(--sans); font-size: 0.9rem; color: var(--ink-soft); background: var(--surface); border-left: 3px solid var(--link); padding: 0.6rem 0.9rem; margin: 1rem 0 1.5rem; }
+
 main { padding: 2.2rem 0 4rem; }
 
 /* Tipografi */
@@ -196,6 +203,10 @@ table.terms td.src { font-family: var(--sans); font-size: 0.82rem; white-space: 
   table.terms td.src { white-space: normal; padding-top: 0.2rem; }
 }
 @media print {
-  .site-head, .site-foot, .pager, .quiz-score, .days { display: none; }
+  .site-head, .site-foot, .pager, .quiz-score, .days, .lang-switch { display: none; }
   body { background: #fff; color: #000; }
+}
+@media (max-width: 560px) {
+  .site-head .wrap-wide { position: relative; }
+  .lang-switch { position: absolute; right: 20px; top: 22px; }
 }

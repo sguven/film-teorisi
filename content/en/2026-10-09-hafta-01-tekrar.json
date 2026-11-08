@@ -1,0 +1,65 @@
+{
+  "hafta": 1,
+  "gun": "tekrar",
+  "tarih": "2026-10-09",
+  "tur": "tekrar",
+  "baslik": "What is form? Tying the week together",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 1–2",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "A film is a whole in which creative decisions are made within technological and industrial conditions, and whose parts are bound to one another systematically; “form” is that very web of connections.",
+  "bolumler": [
+    {
+      "baslik": "Six ideas from the week",
+      "html": "<h3>1. Cinema is three things at once</h3><p>We began the week with the idea that cinema on its own is neither pure art, nor pure machine, nor pure commerce: creativity, technology and industry condition one another. The decisions we call a director’s style are made within the space allowed by the lens, the film stock, the budget and the studio setup at hand. Keeping this trio in mind will make it easier to see what is really at stake later on, in the <i>auteur</i> debates or in critiques of the industry.</p><h3>2. Apparent motion is a systematic illusion</h3><p>The movement we see on screen arises from still frames shown in rapid succession; our visual system perceives them as continuous motion. We call this apparent motion. Even cinema’s basic material is not a record of reality but a mechanism that cooperates with our perception. This idea will come back in the Bazin–Eisenstein debate (Weeks 9–11).</p><h3>3. A film is produced in stages</h3><p>Scriptwriting and funding, preproduction, production and postproduction; then distribution and exhibition. At each stage, different people make decisions about form. The deep-focus shots of <i>Citizen Kane</i> were as much the product of cinematographer Gregg Toland and the studio’s technical resources as they were of Welles.</p><h3>4. Form is not a container for content</h3><p>This is the most important idea of the week. In everyday speech we think of form as a box and content as what’s inside it. Bordwell and Thompson object: what we take to be content (subject, theme, character) gains meaning only within form, within the relationships among the elements. The same story told in a different order, from a different camera angle, is no longer the same experience.</p><h3>5. The five principles of the formal system</h3><ul><li><b>Function</b>: What job does each element do within the whole?</li><li><b>Similarity and repetition</b>: motifs, echoing images, recurring lines.</li><li><b>Difference and variation</b>: what is repeated comes back changed; meaning often arises from that difference.</li><li><b>Development</b>: a pattern running from beginning to end.</li><li><b>Unity / disunity</b>: Are the elements tightly connected? Loose ends are sometimes a deliberate choice.</li></ul><h3>6. The viewer completes the form</h3><p>Form works by arousing expectations in us: something is set up, then satisfied, delayed or broken. Our expectations are shaped by conventions and by our previous experience. Nor do we read meaning on a single level: referential, explicit, implicit and symptomatic meaning are built one on top of another. The last level means reading the film as a symptom of the ideology of its time; we’ll return to it often in Phase IV.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The concept of form we built this week is the groundwork for seeing, next week, that narrative itself is a formal system (story / plot, <i>fabula / syuzhet</i>).</p>"
+    },
+    {
+      "baslik": "The weekend: Citizen Kane",
+      "html": "<p>Saturday (Day 6) is film day. Set aside about two hours so you can watch the film in one sitting, and keep a notebook close at hand. Pay special attention to the opening and closing minutes: Sunday’s analysis task will be to compare the two using the principle of repetition and variation.</p>"
+    }
+  ],
+  "soru_baslik": "5 quick questions",
+  "sorular": [
+    "Why is the analogy “form is the pitcher, content is the water inside it” misleading? Explain in two sentences.",
+    "What does apparent motion mean, and why does it matter for cinema’s claim to “record reality”?",
+    "List the production stages of a film in order. In which stages was the visual style of <i>Citizen Kane</i> shaped?",
+    "Describe the relationship between repetition and variation, using an example from a series you watch regularly.",
+    "Which of referential, explicit, implicit and symptomatic meaning requires the most interpretation? Why?"
+  ],
+  "ipuclari": [
+    "Content doesn’t exist independently of form; the same subject, arranged differently, produces a different experience and meaning. Content is one of the elements of the formal system.",
+    "Showing still frames in rapid succession creates an illusion of movement in our perception. This shows that even the most realistic-looking cinema is a technical mechanism that cooperates with our perception.",
+    "Scriptwriting and funding → preproduction → production → postproduction; then distribution and exhibition. Kane’s visual style takes shape in preproduction (planning, sets, lighting design) and in production (Toland’s camera, deep focus); editing then determines the order and the transitions.",
+    "Repetition makes an element recognizable and builds expectation; variation produces meaning by bringing it back changed. A good example is the same setting or music returning in a different emotional context.",
+    "Symptomatic meaning: the film doesn’t state it openly; the interpreter has to place the film in its social and historical context."
+  ],
+  "gozlem": "In anything you watch today (an episode, an ad, an Instagram video), catch something repeating: a piece of music, a color, a line, a setting. What had changed by the second time it came around? Jot it down in one sentence.",
+  "terimler": [
+    {
+      "tr": "Görünür hareket",
+      "en": "apparent motion",
+      "tanim": "The perception of still frames shown in rapid succession as continuous movement."
+    },
+    {
+      "tr": "Biçimsel sistem",
+      "en": "formal system",
+      "tanim": "The whole set of relationships that binds a film’s elements to one another."
+    },
+    {
+      "tr": "Hazırlık / çekim / kurgu aşaması",
+      "en": "preproduction / production / postproduction",
+      "tanim": "The stages of a film’s pre-shooting planning, shooting, and post-shooting assembly."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Tomorrow we watch <i>Citizen Kane</i>: for the first time, you’ll see the principles of form we discussed this week at work across an entire film."
+}

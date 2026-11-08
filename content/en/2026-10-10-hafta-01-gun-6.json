@@ -1,0 +1,64 @@
+{
+  "hafta": 1,
+  "gun": 6,
+  "tarih": "2026-10-10",
+  "tur": "film",
+  "baslik": "Film day: Citizen Kane",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "Watch <i>Citizen Kane</i> not as a story but as a system: every repetition, every camera angle, every change of narrator does a job within the whole — and the “form” we studied this week is precisely this web of connections.",
+  "bolumler": [
+    {
+      "baslik": "Why this film, and why this week?",
+      "html": "<p>This week we built two big ideas. The first is that cinema is at once an art, a technology and an industry. The second is that form is not a container for content but a system of relationships among elements. <i>Citizen Kane</i> (Orson Welles, 1941) is an almost ideal film for testing both ideas. It was made inside the studio system (at RKO), with unusual creative freedom and by pushing the technical means of its day to their limits — and it has a formal structure built with extraordinary deliberateness.</p><p>The film seems to tell the life of a single man, but what is truly interesting is <b>how</b> it tells it. A journalist investigates what a dead press baron’s last word might have meant, and he talks one by one with the people who knew him. So the life reaches us not as a straight line but in fragments, from different mouths and different moments in time. This is the most concrete example you could ask for of how what we call “content” cannot be separated from form.</p><p>The film runs about two hours. If you can, watch it in one sitting, in a dark room. There is only one film this week, so take your time.</p>"
+    },
+    {
+      "baslik": "What to look for while watching",
+      "html": "<h3>1. Pay close attention to the opening</h3><p>Take separate notes on the first few minutes: where the camera starts and where it travels, which objects are singled out, how light and sound are used. On Sunday your analysis task will be to compare the opening with the ending, and the better you observe the opening, the better you will read the end. If you like, watch the first five minutes again once you have finished the film.</p><h3>2. A film within the film: the newsreel</h3><p>Early on there is a newsreel summarizing the dead man’s life. Ask yourself: what <b>function</b> does this section serve within the whole? What does it give the viewer, and what does it deliberately withhold? Notice how its image texture and narrative tone set it apart from the rest of the film.</p><h3>3. What changes when the narrators change?</h3><p>The journalist talks to several people, and each of them tells part of the story from their own point of view. At every change of narrator, make a note: who is telling the story, which period of the life they cover, and whether the protagonist seems warmer or colder in this account. Notice that some events reappear in more than one account. This is a textbook example of the week’s principles of <b>repetition</b> and <b>variation</b>.</p><h3>4. Deep focus and space</h3><p>Working with the cinematographer Gregg Toland, Welles makes heavy use of deep-focus shots, in which elements in the foreground and the background are sharp at the same time. In a shot like this, ask yourself: where does my eye go first? Is the important thing happening in the foreground or the background? Within the same frame, who is keeping their distance from whom? We will ask these questions far more deeply with André Bazin in Week 10; start training your eye now.</p><h3>5. Angles and ceilings</h3><p>You will notice that the camera often looks up at the characters from a low angle, which is why ceilings come into the frame in some sets. This was not at all common in studio films of the period. Compare scenes in which a character is seen from a low angle with scenes in which they are seen from above or at eye level: does your feeling about the character change when the angle changes?</p><h3>6. Scenes that compress time</h3><p>The film sometimes squeezes years into a few minutes. Pay special attention to a series of scenes that recur in the same place, with the same arrangement, but change a little each time. What is repeated, and what changes? Does this change trace a line of <b>development</b>?</p><h3>7. Expectation</h3><p>At the start, the film poses a question and sets you on a path of curiosity. As you watch, notice that you are waiting for the answer, and ask yourself: how does the film keep this expectation alive, where does it delay it, and where does it steer it in another direction? For Bordwell and Thompson, form is a system that builds and manages the viewer’s expectations.</p>"
+    },
+    {
+      "baslik": "Where are this week’s concepts in the film?",
+      "html": "<ul><li><b>Art + technology + industry:</b> The deep-focus shots, the custom-built sets and the lighting setups were made possible both by the creative decisions of Welles and his team and by the technical and financial conditions RKO provided. Look at the credits too: the way the cinematographer’s name appears is a reminder that the film is the work of a team.</li><li><b>Form/content:</b> Told in straight chronological order, the same life would make a different film. The fragmented narration determines what we know about the character and how we judge him.</li><li><b>Function:</b> The newsreel, the journalist’s face so rarely being clearly visible, the order of the narrators — each of these does a job.</li><li><b>Similarity and repetition:</b> A recurring word, recurring objects, recurring places, and visual motifs such as doors and fences.</li><li><b>Difference and variation:</b> The same event changing as it comes back through different narrators; the same place looking different at the beginning and at the end of the film.</li><li><b>Development:</b> The progress of the investigation and the progress of the character’s life run side by side as two separate lines.</li><li><b>Unity/disunity:</b> At the end, do all the pieces come together into a single meaning, or do some questions remain open? Write down your own answer.</li></ul>"
+    },
+    {
+      "baslik": "Practical tips",
+      "html": "<ul><li>Keep pen and paper at hand; each time the narrator changes, write one line (who, which period, how they see the character).</li><li>Note the timecodes of two shots that struck you; we will come back to them in the discussion.</li><li>Don’t read commentary on the film before watching it — especially anything about the ending. Don’t let the film’s structure of curiosity be spoiled.</li><li>The next day is quiz day: the test will cover the week’s concepts, and the analysis task will ask you to compare this film’s opening with its ending.</li></ul><p><b>After watching, write down your notes — we’ll discuss them.</b> Start with the first two things that stayed with you; we’ll open up the rest together.</p>"
+    }
+  ],
+  "soru_baslik": "Think about it after watching",
+  "sorular": [
+    "What did the newsreel section teach you about the protagonist, and what did it leave out? What kind of expectation did that gap create for the rest of the film?",
+    "Which narrator’s account looked at the character most differently? What formal devices (angle, lighting, framing, acting) created that difference?",
+    "Choose one deep-focus shot: how does the relationship between foreground and background build the meaning of that scene?"
+  ],
+  "gozlem": "In a series or video you watch this week, find a single shot in which a character is filmed from a low or a high angle. How did the angle affect your feeling about that character, and what would change if the same shot were filmed at eye level?",
+  "terimler": [
+    {
+      "tr": "Derin odak",
+      "en": "deep focus",
+      "tanim": "A cinematographic technique in which elements in the foreground and background of the frame are in sharp focus at the same time."
+    },
+    {
+      "tr": "Alçak açı",
+      "en": "low-angle shot",
+      "tanim": "A shot in which the camera looks up at its subject, often making it appear large or dominant."
+    },
+    {
+      "tr": "Haber filmi",
+      "en": "newsreel",
+      "tanim": "A short documentary segment summarizing current events, shown in cinemas before the main feature."
+    },
+    {
+      "tr": "Fark ve varyasyon",
+      "en": "difference and variation",
+      "tanim": "The return of a recurring element in altered form; meaning often arises from this very difference."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Week 1 quiz day: a test on the week’s concepts and an analysis task comparing the opening and ending of <i>Citizen Kane</i> through the principles of repetition and variation."
+}

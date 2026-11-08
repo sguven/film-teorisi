@@ -1,0 +1,81 @@
+{
+  "hafta": 2,
+  "gun": 3,
+  "tarih": "2026-10-14",
+  "tur": "ders",
+  "baslik": "Time — Order, Duration, Frequency",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 3 (Narrative Form), the subsection on time.",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "A film does not convey the story’s time as it is: it changes the <b>order</b> of events, compresses or stretches their <b>duration</b>, and decides how many times to show an event (<b>frequency</b>); the viewer, in turn, rebuilds the story’s chronology in their head from these scattered pieces.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>On Monday we set up the distinction between story (Russian <i>fabula</i>) and plot (<i>syuzhet</i>): the story is the complete, chronological chain of events that the viewer builds in their head; the plot is the material the film actually shows us, presented in a particular arrangement. Yesterday we saw that what binds the links of this chain together is causality. Today we arrive at the place where the same distinction is at its most concrete: time. Bordwell and Thompson’s core claim is this: the plot reorganizes the story’s time along three different axes, and the viewer calculates all three constantly, often without realizing it.</p><p><b>1. <i>Temporal order</i>.</b> In the story, events happen in the order A-B-C-D, but the plot can present them as C-A-B-D. A flashback shows an event that happened earlier at a later point; a flashforward shows an event that has not yet happened in advance. The point to keep in mind here is that a flashback is not “going back in time.” As viewers, we always watch forward; all that changes is the order in which the plot unfolds the story material. That is why flashbacks often answer a question of curiosity (“Why did this man turn out this way?”) or fill a causal gap. The reverse-ordered structure of Memento takes this principle to its extreme: we see effects first and causes afterward; curiosity shifts from “What will happen?” to “How did this happen?”</p><p><b>2. <i>Temporal duration</i>.</b> Here the book distinguishes three durations, and this distinction is one of the most useful tools of the week:</p><ul><li><b>Story duration:</b> The total time the story covers, including the past that the plot merely implies. For Citizen Kane, this spans decades, from Kane’s childhood to his death and the investigation that follows.</li><li><b>Plot duration:</b> The stretches of time that the plot actually stages. In Citizen Kane, this is the journalist’s week-long investigation plus the selected moments recounted by the witnesses.</li><li><b>Screen duration:</b> The time the film takes to unfold before us; for Citizen Kane, about two hours.</li></ul><p>In most films, screen duration is shorter than plot duration, which in turn is shorter than story duration; in between there is <i>compression</i>. Cuts, fades, a “three years later” title and montage sequences are the tools of this compression. But the reverse is also possible: slow motion, or cutting together the same moment from different angles, can make screen duration <i>longer</i> than the duration of the event (<i>expansion</i>). A shot unfolding in real time, meanwhile, is a case of the two coinciding. These three options will come back when we look at <i>shot duration</i> in Week 3 and at how editing shapes time in Week 4.</p><p><b>3. <i>Temporal frequency</i>.</b> How many times is an event that happens once in the story shown in the plot? Usually once. But an event can be shown two, three, four times — sometimes repeated exactly, from the same angle (the recollection of a trauma), and sometimes each time from a different point of view or with new information. Repetition is the temporal counterpart of the principle of “repetition and variation” we saw in Week 1: the same event changes a little each time it returns, and that change produces meaning.</p><p><b>Why does it matter, and what does it argue against?</b> This framework is a warning against a naive realism that sees film as a “record of real time”: even the most “natural”-looking film selects, cuts and orders time. It also stands against the approach that separates content from form: whether you show the outcome of a murder first or its cause first completely changes what the viewer feels (curiosity, suspense or surprise), even if the story remains the same. Here lies the core of Bordwell’s cognitive approach (which we will look at in detail in Week 31): the viewer is not a passive recipient but an active mind that builds chronology from cues, makes predictions and updates its hypotheses.</p><p><i>Space</i>, which the book touches on briefly in the same chapter, works in a similar way: the story takes place somewhere, but the plot shows us only selected parts of that space. Today our focus is time; we will return to space in Week 3, with mise-en-scène and framing.</p>"
+    },
+    {
+      "baslik": "Example: Time in Rashomon",
+      "html": "<p>Rashomon (Kurosawa, 1950) is an almost textbook example that shows all three axes at once. The film opens with three men waiting at the ruined Rashomon gate in a pouring rain. This is the “present”: the <i>frame story</i>. The woodcutter and the priest begin to recount an incident that took place in the forest and the court hearing that followed; their accounts pass into images through flashbacks.</p><p><b>Order:</b> The story’s chronology runs like this: the encounter and the death in the forest, the discovery of the body, the testimonies in court, the conversation under the gate. The plot, however, starts at the very end, at the gate; then it goes back to the court, and from there to the forest. What’s more, the flashbacks are nested (<i>embedded flashbacks</i>): a man at the gate recounts the court hearing, and a witness at the court recounts the forest. A time structure in three layers.</p><p><b>Duration:</b> In the story, the incident in the forest lasts perhaps an hour; the court hearing is a separate day; the conversation under the gate takes up one rainy afternoon. Screen duration is under an hour and a half. Think of the woodcutter walking into the forest: a long walk is compressed into a few minutes through a series of short shots — yet its rhythm is so insistent that we feel the length of the path.</p><p><b>Frequency:</b> This is where the film’s real invention lies. A single incident in the forest is shown four times: as told by the bandit, by the woman, by the dead samurai (through a medium) and finally by the woodcutter. An event that happened once in the story appears four times in the plot, each time in a different form. As a result, the viewer cannot build a single coherent story chronology; we cannot know which version “really” happened. Here frequency is not merely a technique but the very subject of the film: the unreliability of testimony. (We will open this question of reliability again on Friday, when we discuss the depth of narration and the narrator.)</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The distinction between story and plot duration will give you solid ground in Weeks 32–34, when we move on to Deleuze’s distinction between the movement-image and the time-image (a cinema in which time stops being the measure of action and becomes directly visible).</p>"
+    }
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "sorular": [
+    "Using the concepts of story and plot, explain why a flashback is not “going back in time.”",
+    "Think of a scene (from any film you’ve seen) in which screen duration is <i>longer</i> than the duration of the event. What techniques create this stretching, and how does it make the viewer feel?",
+    "How is the fact that Rashomon shows the same event four times related to the principle of “repetition and variation” from Week 1? How does the function of repetition here differ from that of the “previously on” recap in a TV series?"
+  ],
+  "gozlem": "This evening, watch the first two minutes of any episode of a series, YouTube video or ad carefully. Count how many time jumps (time passing across a cut) there are. Is there a flashback or a flashforward? If so, what cue told you about it: a title, music, color, costume, dialogue? Note it down in one sentence.",
+  "terimler": [
+    {
+      "tr": "Zamansal sıra",
+      "en": "temporal order",
+      "tanim": "The order in which the plot presents the story’s events."
+    },
+    {
+      "tr": "Geriye dönüş / ileriye sıçrama",
+      "en": "flashback / flashforward",
+      "tanim": "The insertion into the plot of an event that happens earlier or later in the story."
+    },
+    {
+      "tr": "Hikâye süresi",
+      "en": "story duration",
+      "tanim": "The total time the story covers, including the implied past."
+    },
+    {
+      "tr": "Olay örgüsü süresi",
+      "en": "plot duration",
+      "tanim": "The sum of the stretches of time the plot actually stages."
+    },
+    {
+      "tr": "Perde süresi",
+      "en": "screen duration",
+      "tanim": "The film’s running time; through compression or expansion it can differ from the duration of events."
+    },
+    {
+      "tr": "Zamansal sıklık",
+      "en": "temporal frequency",
+      "tanim": "How many times an event that happens once in the story is shown in the plot."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "Memento",
+      "yil": 2000,
+      "yonetmen": "Christopher Nolan"
+    },
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "The <i>range of story information</i>: how much of what the characters know — or how much more — does the film show us? Restricted and unrestricted narration."
+}

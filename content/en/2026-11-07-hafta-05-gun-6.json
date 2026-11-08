@@ -1,0 +1,73 @@
+{
+  "hafta": 5,
+  "gun": 6,
+  "tarih": "2026-11-07",
+  "tur": "film",
+  "baslik": "Film day — Sherlock Jr. (Buster Keaton, 1924)",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "Sherlock Jr. stages the question you read about this week — “what is film theory?” — as a forty-five-minute comedy: is the screen a window, a door, or a mirror?",
+  "bolumler": [
+    {
+      "baslik": "Why this film?",
+      "html": "<p>This week we drew the map. Stam showed that film theory began before cinema, and that people had been thinking about images, illusion and representation since long ago. Andrew said that every theory revolves around four questions: <i>raw material</i>, <i>methods and techniques</i>, <i>forms and shapes</i>, <i>purpose and value</i>. Elsaesser and Hagener, for their part, started theory from the spectator’s body and organized our relationship with cinema through the metaphors of window, door, mirror, eye, skin, ear and brain.</p><p>Sherlock Jr. asks all these questions without using any theoretical language. Keaton plays a young man who works as a <i>projectionist</i> in a movie theater and dreams of becoming a detective. It is a film set inside cinema that thinks about what cinema is. It is considered one of the cleverest “films about film” (<i>self-reflexive films</i>) of the silent era.</p>"
+    },
+    {
+      "baslik": "How to watch",
+      "html": "<ul><li><b>Watch it in one sitting.</b> The film is short (about 45 minutes). Find a restored copy with a musical accompaniment; image quality really makes a difference here, because many of the tricks are hidden at the edges of the frame.</li><li><b>First, just enjoy it.</b> Don’t take notes on the first viewing. Let yourself go with Keaton’s timing and his deadpan face.</li><li><b>Then rewatch the long sequence in the middle.</b> In the middle of the film there is a section in which the projectionist finds himself inside the film on the screen. This week’s analysis task is about exactly this scene. Watch it at least twice, pausing the second time.</li></ul>"
+    },
+    {
+      "baslik": "What to look for",
+      "html": "<ol><li><b>The boundary between auditorium and screen.</b> At the start of the film, look at how it establishes the distance between the audience and the screen: the auditorium, the seats, the projection booth, the frame of the screen. When is this boundary kept, and when is it violated?</li><li><b>Window / frame.</b> At first we see the screen from outside, inside a frame. Here cinema is like a window that opens onto the world but cannot be touched. Keep track of whether the edges of the screen remain visible.</li><li><b>Door / threshold.</b> At a certain point the window turns into a door: a place one can enter. Elsaesser and Hagener’s door metaphor describes exactly this passage, the spectator’s “stepping into” the fictional world. Pay attention to the moment of passage, to the light, to the depth of the screen.</li><li><b>The power of editing.</b> Once the character has entered the screen, the <i>cuts</i> throw him into places he never expected. He stays in the same spot while his surroundings change. What you are watching here is a joke that makes visible editing’s power to create space (<i>creative geography</i>). With each cut, notice how the position of the camera and the actor in the frame is preserved: an early and highly deliberate example of the logic of the <i>match cut</i>. We will return to this idea in Phase II with the Soviet montage theorists.</li><li><b>Mirror.</b> Are there similarities between the film playing on the screen and the projectionist’s own life? Who resembles whom? The spectator seeing himself and his desires in the film is the essence of the mirror metaphor. Note these similarities, but decide what they mean only at the end of the film.</li><li><b>Body and skin.</b> Keaton’s comedy is entirely physical: falls, leaps, dangerous stunts. While you watch these scenes, what is your body doing? Did you tense up, did you flinch? What Elsaesser and Hagener call “thinking cinema through the body” is precisely this physical response.</li><li><b>The eye and the technical trick.</b> With some of the gags you will ask, “how did they shoot that?” Ask yourself: is the trick in the camera, in the editing, or in the set itself? This is a concrete answer to Andrew’s question of “methods and techniques.”</li></ol>"
+    },
+    {
+      "baslik": "Where are the week’s concepts in the film?",
+      "html": "<ul><li><b>The theory / criticism distinction:</b> Asking whether the film is “good” is criticism; asking “what is the screen, and how does the spectator connect to it?” is theory. The film asks the second question itself.</li><li><b>Raw material (Andrew):</b> Recorded real locations and the real dangers faced by a real body.</li><li><b>Method / technique (Andrew):</b> Editing, holding the framing steady, set design, camera tricks.</li><li><b>Form (Andrew):</b> The film-within-a-film structure; the parallel between real life and the story on the screen.</li><li><b>Purpose / value (Andrew):</b> Does the film only make us laugh, or does it both celebrate and expose the magic of cinema?</li><li><b>Window, door, mirror (E&amp;H):</b> The screen seen from the auditorium; the entry into the screen; the projectionist finding himself on the screen.</li><li><b>Skin / body (E&amp;H):</b> Keaton’s stunts and your own physical response to them.</li></ul>"
+    },
+    {
+      "baslik": "After watching",
+      "html": "<p><b>After watching, write down your thoughts — we’ll discuss them.</b></p>"
+    }
+  ],
+  "soru_baslik": "Take notes as you watch (spoiler-free guiding questions)",
+  "sorular": [
+    "Before he enters the screen, where are you positioned as a spectator: in the auditorium, or on the screen?",
+    "In the first moments of the entry into the screen, does the frame remain visible? Why does this matter?",
+    "Do the cuts happen by the character’s will, or in spite of him? What does this say about the power of editing?",
+    "Is the film the work of someone who loves cinema, or of someone poking fun at it? Perhaps both?"
+  ],
+  "terimler": [
+    {
+      "tr": "Kendi üzerine düşünen film",
+      "en": "self-reflexive film",
+      "tanim": "A film that takes its own means, its audience or the nature of cinema as its subject."
+    },
+    {
+      "tr": "Makinist",
+      "en": "projectionist",
+      "tanim": "The person who operates the machine that projects the film onto the screen in a movie theater."
+    },
+    {
+      "tr": "Eşleşme kesmesi",
+      "en": "match cut",
+      "tanim": "A cut that links two shots through shape, movement or position in the frame."
+    },
+    {
+      "tr": "Yaratıcı coğrafya",
+      "en": "creative geography",
+      "tanim": "The perception, through editing, of shots filmed in separate places as a single, continuous space."
+    },
+    {
+      "tr": "Pencere / kapı / ayna",
+      "en": "window / door / mirror",
+      "tanim": "Elsaesser and Hagener’s metaphors that think of the spectator–screen relationship as, respectively, looking, entering and seeing oneself."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "Tomorrow (Week 5 · Day 7) brings the week’s quiz and analysis task. The analysis task will be about the “entering the screen” scene in this film, so watch that scene carefully today. Week 5 is also the end of Phase I: tomorrow there will also be a reminder about the Phase I exam (a shot-by-shot breakdown of a 3-minute sequence from a film of your choice, and a 10-question concept test). You can already start thinking about which sequence you will work on."
+}

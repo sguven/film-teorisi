@@ -1,0 +1,75 @@
+{
+  "hafta": 3,
+  "gun": 3,
+  "tarih": "2026-10-21",
+  "tur": "ders",
+  "baslik": "Cinematography I — Photographic qualities: tonality, speed, lens and focus",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 5 (first half: the photographic image)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "The camera does not record what is in front of it “as it is”; through the chosen tonality, speed, lens and focus, the same <i>mise-en-scène</i> becomes a completely different image, and therefore a completely different meaning.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>On Monday and Tuesday we talked about what is <b>in front of</b> the camera: setting, costume, lighting, actors. For these three days we turn to the camera <b>itself</b>. Bordwell and Thompson divide cinematography (literally “writing with movement”) into three areas of choice: the photographic qualities of the image, framing, and the duration of the shot. Today we cover the first; tomorrow, the frame and camera movement; on Friday, the duration of the shot.</p><p>The authors’ central claim is this: the film image is not a view through a window but the product of a series of technical decisions. The view they argue against is the idea that the camera is a transparent recording device and that “good” cinematography should be invisible. An image is always photographed <b>in some particular way</b>; there is no neutral zero point. That is why, when we analyze a film, we have to set the question “how was it photographed?” alongside the question “what is shown?”</p><p><b>1. Tonality.</b> Which values the image will carry, from black to white, or in color from saturated to washed out, is determined by the film stock (or digital sensor settings), exposure, development/color grading and filters. High contrast gives sharp blacks and bright whites and emphasizes tension and moral starkness; low contrast spreads across shades of gray and creates a softer, documentary or melancholy texture. An underexposed image sinks into darkness; an overexposed image is washed out to white; both can be choices rather than mistakes. The lighting we discussed on Tuesday and tonality are linked but not the same thing: lighting is set up on set, while tonality is how that light is recorded in the image.</p><p><b>2. Speed of motion.</b> The standard for sound cinema is 24 frames per second. If the camera shoots at a higher rate and the film is projected at normal speed, the result is slow motion (achieved by overcranking); if it shoots at a lower rate and is projected at normal speed, the result is fast motion (undercranking). Slow motion enlarges a moment, giving it weight or a poetic quality; fast motion serves comedy or conveys the rush of time passing. The key point: speed shapes not real time but <b>perceived</b> time.</p><p><b>3. Perspective and the lens.</b> This is the heart of today’s lesson. A lens’s focal length changes the depth and the size relationships in the image:</p><ul><li><b>Wide-angle lens</b> (short focal length): exaggerates depth. An object in the foreground looks large and one in the background small; the distance between them feels longer than it really is. It can create distortion in faces close to the camera and at the edges of the frame.</li><li><b>Normal lens</b> (roughly 35–50 mm for 35mm film): the undistorted perspective closest to the perception of the human eye.</li><li><b>Telephoto lens</b> (long focal length): compresses depth. Distant and nearby objects seem stuck together, and space flattens out.</li><li><b>Zoom lens</b>: changes the focal length during the shot. The camera does not move from its position, which is why a zoom and a camera movement are not the same thing. A zoom magnifies the image but alters its perspective; moving the camera closer, by contrast, actually carries the viewer forward through space.</li></ul><p><b>4. Depth of field and focus.</b> Here Bordwell and Thompson draw an important distinction, and students often confuse it. Depth of field is the range of distances from the camera within which things appear in sharp focus; every image has a depth of field. Deep focus, on the other hand, is a deliberate stylistic choice: keeping the foreground, middle ground and background in sharp focus at the same time. Conversely, shallow focus keeps only one plane sharp, blurs the rest and forcibly directs our attention. Shifting focus from one plane to another within a shot is called racking focus (or rack focus); it is a way of changing our gaze without cutting.</p><p>Why does this matter? In deep focus, the viewer partly chooses for themselves which plane of the frame to look at; in shallow focus, that choice has been made for them. As we will see later, this difference is not merely technical; it will also become the subject of a theoretical battle.</p>"
+    },
+    {
+      "baslik": "Example",
+      "html": "<p>In this respect the week’s two films are almost polar opposites. In <b>Tokyo Story</b> (Ozu, 1953), it is well known that in his mature films Ozu worked largely with a single normal lens. The result: no distortion, no exaggerated depth, a calm and even perspective. In the scenes where the elderly couple sit in their sons’ homes, the characters neither loom large in the foreground nor get lost in the background; the space conveys the distances within the family not through a dramatic lens effect but through a plain, steady gaze. This plainness is not a “shortcoming”; it is the very essence of the film’s restrained emotion.</p><p>In <b>Touch of Evil</b> (Welles, 1958), by contrast, Russell Metty’s wide-angle shots do the opposite. When Quinlan, the bloated, ruined police chief played by Welles, is seen from below and up close with a wide-angle lens, his body spills over the frame and his face is slightly distorted; the background stretches out, and the space looks suffocating and off-balance. Shot with a telephoto lens, the same character would look flatter and more “normal.” In short, Quinlan’s moral crookedness is felt partly through the perspective the lens distorts. When you watch on Saturday, ask yourself during a scene: does this face, or this corridor, look this way because of the lens, or is it really like this?</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The deep focus we saw in Citizen Kane in Week 1 (shot by Gregg Toland) gets its technical name here; in Phase II, André Bazin will defend this technique as the foundation of realist cinema, because it grants the viewer the freedom to choose.</p>"
+    }
+  ],
+  "sorular": [
+    "What is the difference between depth of field and deep focus? Can every shot with great depth of field be considered an example of the “deep-focus style”?",
+    "To show a character’s loneliness, would you choose a telephoto lens or a wide-angle lens? Explain what kind of loneliness each option would convey.",
+    "Why doesn’t a zoom create the same effect as moving the camera forward (a dolly in)?"
+  ],
+  "gozlem": "In any TV episode, ad or YouTube video you watch today, find a close-up. Is the background sharp or blurred? Does the focus shift from one place to another within the shot (racking focus)? Where did the blur direct your attention? Note it in one sentence.",
+  "terimler": [
+    {
+      "tr": "Ton aralığı",
+      "en": "tonality",
+      "tanim": "The overall set of an image’s contrast, exposure and color values."
+    },
+    {
+      "tr": "Odak uzaklığı",
+      "en": "focal length",
+      "tanim": "The optical measurement of a lens that determines perspective and the perception of depth."
+    },
+    {
+      "tr": "Geniş açı / tele lens",
+      "en": "wide-angle / telephoto lens",
+      "tanim": "Types of lens that, respectively, exaggerate or compress depth."
+    },
+    {
+      "tr": "Alan derinliği",
+      "en": "depth of field",
+      "tanim": "The range of distances that appear in sharp focus in the image."
+    },
+    {
+      "tr": "Derin odak / sığ odak",
+      "en": "deep focus / shallow focus",
+      "tanim": "The style of keeping all planes in sharp focus, or of leaving only one plane sharp."
+    },
+    {
+      "tr": "Odak kaydırma",
+      "en": "racking focus",
+      "tanim": "Shifting focus from one plane to another within a shot."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Framing and camera movement: aspect ratio, offscreen space, camera angle, height and distance, and the mobile frame."
+}

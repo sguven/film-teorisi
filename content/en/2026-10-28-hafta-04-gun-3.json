@@ -1,0 +1,70 @@
+{
+  "hafta": 4,
+  "gun": 3,
+  "tarih": "2026-10-28",
+  "tur": "ders",
+  "baslik": "Beyond continuity — editing time and breaking the rules",
+  "okuma": "Film Art, Ch. 6 (final part)",
+  "film": "À bout de souffle (Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "The continuity system is not a law of nature but a choice; editing can compress, stretch and scramble time, and by breaking the rules on purpose it can turn the viewer’s attention to the film itself.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>On Monday we looked at the four dimensions of editing (graphic, rhythmic, spatial, temporal), and yesterday we discussed how classical Hollywood ties these dimensions to a single goal: moving the narrative forward smoothly and “invisibly” — through the 180° rule, the <i>eyeline match</i> and <i>shot/reverse shot</i>. Today we turn to the final part of Bordwell and Thompson’s chapter: what does editing do with <b>time</b>, and what options exist <b>outside</b> continuity?</p><p><b>1. Temporal editing: order, duration, frequency.</b> The editor has three kinds of control over the time of story events. <i>Order</i>: events need not be presented chronologically; the <i>flashback</i> and the <i>flashforward</i> disrupt that sequence. <i>Duration</i>: the most common operation is <i>elliptical editing</i>; a character walks out the door, and in the next shot is already in the car — we never see the stairs or the parking lot in between. Transitions (the <i>dissolve</i>, the <i>fade</i>, the <i>wipe</i>) are the punctuation marks of these jumps in classical cinema. The reverse is also possible: <i>overlapping editing</i> stretches a moment by repeating the same action across several shots; the Odessa Steps sequence in Eisenstein’s <i>Battleship Potemkin</i> and the plate-smashing moment are classic examples. <i>Frequency</i>: an event happens once, but the film can show it twice or more — a traumatic moment that keeps returning, or the same event told from different points of view.</p><p><b>2. Crosscutting.</b> Even within the continuity system there is a device that deliberately breaks spatial unity: crosscutting, also called parallel editing. We move back and forth between two actions happening at the same time in different places, as in Griffith’s last-minute rescues. Space is split, but the links of time and causality are preserved, so the viewer is not lost; on the contrary, suspense rises.</p><p><b>3. Alternatives to continuity.</b> The chapter’s most interesting claim is this: continuity editing is not the “correct” way to edit, but <b>one</b> form of editing that became dominant historically. The authors show that the four dimensions of editing can be foregrounded for their own sake rather than serving the narrative.</p><ul><li><b>Graphic and rhythmic possibilities.</b> Some films link shots not according to the story but according to similarities of shape, color, direction of movement or rhythm. This principle dominates in abstract and experimental film; even in a narrative filmmaker like Ozu, shots are sometimes arranged more by graphic match than by spatial logic.</li><li><b>Spatial and temporal discontinuity.</b> Ozu freely crossing the 180° line to build a 360° space; the Soviet montage filmmakers (Eisenstein above all) producing meaning through collision; the <i>nondiegetic insert</i>, in which an image that does not belong to the world of the story is cut in. For Eisenstein, montage is not about joining shots seamlessly but about making them collide so that a third idea is born in the viewer’s mind; we will look at this in detail in Week 7.</li><li><b>Jump cut.</b> Two shots of the same object or character, taken with little change in camera position, are joined together; as a result the figure “jumps” within the frame and a piece of time goes missing. The continuity system’s “30° rule” exists precisely to prevent this: if the angle does not change enough between two shots, the cut becomes visible. The jump cut seeks that visibility on purpose.</li></ul><p><b>Why does it matter?</b> Bordwell and Thompson’s general stance is formalist and functional: they do not declare a technique good or bad; they ask, “What function does this film use this technique for?” That is why they read the jump cut not as a “mistake” but as a <b>formal choice</b> set against the expectation of continuity. This is a challenge to the classical craft discourse that says editing “should be invisible”: rules are meaningful only because they create expectations, and breaking an expectation produces meaning too.</p>"
+    },
+    {
+      "baslik": "Example: À bout de souffle (Godard, 1960)",
+      "html": "<p>Think of the scene in which Michel and Patricia drive around Paris in a convertible. The camera, in the back seat, films Patricia from behind her shoulder. As Michel keeps talking, the image cuts again and again on Patricia; the framing is almost the same, but the streets and the light behind her change with every cut. The sound flows on without a break, while the image keeps jumping. A classical editor would have handled this scene either with a single long take or with a shot/reverse-shot series that changes angle; Godard, instead of hiding the ellipsis, puts it on display. The result works on two levels: on the one hand, the time of the drive is compressed (ellipsis); on the other, the viewer notices the cut and is reminded that the film is a construction. The car theft at the start of the film and the moment the policeman is shot are edited in the same fragmented way: we don’t “understand” in the classical sense what is where, but we feel the speed and the disjunction.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea that “continuity is a choice” lays the groundwork for the critiques — in Soviet montage theory in Week 7, and in debates on the French New Wave and modernist cinema — that were developed against editing being made ideologically “invisible.”</p>"
+    }
+  ],
+  "sorular": [
+    "Elliptical editing and the jump cut both remove a piece of time. What is the difference between them? Why does one stay invisible while the other sticks out?",
+    "Crosscutting breaks spatial continuity, so why is it still considered part of the classical system?",
+    "Bordwell and Thompson read the jump cut not as a “rule violation” but as a “functional choice.” What is the strength of this view, and what might it overlook?"
+  ],
+  "gozlem": "Today, find a cut in a YouTube video, vlog or interview where the speaker “jumps” in the middle of a sentence. Ask yourself: does this jump cut create an effect like the one in Godard, or has it become so familiar that it is now invisible? Can the violation of a rule turn into a new habit once it is repeated often enough?",
+  "terimler": [
+    {
+      "tr": "Eksiltili kurgu",
+      "en": "elliptical editing",
+      "tanim": "Editing that leaves out part of an action, so that story time is shown as shorter than screen time."
+    },
+    {
+      "tr": "Üst üste binen kurgu",
+      "en": "overlapping editing",
+      "tanim": "Editing that stretches a moment by repeating part of the same action across several shots."
+    },
+    {
+      "tr": "Paralel (çapraz) kurgu",
+      "en": "crosscutting",
+      "tanim": "Editing that moves back and forth between actions taking place simultaneously in different locations."
+    },
+    {
+      "tr": "Jump cut (zıplatan kesme)",
+      "en": "jump cut",
+      "tanim": "A conspicuous leap in time created when two shots of the same figure from a similar angle are joined."
+    },
+    {
+      "tr": "Diegetik olmayan ekleme",
+      "en": "nondiegetic insert",
+      "tanim": "The insertion of a metaphorical or interpretive shot that does not belong to the world of the story."
+    },
+    {
+      "tr": "Geriye dönüş",
+      "en": "flashback",
+      "tanim": "An editing arrangement that places an earlier story event in the midst of the present action."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    }
+  ],
+  "yarin": "Tomorrow we move on to Chapter 7 and sound: using the distinction between diegetic and nondiegetic sound, we will examine how the world we hear in a film is built."
+}

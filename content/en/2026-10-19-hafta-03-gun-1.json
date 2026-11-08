@@ -1,0 +1,80 @@
+{
+  "hafta": 3,
+  "gun": 1,
+  "tarih": "2026-10-19",
+  "tur": "ders",
+  "baslik": "Mise-en-scène I — The concept, setting, costume and makeup",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 4 (first half)",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "<i>Mise-en-scène</i> is everything placed in front of the camera; and a film chooses it not because it is “realistic” but because it does a job within the film as a whole.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Last week we looked at film form as a system of parts: no element in a film carries meaning on its own; its meaning comes from the relationships it forms with the other elements. This week we move down to the most visible layer of that system: <i>mise-en-scène</i>. The word is French and comes from the theater; roughly, it means “putting on stage.” In the theater, it is the director’s work of deciding where the set, the lighting and the actors will go. In cinema, Bordwell and Thompson use the term for everything the director controls within the frame, and they divide it into four components: <b>setting, costume and makeup, lighting, and staging (performance and movement)</b>. Today we will deal with the concept itself and the first two components; tomorrow, with lighting, the actors, and how these build space and time.</p><p>Let’s draw an important boundary: <i>mise-en-scène</i> is what is <i>in front of</i> the camera. The choice of lens, focus, camera angle and camera movement belong to cinematography, which we will study from Wednesday on. In actual films the two are intertwined, but in analysis it helps to separate them: “What is in this scene?” is a question of <i>mise-en-scène</i>; “How do we see it?” is a question of cinematography.</p><p><b>The authors’ central claim, and what they argue against.</b> The yardstick viewers most commonly apply to <i>mise-en-scène</i> is realism: “Are the costumes true to the period? Is the setting convincing?” Bordwell and Thompson do not reject this yardstick, but they object to treating it as the only one. Ideas of realism vary from culture to culture and from era to era; acting that one period finds “natural” looks artificial to the next generation. What’s more, many great films are deliberately unrealistic. So the question they propose is this: <b>What is this element doing in this film?</b> In other words, they read <i>mise-en-scène</i> as a matter of function. This is a direct application of last week’s idea that “form is a system.”</p><p>Behind this stance stand the two early poles of cinema: the Lumière brothers turned the camera on everyday life and real streets, while Georges Méliès built entirely fictional worlds in his studio out of painted sets, stunts and tricks. Méliès’s trip to the Moon impresses no one because it is “realistic”; it impresses because everything in it is completely controlled. The concept of <i>mise-en-scène</i> names precisely that control, whether the scene is a street or a fairy tale.</p><p><b>Setting.</b> In cinema, setting can play a far more active role than in the theater; it is not merely a backdrop but a force that enters into the action. The filmmaker either chooses an existing place (location shooting) or builds a set. A set can be full-scale, it can be a miniature, or, as is common today, it can be added digitally. What matters is not which option is chosen but what it does: a setting’s colors, its size, how full or empty it is, and its proportion to the character all tell us something about the character. A large, empty room can express loneliness; a cramped room can express pressure or intimacy.</p><p>Objects within the setting are called props (from “property” in the theater). A prop that recurs throughout a film can become a motif: each time it returns, it carries a slightly different charge of meaning. Remember the snow globe in Citizen Kane: at first it is just an object, and later it becomes one of the film’s knots of meaning.</p><p><b>Costume and makeup.</b> Like setting, costume serves either a realistic function (indicating period, profession, class) or a stylized one (repeating a color or shape within the film’s overall pattern). Costume can also track a character’s change: a change of clothes often signals a change in the character’s situation. Makeup was originally necessary so that black-and-white film stock would render faces correctly; over time it turned the actor’s face into an expressive instrument. The shape of the eyebrows, aging makeup, how “smooth” or worn a face looks — all of these shape how we read a character. Costume and makeup work together with setting through color design: a film can reserve particular colors for particular characters or moments.</p><p><b>Why does this matter?</b> Because <i>mise-en-scène</i> directs our gaze. We cannot see everything in a frame at once; the arrangement of the setting, color contrasts and a costume that stands out draw our eye to a particular point. Learning to analyze <i>mise-en-scène</i> means learning to see how a film steers our attention. When we read Bazin later on, this topic will grow into a much larger debate: the idea that telling a story without cutting, through <i>mise-en-scène</i> and depth, is an aesthetic and an ethic opposed to editing.</p>"
+    },
+    {
+      "baslik": "Example: Tokyo Story (Ozu, 1953)",
+      "html": "<p>Ozu’s film tells the story of an elderly couple who travel from the provincial town of Onomichi to Tokyo to visit their children. Most of the film takes place inside homes, and these homes work almost like characters. The sliding doors, corridors and interlocking rooms of the Japanese house divide the shot into frames within the frame; characters are often seen through a gap in a doorway or from deep within a room.</p><p>Make a concrete comparison: the home of the son, a doctor in Tokyo, is crowded, functional and busy; domestic life and the clinic overlap, and in that house the elderly couple seem more like a burden than guests. By contrast, the apartment of Noriko, their widowed daughter-in-law, is very small and plain, yet it is where the couple are welcomed most warmly. The fact that the size of the space is inversely proportional to the care shown means that <i>mise-en-scène</i> states what the film has to say about family and the modern city before the dialogue does. Costume works along the same lines: the older generation wears traditional kimonos, while the younger generation working in the city often appears in Western-style clothes. This is the visual record of the separation between generations. As you watch, ask yourself: which objects (tea sets, fans, photographs on the wall) recur, and with which character?</p><p>A brief counterexample: in the opening of Touch of Evil, the night streets of the border town, with their neon lights and crowds, create a setting that generates tension together with the camera’s movement. Where Ozu’s setting establishes a calm and repeatable order, Welles’s is chaotic and threatening. Both use “realistic” streets and houses, but to completely different ends.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Looking at <i>mise-en-scène</i> in terms of “function” continues the idea of form as a system from Week 2, and it lays the direct groundwork for Bazin’s theory of realism, which he builds on space and duration rather than on editing.</p>"
+    }
+  ],
+  "sorular": [
+    "Why do Bordwell and Thompson not consider realism a sufficient yardstick for evaluating <i>mise-en-scène</i>? Explain with an example of your own.",
+    "Under what conditions does a prop become a motif? Give an example from a film you have seen and describe how its meaning changes over the course of the film.",
+    "In Tokyo Story, how does the spatial arrangement of two different homes make the relationship between the characters visible? In your answer, also point out where <i>mise-en-scène</i> ends and cinematography begins."
+  ],
+  "gozlem": "In any TV episode, video or ad you watch today, pause on a single frame. Forget the camera; just list what is in front of it: is the setting an existing place or a built one, what props are there, and what do the character’s clothes and makeup say about them? Then write one sentence: where does the <i>mise-en-scène</i> lead my eye in this frame, and how?",
+  "terimler": [
+    {
+      "tr": "Mizansen",
+      "en": "mise-en-scène (Fr. “putting on stage”)",
+      "tanim": "Everything the director controls within the frame: setting, costume and makeup, lighting, staging."
+    },
+    {
+      "tr": "Mekân / dekor",
+      "en": "setting / set",
+      "tanim": "The place where the action happens; it can be found or built, and it can be a force that enters into the action."
+    },
+    {
+      "tr": "Gerçek mekânda çekim",
+      "en": "location shooting",
+      "tanim": "Filming in an existing place rather than on a studio set."
+    },
+    {
+      "tr": "Aksesuar",
+      "en": "prop",
+      "tanim": "An object within the setting that takes part in the action or carries meaning."
+    },
+    {
+      "tr": "Motif",
+      "en": "motif",
+      "tanim": "An element that recurs throughout the film and accumulates meaning with each repetition."
+    },
+    {
+      "tr": "İşlev",
+      "en": "function",
+      "tanim": "The job an element does within the film’s overall system."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    },
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "The other two components of <i>mise-en-scène</i>: the quality, direction and source of light, and the actor’s performance and movement — and how these build space and time within the frame."
+}

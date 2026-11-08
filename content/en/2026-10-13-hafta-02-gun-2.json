@@ -1,0 +1,77 @@
+{
+  "hafta": 2,
+  "gun": 2,
+  "tarih": "2026-10-13",
+  "tur": "ders",
+  "baslik": "Causality",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 3",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "What makes a narrative a narrative is not that events follow one another but that they are chained together by links of cause and effect; the viewer constantly builds this chain, guesses at the missing links — and the film plays with those guesses.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we separated two layers: the <b>plot</b> (Russian <i>syuzhet</i>) that the film shows us on screen, and the <b>story</b> (<i>fabula</i>) that we build in our minds. Today’s question is this: on what foundation does the viewer build the story? The answer Bordwell and Thompson give in <i>Film Art</i> is clear: above all, on <b>causality</b>. They define narrative as a chain of events linked by cause and effect and occurring in time and space. In the novelist E. M. Forster’s famous example, “the king died, and then the queen died” is a sequence; “the king died, and then the queen died of grief” is a narrative. The difference lies in the words “of grief”: they point to a cause.</p><p>It is important to see what this claim stands against. There is a looser approach that treats a film as a “series of events” or as a record of the director’s state of mind; in this view, scenes simply sit side by side and meaning arises from “atmosphere.” Bordwell and Thompson’s formalist position objects to this: the viewer is not a passive recipient but does active mental work, asking in every scene, “Why did this happen, and what will come of it?” The film does not hand meaning over to us; we construct it through causal inferences. This idea is the principle we saw in Week 1 — that form activates the viewer’s expectations — applied to narrative.</p><p><b>Where do causes come from?</b> In classical narrative cinema, most causes come from <b>characters</b>. A character is an <b>agent</b> in the narrative: they have a desire, a <i>goal</i>, and <b>character traits</b> that push them toward that goal or hold them back. Jealous, cowardly, ambitious, honest... these adjectives are not decoration; they are the engines that generate events. If a film gives a character a trait in the first minutes, that trait usually comes back later as the cause of an event. Natural events (a storm, an earthquake) or social forces (war, poverty, an institution) can also act as causes, but in classical film they mostly remain a framework for the characters’ choices. Some movements, such as Italian Neorealism or Soviet montage cinema, shift the weight of causality from the individual to society; we will see this in the coming weeks.</p><p><b>Motivation.</b> In Week 1, while discussing form, you encountered the concept of <b>motivation</b>: the justification for an element’s presence in a film. Causality is the strongest kind of motivation. If a gun is lying on the table in the first act, the viewer assumes it is there for a reason and expects it to come into play later. This is what screenwriters call a <i>setup</i> or <i>planting</i>: preparing an outcome in advance so that when it arrives, it doesn’t feel arbitrary. In a badly written film, outcomes “fall from the sky”; in a well-written one, when you look back, you realize the cause had been sitting there all along.</p><p><b>Causes and effects are not always given at the same time.</b> This is where the difference between plot and story becomes useful. In a detective film we see the effect (a corpse) right at the start; the cause — how and why the murder was committed — is withheld until the end of the plot. In the story the cause comes first, but the plot pushes it back. This gap generates <i>curiosity</i>. The reverse is also possible: we see the cause (a bomb is placed under a table) and wait for the effect; this generates <i>suspense</i>. In other words, much of a film’s emotional impact depends on when it gives out causal information and when it withholds it.</p><p><b>Closure.</b> Must the causal chain end somewhere? Classical film usually offers <b>closure</b>: the causal questions it has raised are answered; the goal is reached, or not, but there is an outcome. Some films, however, deliberately leave an <b>open ending</b>: certain causes or effects remain uncertain, forcing viewers to draw their own inferences. This is not a shortcoming but a choice — part of the relationship the film builds with its viewer. Another device common in classical narrative is the <b>deadline</b>: a time limit such as “before sunset” or “before the train leaves” compresses the causal chain and speeds it up.</p><p>Let me put why this matters in a single sentence: causality has less to do with “what a film tells” than with “how it makes us think.” Which causes a film shows, which it hides and which it never gives at all also reveals what it considers important about the world.</p>"
+    },
+    {
+      "baslik": "Example: Rashomon",
+      "html": "<p><i>Rashomon</i> tests the concept of causality under what are almost laboratory conditions. The effect is clear from the start: a samurai has died in the forest. Under the Rashomon gate in the rain, the woodcutter and the priest recount the inquiry into the incident and the testimonies given there. What we learn over the course of the film is not the outcome but the <b>causes</b> — and each narrator reaches the same outcome by a different causal chain. The characters’ traits change from version to version: in one, a character is brave and honorable; in another, the same person is base or weak. Notice that what changes is not only “who did it” but also the character traits that produce the event — the very source of the causes. That is why the film shakes the mental operation viewers trust most: causal inference. Normally we build the story from the plot; here we have several mutually contradictory plots, and we cannot decide which of them leads to the “true” story. As you watch, ask yourself of each version: to whose character does this narrator attribute the cause of the death, and what does this explanation gain the narrator?</p><p>The optional film, <i>Memento</i>, poses the same problem from another direction: because the protagonist cannot remember the recent past, the cause of each scene is hidden from him and from us alike; the plot walks us backward from effect to cause.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea of causality is directly connected to the temporal order we will look at tomorrow, and it will come back later, in Bordwell’s work on classical Hollywood narration, as the foundation of the “goal-oriented protagonist” model.</p>"
+    }
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "sorular": [
+    "Show the difference between “a sequence of events” and “a causal chain” with a two-sentence example of your own invention.",
+    "How are <i>curiosity</i> and <i>suspense</i> related to the order in which causal information is given? Give an example of a film scene for each.",
+    "In <i>Rashomon</i>, the effect (the samurai’s death) stays fixed while the causes change. How does this affect the viewer’s work of building the story (<i>fabula</i>)?"
+  ],
+  "gozlem": "Think about the first two minutes of any episode, ad or short video you watched today. Note two things: (1) What is the main character’s goal, and when did you first understand it? (2) Did a character trait or object introduced in the first minutes come back later as the cause of an event (a setup)?",
+  "terimler": [
+    {
+      "tr": "Nedensellik",
+      "en": "causality",
+      "tanim": "The principle that links the events of a narrative through relationships of cause and effect."
+    },
+    {
+      "tr": "Fail / karakter özellikleri",
+      "en": "agent / character traits",
+      "tanim": "The person who brings events about, and the qualities that explain their actions."
+    },
+    {
+      "tr": "Motivasyon",
+      "en": "motivation",
+      "tanim": "The justification for an element’s presence in a film; causal motivation is its most common type."
+    },
+    {
+      "tr": "Yerleştirme",
+      "en": "setup / planting",
+      "tanim": "Preparing an outcome by showing in advance a cause that will matter later."
+    },
+    {
+      "tr": "Merak / gerilim",
+      "en": "curiosity / suspense",
+      "tanim": "The question that arises when a cause is withheld, and the anxiety that arises from waiting for an effect."
+    },
+    {
+      "tr": "Kapanış / açık son",
+      "en": "closure / open ending",
+      "tanim": "A narrative ending with its causal questions answered, or with them deliberately left uncertain."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "Memento",
+      "yil": 2000,
+      "yonetmen": "Christopher Nolan",
+      "not": "Optional"
+    }
+  ],
+  "yarin": "Time: how the plot alters the order, duration and frequency of the story (flashback, elliptical narration, repetition)."
+}

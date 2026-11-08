@@ -1,0 +1,82 @@
+{
+  "hafta": 4,
+  "gun": 6,
+  "tarih": "2026-10-31",
+  "tur": "film",
+  "baslik": "Film day — À bout de souffle and The Conversation",
+  "film": "À bout de souffle (Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "You will watch this week’s rules of editing and sound at work in two films: one deliberately breaks the rules of the image, the other turns sound into the story itself.",
+  "bolumler": [
+    {
+      "baslik": "Which one first?",
+      "html": "<p>First <b>À bout de souffle</b> (<i>Breathless</i>, Jean-Luc Godard, 1960; about 90 min), then <b>The Conversation</b> (Francis Ford Coppola, 1974; about 113 min). The order follows the order of the week: Monday to Wednesday you read about editing, Thursday and Friday about sound. With Godard, sharpen your eye by seeing how editing’s contract of “invisibility” is broken; with Coppola, open your ears. If you can’t watch both films on the same day, watch Godard today and Coppola tomorrow before the test.</p>"
+    },
+    {
+      "baslik": "1. À bout de souffle — editing that breaks the rules",
+      "html": "<p>The story is simple: a small-time crook and a young American woman living in Paris. But what you really need to watch is not the story; it is how the film <i>tells</i> it. This is the emblematic film of the French New Wave (<i>Nouvelle Vague</i>), the product of a moment when critics who knew Hollywood’s continuity system inside out stepped behind the camera.</p><ul><li><b><i>Jump cut</i>:</b> Short pieces are removed from within a single shot, so the image “jumps.” You’ll see the clearest example in the car scene: the woman’s face stays at the same angle while the background and time leap forward. Ask yourself: how does this violate the 30-degree rule and temporal continuity? Does it make you uncomfortable, or does it give the film rhythm?</li><li><b>Looking at the camera:</b> Early in the film there are moments when the character speaks directly to the audience. Classical editing makes the viewer an “invisible witness”; here, they acknowledge you. How does this break the illusion created by the continuity system?</li><li><b>The long room scene:</b> In the middle of the film there is a long section set in a hotel room. Here the editing suddenly slows down. Is <i>shot/reverse shot</i> used, or does the camera keep the two characters in the same frame? How “clean” are the <i>eyeline matches</i>?</li><li><b>Handheld camera and real locations:</b> Cinematographer Raoul Coutard’s mobile camera, scenes shot in the street. Are the <i>spatial relations</i> always clear? Try to tell apart the moments when the <i>180° rule</i> is kept from those when it is ignored.</li></ul><p><b>Take notes:</b> Your analysis task will be to compare a jump-cut scene from this film with the rules of classical continuity. As you watch, write down the timestamps of two candidate scenes.</p>"
+    },
+    {
+      "baslik": "2. The Conversation — sound at the center of the story",
+      "html": "<p>Gene Hackman plays a surveillance expert, Harry Caul. The film is built around the recording of a conversation and the repeated replaying of that recording. Sound design and editing are by Walter Murch; this is one of the foremost films in which sound does not merely “accompany” the image but carries the meaning.</p><ul><li><b>Opening scene:</b> An image slowly moving in over a crowded square, and a fragmented, distorted sound. Ask yourself: is the source of this sound <i>onscreen</i> or <i>offscreen</i>? Whose ears are we hearing through?</li><li><b><i>Diegetic / nondiegetic sound</i>:</b> Try to separate the sounds that exist in the characters’ world (recording devices, conversations, the music Harry plays at home) from the film’s score, which is meant for the audience alone. Sometimes the line between the two is deliberately blurred; mark those moments.</li><li><b>Repetitions of the same recording:</b> The recorded conversation is played many times throughout the film. Pay attention to what changes each time: the words, or the way you hear them? (I won’t say more here.)</li><li><b><i>Sound bridge</i>:</b> Catch the transitions where one scene’s sound spills over into the next, or where the next scene’s sound starts early. Does the sound of the recording continue even after the image has moved somewhere else?</li><li><b>Silence:</b> In Harry’s world, silence matters as much as sound. At which moments is the <i>ambient sound</i> pulled away, and how does that feel?</li></ul><p><b>Take notes:</b> One of the test questions will ask you for an example of a sound bridge. Catch one in this film and write down its timestamp.</p>"
+    },
+    {
+      "baslik": "Thinking about the two films together",
+      "html": "<p>The classical system of <i>continuity editing</i> serves the same goal in both image and sound: letting the viewer follow space and time effortlessly, without noticing the technique. Godard disrupts this effortlessness in the image; Coppola and Murch, on the other hand, bring sound so far forward that the viewer is forced to confront the technique — that is, the recording itself. Carry this question with you as you watch: <i>When does this film make me notice its technique, and why does it do so?</i></p>"
+    },
+    {
+      "baslik": "After watching",
+      "html": "<p><b>After watching, write down your thoughts — we’ll discuss them.</b></p>"
+    }
+  ],
+  "soru_baslik": "3 questions to ask yourself while watching",
+  "sorular": [
+    "Do the jump cuts in À bout de souffle come across as “mistakes,” or do they say something about the characters’ state of mind?",
+    "In The Conversation, when you can’t see the source of a sound, do you trust it less or more?",
+    "Find a scene in each film where the shot/reverse-shot pattern is used simply, by the rules. How does the effect of rule-breaking change when it sits side by side with scenes that follow the rules?"
+  ],
+  "terimler": [
+    {
+      "tr": "Atlamalı kesme",
+      "en": "jump cut",
+      "tanim": "A cut between two shots of the same subject from a similar angle, creating a sudden jump in the image."
+    },
+    {
+      "tr": "Devamlılık kurgusu",
+      "en": "continuity editing",
+      "tanim": "The classical system that aims to make editing “invisible” by presenting space and time consistently."
+    },
+    {
+      "tr": "Göz hattı eşleşmesi",
+      "en": "eyeline match",
+      "tanim": "A cut that matches the direction of a character’s gaze by showing, in the next shot, what they are looking at."
+    },
+    {
+      "tr": "Diegetik ses",
+      "en": "diegetic sound",
+      "tanim": "Sound whose source is located in the film’s story world and which the characters can also hear."
+    },
+    {
+      "tr": "Kadraj dışı ses",
+      "en": "offscreen sound",
+      "tanim": "Sound whose source is in the story world but not visible in the frame at that moment."
+    },
+    {
+      "tr": "Ses köprüsü",
+      "en": "sound bridge",
+      "tanim": "The sound of one scene continuing after the cut, or the sound of the next scene starting early."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    },
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    }
+  ],
+  "yarin": "Week 4 test day: a quiz on the concepts of editing and sound, three short-answer questions, and an analysis of a jump-cut scene from À bout de souffle."
+}

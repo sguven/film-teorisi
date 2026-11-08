@@ -1,0 +1,73 @@
+{
+  "hafta": 5,
+  "gun": 2,
+  "tarih": "2026-11-03",
+  "tur": "ders",
+  "baslik": "The “prehistory” of film theory (part 2) — thinking about cinema before cinema",
+  "okuma": "Robert Stam, the second half of the chapter on the “prehistory” of film theory",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "Film theory did not start from scratch in 1895: most of the questions we ask about cinema (how the arts combine, how space and time are narrated, how the spectator experiences emotion) were being asked about theater, painting, music and poetry centuries before cinema.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>Let’s recall yesterday.</b> Yesterday we took three things from Stam’s introduction: that theory, criticism and history are different jobs; that film theory should not be read as a science “progressing” in a straight line; and that telling this history only from Europe is a form of blindness. Then we looked at Plato’s cave (the spectators who stare at shadows and take them for reality) and at Aristotle’s understanding of imitation, <i>mimesis</i>. Today we move on to the second half of the map: the ideas, from ancient Greece to the birth of cinema, that “thought cinema in advance.”</p><p><b>Stam’s basic move.</b> Stam’s claim in this chapter is this: when cinema was invented, the concepts for thinking about it were already waiting. Cinema was a new technology but not a new <i>question</i>. That is why writing film theory solely through <i>medium-specific</i> concepts would cut it off from its roots. Here Stam argues against two things: first, a narrow historiography that assumes film theory began suddenly in the 1910s with Münsterberg or Lindsay; second, a perspective that looks for these roots only in Greco-European aesthetics. His own proposal is a broader family tree: cinema is a late arrival who joins a long conversation among the arts and cultures.</p><p><b>1. The unity of the arts: Wagner.</b> In the nineteenth century Richard Wagner dreamed of a “total work of art” (<i>Gesamtkunstwerk</i>) that would fuse music, poetry, stage design, light and acting into a single whole. In his theater at Bayreuth, Wagner darkened the auditorium, hid the orchestra from the audience’s view and directed all attention to the stage — almost describing in advance the film spectator who looks at a lit surface in a dark hall. Stam’s emphasis is this: the early writers who hailed cinema as “the art that unites all the arts” (for example Ricciotto Canudo, who called cinema “the seventh art” — <i>le septième art</i>) were in fact handing Wagner’s dream over to a new machine. But this idea cuts both ways: is cinema the <i>sum</i> of the arts, or a new art with its own specificity? This tension will later become the central quarrel of classical theory (Phase II).</p><p><b>2. Space and time: the tradition of comparing the arts.</b> In the eighteenth century Lessing drew a distinction between the “spatial arts,” such as painting and sculpture, which work with forms set side by side, and the “temporal arts,” such as poetry, which work with elements that follow one another. Painting froze a moment; poetry narrated a sequence of events. Cinema turns this distinction upside down: it is both image (space) and flow (time). A caveat here: Stam values this tradition of comparison for understanding cinema’s <i>hybrid</i> nature, but it is I, not Stam, who puts Lessing’s name so squarely at the center. The idea you should hold on to is this: the habit of comparing the arts with one another and searching for the “essence” of each was already in place when cinema arrived. Arnheim’s and Bazin’s question, “what is the essence of cinema?”, is a descendant of that habit.</p><p><b>3. Non-European roots: rasa and shadow play.</b> This is where Stam makes his most important correction in the chapter. The Sanskrit theory of drama, the <i>Natyashastra</i> (<i>Nāṭyaśāstra</i>), puts at its center the emotional “flavor” (<i>rasa</i>) that the spectator experiences in a performance: the work of art is built less to tell a story than to awaken particular emotional states in the spectator and to blend them together. This is a theory of the spectator different from Aristotle’s model, which puts the plot (<i>mythos</i>) at the center. For Stam the difference matters: to judge mainstream Indian cinema — which mixes song, dance, melodrama and comedy in a single film — by the Aristotelian yardstick of a “coherent plot” is to read it unfairly, from outside its own aesthetic tradition. Likewise, Asia’s shadow-play traditions (Java’s <i>wayang kulit</i>, Chinese shadow theater, and in Turkey, Karagöz) remind us that building narratives out of shadows cast on a lit screen was an art known long before cinema. Plato’s cave is not the only “shadow stage.”</p><p><b>4. Machines of vision.</b> Cinema also has a technical prehistory: the <i>camera obscura</i>, the magic lantern (<i>laterna magica</i>), the <i>phantasmagoria</i> shows of the late eighteenth century that frightened audiences with ghostly images, photography, and chronophotography, which broke movement into pieces. These devices are not only technical ancestors but also ancestors of <i>ideas</i>: each of them asked anew, “is what I see real, or an illusion?” The nineteenth-century debates about photography (can a machine produce art, or does it only copy?) would be repeated for cinema a few decades later in almost the same words.</p><p><b>Why does it matter?</b> Because this prehistory teaches us two things. First, the great quarrels of film theory (realism or formalism, illusion or critical distance, narrative or spectacle) are old quarrels in new guises; if you recognize them, you will understand theories instead of memorizing them. Second, which tradition you choose as your “origin” determines which films you count as “right.” Stam’s polycentric history prepares the ground for the debates on Third Cinema and postcolonial theory that we will meet later.</p>"
+    },
+    {
+      "baslik": "Example: montage inside the screen in Sherlock Jr.",
+      "html": "<p>Once Keaton’s projectionist has stepped, in his dream, into the screen of the movie theater, the film starts to play with him: Keaton is about to sit on a bench in a garden when a cut comes and he finds himself in the middle of a street; he tries to walk and is on the edge of a cliff; he looks down and is among lions; then desert, then sea. Keaton’s body stays the same, and his position in the frame is consistently preserved; only the world around him changes. Read this scene with today’s topic: Lessing’s distinction between space and time collapses here, because each shot is a “picture” (space), but the cuts turn these pictures into a “sentence” (time). Wagner’s dreamed-of darkened auditorium is on stage too: the spectators in the hall are locked onto the lit surface Keaton has entered. Keaton’s gag makes visible the strangeness that appears the moment cinema joins these two legacies: the body that “enters” the screen learns, painfully, that space is created by editing. We will return to this scene once more on Thursday and Friday with Elsaesser and Hagener’s metaphors of the “window” and the “door.”</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The tension between Wagner’s idea of a “total art” and Lessing’s idea of “each art’s own essence” will turn directly into the quarrel of Arnheim, Eisenstein and Bazin over “what is the essence of cinema?” in Phase II; <i>rasa</i> and polycentric history will come back in the weeks on Third Cinema.</p>"
+    }
+  ],
+  "sorular": [
+    "Why doesn’t Stam limit the origins of film theory to the 1910s? Write down one benefit and one risk of this broadening.",
+    "What door does Wagner’s idea of the <i>Gesamtkunstwerk</i> open for understanding cinema, and what misconception can it lead to? (Defend or refute the sentence “Cinema is the sum of all the arts.”)",
+    "What is the difference between the concept of <i>rasa</i> and Aristotle’s plot-centered model? Use this difference to assess the criticism that a song-and-dance number “stops the story.”"
+  ],
+  "gozlem": "In anything you watch today (a series, a music video, an ad, a YouTube video), find a 20–30-second moment where the story does <b>not move forward</b> but an emotion intensifies: a song, a montage sequence, a landscape. Ask yourself: Is this moment “unnecessary” from the point of view of the plot, or, seen through the logic of <i>rasa</i>, is it the real point? Write down one sentence.",
+  "terimler": [
+    {
+      "tr": "Toplam sanat eseri",
+      "en": "total work of art",
+      "orijinal": "Gesamtkunstwerk (Alm.)",
+      "tanim": "Wagner’s artistic ideal in which music, poetry, visual design and acting melt into a single whole."
+    },
+    {
+      "tr": "Uzam sanatları / zaman sanatları",
+      "en": "spatial arts / temporal arts",
+      "tanim": "The classical distinction between arts whose elements stand side by side (painting) and arts whose elements follow one another (poetry, music); cinema combines the two."
+    },
+    {
+      "tr": "Rasa",
+      "en": "aesthetic flavour",
+      "orijinal": "rasa (Sanskr.)",
+      "tanim": "In the Natyashastra tradition, the emotional “flavor” the spectator takes from a work of art; regarded as the work’s true aim."
+    },
+    {
+      "tr": "Fantazmagori",
+      "en": "phantasmagoria",
+      "tanim": "A pre-cinema illusion show that frightened audiences by projecting ghostly images with a magic lantern."
+    },
+    {
+      "tr": "Ortama özgülük",
+      "en": "medium specificity",
+      "tanim": "The idea that each art has a distinctive “essence” arising from its own material and should remain faithful to it."
+    },
+    {
+      "tr": "Yedinci sanat",
+      "en": "the seventh art",
+      "orijinal": "le septième art (Fr.)",
+      "tanim": "Canudo’s name for cinema; it positions cinema as a new art that brings the other arts together."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "With Dudley Andrew’s introduction we will learn the four questions that can be put to any film theory: raw material, method, form, and purpose/value."
+}

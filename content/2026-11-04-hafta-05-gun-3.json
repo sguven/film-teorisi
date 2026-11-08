@@ -1,0 +1,70 @@
+{
+  "hafta": 5,
+  "gun": 3,
+  "tarih": "2026-11-04",
+  "tur": "ders",
+  "baslik": "Dudley Andrew ve teorinin dört sorusu",
+  "okuma": "Dudley Andrew, The Major Film Theories, giriş",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "Dudley Andrew’a göre her film teorisi, açıkça söylesin ya da söylemesin, aynı dört soruya cevap verir: sinemanın ham maddesi nedir, bu malzeme hangi yöntemlerle işlenir, ortaya hangi biçimler çıkar ve bütün bunların amacı ya da değeri nedir?",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p>Pazartesi ve salı Robert Stam’le film teorisinin “tarih öncesi”ne baktık: sinemadan önce de insanların görüntü, temsil ve yanılsama üzerine düşündüğünü, ilk film yazarlarının yeni bir aracın ne olduğunu anlamaya çalışırken dağınık ama değerli sezgiler ürettiğini gördük. Bugün haritanın ikinci katmanına geçiyoruz. Dudley Andrew, 1976’da yayımlanan <i>The Major Film Theories</i> kitabının girişinde şunu soruyor: Bu kadar farklı teoriyi nasıl karşılaştırabiliriz? Münsterberg’le Bazin’i, Eisenstein’la Kracauer’i aynı masaya nasıl oturturuz?</p><p>Andrew’un cevabı bir sınıflandırma ölçütü (<i>classification scheme</i>) önermek. Teorileri “iyi” ya da “kötü” diye etiketlemek yerine, her birinin hangi sorulara nasıl cevap verdiğine bakıyor. Bu yaklaşım, felsefede Aristoteles’in bir şeyi anlamak için sorduğu dört “neden”e (malzeme, yapıcı, biçim, amaç) çok benziyor; Andrew da şemasını bu klasik düşünme biçimine yaslıyor. Dört soru şöyle:</p><ol><li><b>Ham madde (<i>raw material</i>):</b> Sinema neyle çalışır? Gerçekliğin kendisiyle mi, fotoğrafik görüntüyle mi, ışıkla, zamanla, mekânla, sesle mi? Bir gerçekçi için ham madde kameranın önündeki dünyadır; bir biçimci için ise o dünyanın perdeye düşmüş, zaten sınırlanmış ve düzleşmiş hâlidir.</li><li><b>Yöntem ve teknikler (<i>methods and techniques</i>):</b> Bu ham madde nasıl işlenir? Kurgu, kamera açısı, çerçeveleme, ışık, oyunculuk, ses. Burada soru şudur: Sinemacının yaratıcı müdahalesi nerede başlar ve ne kadar ileri gitmelidir?</li><li><b>Biçimler ve şekiller (<i>forms and shapes</i>):</b> Bu işlemler sonucunda ne tür filmler ortaya çıkar? Anlatı filmi, belgesel, deneysel film, türler (<i>genres</i>). Teori, sinemanın “doğal” ya da “en uygun” biçimi hakkında ne söylüyor?</li><li><b>Amaç ve değer (<i>purpose and value</i>):</b> Sinema insan hayatında ne işe yarar? Bizi gerçekliğe mi yaklaştırır, onu dönüştürerek sanata mı yükseltir, toplumu mu değiştirir, yoksa zihnin işleyişini mi taklit eder?</li></ol><p>Bu şemanın asıl gücü, teorilerin nerede ayrıştığını görünür kılması. Andrew’un kitabı teorisyenleri kabaca iki büyük gelenek etrafında toplar: biçimci gelenek (<i>formative tradition</i>) ve gerçekçi gelenek (<i>realist tradition</i>). Biçimciler (Münsterberg, Arnheim, Eisenstein, Balázs) sinemayı sanat yapan şeyin gerçekliği dönüştürmesi olduğunu söyler; kamera dünyayı olduğu gibi kopyalayamadığı için sanat tam da bu “eksiklikten” doğar. Gerçekçiler (Kracauer, Bazin) ise sinemanın özgünlüğünü dünyayı kaydetme gücünde arar; müdahale arttıkça sinema kendi özünden uzaklaşır. Kitabın son bölümü, daha yakın dönemin Fransız düşünürlerine (Mitry, Metz, fenomenolojik eleştirmenler) ayrılır.</p><p>Andrew neye karşı çıkıyor? İki şeye. Birincisi, teoriyi tek tek filmler hakkındaki zevk yargılarıyla karıştırmaya. Eleştiri belirli bir filmi değerlendirir; teori ise sinemanın genel olarak neyi yapabildiğini (<i>cinematic capability</i>) sorar. Bu, pazar günkü sınavdaki ilk sorunun da temeli. İkincisi, teorileri birbirinden kopuk “ekoller” listesi olarak ezberlemeye. Andrew’a göre bir teoriyi gerçekten anlamak, onun dört soruya verdiği cevapları birbirine nasıl bağladığını görmektir: ham maddeyi nasıl tanımladığın, hangi yöntemi meşru saydığını ve sonunda sinemadan ne beklediğini belirler.</p><p>Neden önemli? Çünkü bu şema, önümüzdeki aylarda okuyacağın her metin için bir kontrol listesi. Bir teorisyen ne derse desin, kendine şunu sorabilirsin: “Bu yazar ham maddeyi ne sanıyor ve bu yüzden hangi yöntemi övüyor?” Şemanın bir sınırı da var: 1976’da yazıldığı için, sonradan gelen ideoloji, psikanaliz, feminizm ve bilişsel teori gibi yaklaşımların seyirciye ve iktidara dair sorularını tam karşılamaz. Bunu aklında tut; Faz III’ten itibaren seyirci sorusu merkeze geçecek.</p>"
+    },
+    {
+      "baslik": "Örnek: Sherlock Jr. (Keaton, 1924)",
+      "html": "<p>Filmin en ünlü anı: Keaton’ın canlandırdığı makinist, gösterim sırasında uyuyakalır, rüyasında salondan kalkıp perdeye girer. Perdedeki film onu içeri kabul eder ama sonra kurgu oyun oynamaya başlar: Keaton aynı yerde dururken arka plan aniden değişir; bir bahçe kapısı, kalabalık bir sokak, uçurum kenarı, aslanların yanı, çöl, dalgalı deniz, karla kaplı bir arazi. Her kesmede Keaton’ın bedeni çerçevede aynı konumda kalır, dünya onun etrafında değişir.</p><p>Bu sahneyi Andrew’un dört sorusuyla okuyalım. <b>Ham madde:</b> fotoğraflanmış gerçek mekânlar ve Keaton’ın gerçek, akrobatik bedeni. <b>Yöntem:</b> kesme ve uyumlu kurgu; oyuncunun pozisyonunu kesmeler boyunca koruyan titiz bir çekim düzeni. <b>Biçim:</b> rüya içinde film, film içinde komedi; sinema kendini konu ediniyor. <b>Amaç:</b> güldürmek, ama aynı zamanda seyirciye sinemanın gücünü göstermek: kurgu mekânın sürekliliğini bir anda kırabilir. Bir biçimci bu sahnede sinemanın gerçekliği dönüştürme kudretini kutlar; bir gerçekçi ise gag’in neden işe yaradığına dikkat çekebilir: Keaton’ın bedeni ve tehlike gerçek göründüğü için gülüyoruz. Aynı sahne, iki geleneğin farklı soruları için de malzeme.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Andrew’un biçimci–gerçekçi ayrımı, Faz II’nin (Hafta 6–12) bütün omurgasını oluşturuyor; Münsterberg, Arnheim, Sovyet montajcılar, Kracauer ve Bazin’i okurken bu dört soru senin haritan olacak.</p>"
+    }
+  ],
+  "sorular": [
+    "Andrew’un dört sorusundan hangisi teoriler arasında en derin ayrılığı yaratır? Ham madde tanımının diğer üç cevabı nasıl belirlediğini bir örnekle açıkla.",
+    "Film teorisi ile film eleştirisi arasındaki farkı Andrew’un yaklaşımı üzerinden kendi cümlelerinle anlat.",
+    "Andrew’un şeması seyircinin bedenine ve deneyimine ne kadar yer veriyor? Bu bir eksiklik mi?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyden (dizi sahnesi, reklam, kısa video) 30 saniyelik bir parça seç. Dört soruyu tek kelimeyle cevapla: ham maddesi ne (gerçek mekân mı, animasyon mu, ekran kaydı mı)? Hangi yöntem baskın (kurgu mu, kamera hareketi mi, ses mi)? Hangi biçime ait? Amacı ne? Sonra hangisini cevaplamanın en zor olduğunu not et.",
+  "terimler": [
+    {
+      "tr": "Ham madde",
+      "en": "raw material",
+      "tanim": "Sinemanın üzerinde çalıştığı malzeme: gerçeklik, fotoğrafik görüntü, zaman, mekân, ses."
+    },
+    {
+      "tr": "Yöntem ve teknikler",
+      "en": "methods and techniques",
+      "tanim": "Ham maddenin kurgu, çerçeveleme, ışık gibi araçlarla işlenme biçimi."
+    },
+    {
+      "tr": "Biçimler ve şekiller",
+      "en": "forms and shapes",
+      "tanim": "Bu işlemlerden doğan film türleri ve yapıları."
+    },
+    {
+      "tr": "Amaç ve değer",
+      "en": "purpose and value",
+      "tanim": "Sinemanın insan hayatı ve toplum için ne işe yaradığı sorusu."
+    },
+    {
+      "tr": "Biçimci gelenek",
+      "en": "formative tradition",
+      "tanim": "Sinemayı sanat yapan şeyin gerçekliği dönüştürmesi olduğunu savunan teori çizgisi."
+    },
+    {
+      "tr": "Gerçekçi gelenek",
+      "en": "realist tradition",
+      "tanim": "Sinemanın özünü dünyayı kaydetme ve açığa çıkarma gücünde gören teori çizgisi."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "Yarın Elsaesser ve Hagener’le sinemayı gözden değil seyircinin bedeninden başlayarak düşünmeyi ve kitabın pencere, kapı, ayna gibi metaforlarını konuşacağız."
+}

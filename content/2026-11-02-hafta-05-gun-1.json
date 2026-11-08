@@ -1,0 +1,71 @@
+{
+  "hafta": 5,
+  "gun": 1,
+  "tarih": "2026-11-02",
+  "tur": "ders",
+  "baslik": "Film teorisi nedir? Stam’ın girişi ve teorinin “tarih öncesi” (1. bölüm)",
+  "okuma": "Robert Stam, giriş ve film teorisinin “tarih öncesi” bölümünün ilk yarısı",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "Film teorisi sinemayla birlikte sıfırdan doğmadı: sinemadan çok önce sorulan “imge nedir, taklit nedir, seyirci neye inanır?” sorularının yeni bir aygıt karşısında yeniden sorulmasıdır.",
+  "bolumler": [
+    {
+      "baslik": "Anlatım",
+      "html": "<p><b>Bu hafta neden harita çıkarıyoruz?</b> İlk dört haftada filmin nasıl yapıldığına baktık: mizansen (<i>mise-en-scène</i>), çekim, kurgu, ses, anlatı. Bunlar “film nasıl çalışır?” sorusunun araçlarıydı. Bu hafta soru değişiyor: “Sinema <i>nedir</i>, ne işe yarar, onu nasıl düşünmeliyiz?” İşte bu ikinci tür soru film teorisinin (<i>film theory</i>) alanıdır. Robert Stam’ın kitabının girişi bize bu alanın bir haritasını veriyor; önümüzdeki iki gün o haritanın ilk bölümünü okuyacağız.</p><p><b>Teori, eleştiri, tarih.</b> Stam’ın ilk yaptığı iş bir ayrım çizmek. Film eleştirisi (<i>film criticism</i>) tek tek filmler hakkında konuşur: bu film iyi mi, ne anlatıyor, nasıl yorumlanmalı? Film tarihi (<i>film history</i>) değişimi izler: hangi teknoloji, hangi endüstri, hangi akım ne zaman ortaya çıktı? Film teorisi ise genelleşir: tek bir filmden değil, sinema denen olgunun kendisinden söz eder. “Montaj anlam üretir mi?”, “Kamera gerçekliği kaydeder mi, dönüştürür mü?”, “Seyirci perdeyle nasıl bir ilişki kurar?” gibi sorular herhangi bir filme değil, bütün filmlere yöneltilir. Ama Stam bu üç alanın birbirinden kopuk olmadığını da vurgular: her eleştiri örtük bir teori taşır, her teori de belirli filmlere bakarak kurulur. “Ben teoriyle uğraşmam, sadece filmi beğenip beğenmediğimi söylerim” diyen biri bile aslında “iyi film nedir?” sorusuna sessizce bir cevap vermektedir.</p><p><b>Stam neye karşı çıkıyor?</b> Girişin en önemli tavrı iki yönlü bir itirazdır. Birincisi, teorinin düz bir ilerleme çizgisi olduğu fikrine karşı çıkar: sanki önce “naif” klasik kuramcılar gelmiş, sonra göstergebilim onları aşmış, sonra psikanaliz onu aşmış ve bugün en “doğru” noktadaymışız gibi. Stam’a göre teoriler birbirini silmez; eski sorular yeni kılıklarda geri döner. İkincisi, film teorisinin yalnızca Paris, Moskova ve Hollywood’da üretilmiş bir şey gibi anlatılmasına, yani Avrupa-merkezciliğe (<i>Eurocentrism</i>) itiraz eder. Latin Amerika’dan, Afrika’dan, Asya’dan gelen sinema düşüncesini de haritaya koymak ister. Bu yüzden kitabı bir “doğru teori” kitabı değil, bir alet çantası (<i>toolkit</i>) gibi okumanı ister: her teori bazı şeyleri görmeni sağlar, bazılarını gizler.</p><p><b>Neden önemli?</b> Çünkü bu tavır programın geri kalanını nasıl okuyacağını belirler. Eisenstein’ı, Bazin’i, Metz’i, Mulvey’i okurken “hangisi haklıydı?” diye değil, “bu düşünür hangi soruyu sordu, neyi görünür kıldı, neyi kaçırdı?” diye okuyacaksın.</p><p><b>Tarih öncesi: sinemadan önce sinema düşüncesi.</b> Stam’ın ikinci adımı, film teorisinin “tarih öncesi”ne (<i>prehistory</i>) dönmektir. Sinema 1895 civarında ortaya çıktığında, onu düşünmek için kullanılan kavramların çoğu hazırdı; çünkü insanlar binlerce yıldır imgeler, taklit ve yanılsama üzerine düşünüyordu.</p><p>En ünlü örnek Platon’un mağara alegorisidir (<i>Allegory of the Cave</i>). Zincirlenmiş insanlar arkalarındaki ateşin duvara düşürdüğü gölgeleri izler ve onları gerçek sanırlar. Karanlık bir oda, arkadan gelen ışık, önde bir yüzey ve hareket etmeden izleyen bir topluluk: bu düzenek bugün bir sinema salonunu tarif ediyor gibi. Platon için bu bir uyarıdır: gölgeler gerçeğin kopyasının kopyasıdır ve insanı hakikatten uzaklaştırır. Sinemaya yöneltilen pek çok sonraki eleştiri (seyirciyi pasifleştirir, yanılsamaya hapseder) bu eski kuşkunun yeni bir versiyonudur.</p><p>Karşı kutupta Aristoteles durur. Onun için taklit, yani mimesis (<i>mimesis</i>, Yunanca “taklit/temsil”), insanın doğal bir eğilimidir ve öğrenmenin bir yoludur. Ayrıca <i>Poetika</i>’da bir hikâyenin başı, ortası ve sonu olan bütünlüklü bir olay örgüsü (<i>plot</i>) fikrini kurar. Hafta 3–4’te konuştuğumuz klasik anlatı sinemasının neden-sonuç zinciri, bu Aristotelesçi mirasın doğrudan torunudur.</p><p>Yani daha ilk sayfalarda iki temel tavır karşımıza çıkıyor: imgeye kuşkuyla bakan Platoncu çizgi ve imgeyi bilgi ve haz kaynağı sayan Aristotelesçi çizgi. Film teorisinin büyük kavgalarının çoğu bu iki tavrın arasında gidip gelir.</p>"
+    },
+    {
+      "baslik": "Örnek: Sherlock Jr. (Buster Keaton, 1924)",
+      "html": "<p>Haftanın filminde Keaton bir sinema makinistini oynar. Makine dairesinde uyuyakalır; rüyasında bedeninden ayrılan “ikinci beni” salona iner, perdeye doğru yürür ve filmin içine girer. Sonra çok ünlü bir sekans gelir: Keaton perdede yerinde dururken arkasındaki mekân kesmeyle sürekli değişir. Bir bahçede oturmak üzereyken kendini sokakta bulur, uçurumun kenarında, aslanların arasında, çölde, denizin ortasındaki bir kayada.</p><p>Bu sahneyi bugünün okumasıyla düşün. Platon’un mağarasında seyirci gölgeleri gerçek sanır ama onlara asla dokunamaz. Keaton ise gölgenin içine girer ve hemen anlar ki orası gerçek dünya değildir: mekân, makasın keyfine göre değişir. Sahne hem sinemanın yanılsamasını kutlar (o dünyaya girmek istiyoruz) hem de ifşa eder (o dünya kurgunun ürünüdür). Teorik bir metin yazmadan, sinemanın ne olduğu üzerine bir teori önerir. Bu yüzden program bu haftayı bu filmle açıyor.</p>"
+    },
+    {
+      "baslik": "Bağlantı",
+      "html": "<p>Platon’un mağarası programın ilerleyen fazlarında, sinema salonunu ideolojik bir düzenek olarak okuyan aygıt kuramıyla (<i>apparatus theory</i>, Baudry) geri dönecek; bugün bu dönüşün ilk tohumunu ekiyoruz.</p>"
+    }
+  ],
+  "sorular": [
+    "Film teorisi ile film eleştirisi arasındaki farkı kendi kelimelerinle bir örnekle açıkla. Bir eleştiri yazısı nasıl “örtük bir teori” taşıyabilir?",
+    "Stam neden teorilerin birbirini düz bir çizgide “aştığı” fikrine karşı çıkıyor? Bu tavrın programı okuma biçimine etkisi ne olur?",
+    "Platon’un mağarası ile Aristoteles’in mimesis anlayışı, imgeye karşı hangi iki farklı tavrı temsil eder? Sen bugün izlediğin filmlere hangisiyle daha yakın bakıyorsun?"
+  ],
+  "gozlem": "Bugün izlediğin herhangi bir şeyde (dizi, reklam, Instagram videosu) kendine sor: Bu görüntü bana gerçek bir şey mi gösterdiğini iddia ediyor, yoksa bir kurgu olduğunu açıkça mı söylüyor? Platoncu bir kuşkuyla mı yoksa Aristotelesçi bir hazla mı izledin? İki cümleyle not al.",
+  "terimler": [
+    {
+      "tr": "Film teorisi",
+      "en": "film theory",
+      "tanim": "Tek tek filmlerden değil, sinemanın doğası, işleyişi ve seyirciyle ilişkisi üzerine genel sorulardan oluşan düşünce alanı."
+    },
+    {
+      "tr": "Film eleştirisi",
+      "en": "film criticism",
+      "tanim": "Belirli filmleri yorumlayan ve değerlendiren yazı ve düşünce."
+    },
+    {
+      "tr": "Tarih öncesi",
+      "en": "prehistory (of film theory)",
+      "tanim": "Sinema icat edilmeden önce imge, taklit ve yanılsama üzerine kurulmuş, sonra film teorisine taşınan düşünceler."
+    },
+    {
+      "tr": "Mağara alegorisi",
+      "en": "Allegory of the Cave",
+      "tanim": "Platon’un, gölgeleri gerçek sanan zincirli insanlar üzerinden imgeye duyulan kuşkuyu anlatan hikâyesi."
+    },
+    {
+      "tr": "Mimesis",
+      "en": "mimesis",
+      "orijinal": "mimesis (Yunanca)",
+      "tanim": "Aristoteles’te gerçekliği taklit etme ve temsil etme; öğrenme ve hazzın kaynağı."
+    },
+    {
+      "tr": "Avrupa-merkezcilik",
+      "en": "Eurocentrism",
+      "tanim": "Avrupa’nın düşünce ve deneyimini evrensel ölçü sayıp diğerlerini kenara iten bakış."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "Stam’ın tarih öncesi bölümünün ikinci yarısı: sinema doğarken sorulan ilk büyük soru, yani “film bir sanat mı?” tartışması ve sinemanın tiyatro, roman ve resimle akrabalığı."
+}

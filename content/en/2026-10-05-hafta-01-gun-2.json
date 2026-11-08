@@ -1,0 +1,71 @@
+{
+  "hafta": 1,
+  "gun": 2,
+  "tarih": "2026-10-05",
+  "tur": "ders",
+  "baslik": "Who makes films, and who shows them? Modes of production, distribution and exhibition",
+  "okuma": "Bordwell & Thompson, Film Art, second half of Ch. 1",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "A film’s form doesn’t come from the director’s mind alone. How the film is produced, whose hands it passes through and the route by which it reaches its audience also shape that form.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we talked about the three faces of cinema: creativity, technology and industry. We saw that apparent motion rests on an illusion, and that a film passes through the stages of scriptwriting, preproduction, production and postproduction. Today we turn to the question Bordwell and Thompson ask in the second half of the chapter: in whose hands does this production process run, under what conditions, and what does that have to do with art?</p><h3>1. Modes of production</h3><p>The authors point out that films are not all made in the same way, and they distinguish three main modes:</p><ul><li><b>Large-scale production</b>: The classical Hollywood studio system and today’s big-budget productions belong to this group. Here the division of labor is highly detailed. Screenwriters, cinematographer, art director, editor and sound crew are each separate areas of expertise. The producer controls the budget and the schedule. The goal of this system is efficiency, that is, delivering repeatable quality on a regular basis.</li><li><b>Exploitation and independent production</b>: These are films made on smaller budgets with fewer people. An exploitation film targets a particular audience on a low budget: horror, teen films, sensational subjects. An independent film is made outside major-studio financing; because the budget is small, the director often has more control over the decisions.</li><li><b>Small-scale production</b>: These are films in which a single person or a small collective does nearly every job. Much experimental cinema and many personal documentaries are made this way. Here the division of labor all but disappears.</li></ul><p>Why does this distinction matter? Because each mode of production opens up different formal possibilities and imposes different limits. The studio system can deliver flawless lighting and sound, but it pushes toward standardization. Small-scale production may remain technically rough, yet it can try out forms the mainstream wouldn’t dare to attempt.</p><h3>2. The problem of authorship</h3><p>This naturally raises a question: who is the “artist” of a film made through the labor of hundreds of people? Bordwell and Thompson offer a practical answer: in most cases the director is the person who brings the decisions together and does the most to determine the film’s form, so it is reasonable to call the director its “author.” But that doesn’t mean the film is the director’s work alone. A lighting choice by the cinematographer or a cutting decision by the editor can also change the film’s meaning.</p><p>Later in the program this question will turn into a major debate: the French critics’ <i>politique des auteurs</i> and Andrew Sarris’s auteur theory take shape precisely around it. For today, just note this: the phrase “the director’s film” is more a convention than a fact.</p><h3>3. Distribution and exhibition</h3><p>A film’s life doesn’t end once it has been shot and edited. The distributor decides which markets the film will go to, when, and with how many prints; exhibitors (theaters, TV channels, digital platforms) bring the film to its audience. The point the book emphasizes is that this process feeds back into the film’s form:</p><ul><li><b>Running time:</b> Theaters want to show a certain number of screenings a day; the length of films is shaped by commercial pressure.</li><li><b>Rating:</b> Which age groups a film is open to determines its commercial fate, and this directly affects how violence or sexuality is filmed.</li><li><b>Screen format:</b> When the aspect ratio changes, the composition changes too; a detail at the edge of the frame can get lost on a small screen.</li><li><b>Marketing and genre:</b> What “kind of film” the distributor promises the audience determines the expectations viewers bring with them when they sit down. Here is the first seed of the concept of expectation, which we’ll look at tomorrow.</li></ul><p>The authors’ overall thesis: art and commerce are not opposites. Great art can be made within commercial constraints; sometimes constraints are themselves a source of creativity. This is an objection both to the romantic view that treats cinema as the work of geniuses alone and to the dismissive view that sees Hollywood as nothing but a “factory.”</p>"
+    },
+    {
+      "baslik": "Example: Citizen Kane",
+      "html": "<p><b>Mode of production:</b> <i>Kane</i> is a film from a major studio, RKO, so it is large-scale production. But Welles had secured from the studio an extraordinarily broad degree of creative control for a director making his first film. The result is a hybrid: the technical resources of a studio combined with the freedom of an independent artist. The film’s bold experiments became possible only when these two came together: sets with visible ceilings, deep focus, unusual sound transitions.</p><p><b>Authorship:</b> In the closing credits, cinematographer Gregg Toland’s name appears on the same card as Welles’s, a rare credit for a director to give a collaborator. The screenplay credit, meanwhile, is shared with Herman J. Mankiewicz, and that sharing is still debated today. The film most often invoked in the legend of “the work of a single genius” is in fact one of the best examples of the authorship question.</p><p><b>Distribution and exhibition:</b> Because the film was thought to be inspired by the life of William Randolph Hearst, it faced a hostile campaign from the Hearst newspapers; some theater chains avoided showing it, and on its first release the film fell short of commercial expectations. A film’s artistic value and the route by which it reaches audiences are separate things, but the latter deeply affects how the former is perceived.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s question of authorship will move to center stage in the auteur theory debate in Weeks 13–15. The relationship between industry and form will also come back in later phases, with classical Hollywood and ideological criticism.</p>"
+    }
+  ],
+  "sorular": [
+    "In what ways can the division of labor in large-scale production <i>help</i> a film’s form, and in what ways can it <i>harm</i> it? Think of an example for each.",
+    "Why do Bordwell and Thompson find it reasonable to treat the director as the “author”? What is the weak point of this convention?",
+    "Is a film watched in a theater and on a phone “the same film”? Answer using the concepts of distribution and exhibition."
+  ],
+  "gozlem": "Look only at the credits (opening or closing) of any episode or video you watch today. Note two things: (a) How many different areas of expertise are listed? (b) In what order, and at what size, do the logos of the producer, distributor or platform appear? What does this ordering tell you about the question “Whose work is this?”",
+  "terimler": [
+    {
+      "tr": "Üretim biçimi",
+      "en": "mode of production",
+      "tanim": "The organization, budget and division of labor with which a film is made."
+    },
+    {
+      "tr": "Stüdyo sistemi",
+      "en": "studio system",
+      "tanim": "An arrangement in which large companies produce films serially and in a standardized way, with specialist staff."
+    },
+    {
+      "tr": "İş bölümü",
+      "en": "division of labor",
+      "tanim": "The distribution of filmmaking tasks among separate specialists."
+    },
+    {
+      "tr": "Bağımsız üretim",
+      "en": "independent production",
+      "tanim": "Film production carried out outside major-studio financing, usually on a small budget."
+    },
+    {
+      "tr": "Dağıtım / gösterim",
+      "en": "distribution / exhibition",
+      "tanim": "Getting a film to its markets / actually presenting it to an audience."
+    },
+    {
+      "tr": "Yazarlık",
+      "en": "authorship",
+      "tanim": "The question of who should be considered responsible for the form of a film made through collective labor."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles",
+      "not": "The film of Week 1. The program’s opening film, with all the principles of the formal system, the authorship debate and the story of its distribution."
+    }
+  ],
+  "yarin": "Film form: we’ll talk about why we can’t split a film into “content + form,” and how form builds expectation in the viewer."
+}

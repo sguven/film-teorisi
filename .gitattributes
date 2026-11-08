@@ -7,4 +7,5 @@ program.html merge=ours
 sozluk.html merge=ours
 filmler.html merge=ours
 feed.xml merge=ours
+feed-en.xml merge=ours
 ders/*.html merge=ours

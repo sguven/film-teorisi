@@ -1,0 +1,71 @@
+{
+  "hafta": 5,
+  "gun": 1,
+  "tarih": "2026-11-02",
+  "tur": "ders",
+  "baslik": "What is film theory? Stam’s introduction and the “prehistory” of theory (part 1)",
+  "okuma": "Robert Stam, the introduction and the first half of the chapter on the “prehistory” of film theory",
+  "film": "Sherlock Jr. (Keaton, 1924)",
+  "tek_cumle": "Film theory was not born from scratch along with cinema: it is the re-asking, in front of a new apparatus, of questions posed long before cinema — “what is an image, what is imitation, what does the spectator believe?”",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>Why are we drawing a map this week?</b> In the first four weeks we looked at how a film is made: <i>mise-en-scène</i>, the shot, editing, sound, narrative. These were the tools for the question “how does a film work?” This week the question changes: “What <i>is</i> cinema, what is it for, and how should we think about it?” This second kind of question is the domain of <i>film theory</i>. The introduction to Robert Stam’s book gives us a map of this territory; over the next two days we will read the first part of that map.</p><p><b>Theory, criticism, history.</b> The first thing Stam does is draw a distinction. <i>Film criticism</i> talks about individual films: is this film good, what does it say, how should it be interpreted? <i>Film history</i> traces change: which technology, which industry, which movement emerged when? Film theory, by contrast, generalizes: it speaks not of a single film but of the phenomenon called cinema itself. Questions such as “Does montage produce meaning?”, “Does the camera record reality or transform it?” and “What kind of relationship does the spectator form with the screen?” are addressed not to any one film but to all films. Yet Stam also stresses that these three fields are not cut off from one another: every piece of criticism carries an implicit theory, and every theory is built by looking at particular films. Even someone who says “I don’t bother with theory, I just say whether I liked the film” is quietly answering the question “what is a good film?”</p><p><b>What is Stam arguing against?</b> The introduction’s most important stance is a two-sided objection. First, he rejects the idea that theory is a straight line of progress: as if the “naive” classical theorists came first, then semiotics surpassed them, then psychoanalysis surpassed semiotics, and today we stand at the most “correct” point. For Stam, theories do not erase one another; old questions return in new guises. Second, he objects to film theory being told as though it were produced only in Paris, Moscow and Hollywood — that is, to <i>Eurocentrism</i>. He wants to put thinking about cinema from Latin America, Africa and Asia on the map as well. This is why he asks you to read the book not as a book of the “right theory” but as a <i>toolkit</i>: every theory lets you see some things and hides others.</p><p><b>Why does it matter?</b> Because this stance shapes how you will read the rest of the program. When you read Eisenstein, Bazin, Metz or Mulvey, you will ask not “which of them was right?” but “what question did this thinker ask, what did they make visible, what did they miss?”</p><p><b>Prehistory: thinking about cinema before cinema.</b> Stam’s second move is to turn back to the “prehistory” of film theory. When cinema appeared around 1895, most of the concepts used to think about it were already in place, because people had been thinking about images, imitation and illusion for thousands of years.</p><p>The most famous example is Plato’s <i>Allegory of the Cave</i>. Chained prisoners watch the shadows that a fire behind them casts on the wall, and they take those shadows to be real. A dark room, light coming from behind, a surface in front and a group of people watching without moving: today this set-up seems to describe a movie theater. For Plato it is a warning: the shadows are copies of copies of the real, and they lead people away from the truth. Many later criticisms of cinema (that it makes the spectator passive, that it imprisons us in illusion) are new versions of this ancient suspicion.</p><p>At the opposite pole stands Aristotle. For him imitation — <i>mimesis</i>, Greek for “imitation/representation” — is a natural human inclination and a way of learning. In the <i>Poetics</i> he also establishes the idea of a unified <i>plot</i>, a story with a beginning, a middle and an end. The cause-and-effect chain of classical narrative cinema that we discussed in Weeks 3–4 is a direct descendant of this Aristotelian legacy.</p><p>So in the very first pages we meet two basic attitudes: the Platonic line, which looks at the image with suspicion, and the Aristotelian line, which treats the image as a source of knowledge and pleasure. Many of film theory’s great quarrels swing back and forth between these two attitudes.</p>"
+    },
+    {
+      "baslik": "Example: Sherlock Jr. (Buster Keaton, 1924)",
+      "html": "<p>In this week’s film Keaton plays a movie projectionist. He falls asleep in the projection booth; in his dream, a “second self” leaves his body, goes down into the auditorium, walks toward the screen and steps into the film. Then comes a very famous sequence: Keaton stands still on the screen while the space behind him keeps changing with each cut. About to sit down in a garden, he finds himself in the street, on the edge of a cliff, among lions, in the desert, on a rock in the middle of the sea.</p><p>Think about this scene in light of today’s reading. In Plato’s cave the spectators take the shadows for real but can never touch them. Keaton, on the other hand, steps inside the shadow and immediately realizes that it is not the real world: space changes at the whim of the editor’s scissors. The scene both celebrates cinema’s illusion (we want to enter that world) and exposes it (that world is a product of editing). Without writing a theoretical text, it proposes a theory of what cinema is. That is why the program opens this week with this film.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Plato’s cave will return in later phases of the program with <i>apparatus theory</i> (Baudry), which reads the movie theater as an ideological set-up; today we are planting the first seed of that return.</p>"
+    }
+  ],
+  "sorular": [
+    "Explain the difference between film theory and film criticism in your own words, with an example. How can a piece of criticism carry an “implicit theory”?",
+    "Why does Stam reject the idea that theories “surpass” one another in a straight line? How does this stance affect the way you read the program?",
+    "What two different attitudes toward the image do Plato’s cave and Aristotle’s idea of mimesis represent? Which one is closer to the way you watch films today?"
+  ],
+  "gozlem": "In anything you watch today (a series, an ad, an Instagram video), ask yourself: Does this image claim to show me something real, or does it openly say that it is a construction? Did you watch it with Platonic suspicion or with Aristotelian pleasure? Write down two sentences.",
+  "terimler": [
+    {
+      "tr": "Film teorisi",
+      "en": "film theory",
+      "tanim": "The field of thought made up of general questions not about individual films but about the nature of cinema, how it works and its relationship with the spectator."
+    },
+    {
+      "tr": "Film eleştirisi",
+      "en": "film criticism",
+      "tanim": "Writing and thinking that interprets and evaluates particular films."
+    },
+    {
+      "tr": "Tarih öncesi",
+      "en": "prehistory (of film theory)",
+      "tanim": "Ideas about image, imitation and illusion developed before cinema was invented and later carried over into film theory."
+    },
+    {
+      "tr": "Mağara alegorisi",
+      "en": "Allegory of the Cave",
+      "tanim": "Plato’s story of chained prisoners who mistake shadows for reality, expressing a suspicion of the image."
+    },
+    {
+      "tr": "Mimesis",
+      "en": "mimesis",
+      "orijinal": "mimesis (Yunanca)",
+      "tanim": "In Aristotle, the imitation and representation of reality; a source of learning and pleasure."
+    },
+    {
+      "tr": "Avrupa-merkezcilik",
+      "en": "Eurocentrism",
+      "tanim": "A perspective that takes European thought and experience as the universal measure and pushes all others to the margins."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Sherlock Jr.",
+      "yil": 1924,
+      "yonetmen": "Buster Keaton"
+    }
+  ],
+  "yarin": "The second half of Stam’s prehistory chapter: the first big question asked as cinema was being born — the debate over “is film an art?” — and cinema’s kinship with theater, the novel and painting."
+}

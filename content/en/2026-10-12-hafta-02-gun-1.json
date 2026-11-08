@@ -1,0 +1,73 @@
+{
+  "hafta": 2,
+  "gun": 1,
+  "tarih": "2026-10-12",
+  "tur": "ders",
+  "baslik": "Story and Plot",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 3 (Narrative Form) — introduction and the “Story and Plot” subsection",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "What a film shows us (the plot) and what we build in our minds (the story) are not the same thing; narrative cinema works in the gap between the two.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Last week we discussed how film form is a system, and how viewers approach that system with expectations. This week we turn to the most widespread type of form: narrative form. Bordwell and Thompson define narrative in its simplest terms as a chain of events linked by cause and effect, occurring in a particular time and space. This definition rests on three pillars — <b>causality</b>, <b>time</b> and <b>space</b> — and this week we will look closely at one of them each day. But before anything else, we need to establish a distinction that carries the whole rest of the chapter.</p><p>The <b>story</b> (in the Russian Formalists’ term, <i>fabula</i>) is the complete set of a narrative’s events, arranged in chronological and causal order. The <b>plot</b> (Russian <i>syuzhet</i>) is what the film actually shows us of those events: which ones, in what order, for how long and in what way. Here is the crucial point: we never “see” the story on screen. The story is a structure the viewer builds in their mind from cues in the plot. The film shows a person getting on a bus and then getting off in front of a building; we never see the ride in between, yet we add it to our story. A character talks about her childhood; those years are not on screen, but they are part of the story.</p><p>Bordwell and Thompson think of this relationship as two overlapping areas. In the shared zone in the middle are the <b>explicitly presented events</b>: they belong to both the plot and the story. The part that belongs only to the story consists of <b>presumed and inferred events</b>: everything we don’t see but assume must have happened. The part that belongs only to the plot is material that is not part of the story world at all: the credits, music that we hear throughout the film but the characters do not, a narrator’s title card.</p><p>This is where a second important term comes in: <b>diegesis</b> (from the Greek, often called simply the “story world”). The whole world of the story — everything the characters live through, see and hear — is diegetic. A song playing on a radio in the scene is <b>diegetic</b> sound, because the characters hear it too. Orchestral music laid over a chase, by contrast, is <b>nondiegetic</b> sound; it is there only for the audience. The distinction is not limited to sound; you can ask it of any element — credits, intertitles, a date printed on the screen: “Does this belong to the characters’ world, or is it the film addressing me?”</p><p><b>What the authors argue against.</b> In everyday conversation, we answer the question “What is the film about?” with a summary of its events, as if a film were merely a vehicle for its story and “content” were what really mattered. Bordwell and Thompson push back against this intuition. The same story can be told through entirely different plots, and much of a film’s effect comes from that choice: which events it skips, what it delays, what it repeats. A mystery film hides the murder and arouses curiosity; if it told the same story in straight order, it would produce some other emotion entirely. In other words, meaning emerges not in the content but in the way the plot organizes the story.</p><p><b>Why does it matter?</b> Because this distinction turns the viewer into an active agent. To watch is to form hypotheses from the cues we are given, to wait, to be wrong, to revise. The cognitive model of the viewer that Bordwell would develop in later work rests on exactly this idea. These terms also give you an analytical tool: they let you move beyond the level of “I liked it / I didn’t” and examine a film by asking, “How does the plot work on the story?” It is no accident that the terms come from <i>Russian Formalism</i>: the Formalists, too, put “how it is told” rather than “what is told” at the center of literary study.</p>"
+    },
+    {
+      "baslik": "Example: The opening of Rashomon",
+      "html": "<p>The film of the week, <i>Rashomon</i> (Kurosawa, 1950), is an almost textbook example of this distinction. The film does not begin with the incident in the forest. It opens with a woodcutter and a priest sheltering from a downpour under the ruined Rashomon gate; the woodcutter talks about something he cannot make sense of. What happened in the forest reaches us only from within this conversation under the gate, through flashbacks — and some of those flashbacks in turn open out of testimony given at a court hearing. The plot, in other words, is layered: the gate in the rain → the courtyard of the court → the forest.</p><p>So what is the story? What really happened in the forest — but the film never gives it to us as a single, reliable version. The viewer tries to build a story out of contradictory accounts and realizes how hard that is. Here Bordwell and Thompson’s distinction takes on a striking form: the plot doesn’t merely organize a story, it can also make us question whether a story can be built at all. Pay attention to the court scenes: the witnesses speak toward the camera, that is, toward an unseen judge. We infer that the judge exists in the story, yet the plot never shows him to us. This is a concrete instance of “presumed events” and of what goes unshown. And listen to the sound as well: is the music over the forest scenes diegetic or not? Decide for yourself.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>This is last week’s idea — “form is a system, and viewers watch with expectations” — applied to narrative; in Week 21, structuralist narrative analysis will take the same fabula/syuzhet distinction to a far more abstract level.</p>"
+    }
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "sorular": [
+    "From a film of your choice, give an example of an event that is never shown in the plot but that you are sure is part of the story. How did you infer it?",
+    "Why are the credits considered to belong “only to the plot”? Can a film’s credits ever be part of the story? Think of an example.",
+    "Think of two films that tell the same story through two different plots (one chronological, one told from the end backward). How does the viewer’s emotion change: curiosity, suspense or surprise?"
+  ],
+  "gozlem": "In anything you watch today (an episode of a series, an ad, a YouTube video), keep two lists during the first two minutes: (a) events explicitly shown on screen, (b) events not shown but inferred by you. Also mark every sound you hear as diegetic or nondiegetic. Ads are especially interesting: in 30 seconds they expect you to build an entire story from a handful of shots.",
+  "terimler": [
+    {
+      "tr": "Anlatı biçimi",
+      "en": "narrative form",
+      "tanim": "Form organized as a chain of events linked by cause and effect, occurring in a particular time and space."
+    },
+    {
+      "tr": "Hikâye",
+      "en": "story",
+      "orijinal": "fabula",
+      "tanim": "The full set of events, in chronological and causal order, that the viewer builds in their mind from cues."
+    },
+    {
+      "tr": "Olay örgüsü",
+      "en": "plot",
+      "orijinal": "syuzhet",
+      "tanim": "The arranged events and material that the film actually presents to us in image and sound."
+    },
+    {
+      "tr": "Diegesis (öykü dünyası)",
+      "en": "diegesis",
+      "tanim": "The whole world in which the story takes place and the characters live."
+    },
+    {
+      "tr": "Diegetik / diegetik olmayan",
+      "en": "diegetic / nondiegetic",
+      "tanim": "The distinction indicating whether an element belongs to the characters’ world (e.g., a radio in the scene vs. the film score)."
+    },
+    {
+      "tr": "Geriye dönüş",
+      "en": "flashback",
+      "tanim": "A return, within the plot, to an event that happened earlier in the story."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    }
+  ],
+  "yarin": "Causality: the chain of cause and effect that drives a narrative forward, and the role characters (their desires, goals and obstacles) play in that chain."
+}

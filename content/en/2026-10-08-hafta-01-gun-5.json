@@ -1,0 +1,65 @@
+{
+  "hafta": 1,
+  "gun": 5,
+  "tarih": "2026-10-08",
+  "tur": "ders",
+  "baslik": "Development, unity and wrapping up the week",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 2 (final section)",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "A film is not a random sequence of parts but a system that develops from beginning to end and asks to be grasped by the viewer as a whole; to see that wholeness, we must first learn to break the film down into its segments.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>This week we have worked with one of Bordwell and Thompson’s basic claims: film form is the overall system in which all the elements of a film are bound together. On Wednesday and Thursday we looked at the first principles of the formal system: function, similarity and repetition, difference and variation. Today we take up the last two principles and the chapter’s central call.</p><h3>Development</h3><p>Repetition and variation are not enough on their own; in a film, elements move in a certain direction over time. This pattern might be a journey, a quest, a transformation, a timeline, or an idea unfolding step by step. We understand a scene not in isolation but by looking at where it stands along the film’s line of development.</p><p>The most practical consequence of this principle is the habit of <b>segmentation</b>: breaking the film into large and small parts and drawing up an outline (opening credits, numbered segments, ending). On paper it looks tedious; but only this way can we see where the film speeds up and where it slows down, and which motifs return in which segments. In the weeks ahead, this technique will be our basic tool for narrative analysis.</p><p>The best way to measure development is to compare the beginning with the end. Some films end with <i>closure</i>: questions are answered, conflicts resolved. Others are left open-ended and push the viewer to keep thinking. Both are deliberate formal choices; an open ending is not “incomplete.”</p><h3>Unity and disunity</h3><p>When all these relationships come together, a formal unity emerges. But the authors don’t present unity as an absolute value: no film is a flawless whole. Some directors use disunity on purpose: to unsettle the viewer, to break their expectations, or to make them question familiar narrative patterns. The question should not be “Is this film a whole?” but “How, and to what end, does this film build unity or disunity?”</p><h3>The chapter’s central claim</h3><p>All these principles push back against the habit of putting form and content in separate boxes. In the common view, content is what the film tells, and form is a container that carries it. For Bordwell and Thompson this distinction is misleading: subject, theme or idea is also one of the elements of the system, and it takes its meaning from its relationship with the other elements. The same story, told in a different order, with a different pattern of repetition, with a different ending, becomes a different experience. This claim shifts criticism from the question “What is the film saying?” to the question “How does the film make us live through it?” And in this process the viewer is not passive but an active participant who pieces the cues together; form produces expectation, emotion and meaning in the viewer.</p>"
+    },
+    {
+      "baslik": "Example: The breakfast table in Citizen Kane",
+      "html": "<p>The breakfast table montage, which fits Kane’s first marriage into a few minutes, repeats the same setting, the same two people and the same situation again and again: the principle of repetition. But with each return something changes: the tone of the conversation hardens, affectionate words give way to barbs, and in the end both fall silent, each reading their own newspaper. The distance between the two ends of the table seems to keep growing: variation. Because the variations move in one direction, toward the cooling of a relationship, the scene is a small but flawless model of the principle of development. No character ever says “our marriage is over”; the form tells us. When you watch the film on Saturday, look out for this scene and check it with your own eyes.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The segmentation and the beginning–end comparison you learned today are the basic analytical tools you’ll use directly from Week 2 onward, as we study narrative form (plot, cause and effect, time).</p>"
+    }
+  ],
+  "sorular": [
+    "If repetition and variation are already there, what does the principle of “development” add to them? Explain using the breakfast scene.",
+    "What is the difference between closure and an open ending? Why shouldn’t an open ending be considered a “flaw”?",
+    "What purpose might a film’s deliberate use of disunity serve? Give an example from a film you’ve seen."
+  ],
+  "gozlem": "Look at the first and last 30 seconds of an episode or YouTube video you watch this evening. Is there an element (a setting, a sentence, music, an image) that recurs at the beginning and at the end? If so, how has it changed by the end? Note it in one sentence: “At the beginning …, at the end ….”",
+  "terimler": [
+    {
+      "tr": "Gelişim",
+      "en": "development",
+      "tanim": "The progression of formal elements in a particular direction from the beginning of a film to its end."
+    },
+    {
+      "tr": "Kapanış (kapalı son)",
+      "en": "closure",
+      "tanim": "The answering of questions and resolution of conflicts at the end of a film."
+    },
+    {
+      "tr": "Birlik",
+      "en": "unity",
+      "tanim": "The forming of a whole by all the elements of a film, each functional and bound to the others."
+    },
+    {
+      "tr": "Birliksizlik",
+      "en": "disunity",
+      "tanim": "The presence of elements that don’t connect, or that deliberately break the film’s wholeness."
+    },
+    {
+      "tr": "Beklenti",
+      "en": "expectation",
+      "tanim": "The viewer’s prediction, based on formal cues, of what will happen next."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Week 1 review day: we’ll tie together all the ideas of the week, from the three faces of cinema to the principles of the formal system, and get ready for the weekend film."
+}

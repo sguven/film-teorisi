@@ -1,0 +1,89 @@
+{
+  "hafta": 2,
+  "gun": 6,
+  "tarih": "2026-10-17",
+  "tur": "film",
+  "baslik": "Film day — Rashomon (and, optionally, Memento)",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "Every narrative concept you learned this week actually names a piece of work the viewer does in their head; today you will do that work deliberately: you will try to build a story in your mind from what is shown on screen (the plot) and notice where that becomes difficult.",
+  "bolumler": [
+    {
+      "baslik": "Which one should you start with?",
+      "html": "<p><b>Rashomon first</b> (Akira Kurosawa, 1950, about 88 minutes). This is the week’s required film, and your analysis assignment is based on it. It is short and dense, and it should be watched in one sitting. If you have the time and energy left, watch <b>Memento</b> (Christopher Nolan, 2000, about 113 minutes) on another day; watching the two back to back blurs them both. Both films ask the same question by different routes: does the narration we are given allow us to build a reliable story?</p><p>A practical note: if possible, watch Rashomon with good subtitles; small differences in wording between the testimonies matter. Keep your notebook nearby, but don’t keep pausing on a first viewing; just jot down whatever catches your attention in a few words.</p>"
+    },
+    {
+      "baslik": "Rashomon: what to watch for",
+      "html": "<p>The film’s setup (not a spoiler; it is established in the first few minutes): three men sheltering from the rain at a ruined city gate are discussing an incident that took place in a forest. The incident is retold by different people, in different ways. As you watch, pay attention to these four axes:</p><ol><li><b>Three layers of time.</b> The film interweaves at least three time frames: the “present” of the conversation at the gate, the testimonies in court, and the incident in the forest that is enacted within those testimonies. Ask yourself: which layer am I in right now, and who is telling me this scene? This is the week’s topic of <b>order</b>: the plot breaks up the chronology of the story and rearranges it.</li><li><b>The same event, repeated.</b> The incident in the forest is shown more than once. This is the purest example of <b>frequency</b>, the concept you met on Day 4: something that happens once in the story is told several times in the plot. With each repetition, note what <b>stays the same</b> and what <b>changes</b>. The principle of repetition and variation from Week 1 is directly at work here.</li><li><b>Range and depth of narration.</b> Is each testimony limited to what the teller knows and saw (<b>restricted narration</b>), or does the camera sometimes show things the teller could not have seen? Does the camera enter a character’s eyes (<b>subjective depth</b>), or does it look on from the outside? The answer may not be the same for every testimony, and that is what makes it interesting.</li><li><b>Reliability.</b> Don’t think about whether the film gives us “the truth”; think about <b>why</b> each narrator tells the story the way they do. What does each testimony say about how the teller wants to be seen? That is exactly your analysis assignment.</li></ol>"
+    },
+    {
+      "baslik": "Three concrete tips on form",
+      "html": "<ul><li><b>The courtroom scenes.</b> Notice whom the witnesses are speaking to. Can you see the questioner? Can you hear him? Where does this choice place you, the viewer? This small formal decision is the key to the narrational logic of the entire film.</li><li><b>Forest and light.</b> In the forest scenes, look at the sunlight filtering through the leaves, the way shadows play across faces, and the moments when the camera moves a great deal (the cinematographer is Kazuo Miyagawa). Compare them with the static, rain-soaked scenes at the gate: how does the visual language of the two settings tell you which layer of time each belongs to?</li><li><b>Music and sound.</b> Notice which scenes Fumio Hayasaka’s music enters. The music is a <b>nondiegetic</b> element: the characters don’t hear it, but you do. Does the music make it easier for you to believe a testimony, or does it make you keep your distance? The sound of the rain, on the other hand, is <b>diegetic</b>: it belongs to the story world.</li></ul>"
+    },
+    {
+      "baslik": "A short note template to use while watching",
+      "html": "<p>One line for each testimony: <b>Who is telling it? · To whom? · How do they present themselves? · What is the most important difference from the previous version?</b> When the film ends, these lines will be the skeleton of your analysis assignment.</p>"
+    },
+    {
+      "baslik": "Memento (optional): what to watch for",
+      "html": "<p>This film’s basic rule is also established at the outset: a man who has lost his short-term memory is trying to solve something with the help of notes and photographs. The film has two separate narrative lines, one in color and one in black and white. As you watch:</p><ul><li>Which line moves forward through the story’s chronology, and which moves backward? Work it out yourself; you will never experience the story/plot (<i>fabula/syuzhet</i>) distinction from Day 2 more concretely than this.</li><li>As a viewer, how close is your level of knowledge to the protagonist’s? By restricting the range, the film puts you in his situation. How is this different from the restricted narration in Rashomon?</li><li>At the start of each scene, ask: “What is its causal link to the previous scene?” You are forced to build causality backward; work you normally do automatically becomes visible.</li></ul>"
+    },
+    {
+      "baslik": "Where are this week’s concepts in the film?",
+      "html": "<ul><li><b>Story / plot</b> (<i>fabula / syuzhet</i>): in Rashomon, a single event and several plot versions of it. In Memento, the viewer reconstructing the chronology in their head.</li><li><b>Causality</b>: in Rashomon, “why” the event unfolded as it did changes with each testimony. In Memento, moving from effect to cause.</li><li><b>Time: order, duration, frequency</b>: in Rashomon, three layers of time and the repetition of the same event. In Memento, the opposite directions of the two lines.</li><li><b>Range and depth</b>: in Rashomon, images restricted to what each narrator knows. In Memento, a viewer locked into the limits of the protagonist’s memory.</li><li><b>Diegetic / nondiegetic</b>: in Rashomon, the sound of the rain and the music. In Memento, the voice-over and the music.</li></ul>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Rashomon’s question, “Who is telling this, and how far can I trust them?”, will come back in Week 31, with Bordwell’s account of the viewer’s active, hypothesis-forming mind, and in Week 43, in the discussion of how truth is constructed in documentary.</p>"
+    },
+    {
+      "baslik": "After watching",
+      "html": "<p><b>After watching, write down your thoughts — we’ll discuss them.</b> Bring your first impressions, the lines from your note template, and the moment that disturbed or surprised you most.</p>"
+    }
+  ],
+  "gozlem": "Today, while talking with someone about an event (or in a news story or social media post), catch two different accounts of the same event. For each, write one sentence on what was left out and how the teller positions themselves. You will have seen Rashomon’s method at work in everyday life.",
+  "terimler": [
+    {
+      "tr": "Anlatım",
+      "en": "narration",
+      "tanim": "The process by which the plot conveys story information to the viewer: in what order, how much, and through whose eyes."
+    },
+    {
+      "tr": "Sıklık",
+      "en": "frequency",
+      "tanim": "How many times an event that occurs a given number of times in the story is shown in the plot."
+    },
+    {
+      "tr": "Sınırlı anlatım",
+      "en": "restricted narration",
+      "tanim": "Narration that limits the viewer’s knowledge to what one character knows."
+    },
+    {
+      "tr": "Öznel derinlik",
+      "en": "subjective depth",
+      "tanim": "Narration that enters a character’s perception or mind (point-of-view shot, inner voice, memory)."
+    },
+    {
+      "tr": "Güvenilmez anlatıcı",
+      "en": "unreliable narrator",
+      "tanim": "A narrator about whom the film offers cues that lead us to doubt the accuracy of what they tell."
+    },
+    {
+      "tr": "Dış ses",
+      "en": "voice-over",
+      "tanim": "A narrating voice added over the image, heard without anyone speaking on screen."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "Memento",
+      "yil": 2000,
+      "yonetmen": "Christopher Nolan"
+    }
+  ],
+  "yarin": "Tomorrow is the Week 2 quiz day: a test on story/plot, narration and diegesis, plus an analysis assignment in which you compare the accounts in Rashomon in terms of range and reliability."
+}

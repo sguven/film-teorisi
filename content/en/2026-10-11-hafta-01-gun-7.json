@@ -1,0 +1,175 @@
+{
+  "hafta": 1,
+  "gun": 7,
+  "tarih": "2026-10-11",
+  "tur": "sinav",
+  "baslik": "Quiz day: What is form?",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "To understand a film is to see what its elements do within the whole, how they repeat, and how they return transformed; every concept you learned this week serves this single skill.",
+  "bolumler": [
+    {
+      "baslik": "What are we doing today?",
+      "html": "<p>We are wrapping up Week 1. First, take the 10-question multiple-choice test on the week’s concepts without looking at the book; then write answers to the syllabus’s three short-answer questions and complete the analysis task. The point is not to earn a grade but to see which concepts haven’t settled in yet.</p><ul><li>Several options may look “partly right”; choose the one that expresses the concept most completely.</li><li>Bordwell and Thompson’s concepts are descriptive; be suspicious of options that contain value judgments.</li><li>Some questions are asked through <i>Citizen Kane</i>: knowing the name of a principle isn’t enough — you need to be able to see it in a scene.</li></ul><p><b>Phase note:</b> Phase I (Foundations, Weeks 1–5) has begun; the phase exam comes at the end of Week 5. In Week 2 we move on to narrative.</p>"
+    }
+  ],
+  "quiz": [
+    {
+      "soru": "According to Bordwell and Thompson, which three dimensions must be considered together to understand cinema?",
+      "secenekler": [
+        "Screenplay, acting and music",
+        "Creativity (art), technology and industry",
+        "Director, producer and audience",
+        "Image, sound and editing"
+      ],
+      "dogru": 1,
+      "aciklama": "Creative decisions are made within technological possibilities and an industrial order; the other options are components of a film."
+    },
+    {
+      "soru": "What is the most accurate explanation of the movement we see on the screen?",
+      "secenekler": [
+        "The film strip contains a single, continuously moving image",
+        "Our visual system perceives still frames shown in rapid succession as movement",
+        "The flicker of the projector tires the eye and creates a sense of movement",
+        "We see movement on screen because the camera moves constantly during shooting"
+      ],
+      "dogru": 1,
+      "aciklama": "<i>Apparent motion</i>: it arises from our motion perception fusing still frames; we see movement even when the camera is stationary."
+    },
+    {
+      "soru": "Which is the correct order of the stages of production?",
+      "secenekler": [
+        "Shooting → screenplay and financing → preparation → editing",
+        "Preparation → screenplay and financing → editing → shooting",
+        "Screenplay and financing → <i>preproduction</i> → <i>production</i> → editing and assembly (<i>postproduction</i>)",
+        "Screenplay → editing → preparation → shooting"
+      ],
+      "dogru": 2,
+      "aciklama": "Script and money → preparation → shooting → editing and sound; then distribution and exhibition."
+    },
+    {
+      "soru": "Why do Bordwell and Thompson find the form/content distinction misleading?",
+      "secenekler": [
+        "Content is unimportant; only form matters",
+        "Form is merely visual style and has nothing to do with content",
+        "What we think of as content (subject, theme, character) gains meaning and effect only within form, through the relationships among elements",
+        "Every film’s content is actually the same"
+      ],
+      "dogru": 2,
+      "aciklama": "Form is not a container for content; the same story told in a different order or from a different point of view is a different experience. Option A simply reverses the distinction and still splits the film in two."
+    },
+    {
+      "soru": "Which of the following is NOT one of the five principles of a formal system?",
+      "secenekler": [
+        "<i>Function</i>",
+        "<i>Similarity and repetition</i>",
+        "<i>Realism</i>",
+        "<i>Development</i>"
+      ],
+      "dogru": 2,
+      "aciklama": "The five principles are: function; similarity and repetition; difference and variation; development; unity/disunity. Realism belongs to debates about style and theory (Weeks 10–12)."
+    },
+    {
+      "soru": "What does it mean to look at the <i>newsreel</i> section of <i>Citizen Kane</i> through the principle of “function”?",
+      "secenekler": [
+        "Assessing whether it is technically well shot",
+        "Asking what job it does within the whole: e.g., giving the viewer the outline of a life while leaving the central question open",
+        "Researching whether it was taken from a real newsreel",
+        "Deciding whether it is our favorite part of the film"
+      ],
+      "dogru": 1,
+      "aciklama": "The newsreel gives the outer contours of the life but doesn’t explain what the last word means; it sets the investigation in motion. A and D are value judgments; C is a question of production history."
+    },
+    {
+      "soru": "What is the effect called when a film deliberately frustrates an expectation it has built?",
+      "secenekler": [
+        "<i>Surprise</i>",
+        "<i>Suspense</i>",
+        "<i>Curiosity</i>",
+        "<i>Motif</i>"
+      ],
+      "dogru": 0,
+      "aciklama": "When an expectation is overturned, we get surprise; when it is delayed, suspense; a question about past events we haven’t been shown produces curiosity."
+    },
+    {
+      "soru": "In formal analysis, what is a “motif”?",
+      "secenekler": [
+        "The film’s main theme",
+        "The director’s reason for making the film",
+        "An element (image, object, line of dialogue, sound, color, etc.) that recurs meaningfully throughout the film",
+        "A striking object that appears only once in a scene"
+      ],
+      "dogru": 2,
+      "aciklama": "The motif is the most concrete form of the principle of repetition; don’t confuse it with “motivation.”"
+    },
+    {
+      "soru": "What is the most practical way to examine the pattern of <i>development</i>?",
+      "secenekler": [
+        "Measuring the film’s running time",
+        "Comparing the beginning with the end and tracing the path between them (a journey, an investigation, a timeline)",
+        "Examining only the most exciting scene",
+        "Looking at box-office returns"
+      ],
+      "dogru": 1,
+      "aciklama": "Comparing beginning and end makes the path the film follows visible; this is exactly what the analysis task asks for."
+    },
+    {
+      "soru": "From a formal point of view, how should we assess some questions being left unanswered?",
+      "secenekler": [
+        "It is always a flaw",
+        "It has nothing to do with form; it is a problem with the screenplay",
+        "Unity is never total; some loose ends can work as deliberate <i>disunity</i>",
+        "It shows that the viewer misunderstood the film"
+      ],
+      "dogru": 2,
+      "aciklama": "Unity is a matter of degree; disunity is not in itself a defect."
+    }
+  ],
+  "soru_baslik": "Short-answer questions",
+  "sorular": [
+    "Why is the form/content distinction misleading? Explain in your own words, with an example from a film (4–6 sentences).",
+    "List the five principles of a formal system and define each in a single sentence.",
+    "How do expectation and surprise work in form? Show the difference between suspense, surprise and curiosity with one example of each."
+  ],
+  "analiz": "<p><b>Task:</b> Compare the opening and the ending of <i>Citizen Kane</i> through the principles of repetition and variation. 600–900 words.</p><p><b>Preparation:</b> Rewatch the first and last five minutes or so back to back. For each, make a list: places, objects, written words, sounds; where the camera starts and where it goes; lighting and music.</p><ol><li><b>Repetition:</b> At least three concrete elements from the opening that return in the ending.</li><li><b>Variation:</b> How do these elements change when they return? Look at the direction of the camera’s movement, the order of the elements, and what the viewer now knows.</li><li><b>Expectation:</b> What question does the opening set up? Does the ending give the same answer to the viewer and to the characters? What does that difference mean?</li><li><b>Development and unity:</b> What shape does the echo between opening and ending give the film? Does the film close, or does it leave a deliberate loose end?</li><li><b>Form and meaning:</b> How does this pattern relate to what the film says about knowing another person? Discuss it without separating “content” from “form.”</li></ol><p><b>Criteria:</b> concrete observation; correct use of concepts; explaining what the differences accomplish; a persuasive link between form and meaning. Write your own analysis before reading any commentary.</p>",
+  "gozlem": "Compare the first and last 30 seconds of an episode of a series or a short video you watched this week: does an element seen at the start (a place, a piece of music, a line of dialogue) return at the end? How has it changed? Note it down in two sentences.",
+  "terimler": [
+    {
+      "tr": "Tekrar",
+      "en": "repetition",
+      "tanim": "The reappearance of an element across a film, building a pattern."
+    },
+    {
+      "tr": "Varyasyon (fark)",
+      "en": "variation / difference",
+      "tanim": "The return of a recurring element in altered form; meaning often arises from this difference."
+    },
+    {
+      "tr": "Motif",
+      "en": "motif",
+      "tanim": "An image, object, sound or line of dialogue that recurs meaningfully throughout a film."
+    },
+    {
+      "tr": "Gelişim",
+      "en": "development",
+      "tanim": "The pattern that elements follow from beginning to end; it becomes visible when the beginning is compared with the end."
+    },
+    {
+      "tr": "Sürpriz / gerilim / merak",
+      "en": "surprise / suspense / curiosity",
+      "tanim": "Effects created when an expectation is overturned, delayed, or left open with respect to past events."
+    },
+    {
+      "tr": "Birlik / birliksizlik",
+      "en": "unity / disunity",
+      "tanim": "How tightly a film’s elements are bound together; loose ends can be a deliberate choice."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Week 2 begins: Narrative. We start with the difference between story (<i>fabula</i>) and plot (<i>syuzhet</i>); the film of the week is <i>Rashomon</i> (Kurosawa, 1950)."
+}

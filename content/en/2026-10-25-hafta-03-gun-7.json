@@ -1,0 +1,189 @@
+{
+  "hafta": 3,
+  "gun": 7,
+  "tarih": "2026-10-25",
+  "tur": "sinav",
+  "baslik": "Exam — Mise-en-scène and cinematography",
+  "film": "Tokyo Story (Ozu, 1953) and the opening of Touch of Evil (Welles, 1958)",
+  "tek_cumle": "A shot’s meaning arises from two sets of decisions working together: what is placed in front of the camera (mise-en-scène) and how it is recorded (cinematography).",
+  "bolumler": [
+    {
+      "baslik": "How to work",
+      "html": "<p>Today has three parts: (1) a 10-question multiple-choice test, (2) the three short-answer questions from the syllabus, and (3) the week’s analysis assignment. Do the test first without looking at the answer key; write your answers on a sheet of paper, then compare them with the key at the end. Write out your short answers and your analysis as well — they’ll be read and assessed the way a teacher would. Total time: 30–45 minutes.</p>"
+    },
+    {
+      "baslik": "A short review of the week",
+      "html": "<p>On Monday and Tuesday we covered <i>mise-en-scène</i> (French for “putting into the scene”). <i>Film Art</i> divides it into four components: <i>setting</i>, <i>costume and makeup</i>, <i>lighting</i>, and <i>staging: movement and performance</i>. In lighting, we discussed <i>three-point lighting</i>, made up of the <i>key light</i>, the <i>fill light</i> and the <i>backlight</i>, and the difference between <i>high-key</i> and <i>low-key</i> lighting.</p><p>From Wednesday to Friday we moved on to <i>cinematography</i>: the photographic qualities of the image (tonality, speed, perspective as shaped by the lens’s focal length), <i>framing</i> (aspect ratio, camera angle, height and distance, onscreen and offscreen space), camera movement (<i>pan, tilt, tracking, crane</i>) and <i>duration</i> (the <i>long take</i>). <i>Deep focus</i> keeps several planes sharp and leaves the viewer some freedom to choose where to look; <i>shallow focus</i> and <i>rack focus</i>, by contrast, make that choice on the director’s behalf.</p><p>The week’s two films stand at opposite poles: Ozu’s <i>Tokyo Story</i>, with its low, static camera, calm compositions and shots of places; and the opening of Welles’s <i>Touch of Evil</i>, which, in a cutless, crane-borne sequence shot (<i>plan-séquence</i>) of more than three minutes, generates suspense through camera movement instead of editing.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Deep focus and the long take, which you learned to name this week, will take center stage in Bazin’s theory of realism in Week 10; there, these techniques will stop being a mere “style” and become a philosophy of cinema.</p>"
+    }
+  ],
+  "quiz": [
+    {
+      "soru": "According to <i>Film Art</i>’s classification, which of the following is <b>not</b> one of the four components of mise-en-scène?",
+      "secenekler": [
+        "Setting",
+        "Lighting",
+        "Editing",
+        "Costume and makeup"
+      ],
+      "dogru": 2,
+      "aciklama": "Editing concerns the relationship between shots; mise-en-scène is what is placed in front of the camera within a single shot."
+    },
+    {
+      "soru": "In three-point lighting, which is the strongest, most directional light, the one that does the main modeling of the face?",
+      "secenekler": [
+        "<i>Fill light</i>",
+        "<i>Key light</i>",
+        "<i>Backlight</i>",
+        "<i>Top light</i>"
+      ],
+      "dogru": 1,
+      "aciklama": "The key light is the main source; the fill light softens its shadows, and the backlight separates the figure from the background."
+    },
+    {
+      "soru": "Which type of lighting, common in film noir, produces sharp shadows and high contrast?",
+      "secenekler": [
+        "<i>High-key</i>",
+        "Flat/diffuse lighting",
+        "<i>Low-key</i>",
+        "Natural window light"
+      ],
+      "dogru": 2,
+      "aciklama": "Because low-key lighting uses little fill light, it produces strong shadows and contrast."
+    },
+    {
+      "soru": "In a scene, an object in the foreground and a character in the background are both in sharp focus at the same time. What is this technique called, and what does it do for the viewer?",
+      "secenekler": [
+        "Shallow focus; it locks attention onto a single point.",
+        "Deep focus; it allows the viewer to read several planes together and choose where to look.",
+        "Rack focus; it shifts attention from one plane to another.",
+        "Soft focus; it gives the image a romantic, hazy quality."
+      ],
+      "dogru": 1,
+      "aciklama": "Deep focus keeps several planes sharp and leaves the viewer some freedom to choose where to look."
+    },
+    {
+      "soru": "Which statement about the spatial effect of a long-focal-length (telephoto) lens is correct?",
+      "secenekler": [
+        "It exaggerates depth, pushing planes apart.",
+        "It suppresses depth, making planes look closer together and flattened.",
+        "It creates noticeable bending of lines at the edges.",
+        "It has no effect on perspective; it only changes sharpness."
+      ],
+      "dogru": 1,
+      "aciklama": "A telephoto lens compresses and flattens planes; it is the wide-angle lens that exaggerates depth."
+    },
+    {
+      "soru": "Which is the most accurate description of the camera position in Ozu’s <i>Tokyo Story</i>?",
+      "secenekler": [
+        "A constantly moving handheld camera",
+        "A low, mostly static camera near the eye level of someone seated on a tatami mat",
+        "A bird’s-eye angle looking down on the characters",
+        "A camera far above eye level, constantly rising on a crane"
+      ],
+      "dogru": 1,
+      "aciklama": "Ozu’s camera is low, near the eye level of a seated person, and mostly static."
+    },
+    {
+      "soru": "What is the main method Welles uses to build suspense in the opening of <i>Touch of Evil</i>?",
+      "secenekler": [
+        "Fast, rhythmic cutting",
+        "A long, cutless sequence shot moving on a crane; the viewer knows about the bomb and waits for the explosion within the shot",
+        "A static camera and long silence",
+        "A flashback narrated in the character’s inner voice"
+      ],
+      "dogru": 1,
+      "aciklama": "The opening is a cutless crane shot; because we know the bomb is there, suspense arises from the shot’s duration."
+    },
+    {
+      "soru": "Which statement about <i>offscreen space</i> is false?",
+      "secenekler": [
+        "A character looking out of frame activates that space in the viewer’s mind.",
+        "A sound coming from offscreen establishes the existence of a space we cannot see.",
+        "Offscreen space can also include the area behind the camera and behind the set.",
+        "Offscreen space only arises through editing; it has no function within a single shot."
+      ],
+      "dogru": 3,
+      "aciklama": "Offscreen space is constantly at work within a single shot, too, through glances, sounds, entrances and exits."
+    },
+    {
+      "soru": "Which is the most balanced interpretation of filming a character from a <i>low angle</i>?",
+      "secenekler": [
+        "It always makes the character look powerful; this is a fixed rule.",
+        "It often gives an impression of power or menace, but its meaning is determined by context and by the film’s own formal system.",
+        "It always makes the character look weak.",
+        "It carries no meaning at all; it is purely technical."
+      ],
+      "dogru": 1,
+      "aciklama": "There is no fixed dictionary of angles; meaning depends on context and on the film’s formal system."
+    },
+    {
+      "soru": "In terms of formal system (Week 1), how is Ozu’s use of the same low camera height in almost every interior best explained?",
+      "secenekler": [
+        "A technical limitation; he couldn’t use any other position.",
+        "A norm the film establishes internally; thanks to repetition, small deviations and changes in composition become meaningful.",
+        "A random habit with nothing to do with meaning.",
+        "A strict application of classical Hollywood continuity rules."
+      ],
+      "dogru": 1,
+      "aciklama": "The repeated camera height is the film’s internal norm; that is why small deviations from it are noticeable and meaningful."
+    }
+  ],
+  "soru_baslik": "Short-answer questions (from the syllabus) — answer each in 3–5 sentences, with a film example if possible",
+  "sorular": [
+    "What are the four components of mise-en-scène? Give an example of each from this week’s films.",
+    "How do deep focus and shallow focus change meaning? Explain in terms of the viewer’s attention and the relationships within the scene.",
+    "Why does <i>offscreen</i> space matter? Name at least two ways it is created (glances, sound, entrances and exits, etc.)."
+  ],
+  "analiz": "<p><b>Assignment (300–500 words):</b> Analyze a scene from <i>Tokyo Story</i> in terms of camera height, framing and staging.</p><p><b>How you might approach it:</b></p><ul><li>Choose a short (1–3 minute) interior scene with at least two characters in it. When describing the scene, describe the image, not the plot.</li><li><b>Camera height:</b> Where is the camera placed? What kind of relationship does this height establish between the characters and us (closeness, distance, respect, observation)?</li><li><b>Framing:</b> Are there frames within the frame, such as doors, windows or sliding panels? Is the composition symmetrical? How do we know what is happening offscreen?</li><li><b>Staging:</b> How are the characters arranged relative to the camera (side by side, in parallel, facing the same direction)? How do the distances between them in the space express their emotional relationship?</li><li><b>Formal system:</b> How are the choices in this scene repeated or varied in other scenes of the film? (Use the principle of repetition and variation from Week 1.)</li><li>In your final paragraph, make a single claim: “In this scene, form produces a feeling of … by means of ….”</li></ul><p>Write up your analysis — it will get candid feedback on its strengths, its gaps, and any concepts you’ve used incorrectly.</p>",
+  "gozlem": "Pause a conversation scene in any series or video you watch this evening. Note whether the camera is at eye level, below it or above it, and whether the background is sharp or blurred. Ask yourself: whom does this choice bring me closer to?",
+  "terimler": [
+    {
+      "tr": "Mizansen",
+      "en": "mise-en-scène",
+      "tanim": "Everything placed in front of the camera: setting, costume and makeup, lighting and staging."
+    },
+    {
+      "tr": "Anahtar ışık",
+      "en": "key light",
+      "tanim": "The main, strongest and most directional light source in a scene."
+    },
+    {
+      "tr": "Düşük anahtarlı aydınlatma",
+      "en": "low-key lighting",
+      "tanim": "Lighting that uses little fill light to produce sharp shadows and high contrast."
+    },
+    {
+      "tr": "Derin odak",
+      "en": "deep focus",
+      "tanim": "A shooting technique that keeps the foreground, middle ground and background in sharp focus at the same time."
+    },
+    {
+      "tr": "Plan-sekans",
+      "en": "sequence shot",
+      "orijinal": "plan-séquence",
+      "tanim": "A shot that presents an entire scene in a single long take, without cutting."
+    },
+    {
+      "tr": "Kadraj dışı alan",
+      "en": "offscreen space",
+      "tanim": "Space we cannot see but whose presence we sense through glances, sound and movement."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Tomorrow Week 4 begins: <i>editing</i>. We enter the continuity system through the graphic, rhythmic, spatial and temporal relations between shots."
+}

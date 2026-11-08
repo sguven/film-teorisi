@@ -1,0 +1,77 @@
+{
+  "hafta": 2,
+  "gun": 5,
+  "tarih": "2026-10-16",
+  "tur": "ders",
+  "baslik": "Depth of Narration, Reliability and Diegesis",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 3 (narrative form), the subsections on depth of story information and the narrator.",
+  "film": "Rashomon (Kurosawa, 1950)",
+  "tek_cumle": "A film chooses not only <b>how much</b> information to give us (range) but also <b>how far inside</b> a character we will be when we receive it (depth); Rashomon shows that this second choice is never innocent.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>1. From range to depth.</b> Yesterday we looked at the range of story information: is the camera restricted to what one character knows, or can it go anywhere? Today’s question lies on a different axis: the depth of story information. When we stay with a character, do we see them only from the outside, or do we also share what they see, hear, remember and imagine? Bordwell and Thompson make an important point here: these two axes are independent of each other. A film can bind itself tightly to a single character in terms of range and yet show that character entirely from the outside; conversely, an unrestricted narration can enter the minds of many characters in turn.</p><p><b>2. Objective and subjective narration.</b> At one end of the depth scale is objective narration: we see what the characters do and hear what they say, but we do not enter their minds; it is up to us to infer their inner lives from their behavior. At the other end is subjective narration. The book divides it into two levels:</p><ul><li><b>Perceptual subjectivity</b>: we share the character’s perception. Its best-known device is the point-of-view shot (optical POV), in which the camera takes the place of the character’s eyes. Sound can do the same: a sound that is muffled, distant or blurred, just as the character hears it (sound perspective).</li><li><b>Mental subjectivity</b>: we go one step further inside. Inner voice, fantasies, dreams, memories and, above all, the flashback belong to this level.</li></ul><p>Most films move back and forth between these two poles. Directors like Hitchcock build suspense precisely out of this oscillation: first we watch a character from the outside, then we get a shot from their point of view, then we are outside again. The key point is this: depth is a <b>matter of degree</b>, not an on/off switch.</p><p><b>3. Narration and narrator are not the same thing.</b> Bordwell calls the process that distributes information across the whole film narration; most of the time this process is not tied to any person. Sometimes, however, a film introduces a narrator. The narrator is either a character from inside the story (a character narrator) or a voice that stays outside the story (a noncharacter narrator), such as the voice-over in a documentary or in a fairy-tale film. Note that even a film narrated in voice-over by one of its characters can show things that character could not possibly know. The narrator’s words and the film’s images do not always line up, and that gap is one of the most fruitful areas for analysis.</p><p><b>4. Unreliable narration.</b> As viewers we usually trust the image; we watch on the assumption that “the camera doesn’t lie.” Unreliable narration exploits that assumption: a character tells a false or distorted story, and for a while the film backs it up with images. In classical Hollywood this was controversial because it was seen as “cheating” the audience, which is why the lying flashback in Hitchcock’s <i>Stage Fright</i> (1950) is so famous. The theoretical lesson is this: a subjective scene is always a <b>claim</b>, not evidence. A flashback does not say “this happened”; it says “this character says it happened this way.” But because cinema presents both in the same visual language, it is up to us to draw the distinction.</p><p><b>5. Diegesis: the world of the story.</b> One of this week’s quiz questions looks directly at this. Diegesis (from the Greek; it entered film theory through the French filmology circle as <i>la diégèse</i>) means the story world the film creates: the characters, places, events and everything else that exists in that world. If an element belongs to that world, it is diegetic: radio music the characters can hear, the sound of rain, the lettering on a sign. If it lies outside that world, it is nondiegetic: most film scores, the credits, a voice-over narrator, intertitles the characters cannot see. A simple test: “Could the characters perceive this?” If yes, it is diegetic; if not, it is nondiegetic. The plot (<i>syuzhet</i>) can include nondiegetic material, whereas the story (<i>fabula</i>) is built only from diegetic events. In Week 4, in the unit on sound, we will look at this distinction in much more detail; the borderline cases (for example, music that starts as diegetic and turns nondiegetic) will be our main interest there.</p>"
+    },
+    {
+      "baslik": "Example: Rashomon",
+      "html": "<p>Look at the courtroom scenes in Rashomon. The witnesses speak directly to the camera, that is, to us. We never see the magistrate conducting the inquiry, nor do we hear his questions; we infer each question only from the witnesses’ answers. The camera takes the magistrate’s seat and, in effect, makes the viewer the judge. This is an interesting restriction in terms of range, but it is even more interesting in terms of depth: each testimony opens onto a flashback, which means we move into mental subjectivity. The accounts given by Tajōmaru, the wife, the dead samurai (speaking through a medium) and the woodcutter contradict one another.</p><p>Here is the crucial point: Kurosawa does not set these four versions apart visually. None of them carries a filter or a marker that says “this is a lie”; each time, the images in the forest flow with the same vividness and certainty. The image carries all the authority of objective narration, yet its content is a subjective claim. In this way the film undermines the belief that a flashback is a neutral record and leaves the question of reliability to the viewer’s judgment. The frame story adds to this: at the Rashōmon gate, the woodcutter, the priest and the commoner are listeners, and the testimonies are testimonies relayed to them. There are narratives within a narrative, and further narratives within those.</p><p>Listen carefully with diegesis in mind, too: the sound of the rain at the gate is diegetic; the characters hear it and raise their voices to speak over it. The music accompanying the forest scenes, by contrast, is largely nondiegetic; the characters do not hear it, but it guides how we feel about each version. In other words, a nondiegetic element quietly shapes the emotional color in which each person’s account is presented.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea that “the image is a claim” is the very starting point for the theories of suture and ideology in Phase IV (Weeks 19–29), which ask how the viewer becomes bound to the image.</p>"
+    }
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "sorular": [
+    "Why are range and depth independent axes? Give an example of a narration that is restricted but objective.",
+    "Explain the difference between perceptual subjectivity and mental subjectivity, using one film technique for each.",
+    "Under what conditions is a piece of film music diegetic, and under what conditions is it nondiegetic? Can you think of a case where the test you used reaches its limits?"
+  ],
+  "gozlem": "In a TV episode, ad or YouTube video you watch today, focus only on the sound for two minutes. Write every sound you hear into one of two columns: diegetic / nondiegetic. Then ask yourself: what were the nondiegetic sounds (music, voice-over, effects) telling you to feel, or whom to believe?",
+  "terimler": [
+    {
+      "tr": "Anlatımın derinliği",
+      "en": "depth of story information",
+      "tanim": "How far the narration enters a character’s perceptions and mind."
+    },
+    {
+      "tr": "Algısal öznellik",
+      "en": "perceptual subjectivity",
+      "tanim": "Sharing what a character sees and hears (e.g., the point-of-view shot)."
+    },
+    {
+      "tr": "Zihinsel öznellik",
+      "en": "mental subjectivity",
+      "tanim": "Access to a character’s inner voice, memories and fantasies (e.g., the flashback)."
+    },
+    {
+      "tr": "Güvenilmez anlatım",
+      "en": "unreliable narration",
+      "tanim": "Narration that gives us false or distorted story information."
+    },
+    {
+      "tr": "Diegesis",
+      "en": "diegesis",
+      "orijinal": "Fr. diégèse",
+      "tanim": "The story world the film creates, in which the characters live."
+    },
+    {
+      "tr": "Diegetik olmayan",
+      "en": "nondiegetic",
+      "tanim": "An element coming from outside the story world that the characters cannot perceive (film score, credits, voice-over)."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Rashomon",
+      "yil": 1950,
+      "yonetmen": "Akira Kurosawa"
+    },
+    {
+      "ad": "Stage Fright",
+      "yil": 1950,
+      "yonetmen": "Alfred Hitchcock"
+    }
+  ],
+  "yarin": "Tomorrow is film day: with a spoiler-free viewing guide to Rashomon, we will bring all of this week’s concepts (story/plot, causality, time, range, depth) together in a single film."
+}

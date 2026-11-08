@@ -1,0 +1,389 @@
+[
+  {
+    "faz": "I",
+    "ad": "Foundations",
+    "baslangic": 1,
+    "bitis": 5,
+    "aciklama": "Language before theory: you can’t discuss theory until you can name a shot, a cut, a sound. This phase builds the vocabulary of analysis.",
+    "haftalar": [
+      {
+        "hafta": 1,
+        "hafta_bitis": null,
+        "baslik": "What is form?",
+        "film": "Citizen Kane (Welles, 1941)"
+      },
+      {
+        "hafta": 2,
+        "hafta_bitis": null,
+        "baslik": "Narrative",
+        "film": "Rashomon (Kurosawa, 1950); optional Memento (Nolan, 2000)"
+      },
+      {
+        "hafta": 3,
+        "hafta_bitis": null,
+        "baslik": "Mise-en-scène and cinematography",
+        "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958) opening long take"
+      },
+      {
+        "hafta": 4,
+        "hafta_bitis": null,
+        "baslik": "Editing and sound",
+        "film": "À bout de souffle (Godard, 1960) + The Conversation (Coppola, 1974)"
+      },
+      {
+        "hafta": 5,
+        "hafta_bitis": null,
+        "baslik": "What is film theory? Draw the map",
+        "film": "Sherlock Jr. (Keaton, 1924)"
+      }
+    ]
+  },
+  {
+    "faz": "II",
+    "ad": "Classical theory",
+    "baslangic": 6,
+    "bitis": 12,
+    "aciklama": "The central quarrel of classical theory: is what makes cinema an art its transformation of reality (the formalists, montage) or its recording of reality (the realists)? By the end of this phase you should be able to argue both sides.",
+    "haftalar": [
+      {
+        "hafta": 6,
+        "hafta_bitis": null,
+        "baslik": "Is cinema an art? Münsterberg and Arnheim",
+        "film": "Sunrise (Murnau, 1927); Das Cabinet des Dr. Caligari (Wiene, 1920)"
+      },
+      {
+        "hafta": 7,
+        "hafta_bitis": null,
+        "baslik": "The face, photogénie and the cinema of attractions",
+        "film": "Lumière short films (1895–97); Le Voyage dans la Lune (Méliès, 1902); La Passion de Jeanne d'Arc (Dreyer, 1928)"
+      },
+      {
+        "hafta": 8,
+        "hafta_bitis": null,
+        "baslik": "Soviet montage I: Kuleshov, Pudovkin, Vertov",
+        "film": "Chelovek s kino-apparatom / Man with a Movie Camera (Vertov, 1929); Mat (Pudovkin, 1926)"
+      },
+      {
+        "hafta": 9,
+        "hafta_bitis": null,
+        "baslik": "Soviet montage II: Eisenstein",
+        "film": "Bronenosets Potyomkin (1925) Odessa Steps; Oktyabr (1928) “gods” sequence; modern example: The Godfather (1972) baptism sequence"
+      },
+      {
+        "hafta": 10,
+        "hafta_bitis": null,
+        "baslik": "Bazin I: ontology and deep focus",
+        "film": "La Règle du jeu (Renoir, 1939); The Best Years of Our Lives (Wyler, 1946)"
+      },
+      {
+        "hafta": 11,
+        "hafta_bitis": null,
+        "baslik": "Bazin II and Italian Neorealism",
+        "film": "Ladri di biciclette (De Sica, 1948); Roma città aperta (Rossellini, 1945); Umberto D. (De Sica, 1952); for connection, Uzak (Ceylan, 2002) and Close-Up (Kiarostami, 1990)"
+      },
+      {
+        "hafta": 12,
+        "hafta_bitis": null,
+        "baslik": "Kracauer",
+        "film": "M (Lang, 1931); Nanook of the North (Flaherty, 1922)"
+      }
+    ]
+  },
+  {
+    "faz": "III",
+    "ad": "Auteur, genre, star",
+    "baslangic": 13,
+    "bitis": 18,
+    "aciklama": "Where does a film’s meaning come from: the director, the genre, the star, the studio system? This phase tests all three answers.",
+    "haftalar": [
+      {
+        "hafta": 13,
+        "hafta_bitis": null,
+        "baslik": "Auteur I: France and Cahiers du cinéma",
+        "film": "Les Quatre Cents Coups (Truffaut, 1959); Rear Window (Hitchcock, 1954); Journal d'un curé de campagne (Bresson, 1951)"
+      },
+      {
+        "hafta": 14,
+        "hafta_bitis": null,
+        "baslik": "Auteur II: America and the structuralist auteur",
+        "film": "The Searchers (Ford, 1956); Rio Bravo (Hawks, 1959); Bringing Up Baby (Hawks, 1938)"
+      },
+      {
+        "hafta": 15,
+        "hafta_bitis": null,
+        "baslik": "The death of the author, and the auteur as brand",
+        "film": "The Grand Budapest Hotel (Anderson, 2014); 3 films by a director you love, over the course of this month"
+      },
+      {
+        "hafta": 16,
+        "hafta_bitis": null,
+        "baslik": "Genre I: the gangster film and the western",
+        "film": "Scarface (Hawks, 1932); Stagecoach (Ford, 1939); Unforgiven (Eastwood, 1992)"
+      },
+      {
+        "hafta": 17,
+        "hafta_bitis": null,
+        "baslik": "Genre II: theory, film noir, melodrama",
+        "film": "Double Indemnity (Wilder, 1944); All That Heaven Allows (Sirk, 1955); optional Chinatown (Polanski, 1974), Get Out (Peele, 2017)"
+      },
+      {
+        "hafta": 18,
+        "hafta_bitis": null,
+        "baslik": "Classical Hollywood and stars",
+        "film": "Casablanca (Curtiz, 1942); Gentlemen Prefer Blondes (Hawks, 1953)"
+      }
+    ]
+  },
+  {
+    "faz": "IV",
+    "ad": "Semiotics, ideology, psychoanalysis, feminism",
+    "baslangic": 19,
+    "bitis": 29,
+    "aciklama": "The “grand theory” era of the 1960s–80s: can film be decoded like a language, how does it position the spectator, whose gaze does it distribute? The hardest and most important phase of the program; the texts are dense, so don’t rush.",
+    "haftalar": [
+      {
+        "hafta": 19,
+        "hafta_bitis": null,
+        "baslik": "Semiotics I: Saussure and Barthes",
+        "film": "Julius Caesar (Mankiewicz, 1953); Ivan Grozny (Eisenstein, 1944)"
+      },
+      {
+        "hafta": 20,
+        "hafta_bitis": null,
+        "baslik": "Semiotics II: Metz and Wollen",
+        "film": "Adieu Philippine (Rozier, 1962), which Metz breaks down into syntagmas; Psycho (Hitchcock, 1960)"
+      },
+      {
+        "hafta": 21,
+        "hafta_bitis": null,
+        "baslik": "Structuralist narrative and textual analysis",
+        "film": "The Birds (Hitchcock, 1963); Star Wars (Lucas, 1977)"
+      },
+      {
+        "hafta": 22,
+        "hafta_bitis": null,
+        "baslik": "The Frankfurt School and Benjamin",
+        "film": "Modern Times (Chaplin, 1936); Triumph des Willens (Riefenstahl, 1935), as an analysis of propaganda"
+      },
+      {
+        "hafta": 23,
+        "hafta_bitis": null,
+        "baslik": "Althusser and the Cahiers critique of ideology",
+        "film": "Young Mr. Lincoln (Ford, 1939)"
+      },
+      {
+        "hafta": 24,
+        "hafta_bitis": null,
+        "baslik": "Brecht, Godard and counter-cinema",
+        "film": "Week-end (Godard, 1967); Tout va bien (Godard & Gorin, 1972); 2 ou 3 choses que je sais d'elle (Godard, 1967)"
+      },
+      {
+        "hafta": 25,
+        "hafta_bitis": null,
+        "baslik": "Third Cinema",
+        "film": "La hora de los hornos (1968), part one; Deus e o Diabo na Terra do Sol (Rocha, 1964); Memorias del subdesarrollo (Gutiérrez Alea, 1968); La battaglia di Algeri (Pontecorvo, 1966); for connection, Umut (Güney, 1970)"
+      },
+      {
+        "hafta": 26,
+        "hafta_bitis": null,
+        "baslik": "Foundations of psychoanalysis",
+        "film": "Vertigo (Hitchcock, 1958); Persona (Bergman, 1966)"
+      },
+      {
+        "hafta": 27,
+        "hafta_bitis": null,
+        "baslik": "Apparatus theory and suture",
+        "film": "Peeping Tom (Powell, 1960); The Pervert's Guide to Cinema (Fiennes & Žižek, 2006)"
+      },
+      {
+        "hafta": 28,
+        "hafta_bitis": null,
+        "baslik": "Feminist film theory I",
+        "film": "Vertigo (again); Morocco (von Sternberg, 1930); Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (Akerman, 1975)"
+      },
+      {
+        "hafta": 29,
+        "hafta_bitis": null,
+        "baslik": "Feminist film theory II",
+        "film": "Halloween (Carpenter, 1978); Stella Dallas (Vidor, 1937); Cléo de 5 à 7 (Varda, 1962); Portrait de la jeune fille en feu (Sciamma, 2019)"
+      }
+    ]
+  },
+  {
+    "faz": "V",
+    "ad": "Cognitive theory, Deleuze, phenomenology",
+    "baslangic": 30,
+    "bitis": 36,
+    "aciklama": "After the 1980s, a break with grand theory in three different directions: approaching the spectator as a mind (cognitive theory), cinema as a form of thought (Deleuze), and film as bodily experience (phenomenology).",
+    "haftalar": [
+      {
+        "hafta": 30,
+        "hafta_bitis": null,
+        "baslik": "Post-Theory and neoformalism",
+        "film": "Banshun / Late Spring (Ozu, 1949); Pickpocket (Bresson, 1959); Playtime (Tati, 1967)"
+      },
+      {
+        "hafta": 31,
+        "hafta_bitis": null,
+        "baslik": "Cognitive theory: spectator and character",
+        "film": "Memento (again); Lola rennt (Tykwer, 1998); The Talented Mr. Ripley (Minghella, 1999)"
+      },
+      {
+        "hafta": 32,
+        "hafta_bitis": null,
+        "baslik": "Deleuze I: the movement-image",
+        "film": "Shichinin no samurai / Seven Samurai (Kurosawa, 1954); La Passion de Jeanne d'Arc (again)"
+      },
+      {
+        "hafta": 33,
+        "hafta_bitis": null,
+        "baslik": "Deleuze II: crisis and the time-image",
+        "film": "Germania anno zero (Rossellini, 1948); L'avventura (Antonioni, 1960); L'Année dernière à Marienbad (Resnais, 1961)"
+      },
+      {
+        "hafta": 34,
+        "hafta_bitis": null,
+        "baslik": "Deleuze III: sheets of the past and thought",
+        "film": "Zerkalo / Mirror (Tarkovsky, 1975); Bir Zamanlar Anadolu'da (Ceylan, 2011); Citizen Kane (again)"
+      },
+      {
+        "hafta": 35,
+        "hafta_bitis": null,
+        "baslik": "Phenomenology",
+        "film": "The Piano (Campion, 1993), the film with which Sobchack’s essay opens; Beau Travail (Denis, 1999)"
+      },
+      {
+        "hafta": 36,
+        "hafta_bitis": null,
+        "baslik": "Affect and haptic visuality",
+        "film": "In the Mood for Love (Wong Kar-wai, 2000); Uncle Boonmee Who Can Recall His Past Lives (Weerasethakul, 2010); Leviathan (Castaing-Taylor & Paravel, 2012)"
+      }
+    ]
+  },
+  {
+    "faz": "VI",
+    "ad": "Spectators, identity and documentary",
+    "baslangic": 37,
+    "bitis": 43,
+    "aciklama": "Real spectators instead of theory’s “universal spectator”: how do different people read the same film, who is absent from the screen, and how does documentary construct truth?",
+    "haftalar": [
+      {
+        "hafta": 37,
+        "hafta_bitis": null,
+        "baslik": "Cultural studies and reception",
+        "film": "The Rocky Horror Picture Show (Sharman, 1975); The Wizard of Oz (Fleming, 1939)"
+      },
+      {
+        "hafta": 38,
+        "hafta_bitis": null,
+        "baslik": "Spectatorship, modernity and fan culture",
+        "film": "Intolerance (Griffith, 1916); Star Wars (again, through the lens of fan culture)"
+      },
+      {
+        "hafta": 39,
+        "hafta_bitis": null,
+        "baslik": "Race, representation and the oppositional gaze",
+        "film": "The Birth of a Nation (Griffith, 1915), viewed critically; Killer of Sheep (Burnett, 1978); Do the Right Thing (Lee, 1989); Daughters of the Dust (Dash, 1991)"
+      },
+      {
+        "hafta": 40,
+        "hafta_bitis": null,
+        "baslik": "Postcolonial theory and accented cinema",
+        "film": "La Noire de… (Sembène, 1966); Touki Bouki (Mambéty, 1973); Gegen die Wand / Head-On (Akın, 2004); Lawrence of Arabia (Lean, 1962), for a reading of Orientalism"
+      },
+      {
+        "hafta": 41,
+        "hafta_bitis": null,
+        "baslik": "Queer theory",
+        "film": "Rope (Hitchcock, 1948); Paris Is Burning (Livingston, 1990); Happy Together (Wong Kar-wai, 1997); Lola + Bilidikid (Ataman, 1999); Carol (Haynes, 2015)"
+      },
+      {
+        "hafta": 42,
+        "hafta_bitis": null,
+        "baslik": "Documentary I: modes",
+        "film": "Nuit et brouillard (Resnais, 1956); Chronique d'un été (Rouch & Morin, 1961); Primary (Drew, 1960); Salesman (Maysles brothers, 1969)"
+      },
+      {
+        "hafta": 43,
+        "hafta_bitis": null,
+        "baslik": "Documentary II: truth, memory, reenactment",
+        "film": "The Thin Blue Line (Morris, 1988); Sans Soleil (Marker, 1983); Reassemblage (Trinh, 1982); The Act of Killing (Oppenheimer, 2012); Stories We Tell (Polley, 2012); optional: one part of Shoah (Lanzmann, 1985)"
+      }
+    ]
+  },
+  {
+    "faz": "VII",
+    "ad": "Postmodernism and digital cinema",
+    "baslangic": 44,
+    "bitis": 46,
+    "aciklama": "Films are now mostly not shot on film and not watched in theaters. This phase returns to the Bazinian question from the start of the book: what is cinema once the image’s bond with reality is broken?",
+    "haftalar": [
+      {
+        "hafta": 44,
+        "hafta_bitis": null,
+        "baslik": "Postmodernism",
+        "film": "Body Heat (Kasdan, 1981); Blue Velvet (Lynch, 1986); Blade Runner (Scott, 1982); Pulp Fiction (Tarantino, 1994); The Truman Show (Weir, 1998)"
+      },
+      {
+        "hafta": 45,
+        "hafta_bitis": null,
+        "baslik": "Digital I: the crisis of the index",
+        "film": "Jurassic Park (Spielberg, 1993); The Matrix (Wachowskis, 1999); Russkiy kovcheg / Russian Ark (Sokurov, 2002); Gravity (Cuarón, 2013)"
+      },
+      {
+        "hafta": 46,
+        "hafta_bitis": null,
+        "baslik": "Cinema after cinema",
+        "film": "Demonlover (Assayas, 2002); Boarding Gate (Assayas, 2007); Tangerine (Baker, 2015, shot on an iPhone); Searching (Chaganty, 2018); Her (Jonze, 2013)"
+      }
+    ]
+  },
+  {
+    "faz": "VIII",
+    "ad": "Turkish cinema and theory",
+    "baslangic": 47,
+    "bitis": 48,
+    "aciklama": "Apply the theories you’ve learned to the cinema you know best. Turkey’s own theoretical debates (the national cinema quarrel) are also the subject of these two weeks.",
+    "haftalar": [
+      {
+        "hafta": 47,
+        "hafta_bitis": null,
+        "baslik": "The national cinema debate and Yeşilçam",
+        "film": "Susuz Yaz (Erksan, 1963); Gurbet Kuşları (Refiğ, 1964); Vesikalı Yarim (Akad, 1968); Umut (Güney, 1970); Selvi Boylum Al Yazmalım (Yılmaz, 1977)"
+      },
+      {
+        "hafta": 48,
+        "hafta_bitis": null,
+        "baslik": "New Turkish cinema",
+        "film": "Yol (Gören & Güney, 1982); Eşkıya (Turgul, 1996); Kasaba (Ceylan, 1997); Masumiyet (Demirkubuz, 1997); Kış Uykusu (Ceylan, 2014); Mustang (Ergüven, 2015); Ahlat Ağacı (Ceylan, 2018)"
+      }
+    ]
+  },
+  {
+    "faz": "IX",
+    "ad": "Synthesis and final",
+    "baslangic": 49,
+    "bitis": 52,
+    "aciklama": "There is almost no new reading in the last four weeks; the goal is to bring what you’ve learned together into a single view and be able to defend it.",
+    "haftalar": [
+      {
+        "hafta": 49,
+        "hafta_bitis": null,
+        "baslik": "Redraw the map",
+        "film": "2001: A Space Odyssey (Kubrick, 1968); attractions, montage, realism and bodily experience in a single film"
+      },
+      {
+        "hafta": 50,
+        "hafta_bitis": 51,
+        "baslik": "Capstone project",
+        "film": null
+      },
+      {
+        "hafta": 52,
+        "hafta_bitis": null,
+        "baslik": "Final",
+        "film": null
+      }
+    ]
+  }
+]

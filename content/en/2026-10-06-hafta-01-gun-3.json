@@ -1,0 +1,70 @@
+{
+  "hafta": 1,
+  "gun": 3,
+  "tarih": "2026-10-06",
+  "tur": "ders",
+  "baslik": "Film form: form is a system",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 2 (first half: the concept of form, expectation, meaning)",
+  "film": "Citizen Kane (Welles, 1941)",
+  "tek_cumle": "A film is a whole whose elements are bound to one another, and our minds actively process that whole by building expectations, making predictions and drawing out meaning. “Form,” then, is not a film’s packaging; it is the very relationship we have with the film.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<h3>Form is a system</h3><p>Yesterday we talked about how cinema stands where creativity, technology and industry meet. Today we narrow the question: what makes what we see on the screen a work of art? Bordwell and Thompson’s answer is <b>form</b>. They don’t mean a mold or an outer shell; form is the <b>system</b> of relationships among all the parts of a film. In a system the elements are bound to one another; change one, and the meaning of the others changes too. In a piece of music, the value of a single note is determined by the notes before and after it; in a film, likewise, the value of a shot, a color or a line of dialogue comes from its place within the whole.</p><p>The authors distinguish two large subsystems in a film: <b>narrative</b> or other organizing principles (a story, an argument, and so on), and the <b>stylistic</b> system, that is, the recurring use of techniques such as camera movement, lighting, editing and sound. Together they make up the film’s overall form.</p><h3>Why is the distinction between “form” and “content” misleading?</h3><p>In everyday speech we say things like “the story is good, but the way it’s told is weak.” This means thinking of content as the water in a pitcher and form as the pitcher. Bordwell and Thompson object to exactly this. What we set apart in a film as its “subject” or “theme” is not ready-made material waiting outside the form; it emerges by taking on a function within the system. The same life story becomes one thing when told as a chronological biography, and something entirely different when told as the fragmented memories of five different witnesses. Once you change the form, there is no such thing as “the same content” left.</p><h3>Formal expectations</h3><p>The viewer is not a passive receiver. As soon as a film begins, we build <b>expectations</b>: What will happen? Who is this person? Why is this scene here? Form plays with these expectations: it can satisfy them at once; it can delay them and create <b>suspense</b>; it can offer something unexpected and produce <b>surprise</b>; or it can make us look back and ask “What was that?”, arousing <b>curiosity</b>. Breaking an expectation is also a formal move: surprise only works if an expectation has been set up first.</p><h3>Conventions and experience</h3><p>Our expectations rest on our previous experience of films and on the knowledge we bring from life. The established patterns of cinema are called <b>conventions</b>: characters suddenly bursting into song in a musical, or the duel being saved for the finale in a western. Some films follow conventions, others break them and teach us to build new expectations. An experimental film may seem “meaningless” on first viewing; often the reason is that the film hasn’t yet taught us its own rules.</p><h3>Form and emotion</h3><p>The authors distinguish two kinds of emotion: emotions <b>represented</b> in the film (a character’s grief) and emotions we <b>feel</b> as viewers (curiosity, suspense, wonder). While a character on screen is happy, we may feel anxious because we know of a danger they don’t. The same event, presented in a different order or from a different point of view, arouses a different emotion.</p><h3>Form and meaning: four levels</h3><ul><li><b>Referential meaning</b>: The film’s references to the outside world: a city, a period, a historical event.</li><li><b>Explicit meaning</b>: The idea the film states openly; it is often carried by a line of dialogue or by the ending.</li><li><b>Implicit meaning</b>: A theme or question the film doesn’t state directly, which we draw out through interpretation.</li><li><b>Symptomatic meaning</b>: The way a film, without being aware of it, reveals the values and ideology of the society that produced it.</li></ul><p>The main point: meaning is one of the parts of form, not the whole film; reducing a film to its “message” impoverishes it. The authors also separate <b>evaluation</b> from analysis: the criteria for evaluation (realism, coherence, originality, complexity) should be stated openly; “I liked it” is not a criterion.</p>"
+    },
+    {
+      "baslik": "Example: The opening of Citizen Kane",
+      "html": "<p>No spoilers. The film opens with a single word spoken by a man at the moment of his death: “Rosebud.” Then a newsreel sums up Charles Foster Kane’s life in its official, public form. Next, a roomful of journalists decides that this summary isn’t enough and assigns the reporter Thompson to find out what the word means.</p><p>In its first minutes, the film has set up a strong <b>expectation</b>: “What does Rosebud mean?” This question will organize the whole film as an investigation, a kind of jigsaw puzzle. We have already been given the chronological account of the life in the newsreel; so our interest is being shifted from the question “What happened?” to the question “Who was this man?” Because Kane’s life is told through testimonies, it turns into the question “Can we ever really know another person?” That is a strong candidate for the film’s <b>implicit meaning</b>, while the America of a press baron is the <b>referential</b> level. As you watch, note where the explicit meaning comes from, and from whose mouth.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Today’s idea of the “active viewer” is the groundwork for the five formal principles we’ll see tomorrow; in later weeks of the program you’ll meet it again with the Russian Formalists and Eisenstein’s theory of montage, and later still with the cognitivist approach, which asks how viewers construct meaning.</p>"
+    }
+  ],
+  "sorular": [
+    "Critique the assumption behind the sentence “This film’s story is good, but the way it’s told is bad,” using Bordwell and Thompson’s concept of system. What valid intuition might still be hidden in that sentence?",
+    "What is the difference between suspense and surprise? Explain with an example how both depend on expectation.",
+    "Show the difference between explicit and implicit meaning using a film you love. What would a symptomatic reading of the same film look like?"
+  ],
+  "gozlem": "Pay attention to the first 30 seconds of anything you watch today (an episode, an ad, a YouTube video). What question did it make you ask, or what expectation did it set up? Was that expectation later satisfied, delayed or broken? Jot it down in one sentence.",
+  "terimler": [
+    {
+      "tr": "Biçim",
+      "en": "form",
+      "tanim": "The system of relationships among all the elements of a film, as perceived by the viewer."
+    },
+    {
+      "tr": "Biçimsel beklenti",
+      "en": "formal expectation",
+      "tanim": "A prediction the viewer makes about how the film will unfold, which form can satisfy, delay or break."
+    },
+    {
+      "tr": "Uzlaşım",
+      "en": "convention",
+      "tanim": "A pattern established in a genre or artistic tradition that viewers take for granted."
+    },
+    {
+      "tr": "Göndergesel anlam",
+      "en": "referential meaning",
+      "tanim": "Meaning that arises from the film’s references to the outside world (a place, a period, an event)."
+    },
+    {
+      "tr": "Örtük anlam",
+      "en": "implicit meaning",
+      "tanim": "A theme or question the film doesn’t state openly, which the viewer draws out through interpretation."
+    },
+    {
+      "tr": "Semptomatik anlam",
+      "en": "symptomatic meaning",
+      "tanim": "The layer of meaning through which a film unintentionally reveals the values and ideology of the society that produced it."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Citizen Kane",
+      "yil": 1941,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "We’ll take the five principles of the formal system one by one (function, similarity and repetition, difference and variation, development, unity and disunity) and look at how they work in <i>Citizen Kane</i>."
+}

@@ -1,0 +1,75 @@
+{
+  "hafta": 4,
+  "gun": 2,
+  "tarih": "2026-10-27",
+  "tur": "ders",
+  "baslik": "The continuity system — the 180° rule, eyeline match and shot/reverse shot",
+  "okuma": "Film Art, Ch. 6",
+  "film": "Breathless (À bout de souffle, Godard, 1960) and The Conversation (Coppola, 1974)",
+  "tek_cumle": "<i>Continuity editing</i> is a system developed to rebuild a fragmented space in the viewer’s mind as a single, coherent space — a system whose rules are deliberately learned, yet which we almost never notice while watching.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we saw that editing can create four kinds of relations between shots: graphic, rhythmic, spatial and temporal. Today we take up the historically most influential system that makes a selection from among these possibilities. Bordwell and Thompson’s core claim in Chapter 6 of <i>Film Art</i> is this: the continuity system Hollywood established between the 1910s and the 1920s is not a natural or inevitable “film language”; it is a <b>set of choices</b> serving a specific purpose — conveying the narrative fluently and intelligibly. This choice became so widespread that today most of us take it for “normal editing.”</p><p>The system’s goal is simple: even when the camera angle changes, the viewer should never lose track of where they are, who is looking at whom, and who is moving where. To achieve this, attention must be directed not at the editing itself but at the story; that is why this system is often also called <i>invisible editing</i>. Invisibility is not an absence but the result of a great deal of work.</p><p><b>The 180° rule and the axis of action.</b> The backbone of the system is the <i>axis of action</i>, or the 180° line. If two people are talking, an imaginary line runs between them. If the camera always stays on the same side of this line, A appears on the left of the frame and B on the right in every shot; A looks rightward, B looks leftward. Thanks to this consistency, the viewer keeps track of the spatial relationship between the two even without ever seeing them in the same frame. If the camera crosses the line, the characters suddenly seem to have swapped places, and the viewer momentarily loses their bearings. The point Bordwell and Thompson stress is this: the rule fixes not only position but also <b>the direction of looks and movement</b>. Someone running from left to right must run from left to right in the next shot too, so that we understand the same journey is continuing; this is called <i>screen direction</i>.</p><p><b>The establishing shot and analytical editing.</b> A classical scene usually opens with an <i>establishing shot</i> that shows the space as a whole. The scene is then broken down into closer shots (<i>analytical editing</i>), and when needed, a <i>reestablishing shot</i> reminds us of the whole again. This pattern first gives the viewer a map, then leads them into the map’s details.</p><p><b>Shot/reverse shot.</b> The standard solution for dialogue scenes is <i>shot/reverse shot</i>: first we see A, usually over B’s shoulder, then B over A’s shoulder. Because both shots are taken from the same side of the 180° line, the characters read as looking at each other. The power of this technique lies in turning two separate setups (sometimes filmed on different days) into a single moment of conversation.</p><p><b>Eyeline match.</b> The <i>eyeline match</i> is the quietest but most powerful tool: one shot shows a character looking at something, the next shot shows what is being looked at. The viewer reads the second shot as the “target” of the first shot’s gaze. Remember the effect seen in Kuleshov’s experiments: when the same face is juxtaposed with different objects, different emotions are read into it. The eyeline match makes this inference systematic. A companion tool is the <i>match on action</i>: an action begins in one shot and continues in the next; the cut is hidden inside the movement.</p><p><b>Why does it matter?</b> Here Bordwell and Thompson argue against two things. The first is the narrow view that treats continuity as “the one right way” and sees everything else as a mistake. The second is the approach that sees editing merely as a technical craft, without seeing how it governs the viewer’s perception and inferences. Recognizing the continuity system as a system lets you appreciate its craftsmanship and also understand what the films that deliberately break it are doing. The <i>jump cut</i> we will discuss tomorrow can only be read as a “break” in a world where these rules are known.</p><p>A caution: these rules are not strict laws but <i>conventions</i>. Skilled directors find ways to cross the line — for instance, by crossing it in full view of the audience with a camera movement, or by having a character make a move that shifts the axis. The system’s measure is not the rule itself but whether the viewer keeps their orientation.</p>"
+    },
+    {
+      "baslik": "Example",
+      "html": "<p>Think of the week’s two films side by side. <i>The Conversation</i> (Coppola, 1974) is a film built around surveillance and listening; so here the eyeline match becomes not just a technique but the film’s very subject. When you watch the shot that follows one in which Harry Caul looks at something or listens to something through headphones, ask yourself: am I reading this as “what Harry sees/hears,” or is the film showing me something Harry cannot access? The classical eyeline match makes this distinction clear; the film, at times, deliberately blurs that clarity.</p><p><i>Breathless</i> (<i>À bout de souffle</i>, Godard, 1960) teaches from the opposite direction. In this film, a large share of the dialogue scenes are handled not with the classical shot/reverse shot pattern but with long tracking shots or unexpected cuts. While watching a conversation scene, if you ask, “What shot/reverse shot pattern would a classical film set up here?”, you will see concretely what Godard is rejecting. (We’ll go into detail on film day and in tomorrow’s lesson; for now, just prepare your eye for it.)</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The eyeline match and shot/reverse shot are the starting point of the theory of <i>suture</i>, which we will meet in later weeks of the program: Oudart and Dayan will argue that the mechanism that “stitches” the viewer into the narrative is precisely this pattern of look and counter-look.</p>"
+    }
+  ],
+  "sorular": [
+    "Does the 180° rule preserve only the characters’ positions in the frame? What two other things does it keep constant?",
+    "Why can the eyeline match be seen as a systematic use of the Kuleshov effect?",
+    "Why do Bordwell and Thompson define the continuity system as a “choice” rather than a “natural film language”? What does this distinction change for film criticism?"
+  ],
+  "gozlem": "Find a scene with two people talking in any series or talk show you watch today. Turn off the sound and look only at the following: Are the characters on the same side of the frame in every shot? Are over-the-shoulder shots used? Does the camera cross the line even once? If it does, did you lose your bearings?",
+  "terimler": [
+    {
+      "tr": "Devamlılık kurgusu",
+      "en": "continuity editing",
+      "tanim": "The classical editing system that aims to present space, time and action as continuous and intelligible."
+    },
+    {
+      "tr": "Aksiyon ekseni / 180° kuralı",
+      "en": "axis of action / 180° rule",
+      "tanim": "The principle that the camera always stays on the same side of the imaginary line running between the characters."
+    },
+    {
+      "tr": "Kuruluş planı",
+      "en": "establishing shot",
+      "tanim": "A shot at the start of a scene that shows the space as a whole and the characters’ positions."
+    },
+    {
+      "tr": "Plan/karşı plan",
+      "en": "shot/reverse shot",
+      "tanim": "An editing pattern that shows two characters looking at each other in alternation, from the same side of the axis."
+    },
+    {
+      "tr": "Göz hattı eşleşmesi",
+      "en": "eyeline match",
+      "tanim": "A cut that links a character’s look to the thing being looked at by showing it next."
+    },
+    {
+      "tr": "Hareket eşleşmesi",
+      "en": "match on action",
+      "tanim": "A transition in which an action begins in one shot and continues in the next, hiding the cut."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "The Conversation",
+      "yil": 1974,
+      "yonetmen": "Francis Ford Coppola"
+    },
+    {
+      "ad": "À bout de souffle",
+      "yil": 1960,
+      "yonetmen": "Jean-Luc Godard"
+    }
+  ],
+  "yarin": "The temporal side of continuity and the alternatives that break it: ellipsis, crosscutting and Godard’s <i>jump cut</i>."
+}

@@ -1,0 +1,75 @@
+{
+  "hafta": 3,
+  "gun": 4,
+  "tarih": "2026-10-22",
+  "tur": "ders",
+  "baslik": "Cinematography II — Framing: aspect ratio, offscreen space, angle, height and distance",
+  "okuma": "Bordwell & Thompson, Film Art, Ch. 5 (second part: framing).",
+  "film": "Tokyo Story (Ozu, 1953) + Touch of Evil (Welles, 1958)",
+  "tek_cumle": "The frame is not an empty window: by deciding what stays in, what is left out, and from what height, angle and distance our gaze arrives, it interprets the image for us before we ever see it.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p>Yesterday we looked at the photographic qualities of cinematography: tonality, speed, lens, focus. Today we turn to <b>where</b> the camera sees from and <b>how much</b> it sees. Bordwell and Thompson’s core claim is this: the <i>frame</i> is not merely the edge of the image but an active choice. The frame cuts into the world, and the moment it does, it imposes a <i>vantage point</i> on us. This is a warning against the naive realist intuition that “the camera shows reality as it is.” The same dinner table, the same actors, the same light — yet lower the camera by half a meter and the meaning of the scene can change.</p><p><b>1. Aspect ratio.</b> This is the ratio of the frame’s width to its height. In the first decades of sound cinema the standard was the nearly square <i>Academy ratio</i> (roughly 1.37:1). In the 1950s, competing with television, the studios turned to <i>widescreen</i> formats: 1.85:1, and around 2.35:1 with <i>anamorphic</i> systems such as CinemaScope. Ratio is not a matter of “size” but of composition. Widescreen opens up a crowd, a landscape or the space between two characters horizontally; the Academy ratio is better suited to vertical arrangements, door frames, and the relationship between seated and standing bodies. There is also <i>masking</i>: blacking out part of the image to create a second frame within the frame (like the iris openings of the silent era).</p><p><b>2. Onscreen and offscreen space.</b> Whenever the frame shows something, it also hides something. The book speaks of six zones of offscreen space: the areas beyond each of the frame’s four edges, the space behind the set or objects, and the space behind the camera. (This sixfold division draws on Noël Burch’s analysis.) Offscreen space is not a “lack” but a resource: a character looking out of frame, a hand reaching in, a sound coming from outside — the viewer builds the unseen space in their mind. Suspense is very often produced exactly here: we don’t know what is coming because the frame withholds it. That is why this week’s exam question asks, “Why does offscreen space matter?” Because the space of a film is always larger than what we see on the screen.</p><p><b>3. Camera angle.</b> This is the camera’s position relative to what it films: the <i>straight-on angle</i>, the <i>high angle</i> (looking down) and the <i>low angle</i> (looking up). Here the book makes an important warning, and I want you to grasp it well: “low angle = power, high angle = weakness” is not a dictionary rule. An angle’s meaning comes from context, from the narrative and from the film’s other formal choices. A low angle can make a character look imposing, but also ridiculous or menacing. This is exactly Bordwell and Thompson’s formalist stance (we saw it in Week 1): techniques carry no fixed meanings; they acquire functions within the film’s overall system.</p><p><b>4. Level.</b> How balanced the frame is relative to the horizon. When the frame is tilted, we call it <i>canted framing</i> (popularly, the <i>Dutch angle</i>). It is usually used for a sense of unease, imbalance or a world thrown off kilter — but again, this is a tendency, not a rule.</p><p><b>5. Camera height.</b> This is distinct from angle, and it is where students most often get confused. The camera can sit at a low point and look <b>straight</b> ahead; that is not a low angle but a low height. This distinction will be crucial when we talk about Ozu.</p><p><b>6. Shot scale (camera distance).</b> The scale of the frame is described in relation to the human body: <i>extreme long shot</i>, <i>long shot</i> (the whole body), <i>medium long shot</i> or <i>plan américain</i> (from the knees up), <i>medium shot</i> (from the waist up), <i>medium close-up</i> (from the chest up), <i>close-up</i> (the face) and <i>extreme close-up</i> (an eye, the lips). Scale regulates the viewer’s emotional distance from a character, but never on its own: a close-up can create intimacy, or a suffocating sense of surveillance.</p><p>The big idea behind all of this is that the frame stands in for the narrator. In Week 2 we discussed how <i>narration</i> distributes information; framing is its visual instrument. Where the camera stands determines which information we get access to, and with what attitude we look at it.</p>"
+    },
+    {
+      "baslik": "Example: Tokyo Story (Ozu, 1953)",
+      "html": "<p>Ozu applies his framing choices with an almost grammatical consistency, which makes this an ideal film to learn from. First, height: in most interior scenes the camera sits at a low point, close to the eye level of someone sitting on a tatami mat. But this is not a low angle that makes the characters look “imposing” from below; for the most part the camera looks straight ahead. The result: we are on the same level as the seated family, settling into the rhythm of their domestic world.</p><p>Second, ratio and composition: the film is in the Academy ratio. Ozu divides this narrow frame into nested frames with doorways, sliding panels and corridors; another “frame” inside the room both places the characters and separates them. Together with the normal-lens perspective we discussed yesterday, this produces a calm, balanced space.</p><p>Third, offscreen space and scale: think of the scene where the elderly couple sit side by side on the seawall at Atami. The camera does not move into close-up; it holds them both in the same frame, looking out to sea, from a certain distance. We never quite see what they are looking at; their gaze opens beyond the frame, toward the future and the journey home. Ozu builds emotion not by moving in on faces but through the placement of bodies in the frame and through distance. For a contrasting example, recall <i>Touch of Evil</i>: Welles often shoots Quinlan from low angles, combined with the wide-angle lens we discussed yesterday; there, the same family of techniques produces a bloated, menacing, distorted authority. Put the two films side by side and it becomes very clear how different a “low camera” and a “low angle” really are.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>The ideas of offscreen space and vantage point will return in Phase III, in a much more contested form, with psychoanalytic theory’s concept of <i>suture</i> — the question of how the viewer is placed in the position of an unseen “looker.”</p>"
+    }
+  ],
+  "sorular": [
+    "What is the difference between camera height and camera angle? Explain using <i>Tokyo Story</i>.",
+    "Name the six zones of offscreen space. Which one is the least noticed by viewers, and why?",
+    "Why do Bordwell and Thompson object to the statement “a low angle always means power”? Think of a counterexample."
+  ],
+  "gozlem": "Pick a dialogue scene from any series, video or commercial you watch this evening. Note three things: (1) Does the shot scale change as the conversation progresses (for example, from long shot to close-up)? (2) Is the camera at the characters’ eye level, above it or below it? (3) Is there any sign of what is happening outside the frame (a glance, a sound, a hand entering)? In one sentence: what attitude toward the scene did these choices lead you to take?",
+  "terimler": [
+    {
+      "tr": "En-boy oranı",
+      "en": "Aspect ratio",
+      "tanim": "The ratio of the frame’s width to its height (e.g., 1.37:1, 1.85:1, 2.35:1)."
+    },
+    {
+      "tr": "Kadraj dışı alan",
+      "en": "Offscreen space",
+      "tanim": "The space not visible in the frame but whose presence the viewer senses, made up of six zones."
+    },
+    {
+      "tr": "Kamera açısı",
+      "en": "Camera angle",
+      "tanim": "Whether the camera looks down on, up at or straight at what it films."
+    },
+    {
+      "tr": "Eğik çerçeve",
+      "en": "Canted framing / Dutch angle",
+      "tanim": "Framing in which the frame’s horizontal axis is deliberately tilted."
+    },
+    {
+      "tr": "Kamera yüksekliği",
+      "en": "Camera height",
+      "tanim": "How high above the ground the camera is placed; independent of angle."
+    },
+    {
+      "tr": "Plan ölçeği",
+      "en": "Shot scale / camera distance",
+      "tanim": "How large or small the framed subject appears, measured against the human body."
+    }
+  ],
+  "filmler": [
+    {
+      "ad": "Tokyo Story",
+      "yil": 1953,
+      "yonetmen": "Yasujirō Ozu"
+    },
+    {
+      "ad": "Touch of Evil",
+      "yil": 1958,
+      "yonetmen": "Orson Welles"
+    }
+  ],
+  "yarin": "Tomorrow we set the frame in motion: <i>mobile framing</i> and the <i>long take</i>, centered on the famous opening sequence shot (<i>plan-séquence</i>) of <i>Touch of Evil</i>."
+}
