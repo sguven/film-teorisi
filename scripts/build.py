@@ -95,6 +95,8 @@ S = {
         "feed_desc": "52 haftalık film teorisi programının günlük dersleri",
         "fallback": "",
         "anchor": "hafta",
+        "contact": "İletişim",
+        "contact_text": "Bu site Serhat Güven’in kişisel film teorisi okuma programı. Soru, öneri ya da sohbet için:",
     },
     "en": {
         "site": "Film Theory",
@@ -145,8 +147,14 @@ S = {
         "fallback": "The English translation of this lesson is on its way. In the meantime, here is the original "
                     "Turkish version.",
         "anchor": "week",
+        "contact": "Contact",
+        "contact_text": "This site is Serhat Güven’s personal film theory reading program. For questions, suggestions or a chat:",
     },
 }
+
+CONTACT_LINKS = [("LinkedIn", "https://www.linkedin.com/in/serhat35/"),
+                 ({"en": "Portfolio", "tr": "Portföy"}, "https://sguven.github.io/"),
+                 ("GitHub", "https://github.com/sguven")]
 
 TR_ORDER = "aâbcçdefgğhıiîjklmnoöprsştuûüvyzqwx"
 
@@ -323,6 +331,8 @@ def page(titles, bodies, active, depth=0, descs=None, wide=False):
     lang_btns = "".join(f'<button type="button" data-set-lang="{lg}" lang="{lg}" '
                         f'aria-label="{"English" if lg == "en" else "Türkçe"}">{lg.upper()}</button>' for lg in LANGS)
     main = "".join(f'<div class="l-{lg}" lang="{lg}">{bodies[lg]}</div>' for lg in LANGS)
+    contact_links = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{inline(n) if isinstance(n, dict) else esc(n)}</a></li>'
+                            for n, u in CONTACT_LINKS)
     return f"""<!doctype html>
 <html lang="{dl}" data-lang="{dl}" data-title-en="{esc(full['en'])}" data-title-tr="{esc(full['tr'])}">
 <head>
@@ -353,6 +363,11 @@ def page(titles, bodies, active, depth=0, descs=None, wide=False):
 <main id="icerik"><div class="{w}">
 {main}
 </div></main>
+<section class="contact" id="contact" aria-labelledby="contact-title"><div class="wrap-wide">
+<h2 id="contact-title">{inline({lg: S[lg]["contact"] for lg in LANGS})}</h2>
+<p>{inline({lg: S[lg]["contact_text"] for lg in LANGS})}</p>
+<ul class="contact-links">{contact_links}</ul>
+</div></section>
 <footer class="site-foot"><div class="wrap-wide">
 {inline({lg: S[lg]["foot"] for lg in LANGS})}
 <span class="l-en" lang="en"><a href="{up}feed-en.xml">{S["en"]["rss"]}</a></span><span class="l-tr" lang="tr"><a href="{up}feed.xml">{S["tr"]["rss"]}</a></span>

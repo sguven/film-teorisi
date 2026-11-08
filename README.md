@@ -18,7 +18,7 @@ root of the `main` branch.
 | `content/en/<same file name>` | The English version of the same lesson (same keys, see below) |
 | `data/program.json`, `data/program.en.json` | Phase and week titles for the 52-week program (Turkish, English) |
 | `pdf/` | PDF versions of the lessons |
-| `scripts/build.py` | Builds the site (Python standard library only) |
+| `scripts/build.py` | Builds the site (Python standard library only); the Contact section links are in `CONTACT_LINKS` |
 | `assets/` | Styles and a little JS (quizzes, glossary search) |
 | `index.html`, `dersler.html`, `program.html`, `sozluk.html`, `filmler.html`, `feed.xml`, `feed-en.xml`, `ders/` | Generated pages – don't edit by hand, `build.py` overwrites them (`arsiv.html` redirects to `dersler.html`) |
 

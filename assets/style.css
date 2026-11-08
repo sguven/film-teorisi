@@ -183,6 +183,12 @@ table.terms td.src { font-family: var(--sans); font-size: 0.82rem; white-space: 
 
 .site-foot .wrap-wide { display: flex; justify-content: space-between; gap: 0.5rem 1rem; flex-wrap: wrap; border-top: 1px solid var(--rule); padding-top: 1.2rem; padding-bottom: 2.4rem; font-family: var(--sans); font-size: 0.82rem; color: var(--muted); }
 .site-foot a { color: var(--muted); }
+.contact .wrap-wide { border-top: 1px solid var(--rule); padding-top: 1.6rem; padding-bottom: 1.4rem; }
+.contact h2 { font-size: 1.15rem; margin: 0 0 0.4rem; }
+.contact p { margin: 0 0 0.7rem; font-size: 1rem; color: var(--ink-soft); line-height: 1.6; }
+.contact-links { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; font-family: var(--sans); font-size: 0.88rem; }
+.contact-links a { display: inline-block; padding: 0.3rem 0.8rem; border: 1px solid var(--rule); border-radius: 999px; text-decoration: none; color: var(--link); }
+.contact-links a:hover { border-color: var(--link); }
 
 [hidden] { display: none !important; }
 
@@ -203,7 +209,7 @@ table.terms td.src { font-family: var(--sans); font-size: 0.82rem; white-space: 
   table.terms td.src { white-space: normal; padding-top: 0.2rem; }
 }
 @media print {
-  .site-head, .site-foot, .pager, .quiz-score, .days, .lang-switch { display: none; }
+  .site-head, .site-foot, .contact, .pager, .quiz-score, .days, .lang-switch { display: none; }
   body { background: #fff; color: #000; }
 }
 @media (max-width: 560px) {
