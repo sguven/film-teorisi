@@ -1,0 +1,44 @@
+{
+  "hafta": 6,
+  "gun": 4,
+  "tarih": "2026-11-12",
+  "tur": "ders",
+  "baslik": "Arnheim and “Film and Reality”: art born from defects",
+  "okuma": "Rudolf Arnheim, Film as Art (1932/1957), “Film and Reality” [B&C]",
+  "film": "Sunrise (Murnau, 1927); Das Cabinet des Dr. Caligari (Wiene, 1920)",
+  "tek_cumle": "For Rudolf Arnheim, film can be an art not because it copies reality perfectly but, on the contrary, because it copies it <b>incompletely and differently</b>; the camera’s “defects” are the artist’s material.",
+  "bolumler": [
+    {
+      "baslik": "Lecture",
+      "html": "<p><b>Whom is he arguing against?</b> At the end of the 1920s film still met this objection: “The camera is a machine; it mechanically records whatever is put in front of it. Art requires transformation by the human hand and mind. So film is not an art, only a copying device.” Those who made the objection took film to be a moving extension of photography, a kind of document. In the “Film and Reality” chapter of <i>Film as Art</i> (first German edition, <i>Film als Kunst</i>, 1932), Arnheim answers the objection head-on. His answer is surprising: the objection’s premise is wrong, because film does not copy reality in the first place.</p><p><b>The basic claim: partial illusion.</b> Arnheim is a Gestalt psychologist; he holds that perception is not passive recording but active organization. The image we see on the screen differs systematically, on several basic points, from what our eyes see in the world. Despite these differences the spectator reads the scene “as if real,” but is not completely fooled. Arnheim calls this partial illusion. Film’s chance of being an art lies exactly in that gap: the image resembles reality enough for us to recognize it, yet differs enough for the difference to be used as a means of shaping.</p><p><b>Six differences.</b> In my own words, Arnheim’s list can be summed up like this:</p><ol><li><b>The projection of three dimensions onto a plane.</b> The camera projects depth onto a flat surface. That makes the point of view decisive: depending on where the camera looks from, a cube can appear as a square or as a complex volume. To choose the angle is to choose the object’s meaning.</li><li><b>The reduction of depth.</b> The image on the screen is neither fully flat nor fully deep; it lies somewhere in between. Relations of size and overlap between objects can now be read not only as spatial but also as planar relations. Something in the foreground and something in the background form a “composition” on the surface.</li><li><b>Lighting and the absence of color.</b> Black-and-white film reduces the world to shades of gray. This is a loss, but also an opportunity: lighting no longer simply lets us see; it emphasizes, separates, builds feeling.</li><li><b>The frame and distance.</b> Our field of vision has no sharp boundary; the screen does. Framing decides what will be seen and what will be left out. The camera’s distance from the object is not fixed either: a close-up can spread a hand across the whole screen.</li><li><b>The absence of the space-time continuum.</b> In everyday experience we cannot leap from one place to another. In film, editing (<i>montage</i>) does just that: it cuts time, skips, and sets two distant places side by side.</li><li><b>The absence of the non-visual senses.</b> Silent film has no sound, smell, or touch. The spectator has to make do with the visual alone, and this forces film to concentrate on visual expression.</li></ol><p><b>Material theory.</b> In Arnheim’s eyes these six differences are not defects but artistic means. This idea is usually called material theory (<i>Materialtheorie</i>): each art becomes an art by discovering where its material departs from reality and by using that difference deliberately. Painting, too, reduces the world to a plane, and sculpture drops color; nobody calls them “copies.” Film should be judged by the same logic.</p><p><b>Why does it matter?</b> Arnheim is one of the most consistent defenders of the “essence of cinema” (medium specificity) position. For him the good film is the one that moves away from mechanical recording and works the limits peculiar to the medium. This stance has a price: the closer technology gets to reality (sound, color, wide screen), the narrower film’s chance of being an art. This is the root of his objection to sound film, which we will see tomorrow. In reading Arnheim you need to hold both faces together: a powerful theory of form and, at the same time, a conservative stand against the direction of history.</p><p><b>How he differs from Münsterberg.</b> Münsterberg, whom we read on Tuesday and Wednesday, found film’s art in its resemblance to the workings of the mind: the close-up corresponded to attention, the flashback to memory. Arnheim shifts the emphasis from the mind to the medium: the question is not how film resembles the mind but how it differs from reality. Both say “film is an art,” but for different reasons.</p>"
+    },
+    {
+      "baslik": "Example: Sunrise (Murnau, 1927)",
+      "html": "<p>Think of the scene early in the film in which the man goes at night to meet the woman from the city in the marsh. Moonlight, mist, and darkness are woven in black-and-white tones across a landscape built in the studio. A real marsh never has light this orderly; using the absence of color and artificial lighting, Murnau turns the place into a moral darkness. This is a direct application of Arnheim’s third difference (lighting and color).</p><p>When the woman from the city tells him about the city, images of the city settle over the couple by superimposition. In real perception we cannot see two places laid over each other at the same time; film can do it because the image is a planar surface and is not bound to the space-time continuum. The woman’s words reach us not as sound but as an image: the sixth difference (the absence of the non-visual senses) stops being a constraint here and becomes a means of expression.</p><p>Note: Arnheim uses other examples in his book as well. In Chaplin’s <i>The Immigrant</i>, for instance, he cites Charlie bent over the ship’s rail, apparently seasick but in fact fishing, to show how the camera angle conceals and then reveals meaning. The logic is the same: meaning is born from what the camera chooses to show.</p>"
+    },
+    {
+      "baslik": "Connection",
+      "html": "<p>Arnheim’s defense of “deviation from reality” stands in full opposition to the realist theories of Bazin and Kracauer, which we will read later (toward the end of Phase II); they will find film’s value precisely in its power to record reality.</p>"
+    }
+  ],
+  "sorular": [
+    "State in your own sentences the objection Arnheim is answering, “film is merely a mechanical copy.” Which premise of that objection does Arnheim attack?",
+    "Why is “partial illusion” worth more to Arnheim than either complete realism or complete abstraction?",
+    "Which of the six differences still holds in today’s color, sound, high-resolution cinema? Which has largely disappeared? What does that mean for Arnheim’s theory?"
+  ],
+  "soru_baslik": "Today’s 3 questions",
+  "gozlem": "In anything you watch today (a series, a video, an ad), freeze a single shot. Ask yourself: at what point does this image depart from reality? What has been left outside the frame, what is the light emphasizing, how has depth been flattened? Note in one sentence whether the difference you found adds a meaning to the image.",
+  "terimler": [
+    {"tr": "Kısmi yanılsama", "en": "partial illusion", "tanim": "The condition in which the spectator reads the image as if real and yet is not completely fooled."},
+    {"tr": "Malzeme kuramı", "en": "material theory", "orijinal": "Materialtheorie", "tanim": "The view that an art becomes an art by using the points where its material departs from reality."},
+    {"tr": "Ortama özgülük", "en": "medium specificity", "tanim": "The idea that each art should be judged only by the means peculiar to it."},
+    {"tr": "Çerçeveleme", "en": "framing", "tanim": "Determining, through the edges of the screen, what will be seen and what will be left out."},
+    {"tr": "Bindirme", "en": "superimposition", "tanim": "Printing two or more images over one another in the same frame."},
+    {"tr": "Gestalt psikolojisi", "en": "Gestalt psychology", "tanim": "The school of psychology that holds that perception actively organizes parts into wholes."}
+  ],
+  "filmler": [
+    {"ad": "Sunrise: A Song of Two Humans", "yil": 1927, "yonetmen": "F. W. Murnau"},
+    {"ad": "Das Cabinet des Dr. Caligari", "yil": 1920, "yonetmen": "Robert Wiene"}
+  ],
+  "yarin": "Arnheim’s critique of “The Complete Film”: why did sound film that fully resembles reality mean, for him, the end of art?"
+}
