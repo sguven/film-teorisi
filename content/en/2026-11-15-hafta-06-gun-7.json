@@ -1,0 +1,184 @@
+{
+ "hafta": 6,
+ "gun": 7,
+ "tarih": "2026-11-15",
+ "tur": "sinav",
+ "baslik": "Quiz day — Is cinema an art? Münsterberg and Arnheim",
+ "okuma": "Silent-era theories and the debate over the “essence of cinema” (Stam) · Hugo Münsterberg, The Photoplay (1916): attention and memory · Rudolf Arnheim, Film as Art: “Film and Reality” and “The Complete Film”",
+ "film": "Sunrise (Murnau, 1927); Das Cabinet des Dr. Caligari (Wiene, 1920)",
+ "tek_cumle": "This week’s two theorists answered the same question “yes” by two different routes: Münsterberg defended cinema as an art that carries the workings of the mind onto the screen, and Arnheim as a medium that can become art precisely because it copies reality incompletely.",
+ "bolumler": [
+  {
+   "baslik": "Quick review (3 minutes before the quiz)",
+   "html": "<ul><li><b>The debate over the essence of cinema:</b> Silent-era theorists tried to prove that cinema was not a copy of theater or photography but an art of its own. This was the first major form of the idea of medium specificity: each art should be judged only by what it alone can do.</li><li><b>Münsterberg:</b> As a psychologist, he treated film as an experience constructed in the viewer’s mind. The close-up externalizes attention, the flashback memory, and dream scenes imagination. Film reorganizes the forms of the outer world according to the forms of the mind.</li><li><b>Arnheim:</b> The ways film differs from reality — the projection of three dimensions onto a flat surface, the reduction of depth, the absence of color and the transformation of light, the limits of the frame, the continuity of space and time broken by editing, the absence of the other senses — are not defects but the raw material of art.</li><li><b>The complete film:</b> For Arnheim, innovations such as sound, color and the wide screen push film toward a complete copy of reality; as the gap closes, the possibility of shaping — that is, art — diminishes.</li></ul>"
+  },
+  {
+   "baslik": "Connection",
+   "html": "<p>The sharpest objection to Arnheim’s idea of “the art of copying reality incompletely” will come in a few weeks from Bazin and Kracauer: for them, the value of cinema lies precisely in its power to record reality.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "soru": "What was the main aim of the silent-era theorists’ search for the “essence of cinema”?",
+   "secenekler": [
+    "To define cinema as a cheaper derivative of theater",
+    "To show that cinema is an art of its own that cannot be reduced to the other arts",
+    "To prove that film is only a tool for scientific recording",
+    "To speed up the transition to sound film"
+   ],
+   "dogru": 1,
+   "aciklama": "The silent-era theorists wanted to set cinema apart from theater and photography and legitimize it as an art in its own right."
+  },
+  {
+   "soru": "What is the basic approach Münsterberg uses in <i>The Photoplay</i>?",
+   "secenekler": [
+    "Marxist critique of ideology",
+    "Psychoanalytic theory of identification",
+    "Experimental psychology: how film corresponds to the viewer’s processes of perception, attention and memory",
+    "Semiotic analysis of codes"
+   ],
+   "dogru": 2,
+   "aciklama": "Münsterberg was an experimental psychologist; he studied film through the processes of perception, attention, memory and emotion."
+  },
+  {
+   "soru": "According to Münsterberg, which function of the mind does the close-up externalize?",
+   "secenekler": [
+    "Memory",
+    "Attention",
+    "Emotion",
+    "Imagination"
+   ],
+   "dogru": 1,
+   "aciklama": "The close-up is the mind’s act of focusing on one detail and erasing the rest — attention — carried onto the screen."
+  },
+  {
+   "soru": "According to Münsterberg, a scene that returns to the past (<i>flashback</i> / <i>cut-back</i>) is the on-screen counterpart of which mental function?",
+   "secenekler": [
+    "Memory",
+    "Attention",
+    "Depth perception",
+    "Perception of movement"
+   ],
+   "dogru": 0,
+   "aciklama": "A scene that returns to the past is the counterpart of the mind’s function of remembering, that is, memory."
+  },
+  {
+   "soru": "Which statement comes closest to Münsterberg’s definition of the art of film?",
+   "secenekler": [
+    "Film is art to the extent that it records the outer world as it is.",
+    "Film is a photograph of a staged theater play.",
+    "Film is art because it overcomes the outer world’s forms of space, time and causality and adjusts events to the forms of the mind (attention, memory, imagination, emotion).",
+    "Film becomes a complete art only when combined with sound."
+   ],
+   "dogru": 2,
+   "aciklama": "For Münsterberg, film frees itself from the forms of the outer world and adjusts events to the forms of the inner world; its art is born from this."
+  },
+  {
+   "soru": "What is the central claim of Arnheim’s chapter “Film and Reality”?",
+   "secenekler": [
+    "Film cannot be art because it is a mechanical copy of reality.",
+    "The points at which film differs from reality are the possibilities for shaping that make it an artistic medium.",
+    "Film captures reality only if it is in color and has sound.",
+    "The value of a film lies only in its story."
+   ],
+   "dogru": 1,
+   "aciklama": "For Arnheim, the differences between film and reality are artistic tools that make shaping possible."
+  },
+  {
+   "soru": "Which of the following is <b>not</b> one of the differences between film and reality that Arnheim lists?",
+   "secenekler": [
+    "The frame limiting the image",
+    "The reduced impression of depth",
+    "Editing breaking the continuity of space and time",
+    "The camera recording reality objectively and completely"
+   ],
+   "dogru": 3,
+   "aciklama": "Arnheim argues the opposite: the camera cannot record reality completely and objectively; art is born from this incompleteness."
+  },
+  {
+   "soru": "What is the main reason for Arnheim’s opposition to the sound film?",
+   "secenekler": [
+    "Sound films being very expensive to produce",
+    "Sound bringing film closer to a complete copy of reality and thereby narrowing the image’s room for artistic shaping",
+    "Audiences having difficulty understanding sound films",
+    "Sound being suitable only for documentaries"
+   ],
+   "dogru": 1,
+   "aciklama": "Sound brings film closer to an exact copy of reality; the expressive power of the image and its room for shaping shrink."
+  },
+  {
+   "soru": "How can the painted, crooked sets of <i>Das Cabinet des Dr. Caligari</i> be interpreted from Arnheim’s point of view?",
+   "secenekler": [
+    "As a failure to copy reality",
+    "As an extreme, deliberate use of film’s power to reshape the world",
+    "As an early example of sound-film technique",
+    "As a forerunner of deep-focus realism"
+   ],
+   "dogru": 1,
+   "aciklama": "Caligari’s sets are an extreme demonstration that film can reshape reality instead of copying it."
+  },
+  {
+   "soru": "How are the superimpositions in <i>Sunrise</i> — for example, the vision of the city laid over the countryside — best explained from Münsterberg’s perspective?",
+   "secenekler": [
+    "A technical mistake",
+    "An objective record of the outer world",
+    "Externalizing the character’s imagination and emotion on the screen",
+    "An editing rule that replaces sound"
+   ],
+   "dogru": 2,
+   "aciklama": "Superimposition externalizes the character’s inner world (imagination, desire, emotion); it fits Münsterberg’s matching of mind and screen."
+  }
+ ],
+ "soru_baslik": "Short-answer questions (from the syllabus)",
+ "sorular": [
+  "According to Münsterberg, which function of the mind does the close-up externalize? (3–5 sentences; name the concept, then show it with an example from a film.)",
+  "According to Arnheim, what are the “imperfections” that make film an art? (3–5 sentences; name the concept, then show it with an example from a film.)",
+  "Why is Arnheim against the sound film? (3–5 sentences; name the concept, then show it with an example from a film.)"
+ ],
+ "analiz": "<p><b>Task:</b> Show, through Arnheim’s eyes, how a scene from <i>Sunrise</i> departs from reality.</p><p><b>How to do it (suggested structure, 400–600 words):</b></p><ol><li><b>Choose a scene and describe it briefly</b> (2–3 sentences; add a timecode if you have one). Possible candidates: the camera movement toward the nighttime meeting in the marsh, the streetcar ride, the scene where the vision of the city is superimposed, the photographer or barbershop scenes.</li><li><b>Name at least three departures:</b> choose at least three from Arnheim’s list (the frame, the flattening of depth, black-and-white and light, editing, the moving camera, the absence of sound).</li><li><b>Show what each departure does:</b> saying “there is X here” is not enough; explain what meaning or feeling the departure adds to the scene. Arnheim’s question is always this: what does this distance from reality make it possible to express?</li><li><b>Ask a counter-question:</b> what would this scene lose, and what would it gain, if it had been shot with sound and in color? Do you agree with Arnheim’s critique of the complete film?</li><li><b>Optional connection:</b> is there a mental function in the same scene (attention, memory, imagination, emotion) that Münsterberg would point to? Note it in one sentence.</li></ol><p><b>What I will look for when assessing:</b> naming the concepts correctly, giving concrete detail from the scene, building the link between departure and meaning, and being able to see the limits of Arnheim’s argument.</p><p><b>Write down your answers before you compare notes.</b></p>",
+ "terimler": [
+  {
+   "tr": "Ortama özgüllük",
+   "en": "medium specificity",
+   "tanim": "The idea that each art should seek its value only in the possibilities specific to its own medium."
+  },
+  {
+   "tr": "Fotoplay / Sinema oyunu",
+   "en": "photoplay",
+   "tanim": "Münsterberg’s name for the fiction film; a work of art completed in the viewer’s mind."
+  },
+  {
+   "tr": "Yakın çekim",
+   "en": "close-up",
+   "tanim": "A shot that enlarges a detail until it fills the screen; for Münsterberg, the externalization of attention."
+  },
+  {
+   "tr": "Geriye dönüş",
+   "en": "flashback / cut-back",
+   "tanim": "A leap of the narrative into the past; for Münsterberg, the on-screen counterpart of memory."
+  },
+  {
+   "tr": "Kısmi yanılsama",
+   "en": "partial illusion",
+   "tanim": "For Arnheim, the viewer’s perception of a film both as real and as a shaped image."
+  },
+  {
+   "tr": "Tam film",
+   "en": "the complete film",
+   "tanim": "The goal of reaching a complete copy of reality through sound, color and depth; for Arnheim, the end of art."
+  }
+ ],
+ "filmler": [
+  {
+   "ad": "Sunrise: A Song of Two Humans",
+   "yil": 1927,
+   "yonetmen": "F. W. Murnau"
+  },
+  {
+   "ad": "Das Cabinet des Dr. Caligari",
+   "yil": 1920,
+   "yonetmen": "Robert Wiene"
+  }
+ ],
+ "yarin": "Week 7 · Day 1: Béla Balázs and the human face in close-up — Balázs reads the close-up, which Münsterberg saw as “attention,” as a language of the face."
+}
